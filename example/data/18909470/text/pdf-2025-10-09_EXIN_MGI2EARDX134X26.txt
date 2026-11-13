@@ -1,0 +1,29 @@
+Source: example/data/18909470/files/2025-10-09_EXIN_MGI2EARDX134X26.pdf
+Pages: 1
+
+--- page 2 (ocr) ---
+Application No. Applicant(s)
+18/909,470 Tasirlar et al.
+Examiner AIA (First Inventor
+
+SEAN M CONNER to File) Status
+Yes
+
+Applicant-Initiated Interview Summary
+
+‘SEAN M CONNER Telephonic
+MICHAEL MCCARTY Attorney of Record Pe
+
+Date of Interview: 07 October 2025
+
+Issues Discussed:
+
+Proposed Amendmeni(s)
+
+Applicant's representative inquired whether amending claim 1 to recite "a processor and memory storing
+instructions which, when executed, cause the processor to perform..." would overcome the 112 and 101
+rejections. The Examiner confirmed that such an amendment would overcome these rejections.
+
+/SEAN M CONNER/
+
+Primary Examiner, Art Unit 2663

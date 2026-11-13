@@ -1,0 +1,63 @@
+Source: example/data/18909470/files/2025-11-06_REM_MHNVZFKL4X45X46.xml:18909470/MHNVZFKL4X45X46/18909470.11-06-2025.MHNVZFKL4X45X46.REM.XML
+Type: IncomingDocument
+Markup: [+inserted+]  [-deleted-]
+
+## REMARKS
+Claims 1-18 remain pending for examination. Previously withdrawn claims 19-20 are canceled without prejudice or disclaimer, at the request of the Examiner.
+Claim 1 has been amended. Example support for the amendments and the new claims can be found at least in paragraphs [0260]-[0261], [0669]-[0671], [0683], [0690], and
+[0694]. No new matter is added.
+Applicant respectfully submits the aforementioned claim amendment has been made as suggested by the Examiner in the pending OA (OA, p.3), which does not further burden the Examiner with additional search. Therefore, Applicant respectfully requests after-final
+consideration of the amendments and entry thereof.
+The rejections are respectfully traversed in light of the claim amendments and the following remarks, and reconsideration is requested.
+
+## Examiner Interview
+Applicant's representative thanks Examiner for the courtesy of a telephone interview on October 7, 2025. During the interview, the Examiner and Applicant discussed the
+pending claims and the proposed amendment in the Final Office Action (Office Action p.6).
+The Examiner agreed that the proposed amendment overcomes both the § 112 and § 101
+rejections. Applicant amends the claims herein as proposed.
+
+## Claim Rejections 35 U.S.C. § 112
+Claims 1-18 is rejected under 35 U.S.C. 112(b) or Page 9 35 U.S.C. 112 (pre-AIA), second paragraph, as being indefinite for failing to particularly point out and distinctly claim
+the subject matter which the inventor or a joint inventor (or for applications subject to pre- AIA 35 U.S.C. 112, the applicant), regards as the invention. Without conceding to the rejections, Applicant has amended claim 1 and submits the amended claims satisfy the
+requirements under 35 U.S.C. 112(b), as agreed during the interview and as indicated in the
+Office Action. (Office Action, p.6).
+
+## LAW OFFICES OF
+AND BOON , LLP Accordingly, Applicant respectfully requests reconsideration and withdrawal of the
+801 N HARWOOD ST
+214-651-5000 6o 8p . o: 8 0
+Claim Rejections 35 U.S.C. 101
+Claims 1-18 are rejected under 35 USC § 101 as not falling within one of the four statutory categories of invention because the claimed invention is directed to a computer
+program per se. Applicant has amended claim 1 as suggested by the Examiner, and submits amended claim 1, which recites a "system" comprising "a processor; and a memory storing
+instructions which, when executed, cause the processor to perform steps comprising:
+constructing an artificial intelligence agent ..." is directed to a computerized system, instead of any computer program. Therefore, Applicant respectfully submits amended claim 1 (and
+dependent claims 2-18) satisfy the requirements under 35 U.S.C. 101, as agreed during the
+interview and as indicated in the Office Action. (Office Action, p.6). Accordingly, Applicant
+respectfully requests reconsideration and withdrawal of the rejection.
+Other Rejections and Objections
+Claims 1-18 are objected to because of typographical informalities. Applicant has corrected the noted informality of "natura" in previously presented claim 1 and submits the
+objection has been overcome.
+
+## Allowable Subject Matter
+Applicant thanks the Examiner for pointing out claims 1-18 would be allowable if the above identified issues are addressed. Applicant respectfully submits amended claims 1- 18 are in condition for allowance.
+
+## LAW OFFICES OF
+AYNES AND BOONS, LLP
+801 N HARWOOD ST
+214-651-5000
+
+## CONCLUSION
+In view of the remarks set forth above, it is submitted that the application is now in
+condition for allowance. Authorization is given to charge any fees due or credit any
+overpayments in regard to this communication to deposit account 08-1394. If the Examiner
+has any questions or concerns, a telephone call to the undersigned at 972-739-8652 is
+welcomed and encouraged.
+Respectfully submitted,/Michael McCarty/
+[unreadable image] Michael McCarty
+Attorney for Applicant
+Reg. No. 76,371
+
+## LAW OFFICES OF
+AYNES AND BOONS, LLP
+801 N HARWOOD ST
+214-651-5000

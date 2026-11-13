@@ -1,0 +1,1 @@
+The claims of your application have been restricted into three distinct inventions: claims 1-18 (multi-dataset agent), claim 19 (automation workflow agent), and claim 20 (labeled interface image agent). Please elect one of these inventions for examination and identify the corresponding claims to be retained.

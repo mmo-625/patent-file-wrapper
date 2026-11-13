@@ -1,0 +1,78 @@
+Source: example/data/18909470/files/2025-03-12_CLM_M86DRRFOWFYGX59.xml:18909470/M86DRRFOWFYGX59/18909470.03-12-2025.M86DRRFOWFYGX59.CLM.XML
+Type: ClaimsDocument
+Markup: [+inserted+]  [-deleted-]
+
+Claim 1 (Original)
+A system for automating software usage, comprising:
+an agent configured to automate software usage, wherein the agent is trained on:
+a first training dataset including documents containing text interleaved with images;
+a second training dataset including text embedded in images;
+a third training dataset including recorded videos of software usage;
+a fourth training dataset including portable document format (PDF) documents;
+a fifth training dataset including recorded videos of software tool usage trajectories, wherein;
+a sixth training dataset including images of open-domain web pages;
+a seventh training dataset including images of specific-domain web pages; and/or an eighth training dataset including images of agentic trajectories of the agent performing interface automation task workflows.
+
+Claim 2 (Original)
+The system of claim 1, wherein images in the recorded videos of software tool usage trajectories are interleaved with text descriptions of tasks executed in the recorded videos through the software tool usage trajectories.
+
+Claim 3 (Original)
+The system of claim 2, wherein the images in the recorded videos of software tool usage trajectories are further interleaved with text descriptions of actions executed on the images and image annotations resulting from execution of the actions.
+
+Claim 4 (Original)
+The system of claim 3, wherein the actions include clicking, scrolling, and typing.
+
+Claim 5 (Original)
+The system of claim 1, wherein the images of open-domain web pages are automatically crawled.
+
+Claim 6 (Original)
+The system of claim 5, wherein the open-domain web pages are multimodal web pages.
+
+Claim 7 (Original)
+The system of claim 5, wherein the open-domain web pages are part of software tools.
+
+Claim 8 (Original)
+The system of claim 5, wherein the images of open-domain web pages are interleaved with text descriptions of synthetic tasks and image annotations resulting from execution of the synthetic tasks.
+
+Claim 9 (Original)
+The system of claim 8, wherein the synthetic tasks include website-wise tasks, element-wise tasks, and action-wise tasks.
+
+Claim 10 (Original)
+The system of claim 9, wherein the website-wise tasks include heading optical character recognition (OCR), captioning, and web question answering (WebQA).
+
+Claim 11 (Original)
+The system of claim 9, wherein the element-wise tasks include element optical character recognition (OCR), element grounding/localization, and key-value pair identification.
+
+Claim 12 (Original)
+The system of claim 9, wherein the action-wise tasks include action grounding and action prediction.
+
+Claim 13 (Original)
+The system of claim 8, wherein the images of open-domain web pages are further interleaved with unified resource locators (URLs) of the open-domain web pages.
+
+Claim 14 (Original)
+The system of claim 1, wherein the specific-domain web pages are multimodal web pages.
+
+Claim 15 (Original)
+The system of claim 14, wherein the specific-domain web pages are part of software tools.
+
+Claim 16 (Original)
+The system of claim 15, wherein the images of specific-domain web pages are curated at complex states of the software tools.
+
+Claim 17 (Original)
+The system of claim 14, wherein the images of specific-domain web pages are interleaved with text descriptions of synthetic tasks and image annotations resulting from execution of the synthetic tasks.
+
+Claim 18 (Original)
+The system of claim 17, wherein the synthetic tasks include website-wise tasks, element-wise tasks, and action-wise tasks.
+
+Claim 19 (Withdrawn)
+A system for automating software usage, comprising:
+an agent configured to interface automation task workflows comprising a sequence of steps,
+wherein the agent is trained on a sequence of training datasets,
+wherein respective training datasets in the sequence of training datasets correspond to respective steps in the sequence of steps, and
+wherein a particular training dataset in the sequence of training dataset corresponding to a particular step in the sequence of steps includes a multitude of interface images of the particular step being performed over multitude of iterations.
+
+Claim 20 (Withdrawn)
+A system for automating software usage, comprising:
+an agent configured to interface automation task workflows, wherein the agent is trained on high-fidelity training datasets comprising:
+interface images labelled with data identifying interface elements; and
+interface images labelled with data identifying interface operations applied on the interface elements.

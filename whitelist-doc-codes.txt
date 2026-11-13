@@ -1,0 +1,50 @@
+# Document codes kept for a concise prosecution timeline.
+# Format: one code per line; anything after '#' is a comment.
+# Source tags:  [xls]  = in Document_Descriptions_List.xls (applicant-filed docs only)
+#               [json] = USPTO-issued code seen in patentapp-docs.json (not in the xls)
+#               [unverified] = standard USPTO code, but in neither file -- check before relying on it
+
+# --- 1. Applicant requests patent ------------------------------------------
+# The "Application filed" entry itself is made from the case filingDate.
+# SPEC is kept as the timeline's record of the claimed invention (the original
+# filing, plus any later specification amendments). The other application parts
+# (SPEC, ABST, DRW, DRW.NONBW, DRW.SUPP) are left out to keep the timeline short.
+CLM          # [xls]  Claims
+TRACK1.REQ    # [json] Track One Request (prioritized examination petition)
+A.PE          # [xls]  Preliminary Amendment (claims changed before first examination)
+
+# --- 2. Examiner responds: restrictions and rejections ---------------------
+CTRS          # [json] Requirement for Restriction/Election
+CTNF          # [json] Non-Final Rejection
+CTFR          # [json] Final Rejection
+CTAV          # [unverified] Advisory Action (examiner's reply to an after-final response)
+CTEQ          # [unverified] Ex Parte Quayle Action (allowable except for formal matters)
+
+# --- 3. Applicant responds: elections, amendments, arguments, interviews ---
+ELC.          # [xls]  Response to Election / Restriction Filed
+A...          # [xls]  Amendment/Request for Reconsideration after Non-Final Rejection
+REM           # [xls]  Applicant Arguments/Remarks Made in an Amendment
+SA..          # [xls]  Supplemental Response or Supplemental Amendment
+AF/D.132      # [xls]  Affidavit traversing rejections (Rule 132)
+AF/D.130A     # [xls]  Affidavit - Rule 130(a) (AIA)
+AF/D.130B     # [xls]  Affidavit - Rule 130(b) (AIA)
+EXIN          # [json] Examiner Interview Summary Record (PTOL-413)
+INTRVIEW.APP  # [xls]  Applicant summary of interview with examiner
+
+# --- 4. After the final rejection: final response, RCE, appeal -------------
+A.NE          # [xls]  Response After Final Action
+A.NE.AFCP     # [xls]  After Final Consideration Program Request
+RCEX          # [xls]  Request for Continued Examination (reopens prosecution)
+AMSB          # [xls]  Amendment Submitted/Entered with Filing of CPA/RCE
+A.QU          # [xls]  Response after Ex Parte Quayle Action
+AP.PRE.REQ    # [xls]  Pre-Appeal Brief Conference Request
+N/AP          # [xls]  Notice of Appeal Filed
+AP.B          # [xls]  Appeal Brief Filed
+
+# --- 5. Notice of allowance -------------------------------------------------
+NOA           # [json] Notice of Allowance and Fees Due (PTOL-85)
+A.NA          # [xls]  Amendment after Notice of Allowance (Rule 312)
+
+# --- 6. Patent granted --------------------------------------------------------
+ISSUE.NTF     # [json] Issue Notification (patent number and issue date)
+EGRANT.NTF   # [json] eGrant Notification

@@ -1,0 +1,195 @@
+Source: example/data/18909470/files/2025-03-12_ELC_2263bc9c-d6a7-44b5-b1ca-be1a639ee4a4.pdf
+Pages: 7
+
+--- page 1 (text) ---
+Attorney Docket: ADPT1004USN01
+
+CERTIFICATE OF ELECTRONIC TRANSMISSION
+I hereby certify that this correspondence is being electronically
+transmitted to United States Patent and Trademark Office on 2025-03-11.
+
+ /Sonam Suri /
+ Sonam SURI
+
+IN THE UNITED STATES PATENT AND TRADEMARK OFFICE
+
+In re application of inventor:  Sagnak Tasirlar
+Application No.: 18/909,470
+Confirmation No.: 9083
+Filing Date: October 08, 2024
+Title:  Training Data for Training Artificial
+Intelligence Agents to Automate
+Multimodal Software Usage
+Group Art Unit: 2663
+
+Examiner: Sean M CONNER
+
+CUSTOMER NO.: 189741
+
+MAIL STOP AMENDMENT
+Commissioner for Patents
+P.O. Box 1450
+Alexandria, VA 22313-1450
+
+RESPONSE TO RESTRICTION REQUIREMENT DATED JANUARY 15, 2025
+Sir:
+In response to the Restriction Requirement dated January 15, 2025, Applicant requests
+entry of the following amendments and consideration of the remarks.
+
+Amendments to the claims begin on page 2.
+
+Remarks begin on page 5.
+
+--- page 2 (text) ---
+Application No.: 18/909,470  Attorney Docket: ADPT1004USN01
+ Page 2
+AMENDMENTS TO THE CLAIMS
+In the claims:
+The following is a list of claims currently pending in this application and their current
+status. This listing of claims replaces all prior versions and listings in this application.
+
+1. (Original) A system for automating software usage, comprising:
+an agent configured to automate software usage, wherein the agent is trained on:
+a first training dataset including documents containing text interleaved with
+images;
+a second training dataset including text embedded in images;
+a third training dataset including recorded videos of software usage;
+a fourth training dataset including portable document format (PDF) documents;
+a fifth training dataset including recorded videos of software tool usage
+trajectories, wherein;
+a sixth training dataset including images of open-domain web pages;
+a seventh training dataset including images of specific-domain web pages; and/or
+an eighth training dataset including images of agentic trajectories of the agent
+performing interface automation task workflows.
+2. (Original) The system of claim 1, wherein images in the recorded videos of software tool
+usage trajectories are interleaved with text descriptions of tasks executed in the recorded videos
+through the software tool usage trajectories.
+3. (Original) The system of claim 2, wherein the images in the recorded videos of software tool
+usage trajectories are further interleaved with text descriptions of actions executed on the images
+and image annotations resulting from execution of the actions.
+
+--- page 3 (text) ---
+Application No.: 18/909,470  Attorney Docket: ADPT1004USN01
+ Page 3
+4. (Original) The system of claim 3, wherein the actions include clicking, scrolling, and typing.
+5. (Original) The system of claim 1, wherein the images of open-domain web pages are
+automatically crawled.
+6. (Original) The system of claim 5, wherein the open-domain web pages are multimodal web
+pages.
+7. (Original) The system of claim 5, wherein the open-domain web pages are part of software
+tools.
+8. (Original) The system of claim 5, wherein the images of open-domain web pages are
+interleaved with text descriptions of synthetic tasks and image annotations resulting from
+execution of the synthetic tasks.
+9. (Original) The system of claim 8, wherein the synthetic tasks include website-wise tasks,
+element-wise tasks, and action-wise tasks.
+10. (Original) The system of claim 9, wherein the website-wise tasks include heading optical
+character recognition (OCR), captioning, and web question answering (WebQA).
+11. (Original) The system of claim 9, wherein the element-wise tasks include element optical
+character recognition (OCR), element grounding/localization, and key-value pair identification.
+12. (Original) The system of claim 9, wherein the action-wise tasks include action grounding and
+action prediction.
+13. (Original) The system of claim 8, wherein the images of open-domain web pages are further
+interleaved with unified resource locators (URLs) of the open-domain web pages.
+14. (Original) The system of claim 1, wherein the specific-domain web pages are multimodal
+web pages.
+15. (Original) The system of claim 14, wherein the specific-domain web pages are part of
+software tools.
+
+--- page 4 (text) ---
+Application No.: 18/909,470  Attorney Docket: ADPT1004USN01
+ Page 4
+16. (Original) The system of claim 15, wherein the images of specific-domain web pages are
+curated at complex states of the software tools.
+17. (Original) The system of claim 14, wherein the images of specific-domain web pages are
+interleaved with text descriptions of synthetic tasks and image annotations resulting from
+execution of the synthetic tasks.
+18. (Original) The system of claim 17, wherein the synthetic tasks include website-wise tasks,
+element-wise tasks, and action-wise tasks.
+19. (Withdrawn) A system for automating software usage, comprising:
+an agent configured to interface automation task workflows comprising a sequence of
+steps,
+wherein the agent is trained on a sequence of training datasets,
+wherein respective training datasets in the sequence of training datasets
+correspond to respective steps in the sequence of steps, and
+wherein a particular training dataset in the sequence of training dataset
+corresponding to a particular step in the sequence of steps includes a multitude of
+interface images of the particular step being performed over multitude of iterations.
+20. (Withdrawn) A system for automating software usage, comprising:
+an agent configured to interface automation task workflows, wherein the agent is trained
+on high-fidelity training datasets comprising:
+interface images labelled with data identifying interface elements; and
+interface images labelled with data identifying interface operations applied on the
+interface elements.
+
+--- page 5 (text) ---
+Application No.: 18/909,470  Attorney Docket: ADPT1004USN01
+ Page 5
+
+REMARKS
+
+Applicant herewith elects, WITHOUT TRAVERSE, Invention I, corresponding to
+claims 1-18.
+Claims 1-18 remain in this Application.
+Claims 19 and 20 have been withdrawn as the result of the Restriction Requirement.
+In view of the Examiner's restriction requirement, Applicant retains the right to present
+claims 19 and 20 in divisional applications.
+In response to the Restriction Requirement dated January 15, 2025, Applicant requests re-
+examination and reconsideration of this Application for patent pursuant to 35 U.S.C. 132.
+
+Election/Restriction
+The Restriction Requirement states that the application contains Inventions I, II, and III
+are related as sub combinations disclosed as usable together in a single combination.
+The sub combinations are distinct if they do not overlap in scope and are not obvious
+variants, and if it is shown that at least one sub combination is separately usable.
+In the instant case, sub combination I has separate utility such as image classification; sub
+combination II has separate utility such as automating software navigation; and sub combination
+III has separate utility such as interface image recognition and the Applicant is required to elect:
+
+I. Claim 1-18, drawn to an agent trained on a plurality of datasets including text, videos,
+documents, and images, classified in CPC symbol G06V10/82.
+
+II. Claim 19, drawn to an agent configured to interface automation task workflows
+comprising a sequence of steps, classified in CPC symbol G06N3/02.
+
+III. Claim 20, drawn to an agent trained on labeled interface images, classified in CPC
+symbol G06N3/08.
+
+--- page 6 (text) ---
+Application No.: 18/909,470  Attorney Docket: ADPT1004USN01
+ Page 6
+Restriction Election
+
+Applicant herewith elects, WITHOUT TRAVERSE, Invention I, corresponding to
+claims 1-18.
+
+--- page 7 (text) ---
+Application No.: 18/909,470  Attorney Docket: ADPT1004USN01
+ Page 7
+CONCLUSION
+The amendments and remarks made in the present Response are made without prejudice
+to Applicant's right to pursue broader or different claims in the future. In particular, the
+amendments and remarks are made to expedite issuance of a patent, and should not be seen as
+accepting the positions taken in the Restriction Requirement or relinquishing any right the
+Applicant may have in the future to argue against them. It is respectfully submitted that all of the
+claims now pending in the subject patent application should be allowable, and a Notice of
+Allowance is requested. The Examiner is respectfully requested to telephone the undersigned if
+he can assist in any way in expediting issuance of a patent. The undersigned can ordinarily be
+reached at 415-608-3356 and at sikander@flagshippatents.com.
+In addition to any fees charged in connection with this response, the Commissioner is
+authorized to charge any underpayment or credit overpayment to Deposit Account No. 604861,
+under Order No. ADPT1004USN01, for any matter in connection with the above referenced
+patent application throughout its pendency, including any fee for extension of time, all subject to
+a strict limit of $3000.00 beyond the total of fees paid affirmatively by Applicant.
+Notwithstanding this limit, the Commissioner also is authorized to charge any underpayment or
+credit any overpayment to Deposit Account No. 604861, under Order No. ADPT1004USN01,
+for any matter in connection with this response, including any fee for extension of time, which
+may be required.
+
+Respectfully submitted,
+Dated: 2025-03-11 /Sikander M. Khan/
+Sikander KHAN, Reg. No. 78888
+FLAGSHIP PATENTS
+2100 Geng Road, Suite 210
+Palo Alto, CA 94303
+Phone: 415-608-3356

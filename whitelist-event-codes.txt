@@ -1,0 +1,5 @@
+# Event codes (from the wrapper's eventDataBag) added to the document timeline.
+# Only milestones the documents don't already cover.
+# Format: one code per line; anything after '#' is a comment.
+COMP          # Application Is Now Complete (all filing requirements met)
+PG-ISSUE      # PG-Pub Issue Notification (application published)

@@ -1,0 +1,1332 @@
+[
+  {
+    "date": "2024-10-08",
+    "code": "APP.TEXT",
+    "description": "Application body structured text document",
+    "direction": "INCOMING",
+    "document_id": "aa4e641f-a47d-4d9d-8230-c3c73b24fe5a",
+    "pages": null,
+    "format": "MS_WORD",
+    "path": null
+  },
+  {
+    "date": "2024-10-08",
+    "code": "DRW.NONBW",
+    "description": "Drawings-other than black and white line drawings",
+    "direction": "INCOMING",
+    "document_id": "M20UOVCOWFYGX58",
+    "pages": 180,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-08",
+    "code": "OATH",
+    "description": "Oath or Declaration filed",
+    "direction": "INCOMING",
+    "document_id": "M20UOVCQWFYGX58",
+    "pages": 9,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-08",
+    "code": "PET.COLOR",
+    "description": "A petition from Applicant to accept Color Drawings or Color Photographs",
+    "direction": "INCOMING",
+    "document_id": "M20UOVCSWFYGX58",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-08",
+    "code": "PA..",
+    "description": "Power of Attorney",
+    "direction": "INCOMING",
+    "document_id": "M20UOVCUWFYGX58",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-08",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "M20UOVCXWFYGX58",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-08",
+    "code": "SPEC",
+    "description": "Specification",
+    "direction": "INCOMING",
+    "document_id": "M20UOVCZWFYGX58",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2024-10-08",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "M20UOVD0WFYGX58",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2024-10-08_CLM_M20UOVD0WFYGX58.xml"
+  },
+  {
+    "date": "2024-10-08",
+    "code": "ABST",
+    "description": "Abstract",
+    "direction": "INCOMING",
+    "document_id": "M20UOVD3WFYGX58",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2024-10-08",
+    "code": "TRACK1.REQ",
+    "description": "Track One Request",
+    "direction": "INCOMING",
+    "document_id": "M20UOVD6WFYGX58",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-08",
+    "code": "ADS",
+    "description": "Application Data Sheet",
+    "direction": "INCOMING",
+    "document_id": "M20UOVD7WFYGX58",
+    "pages": 14,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-08",
+    "code": "N417.PYMT",
+    "description": "Electronic Fee Payment",
+    "direction": "INCOMING",
+    "document_id": "M20UOVD8WFYGX58",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-08",
+    "code": "DRW.SUPP",
+    "description": "Drawings-black and white line and/or other drawings",
+    "direction": "INCOMING",
+    "document_id": "a5dd9b23-0194-40d4-afd8-e2be316673be",
+    "pages": null,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-08",
+    "code": "SCORE",
+    "description": "Placeholder sheet indicating presence of supplemental content in Supplemental Complex Repository for Examiners(SCORE)",
+    "direction": "INTERNAL",
+    "document_id": "M20UQ72CWFYGX59",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-09",
+    "code": "TRAN.LET",
+    "description": "Transmittal Letter",
+    "direction": "INCOMING",
+    "document_id": "c959b746-d5a0-4919-a1c9-1391c13b8ca8",
+    "pages": null,
+    "format": "MS_WORD",
+    "path": null
+  },
+  {
+    "date": "2024-10-09",
+    "code": "TRAN.LET",
+    "description": "Transmittal Letter",
+    "direction": "INCOMING",
+    "document_id": "M228LM9NWFYGX57",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2024-10-09",
+    "code": "IDS",
+    "description": "Information Disclosure Statement (IDS) Form (SB08)",
+    "direction": "INCOMING",
+    "document_id": "M228LM9RWFYGX57",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2024-10-09",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "M228LM9WWFYGX57",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-17",
+    "code": "APP.FILE.REC",
+    "description": "Filing Receipt",
+    "direction": "OUTGOING",
+    "document_id": "M2CB7PL9WFYGX56",
+    "pages": 4,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-17",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "M2CB7PLCWFYGX56",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-17",
+    "code": "NTC.MISS.PRT",
+    "description": "Notice to File Missing Parts",
+    "direction": "OUTGOING",
+    "document_id": "M2CB7PLEWFYGX56",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-17",
+    "code": "WELCOME.LET",
+    "description": "Welcome Letter from USPTO Director and Deputy Director",
+    "direction": "OUTGOING",
+    "document_id": "M2CB7PLJWFYGX56",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-21",
+    "code": "PEFR",
+    "description": "Applicant Response to Pre-Exam Formalities Notice",
+    "direction": "INCOMING",
+    "document_id": "M2JN37TBWFYGX52",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-21",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "M2JN37TCWFYGX52",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-21",
+    "code": "ADS",
+    "description": "Application Data Sheet",
+    "direction": "INCOMING",
+    "document_id": "M2JN37TVWFYGX52",
+    "pages": 14,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-24",
+    "code": "APP.FILE.REC",
+    "description": "Filing Receipt",
+    "direction": "OUTGOING",
+    "document_id": "M2M7RR1SWFYGX56",
+    "pages": 4,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-10-24",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "M2M7RR1UWFYGX56",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-11-20",
+    "code": "TRACK1.GRANT",
+    "description": "Track One request Granted",
+    "direction": "OUTGOING",
+    "document_id": "M3PWRKVSWFYGX62",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-12-06",
+    "code": "PETDEC",
+    "description": "Petition Decision",
+    "direction": "OUTGOING",
+    "document_id": "M4D76HCEWFYGX51",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2025-01-15",
+    "code": "CTRS",
+    "description": "Requirement for Restriction/Election",
+    "direction": "OUTGOING",
+    "document_id": "M5VL44LCWFYGX61",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2025-01-15_CTRS_M5VL44LCWFYGX61.xml"
+  },
+  {
+    "date": "2025-01-15",
+    "code": "TRAN.LET",
+    "description": "Transmittal Letter",
+    "direction": "INCOMING",
+    "document_id": "824f7530-0abb-42ec-9337-ad372ab901f4",
+    "pages": null,
+    "format": "MS_WORD",
+    "path": null
+  },
+  {
+    "date": "2025-01-15",
+    "code": "IDS",
+    "description": "Information Disclosure Statement (IDS) Form (SB08)",
+    "direction": "INCOMING",
+    "document_id": "M5Y8AV46WFYGX53",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2025-01-15",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "M5Y8AV4BWFYGX53",
+    "pages": 4,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-01-15",
+    "code": "TRAN.LET",
+    "description": "Transmittal Letter",
+    "direction": "INCOMING",
+    "document_id": "M5Y8AV4CWFYGX53",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2025-03-12",
+    "code": "ELC.",
+    "description": "Response to Election / Restriction Filed",
+    "direction": "INCOMING",
+    "document_id": "2263bc9c-d6a7-44b5-b1ca-be1a639ee4a4",
+    "pages": null,
+    "format": "PDF",
+    "path": "files/2025-03-12_ELC_2263bc9c-d6a7-44b5-b1ca-be1a639ee4a4.pdf"
+  },
+  {
+    "date": "2025-03-12",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "M86DRRFIWFYGX59",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-03-12",
+    "code": "ELC.",
+    "description": "Response to Election / Restriction Filed",
+    "direction": "INCOMING",
+    "document_id": "M86DRRFKWFYGX59",
+    "pages": 1,
+    "format": "PDF",
+    "path": "files/2025-03-12_ELC_M86DRRFKWFYGX59.pdf"
+  },
+  {
+    "date": "2025-03-12",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "M86DRRFOWFYGX59",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2025-03-12_CLM_M86DRRFOWFYGX59.xml"
+  },
+  {
+    "date": "2025-03-12",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "M86DRRFSWFYGX59",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2025-03-12_REM_M86DRRFSWFYGX59.xml"
+  },
+  {
+    "date": "2025-03-12",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "M8AVXKFOWFYGX59",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-03-17",
+    "code": "OATH",
+    "description": "Oath or Declaration filed",
+    "direction": "INCOMING",
+    "document_id": "M8D59FXBWFYGX59",
+    "pages": 9,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-03-17",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "M8D59FXDWFYGX59",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-03-17",
+    "code": "N417.PYMT",
+    "description": "Electronic Fee Payment",
+    "direction": "INCOMING",
+    "document_id": "M8D59FXFWFYGX59",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-03-17",
+    "code": "ADS",
+    "description": "Application Data Sheet",
+    "direction": "INCOMING",
+    "document_id": "M8D59FXHWFYGX59",
+    "pages": 16,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-03-17",
+    "code": "OATH",
+    "description": "Oath or Declaration filed",
+    "direction": "INCOMING",
+    "document_id": "M8D59FXNWFYGX59",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-03-17",
+    "code": "R48.REQ",
+    "description": "Request under Rule 48 correcting inventorship",
+    "direction": "INCOMING",
+    "document_id": "M8D59FXSWFYGX59",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-03-17",
+    "code": "OATH",
+    "description": "Oath or Declaration filed",
+    "direction": "INCOMING",
+    "document_id": "M8D59FXUWFYGX59",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-03-19",
+    "code": "APP.FILE.REC",
+    "description": "Filing Receipt",
+    "direction": "OUTGOING",
+    "document_id": "M8EY5PDUWFYGX53",
+    "pages": 4,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-03-19",
+    "code": "R48.REQ.G",
+    "description": "Acceptance of Request under Rule 48 to correct inventorship or name",
+    "direction": "OUTGOING",
+    "document_id": "M8EY5PDWWFYGX53",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-04-09",
+    "code": "CTNF",
+    "description": "Non-Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "M97JD5LWWFYGX54",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2025-04-09_CTNF_M97JD5LWWFYGX54.xml"
+  },
+  {
+    "date": "2025-04-09",
+    "code": "892",
+    "description": "List of references cited by examiner",
+    "direction": "OUTGOING",
+    "document_id": "M97JD5LXWFYGX54",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-04-09",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "M97JD5LZWFYGX54",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-04-09",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "M97JD5M2WFYGX54",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-04-09",
+    "code": "BIB",
+    "description": "Bibliographic Data Sheet",
+    "direction": "INTERNAL",
+    "document_id": "M97JD5M9WFYGX54",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-04-09",
+    "code": "1449",
+    "description": "List of References cited by applicant and considered by examiner",
+    "direction": "OUTGOING",
+    "document_id": "M97JD5MBWFYGX54",
+    "pages": 9,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-04-09",
+    "code": "1449",
+    "description": "List of References cited by applicant and considered by examiner",
+    "direction": "OUTGOING",
+    "document_id": "M97JD5MLWFYGX54",
+    "pages": 4,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-04-09",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "M97JD5MSWFYGX54",
+    "pages": 5,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-04-12",
+    "code": "OATH",
+    "description": "Oath or Declaration filed",
+    "direction": "INCOMING",
+    "document_id": "M9GXPA0LWFYGX52",
+    "pages": 40,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-05-16",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "MAR94KIHWFYGX58",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-05-16",
+    "code": "TRAN.LET",
+    "description": "Transmittal Letter",
+    "direction": "INCOMING",
+    "document_id": "MAR94KIOWFYGX58",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-05-16",
+    "code": "PA..",
+    "description": "Power of Attorney",
+    "direction": "INCOMING",
+    "document_id": "MAR8AHSJWFYGX61",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-05-16",
+    "code": "R46C.REQ",
+    "description": "Request under 37CFR1.46(c) to correct, update, change applicant",
+    "direction": "INCOMING",
+    "document_id": "MAR8AHT6WFYGX61",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-05-16",
+    "code": "IDS",
+    "description": "Information Disclosure Statement (IDS) Form (SB08)",
+    "direction": "INCOMING",
+    "document_id": "MAR8AHTEWFYGX61",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2025-05-16",
+    "code": "ADS",
+    "description": "Application Data Sheet",
+    "direction": "INCOMING",
+    "document_id": "MAR8AHTMWFYGX61",
+    "pages": 16,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-05-16",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "MAR8AHTSWFYGX61",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-05-16",
+    "code": "OATH",
+    "description": "Oath or Declaration filed",
+    "direction": "INCOMING",
+    "document_id": "MAWF2JAA219X237",
+    "pages": 9,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-05-16",
+    "code": "LET.",
+    "description": "Miscellaneous Incoming Letter",
+    "direction": "INCOMING",
+    "document_id": "MAWF4JBE219X237",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-05-16",
+    "code": "SPEC",
+    "description": "Specification",
+    "direction": "INCOMING",
+    "document_id": "MAWF4JBJ219X237",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2025-05-16",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "MAWF4JCM219X237",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2025-05-16_REM_MAWF4JCM219X237.xml"
+  },
+  {
+    "date": "2025-05-16",
+    "code": "R3.73",
+    "description": "Assignee showing of ownership per 37 CFR 3.73",
+    "direction": "INCOMING",
+    "document_id": "MAWF61AH220X160",
+    "pages": 76,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-05-21",
+    "code": "APP.FILE.REC",
+    "description": "Filing Receipt",
+    "direction": "OUTGOING",
+    "document_id": "MAWPV4TKWFYBX99",
+    "pages": 4,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-05-21",
+    "code": "N570",
+    "description": "Communication - Re:  Power of Attorney (PTOL-308)",
+    "direction": "OUTGOING",
+    "document_id": "MAWPVSF9WFYBX95",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-05-21",
+    "code": "N570",
+    "description": "Communication - Re:  Power of Attorney (PTOL-308)",
+    "direction": "OUTGOING",
+    "document_id": "MAWPVSFFWFYBX95",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-05-29",
+    "code": "EXIN",
+    "description": "Examiner Interview Summary Record (PTOL - 413)",
+    "direction": "OUTGOING",
+    "document_id": "MB8C8DF8WFYBX93",
+    "pages": 2,
+    "format": "PDF",
+    "path": "files/2025-05-29_EXIN_MB8C8DF8WFYBX93.pdf"
+  },
+  {
+    "date": "2025-06-06",
+    "code": "IDS",
+    "description": "Information Disclosure Statement (IDS) Form (SB08)",
+    "direction": "INCOMING",
+    "document_id": "MBL945Z7WFYBX94",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2025-06-06",
+    "code": "TRAN.LET",
+    "description": "Transmittal Letter",
+    "direction": "INCOMING",
+    "document_id": "MBL945ZSWFYBX94",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-06-06",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "MBL9460GWFYBX94",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-07-09",
+    "code": "A...",
+    "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+    "direction": "INCOMING",
+    "document_id": "331c7e78-6a06-4804-9e0c-1541d9e242d0",
+    "pages": null,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-07-09",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "MCWHN4RCX24X232",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-07-09",
+    "code": "A...",
+    "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+    "direction": "INCOMING",
+    "document_id": "MCWHN4REX24X232",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-07-09",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "MCWHN4RGX24X232",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2025-07-09_CLM_MCWHN4RGX24X232.xml"
+  },
+  {
+    "date": "2025-07-09",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "MCWHN4RIX24X232",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2025-07-09_REM_MCWHN4RIX24X232.xml"
+  },
+  {
+    "date": "2025-07-09",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "MCVIUL1P154X255",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-07-09",
+    "code": "IDS",
+    "description": "Information Disclosure Statement (IDS) Form (SB08)",
+    "direction": "INCOMING",
+    "document_id": "MCVIUL1R154X255",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2025-07-09",
+    "code": "TRAN.LET",
+    "description": "Transmittal Letter",
+    "direction": "INCOMING",
+    "document_id": "MCVIUL1T154X255",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-07-09",
+    "code": "FOR",
+    "description": "Foreign Reference",
+    "direction": "INCOMING",
+    "document_id": "MCVIUL1X154X255",
+    "pages": 54,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-07-09",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "MCVIF0BJ4X53X48",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-07-09",
+    "code": "IDS",
+    "description": "Information Disclosure Statement (IDS) Form (SB08)",
+    "direction": "INCOMING",
+    "document_id": "MCVIF0BL4X53X48",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2025-07-09",
+    "code": "TRAN.LET",
+    "description": "Transmittal Letter",
+    "direction": "INCOMING",
+    "document_id": "MCVIF0BO4X53X48",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-07-09",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "MD0PLH8LX24X232",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-07-16",
+    "code": "TRAN.LET",
+    "description": "Transmittal Letter",
+    "direction": "INCOMING",
+    "document_id": "MD6HNW8V4X53X48",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-07-16",
+    "code": "IDS",
+    "description": "Information Disclosure Statement (IDS) Form (SB08)",
+    "direction": "INCOMING",
+    "document_id": "MD6HNW8Y4X53X48",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2025-07-16",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "MD6HNW904X53X48",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-08-07",
+    "code": "SES.LOSS.PC",
+    "description": "Notification of loss of entitlement to small entity status via PC",
+    "direction": "INCOMING",
+    "document_id": "ME1VL0SPX35X204",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-08-14",
+    "code": "CTFR",
+    "description": "Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "MEA4YEQGX139X28",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2025-08-14_CTFR_MEA4YEQGX139X28.xml"
+  },
+  {
+    "date": "2025-08-14",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "MEA4YEQIX139X28",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-08-14",
+    "code": "1449",
+    "description": "List of References cited by applicant and considered by examiner",
+    "direction": "OUTGOING",
+    "document_id": "MEA4YEQJX139X28",
+    "pages": 5,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-08-14",
+    "code": "1449",
+    "description": "List of References cited by applicant and considered by examiner",
+    "direction": "OUTGOING",
+    "document_id": "MEA4YEQLX139X28",
+    "pages": 5,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-08-14",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "MEA4YEQNX139X28",
+    "pages": 5,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-08-14",
+    "code": "1449",
+    "description": "List of References cited by applicant and considered by examiner",
+    "direction": "OUTGOING",
+    "document_id": "MEA4YEQOX139X28",
+    "pages": 7,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-08-14",
+    "code": "1449",
+    "description": "List of References cited by applicant and considered by examiner",
+    "direction": "OUTGOING",
+    "document_id": "MEA4YEQQX139X28",
+    "pages": 5,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-08-14",
+    "code": "1449",
+    "description": "List of References cited by applicant and considered by examiner",
+    "direction": "OUTGOING",
+    "document_id": "MEA4YEQSX139X28",
+    "pages": 5,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-09-25",
+    "code": "NTC.PUB",
+    "description": "Notice of Publication",
+    "direction": "OUTGOING",
+    "document_id": "MFYT0XZK5X176X0",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-10-09",
+    "code": "EXIN",
+    "description": "Examiner Interview Summary Record (PTOL - 413)",
+    "direction": "OUTGOING",
+    "document_id": "MGI2EARDX134X26",
+    "pages": 2,
+    "format": "PDF",
+    "path": "files/2025-10-09_EXIN_MGI2EARDX134X26.pdf"
+  },
+  {
+    "date": "2025-10-16",
+    "code": "N417.PYMT",
+    "description": "Electronic Fee Payment",
+    "direction": "INCOMING",
+    "document_id": "MGTT1U3Z4X45X46",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-10-16",
+    "code": "IDS",
+    "description": "Information Disclosure Statement (IDS) Form (SB08)",
+    "direction": "INCOMING",
+    "document_id": "MGTT1U404X45X46",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2025-10-16",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "MGTT1U424X45X46",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-10-16",
+    "code": "TRAN.LET",
+    "description": "Transmittal Letter",
+    "direction": "INCOMING",
+    "document_id": "MGTT1U454X45X46",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-11-04",
+    "code": "N417.PYMT",
+    "description": "Electronic Fee Payment",
+    "direction": "INCOMING",
+    "document_id": "MHLEH7NQ162X210",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-11-04",
+    "code": "TRAN.LET",
+    "description": "Transmittal Letter",
+    "direction": "INCOMING",
+    "document_id": "MHLEH7NU162X210",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-11-04",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "MHLEH7NW162X210",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-11-04",
+    "code": "IDS",
+    "description": "Information Disclosure Statement (IDS) Form (SB08)",
+    "direction": "INCOMING",
+    "document_id": "MHLEH7NX162X210",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2025-11-06",
+    "code": "A.NE",
+    "description": "Response After Final Action",
+    "direction": "INCOMING",
+    "document_id": "8207eb1a-ea1e-4bc5-98f3-37633f505cc3",
+    "pages": null,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-11-06",
+    "code": "A.NE",
+    "description": "Response After Final Action",
+    "direction": "INCOMING",
+    "document_id": "MHNVZFKG4X45X46",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-11-06",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "MHNVZFKJ4X45X46",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2025-11-06_CLM_MHNVZFKJ4X45X46.xml"
+  },
+  {
+    "date": "2025-11-06",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "MHNVZFKK4X45X46",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-11-06",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "MHNVZFKL4X45X46",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2025-11-06_REM_MHNVZFKL4X45X46.xml"
+  },
+  {
+    "date": "2025-11-06",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "MHP1R8CKX198X53",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-12-02",
+    "code": "NOA",
+    "description": "Notice of Allowance and Fees Due (PTOL-85)",
+    "direction": "OUTGOING",
+    "document_id": "MIN56F0F130X140",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2025-12-02_NOA_MIN56F0F130X140.xml"
+  },
+  {
+    "date": "2025-12-02",
+    "code": "IIFW",
+    "description": "Issue Information including classification, examiner, name, claim, renumbering, etc.",
+    "direction": "INTERNAL",
+    "document_id": "MIN56F0J130X140",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-12-02",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "MIN56F0L130X140",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-12-02",
+    "code": "1449",
+    "description": "List of References cited by applicant and considered by examiner",
+    "direction": "OUTGOING",
+    "document_id": "MIN56F0N130X140",
+    "pages": 6,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-12-02",
+    "code": "1449",
+    "description": "List of References cited by applicant and considered by examiner",
+    "direction": "OUTGOING",
+    "document_id": "MIN56F0O130X140",
+    "pages": 5,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-12-02",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "MIN56F0P130X140",
+    "pages": 12,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2025-12-02",
+    "code": "ANE.I",
+    "description": "Amendment After Final or under 37CFR 1.312, initialed by the examiner.",
+    "direction": "INTERNAL",
+    "document_id": "MIN56F0R130X140",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-02-24",
+    "code": "IFEE",
+    "description": "Issue Fee Payment (PTO-85B)",
+    "direction": "INCOMING",
+    "document_id": "MM10Z4K06X90X24",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-02-24",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "MM10Z4K66X90X24",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-02-24",
+    "code": "N417.PYMT",
+    "description": "Electronic Fee Payment",
+    "direction": "INCOMING",
+    "document_id": "MM10Z4K96X90X24",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-03-11",
+    "code": "ISSUE.NTF",
+    "description": "Issue Notification",
+    "direction": "OUTGOING",
+    "document_id": "MMMEG38GX156X85",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-03-24",
+    "code": "EGRANT.PDF",
+    "description": "Digitally signed official patent eGrant document",
+    "direction": "OUTGOING",
+    "document_id": "e7058ded-cff9-4418-b769-7d8e4e2cb45a",
+    "pages": null,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-03-24",
+    "code": "PATENT.GRANT",
+    "description": "Copy of a Patent Grant",
+    "direction": "OUTGOING",
+    "document_id": "MN45I1BHX221X22",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-03-24",
+    "code": "EGRANT.NTF",
+    "description": "eGrant day-of Notification",
+    "direction": "OUTGOING",
+    "document_id": "MN46Y4QFX221X22",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-04-27",
+    "code": "C.AD.PC",
+    "description": "Change of Address via Patent Center\u200b",
+    "direction": "INCOMING",
+    "document_id": "MOHOYH3W209X252",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  }
+]

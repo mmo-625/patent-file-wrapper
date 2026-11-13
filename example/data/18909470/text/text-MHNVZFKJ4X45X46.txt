@@ -1,0 +1,79 @@
+Source: example/data/18909470/files/2025-11-06_CLM_MHNVZFKJ4X45X46.xml:18909470/MHNVZFKJ4X45X46/18909470.11-06-2025.MHNVZFKJ4X45X46.CLM.XML
+Type: ClaimsDocument
+Markup: [+inserted+]  [-deleted-]
+
+Claim 1 (Currently amended)
+A system for automating actions on a software user interface, comprising:
+[+a processor; and+]
+[+a memory storing instructions which, when executed, cause the processor to perform steps comprising:+]
+constructing an artificial intelligence agent based on a Transformer based vision language model configured to automate actions on a software user interface, including training the Transformer based vision language model on:
+a first training dataset including documents containing text interleaved with images;
+a second training dataset including text embedded in images;
+a third training dataset including recorded videos of software usage;
+a fourth training dataset including portable document format (PDF) documents;
+a fifth training dataset including recorded videos of software tool usage trajectories;
+a sixth training dataset including images of open-domain web pages;
+a seventh training dataset including images of specific-domain web pages;
+and an eighth training dataset including images of agentic trajectories of the agent [unreadable image] performing interface automation task workflows;
+receiving, via a user interface, a natural language input indicating a user intent to interact with the software user interface;
+generating, by the Transformer based vision language model, a workflow indicating a past action and a next action relating to the user intent based on an input comprising a screenshot of the software user interface and the [+natural+] [-natura-] language input;
+executing, by the artificial intelligence agent, at least the next action in a form of a machine-actuated command on the software user interface thereby resulting in a change in the software user interface; and
+iteratively generating, by the Transformer based vision language model, next machine-actuated commands based on a screenshot of a changed software user interface; and
+iteratively executing, by the artificial intelligence agent, the next machine- actuated commands thereby causing a task described by the natural language input to be completed by interacting with the software user interface.
+
+Claim 2 (Original)
+The system of claim 1, wherein images in the recorded videos of software tool usage trajectories are interleaved with text descriptions of tasks executed in the recorded videos through the software tool usage trajectories.
+
+Claim 3 (Original)
+The system of claim 2, wherein the images in the recorded videos of software tool usage trajectories are further interleaved with text descriptions of actions executed on the images and image annotations resulting from execution of the actions.
+
+Claim 4 (Original)
+The system of claim 3, wherein the actions include clicking,
+LAWOFFICESOF [unreadable image] scrolling,andtyping.
+AYNES AND BOONE, [unreadable image] .(Oiia)1teo5.(Original) The system of claim 1, wherein the images of open-domain web pages are automatically crawled.
+
+Claim 6 (Original)
+The system of claim 5, wherein the open-domain web pages are multimodal web pages.
+
+Claim 7 (Original)
+The system of claim 5, wherein the open-domain web pages are part of software tools.
+
+Claim 8 (Original)
+The system of claim 5, wherein the images of open-domain web pages are interleaved with text descriptions of synthetic tasks and image annotations resulting from execution of the synthetic tasks.
+
+Claim 9 (Original)
+The system of claim 8, wherein the synthetic tasks include website-wise tasks, element-wise tasks, and action-wise tasks.
+
+Claim 10 (Original)
+The system of claim 9, wherein the website-wise tasks include heading optical character recognition (OCR), captioning, and web question answering (WebQA).
+
+Claim 11 (Original)
+The system of claim 9, wherein the element-wise tasks include element optical character recognition (OCR), element grounding/localization, and key-value pair identification.
+
+Claim 12 (Original)
+The system of claim 9, wherein the action-wise tasks include action grounding and action prediction.
+
+Claim 13 (Original)
+The system of claim 8, wherein the images of open-domain web pages are further interleaved with unified resource locators (URLs) of the open-domain web pages.
+
+Claim 14 (Original)
+The system of claim 1, wherein the specific-domain web pages are multimodal web pages.
+
+Claim 15 (Original)
+The system of claim 14, wherein the specific-domain web LAW OFFICES OF AYNES AND BOONS,LLPAY01NEAONLPpagesare part of softw are tools.
+SUITE 2300 DALLAS,TX 75201 214-651-5000 FAX 214-200-0853
+
+Claim 16 (Previously presented)
+The system of claim 15, wherein the images of specific-domain web pages are curated by the software tools.
+
+Claim 17 (Original)
+The system of claim 14, wherein the images of specific- domain web pages are interleaved with text descriptions of synthetic tasks and image annotations resulting from execution of the synthetic tasks.
+
+Claim 18 (Original)
+The system of claim 17, wherein the synthetic tasks include website-wise tasks, element-wise tasks, and action-wise tasks.
+
+Claim 19 (Canceled)
+19-20. (Canceled)
+
+Claim 20 (Canceled)
+LAW OFFICES OF AYNES AND BOONS,LLP 801 N HARWOODST SUITE 2300 DALLAS,TX75201 214-651-5000 FAX 214-200-0853

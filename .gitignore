@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+
+# Secrets: API keys belong in environment variables, never in the repo
+.env
+.env.*
+
+# Local scratch data and old outputs
+sandbox/
+
+# Pipeline output: run.py writes to example/data/<application number>/.
+# Keep only the committed example; ignore any other application you fetch.
+example/data/*
+!example/data/18909470/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,26 @@
+Source: example/data/18909470/files/2025-03-12_REM_M86DRRFSWFYGX59.xml:18909470/M86DRRFSWFYGX59/18909470.2025-03-12.M86DRRFSWFYGX59.REM.xml
+Type: IncomingDocument
+Markup: [+inserted+]  [-deleted-]
+
+## REMARKS
+Applicant herewith elects, WITHOUT TRAVERSE, Invention I, corresponding to claims 1-18.
+Claims 1-18 remain in this Application.
+Claims 19 and 20 have been withdrawn as the result of the Restriction Requirement.
+In view of the Examiner's restriction requirement, Applicant retains the right to present claims 19 and 20 in divisional applications.
+In response to the Restriction Requirement dated January 15, 2025, Applicant requests re- examination and reconsideration of this Application for patent pursuant to 35 U.S.C. 132.
+Election/Restriction The Restriction Requirement states that the application contains Inventions I, II, and III are related as sub combinations disclosed as usable together in a single combination.
+The sub combinations are distinct if they do not overlap in scope and are not obvious variants, and if it is shown that at least one sub combination is separately usable.
+In the instant case, sub combination I has separate utility such as image classification; sub combination II has separate utility such as automating software navigation; and sub combination III has separate utility such as interface image recognition and the Applicant is required to elect:
+I. Claim 1-18, drawn to an agent trained on a plurality of datasets including text, videos, documents, and images, classified in CPC symbol G06V10/82.
+II. Claim 19, drawn to an agent configured to interface automation task workflows comprising a sequence of steps, classified in CPC symbol G06N3/02.
+III. Claim 20, drawn to an agent trained on labeled interface images, classified in CPC symbol G06N3/08.
+Restriction Election Applicant herewith elects, WITHOUT TRAVERSE, Invention I, corresponding to claims 1-18.
+
+## CONCLUSION
+The amendments and remarks made in the present Response are made without prejudice to Applicant's right to pursue broader or different claims in the future. In particular, the amendments and remarks are made to expedite issuance of a patent, and should not be seen as accepting the positions taken in the Restriction Requirement or relinquishing any right the Applicant may have in the future to argue against them. It is respectfully submitted that all of the claims now pending in the subject patent application should be allowable, and a Notice of Allowance is requested. The Examiner is respectfully requested to telephone the undersigned if he can assist in any way in expediting issuance of a patent. The undersigned can ordinarily be reached at 415-608-3356 and at siander(~fleishilggatentscomi.
+In addition to any fees charged in connection with this response, the Commissioner is authorized to charge any underpayment or credit overpayment to Deposit Account No. 604861, under Order No. ADPT1004USN01, for any matter in connection with the above referenced patent application throughout its pendency, including any fee for extension of time, all subject to a strict limit of $3000.00 beyond the total of fees paid affirmatively by Applicant.
+Notwithstanding this limit, the Commissioner also is authorized to charge any underpayment or credit any overpayment to Deposit Account No. 604861, under Order No. ADPT1004USN01, for any matter in connection with this response, including any fee for extension of time, which may be required.
+Respectfully submitted, Dated: 2025-03-11 /Sikander M. Khan/ Sikander KHAN, Reg. No. 78888
+
+## FLAGSHIP PATENTS
+2100 Geng Road, Suite 210 Palo Alto, CA 94303 Phone: 415-608-3356

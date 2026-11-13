@@ -1,0 +1,4954 @@
+{
+  "count": 1,
+  "patentFileWrapperDataBag": [
+    {
+      "grantDocumentMetaData": {
+        "productIdentifier": "PTGRXML",
+        "zipFileName": "ipg260324.zip",
+        "fileCreateDateTime": "2026-10-22T13:40:22",
+        "xmlFileName": "18909470_12585862.xml",
+        "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2026/ipg260324/18909470_12585862.xml"
+      },
+      "eventDataBag": [
+        {
+          "eventCode": "C.ADB",
+          "eventDescriptionText": "Correspondence Address Change",
+          "eventDate": "2026-04-27"
+        },
+        {
+          "eventCode": "PGM/",
+          "eventDescriptionText": "Recordation of Patent Grant Mailed",
+          "eventDate": "2026-03-31"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2026-03-24"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2026-03-24"
+        },
+        {
+          "eventCode": "MEPG_NTF",
+          "eventDescriptionText": "Mail Patent eGrant Notification",
+          "eventDate": "2026-03-24"
+        },
+        {
+          "eventCode": "EPG_NTF",
+          "eventDescriptionText": "Patent eGrant Notification",
+          "eventDate": "2026-03-24"
+        },
+        {
+          "eventCode": "EPG/",
+          "eventDescriptionText": "Recordation of Patent eGrant",
+          "eventDate": "2026-03-24"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2026-03-12"
+        },
+        {
+          "eventCode": "WPIR",
+          "eventDescriptionText": "Issue Notification Mailed",
+          "eventDate": "2026-03-11"
+        },
+        {
+          "eventCode": "PTAC",
+          "eventDescriptionText": "Patent Issue Date Used in PTA Calculation",
+          "eventDate": "2026-03-24"
+        },
+        {
+          "eventCode": "D1935",
+          "eventDescriptionText": "Dispatch to FDC",
+          "eventDate": "2026-02-26"
+        },
+        {
+          "eventCode": "PILS",
+          "eventDescriptionText": "Application Is Considered Ready for Issue",
+          "eventDate": "2026-02-26"
+        },
+        {
+          "eventCode": "N084",
+          "eventDescriptionText": "Issue Fee Payment Verified",
+          "eventDate": "2026-02-24"
+        },
+        {
+          "eventCode": "IFEE",
+          "eventDescriptionText": "Issue Fee Payment Received",
+          "eventDate": "2026-02-24"
+        },
+        {
+          "eventCode": "M844-1",
+          "eventDescriptionText": "IDS with certification statement",
+          "eventDate": "2025-11-04"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2025-12-02"
+        },
+        {
+          "eventCode": "MN/=.",
+          "eventDescriptionText": "Mail Notice of Allowance",
+          "eventDate": "2025-12-02"
+        },
+        {
+          "eventCode": "N/=.",
+          "eventDescriptionText": "Notice of Allowance Data Verification Completed",
+          "eventDate": "2025-11-30"
+        },
+        {
+          "eventCode": "IDSC",
+          "eventDescriptionText": "Information Disclosure Statement considered",
+          "eventDate": "2025-11-10"
+        },
+        {
+          "eventCode": "IDSC",
+          "eventDescriptionText": "Information Disclosure Statement considered",
+          "eventDate": "2025-11-10"
+        },
+        {
+          "eventCode": "IDSC",
+          "eventDescriptionText": "Information Disclosure Statement considered",
+          "eventDate": "2025-11-10"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2025-11-07"
+        },
+        {
+          "eventCode": "A.NE",
+          "eventDescriptionText": "Response after Final Action",
+          "eventDate": "2025-11-06"
+        },
+        {
+          "eventCode": "WIDS",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2025-11-04"
+        },
+        {
+          "eventCode": "EIDS.",
+          "eventDescriptionText": "Electronic Information Disclosure Statement",
+          "eventDate": "2025-10-16"
+        },
+        {
+          "eventCode": "WIDS",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2025-10-16"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2025-10-09"
+        },
+        {
+          "eventCode": "MEXIN",
+          "eventDescriptionText": "Mail Examiner Interview Summary (PTOL - 413)",
+          "eventDate": "2025-10-09"
+        },
+        {
+          "eventCode": "EXAT",
+          "eventDescriptionText": "Interview Summary - Applicant Initiated - Telephonic",
+          "eventDate": "2025-10-07"
+        },
+        {
+          "eventCode": "EXIN",
+          "eventDescriptionText": "Interview Summary Record",
+          "eventDate": "2025-10-07"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2025-09-25"
+        },
+        {
+          "eventCode": "PG-ISSUE",
+          "eventDescriptionText": "PG-Pub Issue Notification",
+          "eventDate": "2025-09-25"
+        },
+        {
+          "eventCode": "M844-1",
+          "eventDescriptionText": "IDS with certification statement",
+          "eventDate": "2025-07-16"
+        },
+        {
+          "eventCode": "EIDS.",
+          "eventDescriptionText": "Electronic Information Disclosure Statement",
+          "eventDate": "2025-07-16"
+        },
+        {
+          "eventCode": "ELC_RVW",
+          "eventDescriptionText": "Electronic Review",
+          "eventDate": "2025-08-14"
+        },
+        {
+          "eventCode": "EML_NTF",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2025-08-14"
+        },
+        {
+          "eventCode": "MCTFR",
+          "eventDescriptionText": "Mail Final Rejection (PTOL - 326)",
+          "eventDate": "2025-08-14"
+        },
+        {
+          "eventCode": "CTFR",
+          "eventDescriptionText": "Final Rejection",
+          "eventDate": "2025-08-12"
+        },
+        {
+          "eventCode": "IDSC",
+          "eventDescriptionText": "Information Disclosure Statement considered",
+          "eventDate": "2025-08-12"
+        },
+        {
+          "eventCode": "IDSC",
+          "eventDescriptionText": "Information Disclosure Statement considered",
+          "eventDate": "2025-08-12"
+        },
+        {
+          "eventCode": "IDSC",
+          "eventDescriptionText": "Information Disclosure Statement considered",
+          "eventDate": "2025-08-12"
+        },
+        {
+          "eventCode": "IDSC",
+          "eventDescriptionText": "Information Disclosure Statement considered",
+          "eventDate": "2025-08-12"
+        },
+        {
+          "eventCode": "IDSC",
+          "eventDescriptionText": "Information Disclosure Statement considered",
+          "eventDate": "2025-08-12"
+        },
+        {
+          "eventCode": "BIG.",
+          "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)",
+          "eventDate": "2025-08-07"
+        },
+        {
+          "eventCode": "WIDS",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2025-07-16"
+        },
+        {
+          "eventCode": "EIDS.",
+          "eventDescriptionText": "Electronic Information Disclosure Statement",
+          "eventDate": "2025-07-09"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2025-07-12"
+        },
+        {
+          "eventCode": "A...",
+          "eventDescriptionText": "Response after Non-Final Action",
+          "eventDate": "2025-07-09"
+        },
+        {
+          "eventCode": "WIDS",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2025-07-09"
+        },
+        {
+          "eventCode": "WIDS",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2025-07-09"
+        },
+        {
+          "eventCode": "WIDS",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2025-07-09"
+        },
+        {
+          "eventCode": "EIDS.",
+          "eventDescriptionText": "Electronic Information Disclosure Statement",
+          "eventDate": "2025-06-06"
+        },
+        {
+          "eventCode": "WIDS",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2025-06-06"
+        },
+        {
+          "eventCode": "MEXIN",
+          "eventDescriptionText": "Mail Examiner Interview Summary (PTOL - 413)",
+          "eventDate": "2025-05-29"
+        },
+        {
+          "eventCode": "EXET",
+          "eventDescriptionText": "Interview Summary - Examiner Initiated - Telephonic",
+          "eventDate": "2025-05-27"
+        },
+        {
+          "eventCode": "EXIN",
+          "eventDescriptionText": "Interview Summary Record",
+          "eventDate": "2025-05-27"
+        },
+        {
+          "eventCode": "LET.",
+          "eventDescriptionText": "Miscellaneous Incoming Letter",
+          "eventDate": "2025-05-16"
+        },
+        {
+          "eventCode": "M844",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2025-05-16"
+        },
+        {
+          "eventCode": "C602",
+          "eventDescriptionText": "Oath or Declaration Filed (Including Supplemental)",
+          "eventDate": "2025-05-16"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2025-05-21"
+        },
+        {
+          "eventCode": "PA..",
+          "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)",
+          "eventDate": "2025-05-21"
+        },
+        {
+          "eventCode": "FLRCPT.C",
+          "eventDescriptionText": "Filing Receipt - Corrected",
+          "eventDate": "2025-05-21"
+        },
+        {
+          "eventCode": "WIDS",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2025-05-16"
+        },
+        {
+          "eventCode": "ELC_RVW",
+          "eventDescriptionText": "Electronic Review",
+          "eventDate": "2025-04-09"
+        },
+        {
+          "eventCode": "EML_NTF",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2025-04-09"
+        },
+        {
+          "eventCode": "MCTNF",
+          "eventDescriptionText": "Mail Non-Final Rejection",
+          "eventDate": "2025-04-09"
+        },
+        {
+          "eventCode": "M844",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2025-01-15"
+        },
+        {
+          "eventCode": "CTNF",
+          "eventDescriptionText": "Non-Final Rejection",
+          "eventDate": "2025-04-04"
+        },
+        {
+          "eventCode": "IDSC",
+          "eventDescriptionText": "Information Disclosure Statement considered",
+          "eventDate": "2025-04-01"
+        },
+        {
+          "eventCode": "IDSC",
+          "eventDescriptionText": "Information Disclosure Statement considered",
+          "eventDate": "2025-03-30"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2025-03-19"
+        },
+        {
+          "eventCode": "R48ACLT",
+          "eventDescriptionText": "Letter Accepting Correction of Inventorship Under Rule 1.48",
+          "eventDate": "2025-03-19"
+        },
+        {
+          "eventCode": "FLRCPT.U",
+          "eventDescriptionText": "Filing Receipt - Updated",
+          "eventDate": "2025-03-19"
+        },
+        {
+          "eventCode": "T1ON",
+          "eventDescriptionText": "track 1 ON",
+          "eventDate": "2025-03-15"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2025-03-15"
+        },
+        {
+          "eventCode": "ELC.",
+          "eventDescriptionText": "Response to Election / Restriction Filed",
+          "eventDate": "2025-03-12"
+        },
+        {
+          "eventCode": "EIDS.",
+          "eventDescriptionText": "Electronic Information Disclosure Statement",
+          "eventDate": "2025-01-15"
+        },
+        {
+          "eventCode": "ELC_RVW",
+          "eventDescriptionText": "Electronic Review",
+          "eventDate": "2025-01-15"
+        },
+        {
+          "eventCode": "WIDS",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2025-01-15"
+        },
+        {
+          "eventCode": "EML_NTF",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2025-01-15"
+        },
+        {
+          "eventCode": "MCTRS",
+          "eventDescriptionText": "Mail Restriction Requirement",
+          "eventDate": "2025-01-15"
+        },
+        {
+          "eventCode": "CTRS",
+          "eventDescriptionText": "Restriction/Election Requirement",
+          "eventDate": "2025-01-10"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2024-12-07"
+        },
+        {
+          "eventCode": "MTCPTG",
+          "eventDescriptionText": "Mail TC Petition Granted",
+          "eventDate": "2024-12-06"
+        },
+        {
+          "eventCode": "MPTGR",
+          "eventDescriptionText": "Mail-Petition Decision - Granted",
+          "eventDate": "2024-12-09"
+        },
+        {
+          "eventCode": "PTGR",
+          "eventDescriptionText": "Petition Decision - Granted",
+          "eventDate": "2024-12-06"
+        },
+        {
+          "eventCode": "PET.",
+          "eventDescriptionText": "Petition Entered",
+          "eventDate": "2024-10-08"
+        },
+        {
+          "eventCode": "TCPTG",
+          "eventDescriptionText": "TC Petition Granted",
+          "eventDate": "2024-12-04"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2024-12-01"
+        },
+        {
+          "eventCode": "CCRDY",
+          "eventDescriptionText": "Application ready for PDX access by participating foreign offices",
+          "eventDate": "2024-10-16"
+        },
+        {
+          "eventCode": "T1GR",
+          "eventDescriptionText": "Track 1 Request Granted",
+          "eventDate": "2024-11-25"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2024-11-21"
+        },
+        {
+          "eventCode": "MPDTG",
+          "eventDescriptionText": "Mail Pet Dec Track 1 Grant",
+          "eventDate": "2024-11-20"
+        },
+        {
+          "eventCode": "M844",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2024-10-09"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2024-11-19"
+        },
+        {
+          "eventCode": "OIPE",
+          "eventDescriptionText": "Application Dispatched from OIPE",
+          "eventDate": "2024-11-18"
+        },
+        {
+          "eventCode": "T1GR",
+          "eventDescriptionText": "Track 1 Request Granted",
+          "eventDate": "2024-11-19"
+        },
+        {
+          "eventCode": "MP003",
+          "eventDescriptionText": "Mail-Record Petition Decision of Granted to Make Special",
+          "eventDate": "2024-11-19"
+        },
+        {
+          "eventCode": "P003",
+          "eventDescriptionText": "Record Petition Decision of Granted to Make Special",
+          "eventDate": "2024-11-18"
+        },
+        {
+          "eventCode": "PDTG",
+          "eventDescriptionText": "Pet Dec Track 1 Grant",
+          "eventDate": "2024-11-18"
+        },
+        {
+          "eventCode": "CCRDY",
+          "eventDescriptionText": "Application ready for PDX access by participating foreign offices",
+          "eventDate": "2024-10-16"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2024-10-24"
+        },
+        {
+          "eventCode": "PGPC",
+          "eventDescriptionText": "Sent to Classification Contractor",
+          "eventDate": "2024-10-23"
+        },
+        {
+          "eventCode": "FTFS",
+          "eventDescriptionText": "FITF set to YES - revise initial setting",
+          "eventDate": "2024-10-23"
+        },
+        {
+          "eventCode": "PTA.RFE",
+          "eventDescriptionText": "Patent Term Adjustment - Ready for Examination",
+          "eventDate": "2024-10-08"
+        },
+        {
+          "eventCode": "COMP",
+          "eventDescriptionText": "Application Is Now Complete",
+          "eventDate": "2024-10-24"
+        },
+        {
+          "eventCode": "MPEN",
+          "eventDescriptionText": "Mail Pre-Exam Notice",
+          "eventDate": "2024-10-24"
+        },
+        {
+          "eventCode": "FLRCPT.U",
+          "eventDescriptionText": "Filing Receipt - Updated",
+          "eventDate": "2024-10-24"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2024-10-17"
+        },
+        {
+          "eventCode": "INCD",
+          "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned",
+          "eventDate": "2024-10-17"
+        },
+        {
+          "eventCode": "MPEN",
+          "eventDescriptionText": "Mail Pre-Exam Notice",
+          "eventDate": "2024-10-17"
+        },
+        {
+          "eventCode": "FLRCPT.O",
+          "eventDescriptionText": "Filing Receipt",
+          "eventDate": "2024-10-17"
+        },
+        {
+          "eventCode": "SREXR141",
+          "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results",
+          "eventDate": "2024-10-08"
+        },
+        {
+          "eventCode": "APPERMS",
+          "eventDescriptionText": "Applicants have given acceptable permission for participating foreign",
+          "eventDate": "2024-10-08"
+        },
+        {
+          "eventCode": "SMAL",
+          "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27",
+          "eventDate": "2024-10-16"
+        },
+        {
+          "eventCode": "WIDS",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2024-10-09"
+        },
+        {
+          "eventCode": "TK1R",
+          "eventDescriptionText": "Track 1 Request",
+          "eventDate": "2024-10-08"
+        },
+        {
+          "eventCode": "PET.",
+          "eventDescriptionText": "Petition Entered",
+          "eventDate": "2024-10-08"
+        },
+        {
+          "eventCode": "BIG.",
+          "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)",
+          "eventDate": "2024-10-08"
+        },
+        {
+          "eventCode": "IEXX",
+          "eventDescriptionText": "Initial Exam Team nn",
+          "eventDate": "2024-10-08"
+        }
+      ],
+      "applicationMetaData": {
+        "firstInventorToFileIndicator": "Y",
+        "applicationStatusCode": 150,
+        "applicationTypeCode": "UTL",
+        "entityStatusData": {
+          "smallEntityStatusIndicator": false,
+          "businessEntityStatusCategory": "Regular Undiscounted"
+        },
+        "filingDate": "2024-10-08",
+        "uspcSymbolText": "382/159",
+        "nationalStageIndicator": false,
+        "firstInventorName": "Sagnak Tasirlar",
+        "cpcClassificationBag": [
+          "G06F  40/166",
+          "G06V  10/803",
+          "G06F   9/451",
+          "G06N  20/00",
+          "G06F  16/951",
+          "G06F  40/284",
+          "G06F  40/174",
+          "G06V  10/7715",
+          "G06V  30/19147",
+          "G06V  10/82",
+          "G06V  20/40",
+          "G06V  30/41",
+          "G06V  10/774",
+          "G06N   3/091",
+          "G06N   3/0455",
+          "G06F   3/0481",
+          "G06F   3/0484",
+          "G06N   5/04"
+        ],
+        "effectiveFilingDate": "2024-10-08",
+        "publicationDateBag": [
+          "2025-09-25"
+        ],
+        "publicationSequenceNumberBag": [
+          "0299510"
+        ],
+        "earliestPublicationDate": "2025-09-25",
+        "applicationTypeLabelName": "Utility",
+        "applicationStatusDate": "2026-03-11",
+        "class": "382",
+        "applicationTypeCategory": "REGULAR",
+        "inventorBag": [
+          {
+            "firstName": "Sagnak",
+            "lastName": "Tasirlar",
+            "inventorNameText": "Sagnak Tasirlar",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Sagnak Tasirlar",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Sagnak Tasirlar",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "David",
+            "lastName": "Abrahams",
+            "inventorNameText": "David Abrahams",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "David Abrahams",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              },
+              {
+                "nameLineOneText": "David Abrahams",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          },
+          {
+            "firstName": "Lina",
+            "lastName": "Lukyantseva",
+            "inventorNameText": "Lina Lukyantseva",
+            "correspondenceAddressBag": [
+              {
+                "nameLineOneText": "Lina Lukyantseva",
+                "postalAddressCategory": "postal"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Lina Lukyantseva",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Erich",
+            "lastName": "Elsen",
+            "inventorNameText": "Erich Elsen",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Erich Elsen",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Erich Elsen",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Maxwell",
+            "lastName": "NYE",
+            "inventorNameText": "Maxwell NYE",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Maxwell NYE",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              },
+              {
+                "nameLineOneText": "Maxwell NYE",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          },
+          {
+            "firstName": "Augustus",
+            "lastName": "ODENA",
+            "inventorNameText": "Augustus ODENA",
+            "correspondenceAddressBag": [
+              {
+                "nameLineOneText": "Augustus ODENA",
+                "postalAddressCategory": "postal"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Augustus ODENA",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Rohan",
+            "lastName": "BAVISHI",
+            "inventorNameText": "Rohan BAVISHI",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "BAVISHI,Rohan",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "BAVISHI,Rohan",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Vibhaa",
+            "lastName": "Sivaraman",
+            "inventorNameText": "Vibhaa Sivaraman",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Sivaraman,Vibhaa",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Sivaraman,Vibhaa",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          },
+          {
+            "firstName": "Adam",
+            "lastName": "Hoff",
+            "inventorNameText": "Adam Hoff",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Hoff,Adam",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Hoff,Adam",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          },
+          {
+            "firstName": "Teddy",
+            "lastName": "Rothschild",
+            "inventorNameText": "Teddy Rothschild",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Teddy Rothschild",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              },
+              {
+                "cityName": "San Francisco",
+                "countryCode": "CA",
+                "nameLineOneText": "Teddy Rothschild",
+                "countryName": "CANADA",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Shaya",
+            "lastName": "Zarkesh",
+            "inventorNameText": "Shaya Zarkesh",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Shaya Zarkesh",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              },
+              {
+                "nameLineOneText": "Shaya Zarkesh",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          },
+          {
+            "firstName": "Deepak",
+            "lastName": "MOPARTHI",
+            "inventorNameText": "Deepak MOPARTHI",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "MOPARTHI,Deepak",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "MOPARTHI,Deepak",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          },
+          {
+            "firstName": "Jacob",
+            "lastName": "Gogh",
+            "inventorNameText": "Jacob van Gogh",
+            "middleName": "van",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Gogh,Jacob,van",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Gogh,Jacob,van",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Claire",
+            "lastName": "Pajot",
+            "inventorNameText": "Claire Pajot",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Pajot,Claire",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Pajot,Claire",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          },
+          {
+            "firstName": "Curtis",
+            "lastName": "HAWTHORNE",
+            "inventorNameText": "Curtis HAWTHORNE",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "HAWTHORNE,Curtis",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "HAWTHORNE,Curtis",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Matt",
+            "lastName": "Elkherj",
+            "inventorNameText": "Matt Elkherj",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Elkherj,Matt",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Elkherj,Matt",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          },
+          {
+            "firstName": "Warut",
+            "lastName": "Vijitbenjaronk",
+            "inventorNameText": "Warut Vijitbenjaronk",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Vijitbenjaronk,Warut",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Vijitbenjaronk,Warut",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Arushi",
+            "lastName": "SOMANI",
+            "inventorNameText": "Arushi SOMANI",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "SOMANI,Arushi",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "SOMANI,Arushi",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          },
+          {
+            "firstName": "Johnny",
+            "lastName": "Lee",
+            "inventorNameText": "Johnny Lee",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Lee,Johnny",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Lee,Johnny",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          },
+          {
+            "firstName": "Joe",
+            "lastName": "Gershenson",
+            "inventorNameText": "Joe Gershenson",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Gershenson,Joe",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Gershenson,Joe",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          },
+          {
+            "firstName": "Jordyn",
+            "lastName": "Shuell",
+            "inventorNameText": "Jordyn Shuell",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Shuell,Jordyn",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Shuell,Jordyn",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Danielle",
+            "lastName": "Perszyk",
+            "inventorNameText": "Danielle Perszyk",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Perszyk,Danielle",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              },
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Perszyk,Danielle",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          }
+        ],
+        "applicationStatusDescriptionText": "Patented Case",
+        "patentNumber": "12585862",
+        "grantDate": "2026-03-24",
+        "applicantBag": [
+          {
+            "applicantNameText": "Anthropic, PBC",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "San Francisco",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Anthropic, PBC",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          }
+        ],
+        "firstApplicantName": "Anthropic, PBC",
+        "customerNumber": 229506,
+        "groupArtUnitNumber": "2663",
+        "earliestPublicationNumber": "US20250299510A1",
+        "inventionTitle": "Training Data for Training Artificial Intelligence Agents to Automate Multimodal Software Usage",
+        "applicationConfirmationNumber": 9083,
+        "examinerNameText": "CONNER, SEAN M",
+        "subclass": "159",
+        "publicationCategoryBag": [
+          "Granted/Issued",
+          "Pre-Grant Publications - PGPub"
+        ],
+        "docketNumber": "66273.13US01"
+      },
+      "parentContinuityBag": [
+        {
+          "parentApplicationStatusCode": 159,
+          "claimParentageTypeCode": "PRO",
+          "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+          "parentApplicationStatusDescriptionText": "Provisional Application Expired",
+          "parentApplicationNumberText": "63638613",
+          "parentApplicationFilingDate": "2024-04-25",
+          "childApplicationNumberText": "18909470"
+        },
+        {
+          "parentApplicationStatusCode": 159,
+          "claimParentageTypeCode": "PRO",
+          "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+          "parentApplicationStatusDescriptionText": "Provisional Application Expired",
+          "parentApplicationNumberText": "63638631",
+          "parentApplicationFilingDate": "2024-04-25",
+          "childApplicationNumberText": "18909470"
+        },
+        {
+          "parentApplicationStatusCode": 159,
+          "claimParentageTypeCode": "PRO",
+          "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+          "parentApplicationStatusDescriptionText": "Provisional Application Expired",
+          "parentApplicationNumberText": "63638644",
+          "parentApplicationFilingDate": "2024-04-25",
+          "childApplicationNumberText": "18909470"
+        },
+        {
+          "parentApplicationStatusCode": 159,
+          "claimParentageTypeCode": "PRO",
+          "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+          "parentApplicationStatusDescriptionText": "Provisional Application Expired",
+          "parentApplicationNumberText": "63567667",
+          "parentApplicationFilingDate": "2024-03-20",
+          "childApplicationNumberText": "18909470"
+        },
+        {
+          "parentApplicationStatusCode": 159,
+          "claimParentageTypeCode": "PRO",
+          "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+          "parentApplicationStatusDescriptionText": "Provisional Application Expired",
+          "parentApplicationNumberText": "63567681",
+          "parentApplicationFilingDate": "2024-03-20",
+          "childApplicationNumberText": "18909470"
+        },
+        {
+          "parentApplicationStatusCode": 159,
+          "claimParentageTypeCode": "PRO",
+          "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+          "parentApplicationStatusDescriptionText": "Provisional Application Expired",
+          "parentApplicationNumberText": "63567698",
+          "parentApplicationFilingDate": "2024-03-20",
+          "childApplicationNumberText": "18909470"
+        },
+        {
+          "parentApplicationStatusCode": 159,
+          "claimParentageTypeCode": "PRO",
+          "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+          "parentApplicationStatusDescriptionText": "Provisional Application Expired",
+          "parentApplicationNumberText": "63567721",
+          "parentApplicationFilingDate": "2024-03-20",
+          "childApplicationNumberText": "18909470"
+        },
+        {
+          "parentApplicationStatusCode": 159,
+          "claimParentageTypeCode": "PRO",
+          "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+          "parentApplicationStatusDescriptionText": "Provisional Application Expired",
+          "parentApplicationNumberText": "63567714",
+          "parentApplicationFilingDate": "2024-03-20",
+          "childApplicationNumberText": "18909470"
+        }
+      ],
+      "patentTermAdjustmentData": {
+        "applicantDayDelayQuantity": 7,
+        "overlappingDayQuantity": 0,
+        "ipOfficeAdjustmentDelayQuantity": 0,
+        "cDelayQuantity": 0,
+        "adjustmentTotalQuantity": 0,
+        "bDelayQuantity": 0,
+        "nonOverlappingDayDelayQuantity": 0,
+        "aDelayQuantity": 0,
+        "patentTermAdjustmentHistoryDataBag": [
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "PTA 36 Months",
+            "eventSequenceNumber": 133.5,
+            "originatingEventSequenceNumber": 0.5,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2026-03-24"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Patent Issue Date Used in PTA Calculation",
+            "eventSequenceNumber": 133.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2026-03-24"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Export to Final Data Capture",
+            "eventSequenceNumber": 132.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2026-02-27"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Dispatch to FDC",
+            "eventSequenceNumber": 131.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2026-02-26"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application Is Considered Ready for Issue",
+            "eventSequenceNumber": 130.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2026-02-26"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Issue Fee Payment Verified",
+            "eventSequenceNumber": 129.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2026-02-24"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Issue Fee Payment Received",
+            "eventSequenceNumber": 128.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2026-02-24"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Finished Initial Data Capture",
+            "eventSequenceNumber": 127.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-12-23"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Export to Initial Data Capture",
+            "eventSequenceNumber": 126.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-12-02"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "IDS with certification statement",
+            "eventSequenceNumber": 125.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-11-04"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 124.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-12-02"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Notice of Allowance",
+            "eventSequenceNumber": 123.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-12-02"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Office Action Review",
+            "eventSequenceNumber": 122.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-11-30"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Office Action Review",
+            "eventSequenceNumber": 121.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-11-30"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Issue Revision Completed",
+            "eventSequenceNumber": 120.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-11-30"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Document Verification",
+            "eventSequenceNumber": 119.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-11-30"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Notice of Allowance Data Verification Completed",
+            "eventSequenceNumber": 118.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-11-30"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Reasons for Allowance",
+            "eventSequenceNumber": 117.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-11-11"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Allowability Notice",
+            "eventSequenceNumber": 116.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-11-11"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement considered",
+            "eventSequenceNumber": 115.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-11-10"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement considered",
+            "eventSequenceNumber": 114.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-11-10"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement considered",
+            "eventSequenceNumber": 113.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-11-10"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Date Forwarded to Examiner",
+            "eventSequenceNumber": 112.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-11-07"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Response after Final Action",
+            "eventSequenceNumber": 111.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-11-06"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 110.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-11-04"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Information Disclosure Statement",
+            "eventSequenceNumber": 109.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-10-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 108.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-10-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 107.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-10-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Examiner Interview Summary (PTOL - 413)",
+            "eventSequenceNumber": 106.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-10-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Interview Summary - Applicant Initiated - Telephonic",
+            "eventSequenceNumber": 105.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-10-07"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Interview Summary Record",
+            "eventSequenceNumber": 104.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-10-07"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 103.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-09-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "PG-Pub Issue Notification",
+            "eventSequenceNumber": 102.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-09-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "IDS with certification statement",
+            "eventSequenceNumber": 101.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-07-16"
+          },
+          {
+            "applicantDayDelayQuantity": 7,
+            "eventDescriptionText": "Electronic Information Disclosure Statement",
+            "eventSequenceNumber": 100.0,
+            "originatingEventSequenceNumber": 85.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-07-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Review",
+            "eventSequenceNumber": 99.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-08-14"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 98.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-08-14"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Final Rejection (PTOL - 326)",
+            "eventSequenceNumber": 97.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-08-14"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Final Rejection",
+            "eventSequenceNumber": 96.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-08-12"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement considered",
+            "eventSequenceNumber": 95.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-08-12"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement considered",
+            "eventSequenceNumber": 94.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-08-12"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement considered",
+            "eventSequenceNumber": 93.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-08-12"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement considered",
+            "eventSequenceNumber": 92.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-08-12"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement considered",
+            "eventSequenceNumber": 91.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-08-12"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)",
+            "eventSequenceNumber": 90.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-08-07"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 88.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-07-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Information Disclosure Statement",
+            "eventSequenceNumber": 87.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-07-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Date Forwarded to Examiner",
+            "eventSequenceNumber": 86.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-07-12"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Response after Non-Final Action",
+            "eventSequenceNumber": 85.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-07-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 83.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-07-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 82.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-07-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 81.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-07-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Information Disclosure Statement",
+            "eventSequenceNumber": 80.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-06-06"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 79.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-06-06"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Examiner Interview Summary (PTOL - 413)",
+            "eventSequenceNumber": 78.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-05-29"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Interview Summary - Examiner Initiated - Telephonic",
+            "eventSequenceNumber": 77.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-05-27"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Interview Summary Record",
+            "eventSequenceNumber": 75.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-05-27"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Miscellaneous Incoming Letter",
+            "eventSequenceNumber": 73.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-05-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 66.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-05-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Oath or Declaration Filed (Including Supplemental)",
+            "eventSequenceNumber": 65.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-05-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 64.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-05-21"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)",
+            "eventSequenceNumber": 63.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-05-21"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Filing Receipt - Corrected",
+            "eventSequenceNumber": 62.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-05-21"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 61.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-05-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Review",
+            "eventSequenceNumber": 60.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-04-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 59.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-04-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Non-Final Rejection",
+            "eventSequenceNumber": 58.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-04-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 57.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-01-15"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Non-Final Rejection",
+            "eventSequenceNumber": 56.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-04-04"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement considered",
+            "eventSequenceNumber": 55.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-04-01"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement considered",
+            "eventSequenceNumber": 54.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-03-30"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 53.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-03-19"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Letter Accepting Correction of Inventorship Under Rule 1.48",
+            "eventSequenceNumber": 52.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-03-19"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Filing Receipt - Updated",
+            "eventSequenceNumber": 51.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-03-19"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "track 1 ON",
+            "eventSequenceNumber": 50.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-03-15"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Date Forwarded to Examiner",
+            "eventSequenceNumber": 49.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-03-15"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Response to Election / Restriction Filed",
+            "eventSequenceNumber": 48.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-03-12"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Information Disclosure Statement",
+            "eventSequenceNumber": 47.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-01-15"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Review",
+            "eventSequenceNumber": 46.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-01-15"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 45.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-01-15"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 44.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-01-15"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Restriction Requirement",
+            "eventSequenceNumber": 43.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-01-15"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Restriction/Election Requirement",
+            "eventSequenceNumber": 42.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2025-01-10"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 41.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-12-07"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail TC Petition Granted",
+            "eventSequenceNumber": 40.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-12-06"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Office Action Review",
+            "eventSequenceNumber": 39.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-12-06"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail-Petition Decision - Granted",
+            "eventSequenceNumber": 38.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-12-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Petition Decision - Granted",
+            "eventSequenceNumber": 37.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-12-06"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Petition Entered",
+            "eventSequenceNumber": 36.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-08"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "TC Petition Granted",
+            "eventSequenceNumber": 35.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-12-04"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Case Docketed to Examiner in GAU",
+            "eventSequenceNumber": 34.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-12-01"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application ready for PDX access by participating foreign offices",
+            "eventSequenceNumber": 33.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Track 1 Request Granted",
+            "eventSequenceNumber": 32.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-11-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 31.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-11-21"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Pet Dec Track 1 Grant",
+            "eventSequenceNumber": 30.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-11-20"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 29.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Case Docketed to Examiner in GAU",
+            "eventSequenceNumber": 28.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-11-19"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application Dispatched from OIPE",
+            "eventSequenceNumber": 27.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-11-18"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Track 1 Request Granted",
+            "eventSequenceNumber": 26.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-11-19"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail-Record Petition Decision of Granted to Make Special",
+            "eventSequenceNumber": 25.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-11-19"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Record Petition Decision of Granted to Make Special",
+            "eventSequenceNumber": 24.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-11-18"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Pet Dec Track 1 Grant",
+            "eventSequenceNumber": 23.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-11-18"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application ready for PDX access by participating foreign offices",
+            "eventSequenceNumber": 22.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 21.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-24"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Sent to Classification Contractor",
+            "eventSequenceNumber": 20.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-23"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "FITF set to YES - revise initial setting",
+            "eventSequenceNumber": 19.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-23"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Patent Term Adjustment - Ready for Examination",
+            "eventSequenceNumber": 18.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-08"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application Is Now Complete",
+            "eventSequenceNumber": 17.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-24"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Pre-Exam Notice",
+            "eventSequenceNumber": 16.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-24"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Filing Receipt - Updated",
+            "eventSequenceNumber": 15.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-24"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 14.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-17"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned",
+            "eventSequenceNumber": 13.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-17"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Pre-Exam Notice",
+            "eventSequenceNumber": 12.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-17"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Filing Receipt",
+            "eventSequenceNumber": 11.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-17"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results",
+            "eventSequenceNumber": 10.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-08"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Applicants have given acceptable permission for participating foreign",
+            "eventSequenceNumber": 9.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-08"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27",
+            "eventSequenceNumber": 8.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Cleared by OIPE CSR",
+            "eventSequenceNumber": 7.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-10"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 6.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Track 1 Request",
+            "eventSequenceNumber": 5.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-08"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Petition Entered",
+            "eventSequenceNumber": 4.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-08"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "IFW Scan & PACR Auto Security Review",
+            "eventSequenceNumber": 3.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-08"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)",
+            "eventSequenceNumber": 2.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-08"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Initial Exam Team nn",
+            "eventSequenceNumber": 1.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-08"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Filing date",
+            "eventSequenceNumber": 0.5,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-10-08"
+          }
+        ]
+      },
+      "assignmentBag": [
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/70825/499",
+          "assignmentReceivedDate": "2025-04-12",
+          "reelAndFrameNumber": "070825/0499",
+          "frameNumber": 499,
+          "assignmentRecordedDate": "2025-04-12",
+          "conveyanceText": "CHANGE OF NAME",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "SAN FRANCISCO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "postalCode": "94103",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "350 RHODE ISLAND ST, SUITE 400S",
+                "ictStateCode": "CA"
+              },
+              "assigneeNameText": "ADEPT AI LABS, INC."
+            }
+          ],
+          "assignmentMailedDate": "2025-04-15",
+          "reelNumber": 70825,
+          "correspondenceAddress": {
+            "addressLineThreeText": "PALO ALTO, CA 94303",
+            "addressLineOneText": "FLAGSHIP PATENTS",
+            "correspondentNameText": "SIKANDER M. KHAN",
+            "addressLineTwoText": "2100 GENG RD., SUITE 210"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2023-02-27",
+              "assignorName": "PERSIMMON AI LABS, INC."
+            }
+          ],
+          "pageTotalQuantity": 44,
+          "attorneyDocketNumber": "ADPT1004USN01"
+        },
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v3/public/download/patent/70785/275",
+          "assignmentReceivedDate": "2025-04-09",
+          "reelAndFrameNumber": "070785/0275",
+          "frameNumber": 275,
+          "assignmentRecordedDate": "2025-04-09",
+          "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "SAN FRANCISCO",
+                "geographicRegionName": "CALIFORNIA",
+                "postalCode": "94105",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "500 HOWARD STREET"
+              },
+              "assigneeNameText": "ANTHROPIC, PBC"
+            }
+          ],
+          "assignmentMailedDate": "2025-04-10",
+          "reelNumber": 70785,
+          "correspondenceAddress": {
+            "addressLineOneText": "2801 N. HARWOOD ST., SUITE 2300",
+            "correspondentNameText": "MARIA EIVERS-MEDLEY",
+            "addressLineTwoText": "DALLAS, TX 75201"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2025-04-08",
+              "assignorName": "ADEPT AL LABS INC."
+            }
+          ],
+          "pageTotalQuantity": 6,
+          "attorneyDocketNumber": "66273.00002"
+        },
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/71101/374",
+          "assignmentReceivedDate": "2025-05-13",
+          "reelAndFrameNumber": "071101/0374",
+          "frameNumber": 374,
+          "assignmentRecordedDate": "2025-04-17",
+          "conveyanceText": "CORRECTIVE ASSIGNMENT TO CORRECT THE THE NAME OF THE ASSIGNEE TO ANTHROPIC, PBC PREVIOUSLY RECORDED ON REEL 70785 FRAME 275. ASSIGNOR(S) HEREBY CONFIRMS THE THE ASSIGNMENT..",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "SAN FRANCISCO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "postalCode": "94105",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "500 HOWARD STREET",
+                "ictStateCode": "CA"
+              },
+              "assigneeNameText": "ANTHROPIC, PBC"
+            }
+          ],
+          "assignmentMailedDate": "2025-05-14",
+          "reelNumber": 71101,
+          "correspondenceAddress": {
+            "addressLineOneText": "2801 N. HARWOOD ST., SUITE 2300",
+            "correspondentNameText": "MARIA EIVERS-MEDLEY",
+            "addressLineTwoText": "DALLAS, TX 75201"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2025-04-09",
+              "assignorName": "ADEPT AL LABS INC."
+            }
+          ],
+          "pageTotalQuantity": 8,
+          "attorneyDocketNumber": "66273.00002"
+        }
+      ],
+      "pgpubDocumentMetaData": {
+        "productIdentifier": "APPXML",
+        "zipFileName": "ipa250925.zip",
+        "fileCreateDateTime": "2025-09-25T08:38:46",
+        "xmlFileName": "18909470_20250299510.xml",
+        "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/APPXML-SPLT/2025/ipa250925/18909470_20250299510.xml"
+      },
+      "lastIngestionDateTime": "2026-10-23T10:17:41",
+      "childContinuityBag": [
+        {
+          "childApplicationStatusDescriptionText": "RO PROCESSING COMPLETED-PLACED IN STORAGE",
+          "claimParentageTypeCode": "?",
+          "childApplicationStatusCode": 218,
+          "claimParentageTypeCodeDescriptionText": "is a no data of",
+          "parentApplicationNumberText": "18909470",
+          "childApplicationFilingDate": "2025-03-20",
+          "childApplicationNumberText": "PCTUS2025020719"
+        },
+        {
+          "firstInventorToFileIndicator": true,
+          "childApplicationStatusDescriptionText": "Docketed New Case - Ready for Examination",
+          "claimParentageTypeCode": "CON",
+          "childApplicationStatusCode": 30,
+          "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+          "parentApplicationNumberText": "18909470",
+          "childApplicationFilingDate": "2026-02-20",
+          "childApplicationNumberText": "19546217"
+        }
+      ],
+      "recordAttorney": {
+        "customerNumberCorrespondenceData": {
+          "powerOfAttorneyAddressBag": [
+            {
+              "cityName": "Dallas",
+              "geographicRegionName": "TEXAS",
+              "geographicRegionCode": "TX",
+              "countryCode": "US",
+              "postalCode": "75201",
+              "nameLineOneText": "Haynes and Boone, LLP",
+              "nameLineTwoText": "IP Section",
+              "countryName": "UNITED STATES",
+              "addressLineOneText": "2801 N. Harwood St.",
+              "addressLineTwoText": "Suite 2300"
+            }
+          ],
+          "patronIdentifier": 27683
+        },
+        "powerOfAttorneyBag": [
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "EVERT FARAH",
+            "lastName": "TU",
+            "registrationNumber": "57004",
+            "attorneyAddressBag": [
+              {
+                "cityName": "COSTA MESA",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92626",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "600 ANTON BOULEVARD",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "949-202-3000",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "MICHAEL",
+            "lastName": "RAMON",
+            "registrationNumber": "52147",
+            "attorneyAddressBag": [
+              {
+                "cityName": "AUSTIN",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "78701",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "98 SAN JACINTO BOULEVARD",
+                "addressLineTwoText": "SUITE 1500"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "512-867-8426",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "EDWARD",
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "ANDREW",
+            "lastName": "EHMKE",
+            "registrationNumber": "50271",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75201",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2801 N. HARWOOD STREET",
+                "addressLineTwoText": "SUITE 2300"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "214-651-5000",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "S",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "WILLIAM",
+            "lastName": "HOYER MCCARTHY",
+            "registrationNumber": "76934",
+            "attorneyAddressBag": [
+              {
+                "cityName": "LAKEWOOD",
+                "geographicRegionName": "COLORADO",
+                "geographicRegionCode": "CO",
+                "countryCode": "US",
+                "postalCode": "80232",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1129 S. QUAIL STREET"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "720-935-8793",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "IAN",
+            "lastName": "RAINEY",
+            "registrationNumber": "75064",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75219",
+                "nameLineOneText": "HAYNES AND BOONE LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2323 VICTORY AVE",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "303-382-6202",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "KALYANI",
+            "lastName": "YAMARTHY",
+            "registrationNumber": "82068",
+            "attorneyAddressBag": [
+              {
+                "cityName": "WASHINGTON",
+                "geographicRegionName": "DISTRICT OF COLUMBIA",
+                "geographicRegionCode": "DC",
+                "countryCode": "US",
+                "postalCode": "20006",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "800 17TH STREET NW",
+                "addressLineTwoText": "SUITE 500"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "202-654-4583",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "JOSHI",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "GAVIN",
+            "lastName": "GEORGE",
+            "registrationNumber": "60393",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75219-767",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2323 VICTORY AVENUE",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "214-651-5000",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JULIE",
+            "lastName": "NICKOLS",
+            "registrationNumber": "50826",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75201",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2801 N. HARWOOD ST.",
+                "addressLineTwoText": "SUITE 2300"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-8640",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "M",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "BROOKE",
+            "lastName": "PARKER",
+            "registrationNumber": "79943",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN ANTONIO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "78205",
+                "nameLineOneText": "HAYNES AND BOONE LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "112 EAST PECAN STREET",
+                "addressLineTwoText": "SUITE 2400"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "210-978-7438",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "ELIZABETH COHEN",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "ERIC",
+            "lastName": "LI",
+            "registrationNumber": "57618",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75201",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2801 N. HARWOOD ST.",
+                "addressLineTwoText": "SUITE 2300"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-6919",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "Q",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "HONG",
+            "lastName": "SHI",
+            "registrationNumber": "69009",
+            "attorneyAddressBag": [
+              {
+                "cityName": "AUSTIN",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "78701",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "98 SAN JACINTO BOULEVARD",
+                "addressLineTwoText": "SUITE 1500"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "512-867-8400",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "THEODORE",
+            "lastName": "FOSTER",
+            "registrationNumber": "57456",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DENVER",
+                "geographicRegionName": "COLORADO",
+                "geographicRegionCode": "CO",
+                "countryCode": "US",
+                "postalCode": "80202",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "675 15TH ST",
+                "addressLineTwoText": "SUITE 2200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "303-382-6205",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "VERA",
+            "lastName": "SUAREZ",
+            "registrationNumber": "66087",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75219",
+                "nameLineOneText": "HAYNES & BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2323 VICTORY AVE",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "214-651-5129",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "WILLIAM",
+            "lastName": "NASH",
+            "registrationNumber": "33743",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN ANTONIO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "78205",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "112 E PECAN STE 1200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "210-978-7477",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "IRIS",
+            "lastName": "TORRES",
+            "registrationNumber": "73700",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN FRANCISCO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "94104",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1 POST STREET",
+                "addressLineTwoText": "SUITE 2800"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "415-293-8929",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "H",
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "DANIEL",
+            "lastName": "KWOK",
+            "registrationNumber": "69042",
+            "attorneyAddressBag": [
+              {
+                "cityName": "COSTA MESA",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92626",
+                "nameLineOneText": "HAYNES & BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "600 ANTON BOULEVARD",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "949-202-3061",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "QUANQUAN",
+            "lastName": "HE",
+            "registrationNumber": "82879",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PLANO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75024",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "6000 HEADQUARTERS DRIVE",
+                "addressLineTwoText": "SUITE 200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-6941",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "DAVID",
+            "lastName": "MCCOMBS",
+            "registrationNumber": "32271",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75201",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2801 NORTH HARWOOD BLVD",
+                "addressLineTwoText": "SUITE 2300"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "214-651-5533",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "L",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "PHILIP",
+            "lastName": "ALBERT",
+            "registrationNumber": "35819",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN FRANCISCO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "94104",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1 POST STREET",
+                "addressLineTwoText": "SUITE 2800"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "415-293-8900",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "H",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "MICHAEL",
+            "lastName": "SHENKER",
+            "registrationNumber": "34250",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PALO ALTO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "94306",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "3000 EL CAMINO REAL",
+                "addressLineTwoText": "2 PALO ALTO SQUARE, SUITE 250"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "650-687-8857",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "TOM",
+            "lastName": "CHEN",
+            "registrationNumber": "42406",
+            "attorneyAddressBag": [
+              {
+                "cityName": "COSTA MESA",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92626",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "600 ANTON BOULEVARD",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "949-202-3000",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "BENJAMIN",
+            "lastName": "PELLETIER",
+            "registrationNumber": "66734",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN FRANCISCO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "94104",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1 POST STREET",
+                "addressLineTwoText": "SUITE 2800"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "415-293-8922",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "C",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "ANGELA",
+            "lastName": "OLIVER",
+            "registrationNumber": "73271",
+            "attorneyAddressBag": [
+              {
+                "cityName": "WASHINGTON, DC",
+                "geographicRegionName": "DISTRICT OF COLUMBIA",
+                "geographicRegionCode": "DC",
+                "countryCode": "US",
+                "postalCode": "20006",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "888 16TH STREET NW",
+                "addressLineTwoText": "SUITE 300"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "202-654-4552",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "M.",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "KELLY",
+            "lastName": "LYLE",
+            "registrationNumber": "62332",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75219-767",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2323 VICTORY AVENUE",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "512-867-8528",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "ANGELA",
+            "lastName": "GRANT",
+            "registrationNumber": "70039",
+            "attorneyAddressBag": [
+              {
+                "cityName": "WASHINGTON",
+                "geographicRegionName": "DISTRICT OF COLUMBIA",
+                "geographicRegionCode": "DC",
+                "countryCode": "US",
+                "postalCode": "20006",
+                "nameLineOneText": "HANYES & BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "800 17TH STREET, NW",
+                "addressLineTwoText": "SUITE 500"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "202-654-4572",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JEFFREY",
+            "lastName": "MORTON",
+            "registrationNumber": "77476",
+            "attorneyAddressBag": [
+              {
+                "cityName": "COSTA MESA",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92626",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "600 ANTON BOULEVARD, SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "949-202-3082",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "DAVID",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "BRADEN",
+            "lastName": "DAVIES",
+            "registrationNumber": "79960",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75201",
+                "nameLineOneText": "HAYNES & BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2801 N. HARWOOD STREET",
+                "addressLineTwoText": "SUITE 2300"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "214-651-5381",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "J.",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "RYAN",
+            "lastName": "JOHNSON",
+            "registrationNumber": "77109",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PLANO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75024",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "6000 HEADQUARTERS DRIVE",
+                "addressLineTwoText": "SUITE 200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-8664",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "M.",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "LINDA",
+            "lastName": "YEN",
+            "registrationNumber": "81953",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PALO ALTO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "94306",
+                "nameLineOneText": "HAYNES BOONE",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "3000 EL CAMINO REAL",
+                "addressLineTwoText": "BLDG. 2, SUITE 250"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "650-687-8841",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "SCOTT",
+            "lastName": "JARRATT",
+            "registrationNumber": "70297",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PLANO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75024",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "6000 HEADQUARTERS DR.",
+                "addressLineTwoText": "SUITE 200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-8663",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "T",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "ANDREW",
+            "lastName": "COHN",
+            "registrationNumber": "69739",
+            "attorneyAddressBag": [
+              {
+                "cityName": "COSTA MESA",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92626",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "600 ANTON BOULEVARD",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "949-202-3000",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "LI",
+            "lastName": "YANG",
+            "registrationNumber": "76754",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PLANO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75024",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "6000 HEADQUARTERS DRIVE",
+                "addressLineTwoText": "SUITE 200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-6934",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "J",
+            "lastName": "LOWES",
+            "registrationNumber": "40706",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75219-767",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2323 VICTORY AVENUE",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-680-7557",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "BRENT",
+            "lastName": "FOLSOM",
+            "registrationNumber": "43614",
+            "attorneyAddressBag": [
+              {
+                "cityName": "COSTA MESA",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92626",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "600 ANTON BOULEVARD",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "949-202-3013",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "GREGORY",
+            "lastName": "WEBB",
+            "registrationNumber": "59859",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PLANO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75024",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "6000 HEADQUARTERS DR.",
+                "addressLineTwoText": "SUITE 200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-8641",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "P",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "SHARON",
+            "lastName": "CRANE",
+            "registrationNumber": "36113",
+            "attorneyAddressBag": [
+              {
+                "cityName": "WASHINGTON",
+                "geographicRegionName": "DISTRICT OF COLUMBIA",
+                "geographicRegionCode": "DC",
+                "countryCode": "US",
+                "postalCode": "20006",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "888 16TH STREET, NW",
+                "addressLineTwoText": "SUITE 300"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "202-654-4500",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "E",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "DINA",
+            "lastName": "BLIKSHTEYN",
+            "registrationNumber": "63962",
+            "attorneyAddressBag": [
+              {
+                "cityName": "NEW YORK",
+                "geographicRegionName": "NEW YORK",
+                "geographicRegionCode": "NY",
+                "countryCode": "US",
+                "postalCode": "10112",
+                "nameLineOneText": "HAYNES AND BOONE",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "30 ROCKEFELLER PLAZA"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "212-835-4809",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "DIRK",
+            "lastName": "BERNHARDT",
+            "registrationNumber": "82329",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PLANO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75024",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "6000 HEADQUARTERS DRIVE",
+                "addressLineTwoText": "SUITE 200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-8659",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "C.",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JADE",
+            "lastName": "LAYE",
+            "registrationNumber": "54255",
+            "attorneyAddressBag": [
+              {
+                "cityName": "HOUSTON",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "77010",
+                "nameLineOneText": "HAYES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1221 MCKINNEY STREET",
+                "addressLineTwoText": "SUITE 2100"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "713-547-2118",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "AUSTIN",
+            "lastName": "LORCH",
+            "registrationNumber": "81190",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PLANO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75024",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "6000 HEADQUARTERS DR.",
+                "addressLineTwoText": "SUITE 200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-8624",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "STEVEN",
+            "lastName": "ALLIS",
+            "registrationNumber": "50532",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PLANO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75024",
+                "nameLineOneText": "HAYNES & BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "6000 HEADQUARTERS DRIVE",
+                "addressLineTwoText": "SUITE 200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-8644",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "W",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JONATHAN",
+            "lastName": "BOWSER",
+            "registrationNumber": "54574",
+            "attorneyAddressBag": [
+              {
+                "cityName": "WASHINGTON",
+                "geographicRegionName": "DISTRICT OF COLUMBIA",
+                "geographicRegionCode": "DC",
+                "countryCode": "US",
+                "postalCode": "20006",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "888 16TH ST, NW, SUITE 300"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "202-654-4503",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "R",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "MARVIN",
+            "lastName": "GLAZER",
+            "registrationNumber": "28801",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PALO ALTO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "94306",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "3000 EL CAMINO REAL",
+                "addressLineTwoText": "2 PALO ALTO SQUARE, SUITE 250"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "650-687-8826",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "A",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "DAVID",
+            "lastName": "O'BRIEN",
+            "registrationNumber": "40107",
+            "attorneyAddressBag": [
+              {
+                "cityName": "AUSTIN",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "78701",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "98 SAN JACINTO BLVD, SUITE 1500"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "512-867-8457",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "W",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "NOBLE",
+            "lastName": "WOO",
+            "registrationNumber": "77596",
+            "attorneyAddressBag": [
+              {
+                "cityName": "IRVINE",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92612",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "25 MONTANAS NORTE"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "617-510-8677",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "ROBERT",
+            "lastName": "ZIEMIAN",
+            "registrationNumber": "57931",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75219",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2323 VICTORY AVENUE",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "702-484-3713",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "CLINT",
+            "lastName": "WILKINS",
+            "registrationNumber": "62448",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75219",
+                "nameLineOneText": "HAYNES AND BOONE LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2323 VICTORY AVENUE",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-6927",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "GREGORY",
+            "lastName": "HUH",
+            "registrationNumber": "70480",
+            "attorneyAddressBag": [
+              {
+                "cityName": "RICHARDSON",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75082",
+                "nameLineOneText": "HAYNES AND BOONE LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2505 N PLANO ROAD, SUITE 4000"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-6939",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "BRETT",
+            "lastName": "BOSTROM",
+            "registrationNumber": "73009",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DENVER",
+                "geographicRegionName": "COLORADO",
+                "geographicRegionCode": "CO",
+                "countryCode": "US",
+                "postalCode": "80202",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "675 15TH ST.",
+                "addressLineTwoText": "SUITE 2200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "720-484-3715",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "A.",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "QING",
+            "lastName": "XU",
+            "registrationNumber": "78492",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PLANO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75024",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "6000 HEADQUARTERS DRIVE",
+                "addressLineTwoText": "SUITE 200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "651-367-0471",
+                "telecomTypeCode": "FAX"
+              },
+              {
+                "telecommunicationNumber": "972-739-8647",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "ZACHARY",
+            "lastName": "HALBUR",
+            "registrationNumber": "68500",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75219",
+                "nameLineOneText": "HAYNES & BOONE",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2323 VICTORY AVENUE",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "214-651-5000",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JAY",
+            "lastName": "YIN",
+            "registrationNumber": "83199",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PLANO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75024",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "6000 HEADQUARTERS DRIVE",
+                "addressLineTwoText": "SUITE 200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-8653",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "GARY",
+            "lastName": "EDWARDS",
+            "registrationNumber": "41008",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PALO ALTO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "94301",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "3000 EL CAMINO REAL",
+                "addressLineTwoText": "BUILDING 2, SUITE 250"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "650-687-8842",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "J",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JASON",
+            "lastName": "WHITNEY",
+            "registrationNumber": "67408",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN ANTONIO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "78205",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "112 E. PECAN STREET, SUITE 1200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "210-978-7440",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "DANIEL",
+            "lastName": "SMITH",
+            "registrationNumber": "71278",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75201",
+                "nameLineOneText": "FISH & RICHARDSON P.C.",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1717 MAIN STREET  SUITE 5000"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "214-292-4071",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "KELVIN",
+            "lastName": "VARGHESE",
+            "registrationNumber": "71565",
+            "attorneyAddressBag": [
+              {
+                "cityName": "HOUSTON",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "77010",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1221 MCKINNEY STREET",
+                "addressLineTwoText": "SUITE 4000"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-6947",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "L.",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "LINDSEY",
+            "lastName": "DONCOST",
+            "registrationNumber": "81908",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SANTA MONICA",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "90401",
+                "nameLineOneText": "CALDWELL",
+                "nameLineTwoText": "CALDWELL INTELLECTUAL PROPERTY LAW",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "100 WILSHIRE BLVD.",
+                "addressLineTwoText": "SUITE 1800"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "424-229-2947",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "E.",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JINRONG",
+            "lastName": "YUAN",
+            "registrationNumber": "76066",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN FRANCISCO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "94104",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1 POST ST",
+                "addressLineTwoText": "SUITE 2800"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "415-293-8926",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "YUCHEN",
+            "lastName": "HUO",
+            "registrationNumber": "73601",
+            "attorneyAddressBag": [
+              {
+                "cityName": "RICHARDSON",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75082",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2505 N PLANO ROAD",
+                "addressLineTwoText": "SUITE 4000"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-6900",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "MARK",
+            "lastName": "TIDWELL",
+            "registrationNumber": "37456",
+            "attorneyAddressBag": [
+              {
+                "cityName": "HOUSTON",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "77010",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1221 MCKINNEY STREET",
+                "addressLineTwoText": "SUITE 2100"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "713-547-2551",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JEREMY",
+            "lastName": "NEILSON",
+            "registrationNumber": "72914",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PLANO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75024",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "6000 HEADQUARTERS DRIVE",
+                "addressLineTwoText": "SUITE 200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-6900",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "DUSTIN",
+            "lastName": "JOHNSON",
+            "registrationNumber": "47684",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PLANO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75024",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "6000 HEADQUARTERS DRIVE",
+                "addressLineTwoText": "SUITE 200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-6969",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "T",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "ADAM",
+            "lastName": "FOWLES",
+            "registrationNumber": "65005",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PLANO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75024",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "6000 HEADQUARTERS DR., STE. 200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-8674",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "C.",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "ALAN",
+            "lastName": "HERDA",
+            "registrationNumber": "50426",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75201",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2801 N. HARWOOD STREET",
+                "addressLineTwoText": "SUITE 2300"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "214-651-5924",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "NOEL",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "CORT",
+            "lastName": "WETHERALD",
+            "registrationNumber": "67723",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN DIEGO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92130",
+                "nameLineOneText": "KILPATRICK TOWNSEND",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "12255 EL CAMINO REAL, SUITE 250"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "858-351-6150",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "CALMANN",
+            "lastName": "CLEMENTS",
+            "registrationNumber": "66910",
+            "attorneyAddressBag": [
+              {
+                "cityName": "RICHARDSON",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75082",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2505 N. PLANO ROAD",
+                "addressLineTwoText": "SUITE 4000"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-734-6400",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "ADAM",
+            "lastName": "ERICKSON",
+            "registrationNumber": "77434",
+            "attorneyAddressBag": [
+              {
+                "cityName": "WASHINGTON",
+                "geographicRegionName": "DISTRICT OF COLUMBIA",
+                "geographicRegionCode": "DC",
+                "countryCode": "US",
+                "postalCode": "20006",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "888 16TH STREET NW",
+                "addressLineTwoText": "SUITE 300"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "202-654-4531",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "LLOYD",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "MICHAEL",
+            "lastName": "CHEN",
+            "registrationNumber": "66506",
+            "attorneyAddressBag": [
+              {
+                "cityName": "COSTA MESA",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92626",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "600 ANTON BLVD., SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "949-202-3069",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "MU WEI",
+            "lastName": "HSU",
+            "registrationNumber": "77224",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75265",
+                "nameLineOneText": "TEXAS INSTRUMENTS INCORPORATED",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "P.O. BOX 655474, MS 3999"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "214-479-8804",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "MINI",
+            "lastName": "KAPOOR",
+            "registrationNumber": "72569",
+            "attorneyAddressBag": [
+              {
+                "cityName": "HOUSTON",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "77010",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1221 MCKINNEY",
+                "addressLineTwoText": "SUITE 2100"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "713-547-2261",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "GREGORY",
+            "lastName": "MICHELSON",
+            "registrationNumber": "44940",
+            "attorneyAddressBag": [
+              {
+                "cityName": "COSTA MESA",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92626",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "600 ANTON BOULEVARD",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "949-202-3000",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "MICHAEL",
+            "lastName": "TOBIN",
+            "registrationNumber": "71869",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75201",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2801 N. HARWOOD STREET",
+                "addressLineTwoText": "SUITE 2300"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "214-651-5195",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "J.",
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "DAGIM",
+            "lastName": "HAILU",
+            "registrationNumber": "75722",
+            "attorneyAddressBag": [
+              {
+                "cityName": "WASHINGTON",
+                "geographicRegionName": "DISTRICT OF COLUMBIA",
+                "geographicRegionCode": "DC",
+                "countryCode": "US",
+                "postalCode": "20006",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "888 16TH STREET NW SUITE 300"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "202-654-4582",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "TILAHUN",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "SAVANNAH",
+            "lastName": "OLMSTEAD",
+            "registrationNumber": "83130",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PLANO",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75024",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "6000 HEADQUARTERS DRIVE",
+                "addressLineTwoText": "SUITE 200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-8775",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "C.",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "LAURA",
+            "lastName": "VU",
+            "registrationNumber": "79752",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN FRANCISCO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "94104",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1 POST STREET",
+                "addressLineTwoText": "SUITE 2800"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "415-293-8930",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "N.",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JIAPING",
+            "lastName": "LIU",
+            "registrationNumber": "71506",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PALO ALTO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "94301",
+                "nameLineOneText": "HAYNES AND BOONE LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "525 UNIVERSITY AVEUNE",
+                "addressLineTwoText": "SUITE 400"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "650-687-8805",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JAMIE",
+            "lastName": "RAJU",
+            "registrationNumber": "81999",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75201",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2801 N. HARWOOD STREET",
+                "addressLineTwoText": "SUITE 2300"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "--",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "DAVID",
+            "lastName": "O'DELL",
+            "registrationNumber": "42044",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75219-767",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2323 VICTORY AVENUE",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-8635",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JONATHAN",
+            "lastName": "HALLMAN",
+            "registrationNumber": "42622",
+            "attorneyAddressBag": [
+              {
+                "cityName": "COSTA MESA",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92626",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "600 ANTON BOULEVARD",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "949-202-3000",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "RANDALL",
+            "lastName": "COLSON",
+            "registrationNumber": "40566",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75201",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2801 N. HARWOOD STREET",
+                "addressLineTwoText": "SUITE 2300"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "214-651-5000",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "E",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JEFFREY",
+            "lastName": "WOLFSON",
+            "registrationNumber": "42234",
+            "attorneyAddressBag": [
+              {
+                "cityName": "WASHINGTON",
+                "geographicRegionName": "DISTRICT OF COLUMBIA",
+                "geographicRegionCode": "DC",
+                "countryCode": "US",
+                "postalCode": "20006",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "888 16TH STREET, N.W.",
+                "addressLineTwoText": "SUITE 300"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "202-654-4565",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "A",
+            "registeredPractitionerCategory": "ATTNY"
+          }
+        ],
+        "attorneyBag": [
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "J",
+            "lastName": "LOWES",
+            "registrationNumber": "40706",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75219-767",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2323 VICTORY AVENUE",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-680-7557",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "DAVID",
+            "lastName": "O'DELL",
+            "registrationNumber": "42044",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DALLAS",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "75219-767",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "2323 VICTORY AVENUE",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "972-739-8635",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JEFFREY",
+            "lastName": "WOLFSON",
+            "registrationNumber": "42234",
+            "attorneyAddressBag": [
+              {
+                "cityName": "WASHINGTON",
+                "geographicRegionName": "DISTRICT OF COLUMBIA",
+                "geographicRegionCode": "DC",
+                "countryCode": "US",
+                "postalCode": "20006",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "888 16TH STREET, N.W.",
+                "addressLineTwoText": "SUITE 300"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "202-654-4565",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "A",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "TOM",
+            "lastName": "CHEN",
+            "registrationNumber": "42406",
+            "attorneyAddressBag": [
+              {
+                "cityName": "COSTA MESA",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92626",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "600 ANTON BOULEVARD",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "949-202-3000",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JENNIFER",
+            "lastName": "CHIANG",
+            "registrationNumber": "68198",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN FRANCISCO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "94105",
+                "nameLineOneText": "ANTHROPIC, PBC",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "500 HOWARD ST."
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "425-223-3951",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "S",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "DANIEL",
+            "lastName": "KWOK",
+            "registrationNumber": "69042",
+            "attorneyAddressBag": [
+              {
+                "cityName": "COSTA MESA",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92626",
+                "nameLineOneText": "HAYNES & BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "600 ANTON BOULEVARD",
+                "addressLineTwoText": "SUITE 700"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "949-202-3061",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JIAPING",
+            "lastName": "LIU",
+            "registrationNumber": "71506",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PALO ALTO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "94301",
+                "nameLineOneText": "HAYNES AND BOONE LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "525 UNIVERSITY AVEUNE",
+                "addressLineTwoText": "SUITE 400"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "650-687-8805",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "SAVANNAH",
+            "lastName": "OLMSTEAD",
+            "registrationNumber": "83130",
+            "attorneyAddressBag": [
+              {
+                "cityName": "AUSTIN",
+                "geographicRegionName": "TEXAS",
+                "geographicRegionCode": "TX",
+                "countryCode": "US",
+                "postalCode": "78701",
+                "nameLineOneText": "HAYNES AND BOONE, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "98 SAN JACINTO BOULEVARD",
+                "addressLineTwoText": "SUITE 1500"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "512-867-8441",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "C.",
+            "registeredPractitionerCategory": "ATTNY"
+          }
+        ]
+      },
+      "applicationNumberText": "18909470",
+      "correspondenceAddressBag": [
+        {
+          "cityName": "Dallas",
+          "geographicRegionName": "TEXAS",
+          "geographicRegionCode": "TX",
+          "countryCode": "US",
+          "postalCode": "75201",
+          "nameLineOneText": "Haynes and Boone, LLP (66273)",
+          "nameLineTwoText": "Anthropic, PBC",
+          "countryName": "UNITED STATES",
+          "addressLineOneText": "2801 N. Harwood St.",
+          "addressLineTwoText": "Suite 2300"
+        }
+      ]
+    }
+  ],
+  "requestIdentifier": "16f455b7-2979-4129-acb1-d9d0ea704252"
+}

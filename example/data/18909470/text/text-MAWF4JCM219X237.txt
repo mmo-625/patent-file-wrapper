@@ -1,0 +1,22 @@
+Source: example/data/18909470/files/2025-05-16_REM_MAWF4JCM219X237.xml:18909470/MAWF4JCM219X237/18909470.05-16-2025.MAWF4JCM219X237.REM.XML
+Type: IncomingDocument
+Markup: [+inserted+]  [-deleted-]
+
+## REMARKS
+Applicant amends the Specification to correct Application numbers, corresponding to the
+correct application numbers present in the ADS. No new matter is added.
+
+## LAW OFFICES OF
+AYNES AND) BOONE, LLe .801 N HARWOOD ST
+SUJITE2300
+
+## CONCLUSION
+In view of the remarks set forth above, it is submitted that the application is in condition for allowance. Authorization is given to charge any fees due or credit any
+overpayments in regard to this communication to deposit account 08-1394. If the Examiner
+has any questions or concerns, a telephone call to the undersigned at 972-739-8652 is
+welcomed and encouraged.
+
+## LAW OFFICES OF
+[unreadable image] YNES AND BOONE, LLe
+801 N HARWOOD ST
+SUITE 2300

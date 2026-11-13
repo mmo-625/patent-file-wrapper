@@ -1,0 +1,17 @@
+# Python packages for the patent file wrapper pipeline.
+#   python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+#
+# System tools (not pip): pdf_parser.py needs Tesseract (OCR) and Poppler (PDF to image)
+#   macOS:  brew install tesseract poppler
+#   Ubuntu: sudo apt install tesseract-ocr poppler-utils
+#
+# API keys, set as environment variables (never commit them):
+#   USPTO_API_KEY   fetch_uspto.py  (USPTO Open Data Portal)
+#   GEMINI_API_KEY  summarizer.py   (Google Gemini API)
+
+requests>=2.34      # fetch_uspto.py: USPTO API calls and downloads
+pypdf>=7.0          # pdf_parser.py: text layer of PDFs
+fonttools>=4.68     # pypdf: decodes embedded fonts in some PDFs
+pytesseract>=0.3.13 # pdf_parser.py: OCR for scanned pages
+pdf2image>=1.17     # pdf_parser.py: renders scanned pages for OCR (installs Pillow)
+google-genai>=3.2   # summarizer.py: Gemini summaries

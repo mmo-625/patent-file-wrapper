@@ -1,0 +1,65 @@
+Source: example/data/18909470/files/2025-08-14_CTFR_MEA4YEQGX139X28.xml:18909470/MEA4YEQGX139X28/Final Rejection.xml
+Type: OutgoingDocument
+Markup: [+inserted+]  [-deleted-]
+
+## DETAILED ACTION
+The present application, filed on or after March 16, 2013, is being examined under the first inventor to file provisions of the AIA. The Amendment filed 9 July 2025 (hereinafter “the Amendment”) has been entered and considered. Claims 1 and 16 have been amended. Claims 1-20 are all the claims pending in the application, of which claims 19-20 are withdrawn. Claims 1-18 are rejected. All new grounds of rejection set forth in the present action were necessitated by Applicant’s claim amendments; accordingly, this action is made final.
+
+## Response to Amendment
+
+## Claim Objection
+In view of the amendment to claim 1, the previous claim objections are withdrawn. However, Applicant’s claim amendments necessitate other claim objections, as detailed below.
+
+## Claim Rejections - 35 USC § 112
+In view of the amendment to claim 16, the rejection under 35 USC 112 is withdrawn. However, Applicant’s claim amendments raise other issues under 35 USC 112, as detailed below.
+
+## Claim Interpretation – Alternatives
+In view of the amendment to independent claim 1 which amends “and/or” to “and”, the broadest reasonable interpretation of the claims requires training the Transformer based vision language model on each of the claimed eight training datasets.
+
+## Claim Interpretation – Product-by-process
+In view of the amendments to independent claim 1, the prior interpretation of the claim as a product-by-process claim is withdrawn.
+
+## Claim Rejections - 35 USC § 101 (Software per se)
+On pages 6-9 of the Amendment, Applicant argues that the claims recite eligible subject matter. In support of this argument, Applicant contends that amended claim 1 as a whole integrates an alleged judicial exception into a practical application. However, Applicant’s arguments are directed to Step 2 of the Subject Matter Eligibility Test (See flowchart in MPEP 2106). Applicant does not address Step 1 of the Subject Matter Eligibility Test – namely whether the claim is directed to one of the four statutory categories of eligible subject matter.
+Independent claim 1 is directed to “A system for automating software usage, comprising:” a plurality of steps. The system does not include any structural elements. Therefore, the steps recited in the claim appear to function through software alone. As such, the claimed invention of independent claim 1 and its dependent claims 2-18 is directed to a computer program per se. The Examiner recommends amending claim 1 to recite structural features. For example, the rejection may be overcome if the claim were amended to recite “A system for automating software usage, comprising: a processor and memory storing instructions which, when executed, cause the processor to perform” the plurality of steps.
+
+## Claim Rejections - 35 USC § 101 (Abstract idea)
+On pages 6-9 of the Amendment, Applicant argues that the claims recite eligible subject matter. In support of this argument, Applicant contends that amended claim 1 as a whole integrates an alleged judicial exception into a practical application. The Examiner agrees with Applicant’s arguments. Accordingly, this rejection is withdrawn.
+
+## Prior Art Rejections
+In view of the substantive amendments to independent claim 1, the previously applied prior art rejections are withdrawn.
+
+## Information Disclosure Statement
+The information disclosure statement filed 16 May 2025 fails to comply with 37 CFR 1.98(a)(2), which requires a legible copy of each non-patent literature publication or that portion which caused it to be listed. The IDS lists 8 Non-Patent Literature (NPL) documents, none of which have been provided. It has been placed in the application file, but the NPL documents referred to therein have not been considered.
+
+## Claim Objection
+Claims 1-18 are objected to because of the following informalities: Independent claim 1 recites “the natura language input” which should be amended to recite “the natural language input” for clarity. Appropriate correction is required.
+Claims 2-18 are objected to by virtue of their dependency on claim 1.
+
+## Claim Rejections - 35 USC § 112
+The following is a quotation of 35 U.S.C. 112(b):
+(b) CONCLUSION.—The specification shall conclude with one or more claims particularly pointing out and distinctly claiming the subject matter which the inventor or a joint inventor regards as the invention.
+The following is a quotation of 35 U.S.C. 112 (pre-AIA), second paragraph:
+The specification shall conclude with one or more claims particularly pointing out and distinctly claiming the subject matter which the applicant regards as his invention.
+Claims 1-18 are rejected under 35 U.S.C. 112(b) or 35 U.S.C. 112 (pre-AIA), second paragraph, as being indefinite for failing to particularly point out and distinctly claim the subject matter which the inventor or a joint inventor (or for applications subject to pre-AIA 35 U.S.C. 112, the applicant), regards as the invention.
+Independent claim 1 recites “A system for automating software usage, comprising:” a plurality of steps. It is unclear how a system can comprise method steps. The Examiner recommends amending independent claim 1 to be directed to a method or to add structural features. Claims 2-18 are rejected by virtue of their dependency on claim 1.
+
+## Claim Rejections - 35 USC § 101 (Software per se)
+35 U.S.C. 101 reads as follows:
+Whoever invents or discovers any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof, may obtain a patent therefor, subject to the conditions and requirements of this title.
+35 U.S.C. 101 requires that a claimed invention must fall within one of the four eligible categories of invention (i.e. process, machine, manufacture, or composition of matter) and must not be directed to subject matter encompassing a judicially recognized exception as interpreted by the courts. MPEP 2106. The four eligible categories of invention include: (1) process which is an act, or a series of acts or steps, (2) machine which is an concrete thing, consisting of parts, or of certain devices and combination of devices, (3) manufacture which is an article produced from raw or prepared materials by giving to these materials new forms, qualities, properties, or combinations, whether by hand labor or by machinery, and (4) composition of matter which is all compositions of two or more substances and all composite articles, whether they be the results of chemical union, or of mechanical mixture, or whether they be gases, fluids, powders or solids. MPEP 2106(I).
+Claims 1-18 are rejected under 35 U.S.C. 101 as not falling within one of the four statutory categories of invention because the claimed invention is directed to a computer program per se. See MPEP 2106(I).
+Independent claim 1 is directed to “A system for automating software usage, comprising:” a plurality of steps. The system does not include any structural elements. Therefore, the steps recited in the claim appear to function through software alone. As such, the claimed invention of independent claim 1 and its dependent claims 2-18 is directed to a computer program per se.
+The Examiner recommends amending claim 1 to recite structural features. For example, the rejection may be overcome if the claim were amended to recite “A system for automating software usage, comprising: a processor and memory storing instructions which, when executed, cause the processor to perform” the plurality of steps.
+
+## Allowable Subject Matter
+Claims 1-18 would be allowed if the claims were amended to cure the above objection and rejections.
+
+## Conclusion
+Applicant's amendment necessitated the new ground(s) of rejection presented in this Office action. Accordingly, THIS ACTION IS MADE FINAL. See MPEP § 706.07(a). Applicant is reminded of the extension of time policy as set forth in 37 CFR 1.136(a).
+A shortened statutory period for reply to this final action is set to expire THREE MONTHS from the mailing date of this action. In the event a first reply is filed within TWO MONTHS of the mailing date of this final action and the advisory action is not mailed until after the end of the THREE-MONTH shortened statutory period, then the shortened statutory period will expire on the date the advisory action is mailed, and any nonprovisional extension fee (37 CFR 1.17(a)) pursuant to 37 CFR 1.136(a) will be calculated from the mailing date of the advisory action. In no event, however, will the statutory period for reply expire later than SIX MONTHS from the mailing date of this final action.
+Any inquiry concerning this communication or earlier communications from the examiner should be directed to SEAN M CONNER whose telephone number is (571)272-1486. The examiner can normally be reached 10 AM - 6 PM Monday through Friday, and some Saturday afternoons.
+Examiner interviews are available via telephone, in-person, and video conferencing using a USPTO supplied web-based collaboration tool. To schedule an interview, applicant is encouraged to use the USPTO Automated Interview Request (AIR) at http://www.uspto.gov/interviewpractice.
+If attempts to reach the examiner by telephone are unsuccessful, the examiner’s supervisor, Greg Morse can be reached at (571) 272-3838. The fax phone number for the organization where this application or proceeding is assigned is 571-273-8300.
+Information regarding the status of published or unpublished applications may be obtained from Patent Center. Unpublished application information in Patent Center is available to registered users. To file and manage patent submissions in Patent Center, visit: https://patentcenter.uspto.gov. Visit https://www.uspto.gov/patents/apply/patent-center for more information about Patent Center and https://www.uspto.gov/patents/docx for information about filing in DOCX format. For additional questions, contact the Electronic Business Center (EBC) at 866-217-9197 (toll-free). If you would like assistance from a USPTO Customer Service Representative, call 800-786-9199 (IN USA OR CANADA) or 571-272-1000.
+/SEAN M CONNER/Primary Examiner, Art Unit 2663
