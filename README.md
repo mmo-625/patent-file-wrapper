@@ -16,15 +16,10 @@ Give it an application number and it will:
 6. Write `conversation.json` and a text-message style `conversation.html`.
 
 See [`example/data/18909470/`](example/data/18909470/) for a complete run on
-application 18/909,470. Open `conversation.html` in a browser to see the result.
-
+application 18/909,470. Open `conversation.html` in a browser or see the result [here](https://mmo-625.github.io/patent-file-wrapper/)
 ## Example output
 
 Generated from the public prosecution history of application 18/909,470. Each screenshot shows part of the timeline.
-
-
-<img src="docs/01-filing-and-acceptance.png" alt="Filing and acceptance for examination" width="500">
-Filing (Oct 2024). The applicant files and requests Track One prioritized examination, and the USPTO accepts the application for examination.
 
 <img src="docs/02-restriction-and-election.png" alt="Restriction requirement and election" width="500">
 Restriction (Jan–Mar 2025). The examiner divides the claims into three inventions, and the applicant elects claims 1–18 without traverse.
