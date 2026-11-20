@@ -24,13 +24,13 @@ Generated from the public prosecution history of application 18/909,470. Each sc
 
 
 <img src="docs/01-filing-and-acceptance.png" alt="Filing and acceptance for examination" width="500">
-*Filing (Oct 2024). The applicant files and requests Track One prioritized examination, and the USPTO accepts the application for examination.*
+Filing (Oct 2024). The applicant files and requests Track One prioritized examination, and the USPTO accepts the application for examination.
 
 <img src="docs/02-restriction-and-election.png" alt="Restriction requirement and election" width="500">
-*Restriction (Jan–Mar 2025). The examiner divides the claims into three inventions, and the applicant elects claims 1–18 without traverse.*
+Restriction (Jan–Mar 2025). The examiner divides the claims into three inventions, and the applicant elects claims 1–18 without traverse.
 
 <img src="docs/03-interview-to-allowance.png" alt="Interview, amendment, and allowance" width="500">
-*Resolution (Oct–Dec 2025). After an examiner interview, the applicant amends claim 1 to recite a processor and memory and cancels claims 19–20, and the application is allowed.*
+Resolution (Oct–Dec 2025). After an examiner interview, the applicant amends claim 1 to recite a processor and memory and cancels claims 19–20, and the application is allowed.
 
 ## Setup
 
