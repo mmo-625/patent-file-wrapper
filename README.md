@@ -82,7 +82,8 @@ run.py
  │    └─ pdf_parser.py  PDF text layer, or Tesseract OCR for scanned pages
  ├─ summarizer.py    each timeline entry → a fixed sentence or a Gemini summary
  ├─ conversation.py  → conversation.json
- │    └─ rejections.py  rejection table + cited references from CTNF / CTFR text
+ │    ├─ rejections.py  rejection table + cited references from CTNF / CTFR text
+ │    └─ claims.py      independent claims (with amendments) from CLM text
  └─ chat_view.py     → conversation.html
 ```
 
@@ -93,6 +94,7 @@ python3 organize.py wrapper.json documents.json manifest.json
 .venv/bin/python parser.py example/data/18909470/files --out /tmp/text
 .venv/bin/python summarizer.py example/data/18909470/text/text-M97JD5LWWFYGX54.txt ctnf
 python3 rejections.py example/data/18909470/text/text-M97JD5LWWFYGX54.txt
+python3 claims.py example/data/18909470/text/text-MHNVZFKJ4X45X46.txt
 python3 conversation.py example/data/18909470/timeline.json
 python3 chat_view.py example/data/18909470/conversation.json
 python3 claim_parser.py <claims.xml>     # one claims XML → marked-up claim text
@@ -117,8 +119,12 @@ Anything filtered out or not recognized is printed, never silently dropped.
 - **Rejection breakdown:** non-final and final rejections (CTNF, CTFR) get a collapsible
   table of every rejection (statute, ground, claims, references) and the full citation
   of each cited reference, with US patent numbers linked to Google Patents. It's taken
-  straight from the examiner's text by `rejections.py`, so no AI is used. Check one action
+  straight from the examiner's text by `rejections.py`. Check one action
   with `python3 rejections.py <office action text file>`.
+- **Independent claims:** each claims filing (CLM) gets one collapsible button per
+  independent claim, showing the full claim text. In amended claims, insertions are green and
+  deletions red and struck through. `claims.py` reads them from the parsed claims text. 
+  Canceled claims are skipped, and withdrawn claims are labelled.
 - **Senders:** examiner-written documents are shown as **Examiner**. Other office notices
   are shown as **USPTO**. The list is `EXAMINER_CODES` in `conversation.py`.
 
@@ -129,10 +135,6 @@ In parsed claims and remarks, amendments are marked `[+inserted text+]` and
 
 ## Notes and limitations
 
-- **Gemini rate limits:** the free tier allows a few requests per minute, so
-  `summarizer.py` spaces calls 12 s apart (`MIN_SECONDS_BETWEEN_CALLS`) and retries on
-  HTTP 429. A typical application needs about 13 summaries, which takes about 3 minutes
-  on the first run.
 - **What gets downloaded:** `fetch_uspto.py` downloads only the codes in its
   `ALLOWED_CODES` set. Timeline entries for other whitelisted codes have `"file": null`
   and are reported as "not downloaded".

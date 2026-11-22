@@ -12,8 +12,11 @@ Applicant messages are on the right (blue); Examiner and USPTO messages are on t
 left, each in its own color. The page is self-contained: inline CSS, no JavaScript.
 Messages with a "rejections" key (see rejections.py) get a collapsible "Rejection
 breakdown" under the bubble: a table of rejections and the cited references.
+Messages with a "claims" key (see claims.py) get one collapsible button per independent
+claim; amendments show as green insertions and struck-through red deletions.
 """
 import json
+import re
 import sys
 from datetime import date as Date
 from html import escape
@@ -31,13 +34,14 @@ SENDERS = {"Applicant": ("right", "applicant"),
            "USPTO": ("left", "uspto")}
 
 CSS = """
-:root { --bg:#ffffff; --text:#111; --muted:#6b7280; --bar:#f3f4f6; --line:#e5e7eb;
+:root { --ins:#0a7d32; --ins-bg:#dcfce7; --del:#b42318; --del-bg:#fee4e2; --bg:#ffffff; --text:#111; --muted:#6b7280; --bar:#f3f4f6; --line:#e5e7eb;
         --applicant:#0a84ff; --applicant-text:#fff; --examiner:#e9e9eb; --examiner-text:#111;
         --uspto:#fdecc8; --uspto-text:#4a3500; --other:#e5e7eb; --other-text:#111; }
 @media (prefers-color-scheme: dark) {
   :root { --bg:#000; --text:#f5f5f7; --muted:#9ca3af; --bar:#1c1c1e; --line:#2c2c2e;
           --examiner:#2c2c2e; --examiner-text:#f5f5f7; --uspto:#4a3a12; --uspto-text:#fde9b8;
-          --other:#3a3a3c; --other-text:#f5f5f7; } }
+          --other:#3a3a3c; --other-text:#f5f5f7;
+          --ins:#6ee7a0; --ins-bg:#0f3d23; --del:#fca5a5; --del-bg:#4a1717; } }
 * { box-sizing: border-box; }
 body { margin:0; background:var(--bg); color:var(--text);
        font:16px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
@@ -74,6 +78,18 @@ main { max-width:720px; margin:0 auto; padding:8px 16px 32px; }
 .breakdown ul { margin:0; padding-left:18px; }
 .breakdown li { margin:2px 0; }
 .breakdown a { color:inherit; }
+.claim { max-width:70%; margin:4px 0 0; font-size:13px; }
+@media (max-width:480px) { .claim { max-width:100%; } }
+.claim summary { cursor:pointer; color:var(--muted); font-weight:600; padding:2px 12px;
+                 list-style-position:inside; }
+.claim[open] summary { margin-bottom:6px; }
+.claim .panel { background:var(--examiner); color:var(--examiner-text); border-radius:14px;
+                padding:10px 12px; text-align:left; }
+.claim p { margin:0 0 6px; overflow-wrap:anywhere; }
+.claim p.limit { padding-left:14px; }
+.claim ins { color:var(--ins); background:var(--ins-bg); text-decoration:underline; }
+.claim del { color:var(--del); background:var(--del-bg); text-decoration:line-through; }
+.claim .legend { font-size:11px; color:var(--muted); margin:0 0 8px; }
 footer { max-width:720px; margin:0 auto; padding:16px 16px 32px; border-top:1px solid var(--line);
          text-align:center; font-size:12px; color:var(--muted); }
 """
@@ -122,6 +138,27 @@ def breakdown_html(breakdown):
             + (f"<h4>References</h4><ul>{refs}</ul>" if refs else "") + "</div></details>")
 
 
+def markup_html(line):
+    """Escape a claim line, then turn [+inserted+] into <ins> and [-deleted-] into <del>."""
+    html = escape(line)
+    html = re.sub(r"\[\+(.*?)\+\]", r"<ins>\1</ins>", html)
+    return re.sub(r"\[-(.*?)-\]", r"<del>\1</del>", html)
+
+
+def claims_html(found):
+    """One collapsible button per independent claim (native <details>, no JavaScript)."""
+    parts = []
+    for claim in found:
+        body = "".join(f'<p{" class=\"limit\"" if i else ""}>{markup_html(line)}</p>'
+                       for i, line in enumerate(claim.get("lines") or []))
+        legend = ('<p class="legend"><ins>inserted</ins> · <del>deleted</del></p>'
+                  if claim.get("amended") else "")
+        parts.append(f'<details class="claim"><summary>Claim {escape(str(claim.get("number")))} · '
+                     f'{escape(claim.get("status") or "")}</summary>'
+                     f'<div class="panel">{legend}{body}</div></details>')
+    return "".join(parts)
+
+
 def render(messages, case=None, out_path="conversation.html"):
     """Write the chat page for a list of {date, sender, message}; return its path."""
     rows, last_date, last_sender = [], object(), None
@@ -135,7 +172,8 @@ def render(messages, case=None, out_path="conversation.html"):
         label = f'<div class="who">{escape(sender)}</div>' if first else ""
         rows.append(f'<div class="row {side} {css}{" first" if first else ""}">{label}'
                     f'<div class="bubble">{escape(str(m.get("message") or "").strip())}</div>'
-                    + (breakdown_html(m["rejections"]) if m.get("rejections") else "") + "</div>")
+                    + (breakdown_html(m["rejections"]) if m.get("rejections") else "")
+                    + (claims_html(m["claims"]) if m.get("claims") else "") + "</div>")
         last_sender = sender
 
     title = (case or {}).get("inventionTitle") or "Patent conversation"

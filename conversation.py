@@ -5,6 +5,8 @@ Usage:  python3 conversation.py <timeline.json> [conversation.json]
 Entries without a message (e.g. not summarized yet) are skipped and listed.
 Rejections (CTNF / CTFR) also get an optional "rejections" key: the rejection table and
 cited references from rejections.py, shown as a collapsible breakdown in chat_view.py.
+Claims filings (CLM) get an optional "claims" key: the independent claims from claims.py,
+each shown as a collapsible claim (with its amendments marked) in chat_view.py.
 
 From another script (e.g. run.py):
   import conversation
@@ -14,6 +16,7 @@ import json
 import sys
 from pathlib import Path
 
+import claims
 import rejections
 
 # Documents written by the examiner: these show sender "Examiner". Other USPTO entries
@@ -21,6 +24,8 @@ import rejections
 EXAMINER_CODES = {"CTRS", "CTNF", "CTFR", "CTAV", "CTEQ", "EXIN", "NOA"}
 # Office actions whose text gets a rejection breakdown (non-final and final rejections).
 REJECTION_CODES = {"CTNF", "CTFR"}
+# Claims filings whose independent claims are attached.
+CLAIM_CODES = {"CLM"}
 
 
 def sender(entry):
@@ -38,6 +43,14 @@ def rejection_breakdown(entry):
     return rejections.extract(Path(path).read_text(encoding="utf-8"))
 
 
+def independent_claims(entry):
+    """Independent claims for a claims entry with a text file, else None."""
+    path = entry.get("text_file")
+    if entry.get("code") not in CLAIM_CODES or not path or not Path(path).exists():
+        return None
+    return claims.independent_claims(Path(path).read_text(encoding="utf-8")) or None
+
+
 def build_conversation(timeline, out_path=None, verbose=True):
     """timeline: the timeline.json dict (or just its "timeline" list).
     Writes out_path (unless None) and returns the list of messages, in date order."""
@@ -52,6 +65,9 @@ def build_conversation(timeline, out_path=None, verbose=True):
         breakdown = rejection_breakdown(entry)
         if breakdown:
             item["rejections"] = breakdown
+        found = independent_claims(entry)
+        if found:
+            item["claims"] = found
         messages.append(item)
 
     if out_path:

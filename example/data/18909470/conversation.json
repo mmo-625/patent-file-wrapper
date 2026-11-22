@@ -7,7 +7,49 @@
   {
     "date": "2024-10-08",
     "sender": "Applicant",
-    "message": "The invention comprises an intelligent agent designed to automate software workflows through training on a comprehensive and diverse array of datasets. These datasets include multimodal web pages, software usage videos, and annotated interface images that capture specific tool trajectories and action-based tasks. By utilizing these multi-layered data inputs, the system is engineered to accurately perform, ground, and predict complex interface operations across both open and specific-domain software environments."
+    "message": "The invention comprises an intelligent agent designed to automate software workflows through training on a comprehensive and diverse array of datasets. These datasets include multimodal web pages, software usage videos, and annotated interface images that capture specific tool trajectories and action-based tasks. By utilizing these multi-layered data inputs, the system is engineered to accurately perform, ground, and predict complex interface operations across both open and specific-domain software environments.",
+    "claims": [
+      {
+        "number": 1,
+        "status": "Original",
+        "lines": [
+          "A system for automating software usage, comprising:",
+          "an agent configured to automate software usage, wherein the agent is trained on:",
+          "a first training dataset including documents containing text interleaved with images;",
+          "a second training dataset including text embedded in images;",
+          "a third training dataset including recorded videos of software usage;",
+          "a fourth training dataset including portable document format (PDF) documents;",
+          "a fifth training dataset including recorded videos of software tool usage trajectories, wherein;",
+          "a sixth training dataset including images of open-domain web pages;",
+          "a seventh training dataset including images of specific-domain web pages; and/or",
+          "an eighth training dataset including images of agentic trajectories of the agent performing interface automation task workflows."
+        ],
+        "amended": false
+      },
+      {
+        "number": 19,
+        "status": "Original",
+        "lines": [
+          "A system for automating software usage, comprising:",
+          "an agent configured to interface automation task workflows comprising a sequence of steps,",
+          "wherein the agent is trained on a sequence of training datasets,",
+          "wherein respective training datasets in the sequence of training datasets correspond to respective steps in the sequence of steps, and",
+          "wherein a particular training dataset in the sequence of training dataset corresponding to a particular step in the sequence of steps includes a multitude of interface images of the particular step being performed over multitude of iterations."
+        ],
+        "amended": false
+      },
+      {
+        "number": 20,
+        "status": "Original",
+        "lines": [
+          "A system for automating software usage, comprising:",
+          "an agent configured to interface automation task workflows, wherein the agent is trained on high-fidelity training datasets comprising:",
+          "interface images labelled with data identifying interface elements; and",
+          "interface images labelled with data identifying interface operations applied on the interface elements."
+        ],
+        "amended": false
+      }
+    ]
   },
   {
     "date": "2024-10-08",
@@ -32,7 +74,48 @@
   {
     "date": "2025-03-12",
     "sender": "Applicant",
-    "message": "The current state of the invention focuses on a software automation agent trained on a highly diversified set of multimodal datasets, including interleaved text-image documents, software usage videos, and crawled web page data. By integrating these expansive data sources, the system is designed to perform complex interface tasks ranging from element localization to predictive action sequencing. This configuration allows the agent to navigate both open-domain and specific-domain digital environments by leveraging high-fidelity annotations and synthetic task workflows."
+    "message": "The current state of the invention focuses on a software automation agent trained on a highly diversified set of multimodal datasets, including interleaved text-image documents, software usage videos, and crawled web page data. By integrating these expansive data sources, the system is designed to perform complex interface tasks ranging from element localization to predictive action sequencing. This configuration allows the agent to navigate both open-domain and specific-domain digital environments by leveraging high-fidelity annotations and synthetic task workflows.",
+    "claims": [
+      {
+        "number": 1,
+        "status": "Original",
+        "lines": [
+          "A system for automating software usage, comprising:",
+          "an agent configured to automate software usage, wherein the agent is trained on:",
+          "a first training dataset including documents containing text interleaved with images;",
+          "a second training dataset including text embedded in images;",
+          "a third training dataset including recorded videos of software usage;",
+          "a fourth training dataset including portable document format (PDF) documents;",
+          "a fifth training dataset including recorded videos of software tool usage trajectories, wherein;",
+          "a sixth training dataset including images of open-domain web pages;",
+          "a seventh training dataset including images of specific-domain web pages; and/or an eighth training dataset including images of agentic trajectories of the agent performing interface automation task workflows."
+        ],
+        "amended": false
+      },
+      {
+        "number": 19,
+        "status": "Withdrawn",
+        "lines": [
+          "A system for automating software usage, comprising:",
+          "an agent configured to interface automation task workflows comprising a sequence of steps,",
+          "wherein the agent is trained on a sequence of training datasets,",
+          "wherein respective training datasets in the sequence of training datasets correspond to respective steps in the sequence of steps, and",
+          "wherein a particular training dataset in the sequence of training dataset corresponding to a particular step in the sequence of steps includes a multitude of interface images of the particular step being performed over multitude of iterations."
+        ],
+        "amended": false
+      },
+      {
+        "number": 20,
+        "status": "Withdrawn",
+        "lines": [
+          "A system for automating software usage, comprising:",
+          "an agent configured to interface automation task workflows, wherein the agent is trained on high-fidelity training datasets comprising:",
+          "interface images labelled with data identifying interface elements; and",
+          "interface images labelled with data identifying interface operations applied on the interface elements."
+        ],
+        "amended": false
+      }
+    ]
   },
   {
     "date": "2025-03-12",
@@ -140,7 +223,55 @@
   {
     "date": "2025-07-09",
     "sender": "Applicant",
-    "message": "The invention now describes a system that utilizes a Transformer-based vision language model to automate complex user interface interactions based on natural language intent. The system is trained on an extensive and diverse array of datasets—ranging from multimodal documents to recorded interaction trajectories—allowing it to iteratively generate and execute machine-actuated commands in response to real-time changes on the software screen."
+    "message": "The invention now describes a system that utilizes a Transformer-based vision language model to automate complex user interface interactions based on natural language intent. The system is trained on an extensive and diverse array of datasets—ranging from multimodal documents to recorded interaction trajectories—allowing it to iteratively generate and execute machine-actuated commands in response to real-time changes on the software screen.",
+    "claims": [
+      {
+        "number": 1,
+        "status": "Currently amended",
+        "lines": [
+          "A system for automating [+actions on a+] software [+user interface+] [-usage-], comprising:",
+          "[+constructing+] an [+artificial intelligence+] agent [+based on a Transformer based vision language model+] configured to automate [+actions on a+] software [+user interface+] [-usage-], [+including training the Transformer based vision language model+] [-wherein the agent is trained-] on:",
+          "a first training dataset including documents containing text interleaved with images;",
+          "a second training dataset including text embedded in images;",
+          "a third training dataset including recorded videos of software usage;",
+          "a fourth training dataset including portable document format (PDF) documents;",
+          "a fifth training dataset including recorded videos of software tool usage trajectories[-, wherein-];",
+          "a sixth training dataset including images of open-domain web pages;",
+          "a seventh training dataset including images of specific-domain web pages;",
+          "and[-and/or-] an eighth training dataset including images of agentic trajectories of the agent performing interface automation task workflows;",
+          "[+receiving, via a user interface, a natural language input indicating a user intent to interact with the software user interface;+]",
+          "[unreadable image] [+generating, by the Transformer based vision language model, a workflow+]---[+indicating a past action and a next action relating to the user intent based on an input comprising a screenshot of the software user interface and the natura language input;+]",
+          "[+executing, by the artificial intelligence agent, at least the next action in a form of a machine-actuated command on the software user interface thereby resulting in a change in the software user interface; and+]",
+          "[+iteratively generating, by the Transformer based vision language model, next machine-actuated commands based on a screenshot of a changed software user interface; and+]",
+          "[+iteratively executing, by the artificial intelligence agent, the next machine- actuated commands thereby causing a task described by the natural language input to be completed by interacting with the software user interface.+]"
+        ],
+        "amended": true
+      },
+      {
+        "number": 19,
+        "status": "Withdrawn",
+        "lines": [
+          "A system for automating software usage, comprising:",
+          "an agent configured to interface automation task workflows comprising a sequence of steps,",
+          "wherein the agent is trained on a sequence of training datasets,",
+          "wherein respective training datasets in the sequence of training datasets correspond to respective steps in the sequence of steps, and",
+          "wherein a particular training dataset in the sequence of training dataset corresponding to a particular step in the sequence of steps includes a multitude of interface images of the particular step being performed over multitude of iterations."
+        ],
+        "amended": false
+      },
+      {
+        "number": 20,
+        "status": "Withdrawn",
+        "lines": [
+          "A system for automating software usage, comprising:",
+          "an agent configured to interface automation task workflows, wherein the agent is trained on high-fidelity training datasets comprising:",
+          "interface images labelled with data identifying interface elements; and",
+          "interface images labelled with data identifying interface operations applied on the interface elements.",
+          "LAW OFFICES OF AYNES AND BOONE, Lu~.801 N HARWOOD ST SUITE 2300 DALLAS,TX 75201 214-651-5000 FAX 214-200-0853"
+        ],
+        "amended": false
+      }
+    ]
   },
   {
     "date": "2025-07-09",
@@ -187,7 +318,33 @@
   {
     "date": "2025-11-06",
     "sender": "Applicant",
-    "message": "The invention now explicitly defines the system as a hardware-based architecture comprising a processor and memory to execute the specialized instructions for the artificial intelligence agent. These structural updates ensure the system effectively leverages a broad, multi-dataset training regimen to facilitate the automated, iterative execution of software interface tasks via natural language inputs."
+    "message": "The invention now explicitly defines the system as a hardware-based architecture comprising a processor and memory to execute the specialized instructions for the artificial intelligence agent. These structural updates ensure the system effectively leverages a broad, multi-dataset training regimen to facilitate the automated, iterative execution of software interface tasks via natural language inputs.",
+    "claims": [
+      {
+        "number": 1,
+        "status": "Currently amended",
+        "lines": [
+          "A system for automating actions on a software user interface, comprising:",
+          "[+a processor; and+]",
+          "[+a memory storing instructions which, when executed, cause the processor to perform steps comprising:+]",
+          "constructing an artificial intelligence agent based on a Transformer based vision language model configured to automate actions on a software user interface, including training the Transformer based vision language model on:",
+          "a first training dataset including documents containing text interleaved with images;",
+          "a second training dataset including text embedded in images;",
+          "a third training dataset including recorded videos of software usage;",
+          "a fourth training dataset including portable document format (PDF) documents;",
+          "a fifth training dataset including recorded videos of software tool usage trajectories;",
+          "a sixth training dataset including images of open-domain web pages;",
+          "a seventh training dataset including images of specific-domain web pages;",
+          "and an eighth training dataset including images of agentic trajectories of the agent [unreadable image] performing interface automation task workflows;",
+          "receiving, via a user interface, a natural language input indicating a user intent to interact with the software user interface;",
+          "generating, by the Transformer based vision language model, a workflow indicating a past action and a next action relating to the user intent based on an input comprising a screenshot of the software user interface and the [+natural+] [-natura-] language input;",
+          "executing, by the artificial intelligence agent, at least the next action in a form of a machine-actuated command on the software user interface thereby resulting in a change in the software user interface; and",
+          "iteratively generating, by the Transformer based vision language model, next machine-actuated commands based on a screenshot of a changed software user interface; and",
+          "iteratively executing, by the artificial intelligence agent, the next machine- actuated commands thereby causing a task described by the natural language input to be completed by interacting with the software user interface."
+        ],
+        "amended": true
+      }
+    ]
   },
   {
     "date": "2025-11-06",
