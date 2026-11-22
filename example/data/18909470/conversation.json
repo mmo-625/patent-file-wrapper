@@ -91,29 +91,6 @@
           "a seventh training dataset including images of specific-domain web pages; and/or an eighth training dataset including images of agentic trajectories of the agent performing interface automation task workflows."
         ],
         "amended": false
-      },
-      {
-        "number": 19,
-        "status": "Withdrawn",
-        "lines": [
-          "A system for automating software usage, comprising:",
-          "an agent configured to interface automation task workflows comprising a sequence of steps,",
-          "wherein the agent is trained on a sequence of training datasets,",
-          "wherein respective training datasets in the sequence of training datasets correspond to respective steps in the sequence of steps, and",
-          "wherein a particular training dataset in the sequence of training dataset corresponding to a particular step in the sequence of steps includes a multitude of interface images of the particular step being performed over multitude of iterations."
-        ],
-        "amended": false
-      },
-      {
-        "number": 20,
-        "status": "Withdrawn",
-        "lines": [
-          "A system for automating software usage, comprising:",
-          "an agent configured to interface automation task workflows, wherein the agent is trained on high-fidelity training datasets comprising:",
-          "interface images labelled with data identifying interface elements; and",
-          "interface images labelled with data identifying interface operations applied on the interface elements."
-        ],
-        "amended": false
       }
     ]
   },
@@ -246,30 +223,6 @@
           "[+iteratively executing, by the artificial intelligence agent, the next machine- actuated commands thereby causing a task described by the natural language input to be completed by interacting with the software user interface.+]"
         ],
         "amended": true
-      },
-      {
-        "number": 19,
-        "status": "Withdrawn",
-        "lines": [
-          "A system for automating software usage, comprising:",
-          "an agent configured to interface automation task workflows comprising a sequence of steps,",
-          "wherein the agent is trained on a sequence of training datasets,",
-          "wherein respective training datasets in the sequence of training datasets correspond to respective steps in the sequence of steps, and",
-          "wherein a particular training dataset in the sequence of training dataset corresponding to a particular step in the sequence of steps includes a multitude of interface images of the particular step being performed over multitude of iterations."
-        ],
-        "amended": false
-      },
-      {
-        "number": 20,
-        "status": "Withdrawn",
-        "lines": [
-          "A system for automating software usage, comprising:",
-          "an agent configured to interface automation task workflows, wherein the agent is trained on high-fidelity training datasets comprising:",
-          "interface images labelled with data identifying interface elements; and",
-          "interface images labelled with data identifying interface operations applied on the interface elements.",
-          "LAW OFFICES OF AYNES AND BOONE, Lu~.801 N HARWOOD ST SUITE 2300 DALLAS,TX 75201 214-651-5000 FAX 214-200-0853"
-        ],
-        "amended": false
       }
     ]
   },

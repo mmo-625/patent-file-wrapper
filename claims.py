@@ -9,7 +9,7 @@ Reads the text xml_parser.py writes for a claims XML:
   [+a processor; and+]            <- amendments marked [+inserted+] / [-deleted-]
   ...
 A claim is independent when it doesn't refer back to another claim ("of claim 1").
-Canceled claims are skipped; withdrawn claims are kept and labelled.
+Canceled and withdrawn claims are skipped.
 
 From another script (e.g. conversation.py):
   import claims
@@ -38,11 +38,12 @@ def split_claims(text):
 
 
 def independent_claims(text):
-    """The independent claims, each {number, status, lines, amended}; canceled ones skipped."""
+    """The independent claims, each {number, status, lines, amended}; canceled and
+    withdrawn claims are skipped."""
     result = []
     for number, status, lines in split_claims(text):
-        if not lines or "cancel" in status.lower():
-            continue
+        if not lines or any(word in status.lower() for word in ("cancel", "withdrawn")):
+            continue  # canceled or withdrawn: no longer being examined
         lines = [NUMBER_PREFIX.sub("", lines[0], count=1)] + lines[1:]
         if status.lower() in ("", "unknown"):  # first filing: claims carry no status yet
             status = "Original"

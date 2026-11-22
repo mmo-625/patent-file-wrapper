@@ -124,7 +124,7 @@ Anything filtered out or not recognized is printed, never silently dropped.
 - **Independent claims:** each claims filing (CLM) gets one collapsible button per
   independent claim, showing the full claim text. In amended claims, insertions are green and
   deletions red and struck through. `claims.py` reads them from the parsed claims text. 
-  Canceled claims are skipped, and withdrawn claims are labelled.
+  Canceled and withdrawn claims are skipped.
 - **Senders:** examiner-written documents are shown as **Examiner**. Other office notices
   are shown as **USPTO**. The list is `EXAMINER_CODES` in `conversation.py`.
 
