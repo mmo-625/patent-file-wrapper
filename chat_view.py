@@ -12,6 +12,8 @@ Applicant messages are on the right (blue); Examiner and USPTO messages are on t
 left, each in its own color. The page is self-contained: inline CSS, no JavaScript.
 Messages with a "rejections" key (see rejections.py) get a collapsible "Rejection
 breakdown" under the bubble: a table of rejections and the cited references.
+A summary card at the top counts the key events (restrictions, rejections, responses,
+interviews, allowance) from each message's "code", plus the filing-to-grant time.
 Messages with a "claims" key (see claims.py) get one collapsible button per independent
 claim; amendments show as green insertions and struck-through red deletions.
 """
@@ -90,6 +92,11 @@ main { max-width:720px; margin:0 auto; padding:8px 16px 32px; }
 .claim ins { color:var(--ins); background:var(--ins-bg); text-decoration:underline; }
 .claim del { color:var(--del); background:var(--del-bg); text-decoration:line-through; }
 .claim .legend { font-size:11px; color:var(--muted); margin:0 0 8px; }
+.summary { background:var(--bar); border:1px solid var(--line); border-radius:14px;
+           padding:10px 14px; margin:12px 0 4px; text-align:center; font-size:13px; color:var(--muted); }
+.summary p { margin:2px 0; }
+.summary strong { color:var(--text); }
+.summary span { white-space:nowrap; }
 footer { max-width:720px; margin:0 auto; padding:16px 16px 32px; border-top:1px solid var(--line);
          text-align:center; font-size:12px; color:var(--muted); }
 """
@@ -159,6 +166,55 @@ def claims_html(found):
     return "".join(parts)
 
 
+# Summary card categories: label -> document codes. Responses arrive as several documents
+# on one day (e.g. ELC. + CLM + REM), so they are counted once per date.
+SUMMARY = [("restriction", {"CTRS"}),
+           ("rejection", {"CTNF", "CTFR"}),
+           ("response", {"ELC.", "A...", "A.NE", "AMSB", "RCEX", "SA..", "A.QU", "REM"}),
+           ("interview", {"EXIN"}),
+           ("allowance", {"NOA"})]
+COUNT_BY_DATE = {"response"}
+FINAL_REJECTION = "CTFR"
+
+
+def months_between(start, end):
+    """Whole months from one ISO date to another, or None if either is missing/invalid."""
+    try:
+        a, b = Date.fromisoformat(start), Date.fromisoformat(end)
+    except (TypeError, ValueError):
+        return None
+    return (b.year - a.year) * 12 + b.month - a.month - (b.day < a.day)
+
+
+def summary_html(messages, case):
+    """Card with event counts and the filing-to-grant line; '' when there's nothing to show."""
+    counts = []
+    for label, codes in SUMMARY:
+        hits = [m for m in messages if m.get("code") in codes]
+        n = len({m.get("date") for m in hits}) if label in COUNT_BY_DATE else len(hits)
+        if not n:
+            continue
+        text = f"<strong>{n}</strong> {label}{'s' if n != 1 else ''}"
+        finals = sum(m.get("code") == FINAL_REJECTION for m in hits)
+        if label == "rejection" and finals:
+            text += f" ({finals} final)"
+        counts.append(f"<span>{text}</span>")  # keeps "1 allowance" on one line
+    case = case or {}
+    filed, granted = case.get("filingDate"), case.get("grantDate")
+    dates = ""
+    if filed and granted:
+        months = months_between(filed, granted)
+        dates = (f"Filed <strong>{escape(nice_date(filed))}</strong> → Granted "
+                 f"<strong>{escape(nice_date(granted))}</strong>"
+                 + (f" ({months} month{'s' if months != 1 else ''})" if months is not None else ""))
+    elif filed:
+        status = case.get("applicationStatusDescriptionText")
+        dates = f"Filed <strong>{escape(nice_date(filed))}</strong>" + (f" · {escape(status)}" if status else "")
+    lines = [" · ".join(counts), dates]
+    lines = "".join(f"<p>{line}</p>" for line in lines if line)
+    return f'<section class="summary">{lines}</section>' if lines else ""
+
+
 def render(messages, case=None, out_path="conversation.html"):
     """Write the chat page for a list of {date, sender, message}; return its path."""
     rows, last_date, last_sender = [], object(), None
@@ -180,7 +236,7 @@ def render(messages, case=None, out_path="conversation.html"):
     page = (f'<!doctype html>\n<html lang="en"><head><meta charset="utf-8">'
             f'<meta name="viewport" content="width=device-width, initial-scale=1">'
             f"<title>{escape(title)}</title><style>{CSS}</style></head><body>"
-            f"{header_html(case)}<main>\n" + "\n".join(rows) + "\n</main>"
+            f"{header_html(case)}<main>\n{summary_html(messages, case)}\n" + "\n".join(rows) + "\n</main>"
             f"<footer>{escape(DISCLAIMER)}</footer></body></html>\n")
     out_path = Path(out_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)

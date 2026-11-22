@@ -61,7 +61,8 @@ def build_conversation(timeline, out_path=None, verbose=True):
         if not message:
             skipped.append(f"{entry.get('date')} {entry.get('code')}")
             continue
-        item = {"date": entry.get("date"), "sender": sender(entry), "message": message}
+        item = {"date": entry.get("date"), "sender": sender(entry), "message": message,
+                "code": entry.get("code")}  # document code, used for the page summary
         breakdown = rejection_breakdown(entry)
         if breakdown:
             item["rejections"] = breakdown

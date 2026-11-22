@@ -2,12 +2,14 @@
   {
     "date": "2024-10-08",
     "sender": "Applicant",
-    "message": "I've filed a patent application for Training Data for Training Artificial Intelligence Agents to Automate Multimodal Software Usage."
+    "message": "I've filed a patent application for Training Data for Training Artificial Intelligence Agents to Automate Multimodal Software Usage.",
+    "code": "FILED"
   },
   {
     "date": "2024-10-08",
     "sender": "Applicant",
     "message": "The invention comprises an intelligent agent designed to automate software workflows through training on a comprehensive and diverse array of datasets. These datasets include multimodal web pages, software usage videos, and annotated interface images that capture specific tool trajectories and action-based tasks. By utilizing these multi-layered data inputs, the system is engineered to accurately perform, ground, and predict complex interface operations across both open and specific-domain software environments.",
+    "code": "CLM",
     "claims": [
       {
         "number": 1,
@@ -54,27 +56,32 @@
   {
     "date": "2024-10-08",
     "sender": "Applicant",
-    "message": "I've requested Track One prioritized examination for this application."
+    "message": "I've requested Track One prioritized examination for this application.",
+    "code": "TRACK1.REQ"
   },
   {
     "date": "2024-10-24",
     "sender": "USPTO",
-    "message": "The application is complete and has been accepted for examination."
+    "message": "The application is complete and has been accepted for examination.",
+    "code": "COMP"
   },
   {
     "date": "2025-01-15",
     "sender": "Examiner",
-    "message": "The claims of your application have been restricted into three distinct inventions: claims 1-18 (multi-dataset agent), claim 19 (automation workflow agent), and claim 20 (labeled interface image agent). Please elect one of these inventions for examination and identify the corresponding claims to be retained."
+    "message": "The claims of your application have been restricted into three distinct inventions: claims 1-18 (multi-dataset agent), claim 19 (automation workflow agent), and claim 20 (labeled interface image agent). Please elect one of these inventions for examination and identify the corresponding claims to be retained.",
+    "code": "CTRS"
   },
   {
     "date": "2025-03-12",
     "sender": "Applicant",
-    "message": "I've responded to the restriction requirement with an election."
+    "message": "I've responded to the restriction requirement with an election.",
+    "code": "ELC."
   },
   {
     "date": "2025-03-12",
     "sender": "Applicant",
     "message": "The current state of the invention focuses on a software automation agent trained on a highly diversified set of multimodal datasets, including interleaved text-image documents, software usage videos, and crawled web page data. By integrating these expansive data sources, the system is designed to perform complex interface tasks ranging from element localization to predictive action sequencing. This configuration allows the agent to navigate both open-domain and specific-domain digital environments by leveraging high-fidelity annotations and synthetic task workflows.",
+    "code": "CLM",
     "claims": [
       {
         "number": 1,
@@ -97,12 +104,14 @@
   {
     "date": "2025-03-12",
     "sender": "Applicant",
-    "message": "In response to the Restriction Requirement dated January 15, 2025, Applicant elects Invention I (claims 1-18) without traverse. Claims 19 and 20 are withdrawn from consideration at this time, and Applicant respectfully requests that the application be advanced to examination."
+    "message": "In response to the Restriction Requirement dated January 15, 2025, Applicant elects Invention I (claims 1-18) without traverse. Claims 19 and 20 are withdrawn from consideration at this time, and Applicant respectfully requests that the application be advanced to examination.",
+    "code": "REM"
   },
   {
     "date": "2025-04-09",
     "sender": "Examiner",
     "message": "This non-final action rejects claims 1-18 of your application under 35 U.S.C. §§ 101, 102, and 103, and identifies various informalities and indefiniteness issues under 35 U.S.C. § 112. Please review the specific rejections and objections provided in the detailed action and submit a responsive amendment or argument to address these concerns.",
+    "code": "CTNF",
     "rejections": {
       "rejections": [
         {
@@ -185,22 +194,26 @@
   {
     "date": "2025-05-16",
     "sender": "Applicant",
-    "message": "Applicant has amended the specification to correct the application numbers, ensuring consistency with the Application Data Sheet. No new matter has been added, and the application is now believed to be in condition for allowance."
+    "message": "Applicant has amended the specification to correct the application numbers, ensuring consistency with the Application Data Sheet. No new matter has been added, and the application is now believed to be in condition for allowance.",
+    "code": "REM"
   },
   {
     "date": "2025-05-29",
     "sender": "Examiner",
-    "message": "During our interview on May 27, 2025, you clarified that the supplemental response filed on May 16, 2025, was intended solely to correct priority information and not as a substantive reply to the April 9, 2025, Non-Final Office Action. I have agreed to enter this supplemental response into the record for the next Office Action, though no agreement regarding claim allowability was reached at this time."
+    "message": "During our interview on May 27, 2025, you clarified that the supplemental response filed on May 16, 2025, was intended solely to correct priority information and not as a substantive reply to the April 9, 2025, Non-Final Office Action. I have agreed to enter this supplemental response into the record for the next Office Action, though no agreement regarding claim allowability was reached at this time.",
+    "code": "EXIN"
   },
   {
     "date": "2025-07-09",
     "sender": "Applicant",
-    "message": "I've filed an amendment in response to the non-final rejection."
+    "message": "I've filed an amendment in response to the non-final rejection.",
+    "code": "A..."
   },
   {
     "date": "2025-07-09",
     "sender": "Applicant",
     "message": "The invention now describes a system that utilizes a Transformer-based vision language model to automate complex user interface interactions based on natural language intent. The system is trained on an extensive and diverse array of datasets—ranging from multimodal documents to recorded interaction trajectories—allowing it to iteratively generate and execute machine-actuated commands in response to real-time changes on the software screen.",
+    "code": "CLM",
     "claims": [
       {
         "number": 1,
@@ -229,12 +242,14 @@
   {
     "date": "2025-07-09",
     "sender": "Applicant",
-    "message": "Applicant has amended claims 1 and 16 to address the outstanding rejections under 35 U.S.C. §§ 101, 102, 103, and 112, clarifying the iterative nature of the artificial intelligence agent's workflow automation. We respectfully submit that these amendments integrate the claimed features into a practical, technical application that overcomes the cited references, placing the application in condition for allowance."
+    "message": "Applicant has amended claims 1 and 16 to address the outstanding rejections under 35 U.S.C. §§ 101, 102, 103, and 112, clarifying the iterative nature of the artificial intelligence agent's workflow automation. We respectfully submit that these amendments integrate the claimed features into a practical, technical application that overcomes the cited references, placing the application in condition for allowance.",
+    "code": "REM"
   },
   {
     "date": "2025-08-14",
     "sender": "Examiner",
     "message": "This action is made final as the recent amendments necessitate new rejections under 35 U.S.C. §§ 101 and 112. Specifically, the claims are rejected for being directed to a computer program per se and for failing to clearly link the claimed system to structural components. You are encouraged to amend the claims to include structural features and correct informalities to overcome these issues.",
+    "code": "CTFR",
     "rejections": {
       "rejections": [
         {
@@ -256,22 +271,26 @@
   {
     "date": "2025-09-25",
     "sender": "USPTO",
-    "message": "The application has been published."
+    "message": "The application has been published.",
+    "code": "PG-ISSUE"
   },
   {
     "date": "2025-10-09",
     "sender": "Examiner",
-    "message": "During our telephonic interview on October 7, 2025, we discussed your proposed amendment to claim 1 to recite a processor and memory storing executable instructions. I confirmed that this amendment would successfully overcome the outstanding 112 and 101 rejections. Please submit the formal amendment to proceed with the application."
+    "message": "During our telephonic interview on October 7, 2025, we discussed your proposed amendment to claim 1 to recite a processor and memory storing executable instructions. I confirmed that this amendment would successfully overcome the outstanding 112 and 101 rejections. Please submit the formal amendment to proceed with the application.",
+    "code": "EXIN"
   },
   {
     "date": "2025-11-06",
     "sender": "Applicant",
-    "message": "I've filed a response to the final rejection."
+    "message": "I've filed a response to the final rejection.",
+    "code": "A.NE"
   },
   {
     "date": "2025-11-06",
     "sender": "Applicant",
     "message": "The invention now explicitly defines the system as a hardware-based architecture comprising a processor and memory to execute the specialized instructions for the artificial intelligence agent. These structural updates ensure the system effectively leverages a broad, multi-dataset training regimen to facilitate the automated, iterative execution of software interface tasks via natural language inputs.",
+    "code": "CLM",
     "claims": [
       {
         "number": 1,
@@ -302,21 +321,25 @@
   {
     "date": "2025-11-06",
     "sender": "Applicant",
-    "message": "In accordance with our recent interview, I have amended claim 1 to address the § 101 and § 112 rejections and have canceled claims 19-20. As these amendments were made as suggested to overcome the identified issues, I respectfully request reconsideration and notice of allowance for the pending claims."
+    "message": "In accordance with our recent interview, I have amended claim 1 to address the § 101 and § 112 rejections and have canceled claims 19-20. As these amendments were made as suggested to overcome the identified issues, I respectfully request reconsideration and notice of allowance for the pending claims.",
+    "code": "REM"
   },
   {
     "date": "2025-12-02",
     "sender": "Examiner",
-    "message": "The application has been allowed. Once the issue fee is paid, the patent will be granted."
+    "message": "The application has been allowed. Once the issue fee is paid, the patent will be granted.",
+    "code": "NOA"
   },
   {
     "date": "2026-03-11",
     "sender": "USPTO",
-    "message": "The patent will issue as U.S. Patent No. 12585862."
+    "message": "The patent will issue as U.S. Patent No. 12585862.",
+    "code": "ISSUE.NTF"
   },
   {
     "date": "2026-03-24",
     "sender": "USPTO",
-    "message": "U.S. Patent No. 12585862 has been granted for Training Data for Training Artificial Intelligence Agents to Automate Multimodal Software Usage."
+    "message": "U.S. Patent No. 12585862 has been granted for Training Data for Training Artificial Intelligence Agents to Automate Multimodal Software Usage.",
+    "code": "EGRANT.NTF"
   }
 ]
