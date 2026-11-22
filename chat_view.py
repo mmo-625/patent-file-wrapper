@@ -10,12 +10,16 @@ From another script (e.g. run.py):
 
 Applicant messages are on the right (blue); Examiner and USPTO messages are on the
 left, each in its own color. The page is self-contained: inline CSS, no JavaScript.
+Messages with a "rejections" key (see rejections.py) get a collapsible "Rejection
+breakdown" under the bubble: a table of rejections and the cited references.
 """
 import json
 import sys
 from datetime import date as Date
 from html import escape
 from pathlib import Path
+
+from rejections import patent_links
 
 # sender -> (side, CSS class). Anything not listed goes left in plain gray.
 # Shown in the page footer.
@@ -54,6 +58,22 @@ main { max-width:720px; margin:0 auto; padding:8px 16px 32px; }
 .examiner .bubble { background:var(--examiner); color:var(--examiner-text); }
 .uspto .bubble { background:var(--uspto); color:var(--uspto-text); }
 .other .bubble { background:var(--other); color:var(--other-text); }
+.breakdown { max-width:70%; margin:4px 0 0; font-size:13px; }
+@media (max-width:480px) { .breakdown { max-width:100%; } }
+.breakdown summary { cursor:pointer; color:var(--muted); font-weight:600; padding:2px 12px;
+                     list-style-position:inside; }
+.breakdown[open] summary { margin-bottom:6px; }
+.breakdown .panel { background:var(--examiner); color:var(--examiner-text); border-radius:14px;
+                    padding:10px 12px; overflow-x:auto; }
+.breakdown table { border-collapse:collapse; width:100%; }
+.breakdown th, .breakdown td { text-align:left; vertical-align:top; padding:4px 8px 4px 0;
+                               border-bottom:1px solid var(--line); }
+.breakdown th { font-size:11px; text-transform:uppercase; letter-spacing:.03em; color:var(--muted); }
+.breakdown td.statute { white-space:nowrap; }
+.breakdown h4 { margin:12px 0 4px; font-size:11px; text-transform:uppercase; color:var(--muted); }
+.breakdown ul { margin:0; padding-left:18px; }
+.breakdown li { margin:2px 0; }
+.breakdown a { color:inherit; }
 footer { max-width:720px; margin:0 auto; padding:16px 16px 32px; border-top:1px solid var(--line);
          text-align:center; font-size:12px; color:var(--muted); }
 """
@@ -79,6 +99,29 @@ def header_html(case):
     return f"<header><h1>{escape(title)}</h1>" + (f"<p>{details}</p>" if details else "") + "</header>"
 
 
+def citation_html(citation):
+    """Escaped citation text with any US patent numbers linked to Google Patents."""
+    html = escape(citation)
+    for number, url in patent_links(citation):
+        html = html.replace(escape(number), f'<a href="{escape(url)}">{escape(number)}</a>', 1)
+    return html
+
+
+def breakdown_html(breakdown):
+    """Collapsible rejection table + reference list (native <details>, no JavaScript)."""
+    rows = "".join(
+        f'<tr><td class="statute">§ {escape(r["statute"])}</td><td>{escape(r["ground"])}</td>'
+        f'<td>{escape(r["claims"])}</td><td>{escape(" + ".join(r["references"])) or "—"}</td></tr>'
+        for r in breakdown.get("rejections") or [])
+    refs = "".join(f'<li><strong>{escape(ref["short"])}</strong>: {citation_html(ref["citation"])}</li>'
+                   for ref in breakdown.get("references") or [])
+    count = len(breakdown.get("rejections") or [])
+    return (f'<details class="breakdown"><summary>Rejection breakdown ({count})</summary>'
+            f'<div class="panel"><table><thead><tr><th>Statute</th><th>Ground</th><th>Claims</th>'
+            f'<th>References</th></tr></thead><tbody>{rows}</tbody></table>'
+            + (f"<h4>References</h4><ul>{refs}</ul>" if refs else "") + "</div></details>")
+
+
 def render(messages, case=None, out_path="conversation.html"):
     """Write the chat page for a list of {date, sender, message}; return its path."""
     rows, last_date, last_sender = [], object(), None
@@ -91,7 +134,8 @@ def render(messages, case=None, out_path="conversation.html"):
         first = sender != last_sender  # name label only on the first of a run
         label = f'<div class="who">{escape(sender)}</div>' if first else ""
         rows.append(f'<div class="row {side} {css}{" first" if first else ""}">{label}'
-                    f'<div class="bubble">{escape(str(m.get("message") or "").strip())}</div></div>')
+                    f'<div class="bubble">{escape(str(m.get("message") or "").strip())}</div>'
+                    + (breakdown_html(m["rejections"]) if m.get("rejections") else "") + "</div>")
         last_sender = sender
 
     title = (case or {}).get("inventionTitle") or "Patent conversation"

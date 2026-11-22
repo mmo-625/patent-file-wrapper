@@ -3,6 +3,8 @@
 Usage:  python3 conversation.py <timeline.json> [conversation.json]
   conversation.json defaults to the same folder as timeline.json.
 Entries without a message (e.g. not summarized yet) are skipped and listed.
+Rejections (CTNF / CTFR) also get an optional "rejections" key: the rejection table and
+cited references from rejections.py, shown as a collapsible breakdown in chat_view.py.
 
 From another script (e.g. run.py):
   import conversation
@@ -12,9 +14,13 @@ import json
 import sys
 from pathlib import Path
 
+import rejections
+
 # Documents written by the examiner: these show sender "Examiner". Other USPTO entries
 # (application complete, publication, issue/grant notices) stay "USPTO".
 EXAMINER_CODES = {"CTRS", "CTNF", "CTFR", "CTAV", "CTEQ", "EXIN", "NOA"}
+# Office actions whose text gets a rejection breakdown (non-final and final rejections).
+REJECTION_CODES = {"CTNF", "CTFR"}
 
 
 def sender(entry):
@@ -22,6 +28,14 @@ def sender(entry):
     if entry.get("code") in EXAMINER_CODES:
         return "Examiner"
     return entry.get("source")
+
+
+def rejection_breakdown(entry):
+    """Rejection table + references for a rejection entry with a text file, else None."""
+    path = entry.get("text_file")
+    if entry.get("code") not in REJECTION_CODES or not path or not Path(path).exists():
+        return None
+    return rejections.extract(Path(path).read_text(encoding="utf-8"))
 
 
 def build_conversation(timeline, out_path=None, verbose=True):
@@ -34,8 +48,11 @@ def build_conversation(timeline, out_path=None, verbose=True):
         if not message:
             skipped.append(f"{entry.get('date')} {entry.get('code')}")
             continue
-        messages.append({"date": entry.get("date"), "sender": sender(entry),
-                         "message": message})
+        item = {"date": entry.get("date"), "sender": sender(entry), "message": message}
+        breakdown = rejection_breakdown(entry)
+        if breakdown:
+            item["rejections"] = breakdown
+        messages.append(item)
 
     if out_path:
         out_path = Path(out_path)

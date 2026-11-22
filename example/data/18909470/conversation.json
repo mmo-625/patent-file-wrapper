@@ -42,7 +42,85 @@
   {
     "date": "2025-04-09",
     "sender": "Examiner",
-    "message": "This non-final action rejects claims 1-18 of your application under 35 U.S.C. §§ 101, 102, and 103, and identifies various informalities and indefiniteness issues under 35 U.S.C. § 112. Please review the specific rejections and objections provided in the detailed action and submit a responsive amendment or argument to address these concerns."
+    "message": "This non-final action rejects claims 1-18 of your application under 35 U.S.C. §§ 101, 102, and 103, and identifies various informalities and indefiniteness issues under 35 U.S.C. § 112. Please review the specific rejections and objections provided in the detailed action and submit a responsive amendment or argument to address these concerns.",
+    "rejections": {
+      "rejections": [
+        {
+          "statute": "112(b)",
+          "ground": "indefinite",
+          "claims": "16",
+          "references": []
+        },
+        {
+          "statute": "101",
+          "ground": "software per se",
+          "claims": "1-18",
+          "references": []
+        },
+        {
+          "statute": "101",
+          "ground": "abstract idea",
+          "claims": "1-18",
+          "references": []
+        },
+        {
+          "statute": "102(a)(1)",
+          "ground": "anticipated",
+          "claims": "1-18",
+          "references": [
+            "Lu"
+          ]
+        },
+        {
+          "statute": "103",
+          "ground": "unpatentable",
+          "claims": "5-9 and 13",
+          "references": [
+            "Lu",
+            "Gur"
+          ]
+        },
+        {
+          "statute": "103",
+          "ground": "unpatentable",
+          "claims": "10 and 12",
+          "references": [
+            "Lu",
+            "Gur",
+            "Liu"
+          ]
+        },
+        {
+          "statute": "103",
+          "ground": "unpatentable",
+          "claims": "11",
+          "references": [
+            "Lu",
+            "Gur",
+            "Liu",
+            "Zhang"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "short": "Lu",
+          "citation": "“WebLinx: Real-World Website Navigation with Multi-Turn Dialogue” by Lu et al."
+        },
+        {
+          "short": "Gur",
+          "citation": "“A Real-World Web Agent with Planning, Long Context Understanding, and Program Synthesis” by Gur et al."
+        },
+        {
+          "short": "Liu",
+          "citation": "“VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding” by Liu et al."
+        },
+        {
+          "short": "Zhang",
+          "citation": "“Personalizing Dialogue Agents: I have a dog, do you have pets too?” by Zhang et al."
+        }
+      ]
+    }
   },
   {
     "date": "2025-05-16",
@@ -72,7 +150,24 @@
   {
     "date": "2025-08-14",
     "sender": "Examiner",
-    "message": "This action is made final as the recent amendments necessitate new rejections under 35 U.S.C. §§ 101 and 112. Specifically, the claims are rejected for being directed to a computer program per se and for failing to clearly link the claimed system to structural components. You are encouraged to amend the claims to include structural features and correct informalities to overcome these issues."
+    "message": "This action is made final as the recent amendments necessitate new rejections under 35 U.S.C. §§ 101 and 112. Specifically, the claims are rejected for being directed to a computer program per se and for failing to clearly link the claimed system to structural components. You are encouraged to amend the claims to include structural features and correct informalities to overcome these issues.",
+    "rejections": {
+      "rejections": [
+        {
+          "statute": "112(b)",
+          "ground": "indefinite",
+          "claims": "1-18",
+          "references": []
+        },
+        {
+          "statute": "101",
+          "ground": "software per se",
+          "claims": "1-18",
+          "references": []
+        }
+      ],
+      "references": []
+    }
   },
   {
     "date": "2025-09-25",
