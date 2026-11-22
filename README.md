@@ -1,4 +1,4 @@
-# Patent File Wrapper → Conversation
+# Patent Prosecution Thread
 
 Turns a U.S. patent application's prosecution history (its "file wrapper") into a
 readable, chronological conversation between the **applicant**, the **examiner**, and
@@ -16,7 +16,16 @@ Give it an application number and it will:
 6. Write `conversation.json` and a text-message style `conversation.html`.
 
 See [`example/data/18909470/`](example/data/18909470/) for a complete run on
-application 18/909,470. Open `conversation.html` in a browser to see the result.
+application 18/909,470. Open `conversation.html` in a browser or see the result [here](https://mmo-625.github.io/patent-file-wrapper/)
+## Example output
+
+Generated from the public prosecution history of application 18/909,470. Each screenshot shows part of the timeline.
+
+<img src="docs/02-restriction-and-election.png" alt="Restriction requirement and election" width="500">
+Restriction (Jan–Mar 2025). The examiner divides the claims into three inventions, and the applicant elects claims 1–18 without traverse.
+
+<img src="docs/03-interview-to-allowance.png" alt="Interview, amendment, and allowance" width="500">
+Resolution (Oct–Dec 2025). After an examiner interview, the applicant amends claim 1 to recite a processor and memory and cancels claims 19–20, and the application is allowed.
 
 ## Setup
 
