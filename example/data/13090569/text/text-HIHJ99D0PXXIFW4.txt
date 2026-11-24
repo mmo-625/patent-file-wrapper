@@ -1,0 +1,47 @@
+Source: example/data/13090569/files/2013-07-02_CTFR_HIHJ99D0PXXIFW4.xml:13090569/HIHJ99D0PXXIFW4/Final Rejection.xml
+Type: OutgoingDocument
+Markup: [+inserted+]  [-deleted-]
+
+## DETAILED ACTION
+
+## Drawings
+The drawings are objected to under 37 CFR 1.83(a). The drawings must show every feature of the invention specified in the claims. Therefore, the touch sensor switch (claim 15) must be shown or the feature(s) canceled from the claim(s). No new matter should be entered.
+Corrected drawing sheets in compliance with 37 CFR 1.121(d) are required in reply to the Office action to avoid abandonment of the application. Any amended replacement drawing sheet should include all of the figures appearing on the immediate prior version of the sheet, even if only one figure is being amended. The figure or figure number of an amended drawing should not be labeled as “amended.” If a drawing figure is to be canceled, the appropriate figure must be removed from the replacement sheet, and where necessary, the remaining figures must be renumbered and appropriate changes made to the brief description of the several views of the drawings for consistency. Additional replacement sheets may be necessary to show the renumbering of the remaining figures. Each drawing sheet submitted after the filing date of an application must be labeled in the top margin as either “Replacement Sheet” or “New Sheet” pursuant to 37 CFR 1.121(d). If the changes are not accepted by the examiner, the applicant will be notified and informed of any required corrective action in the next Office action. The objection to the drawings will not be held in abeyance.
+
+## Claim Rejections - 35 USC § 112
+The following is a quotation of 35 U.S.C. 112(b):
+(b) CONCLUSION.—The specification shall conclude with one or more claims particularly pointing out and distinctly claiming the subject matter which the inventor or a joint inventor regards as the invention.
+The following is a quotation of 35 U.S.C. 112 (pre-AIA), second paragraph:
+The specification shall conclude with one or more claims particularly pointing out and distinctly claiming the subject matter which the applicant regards as his invention.
+Claims 1, 2 and 10-13 are rejected under 35 U.S.C. 112(b) or 35 U.S.C. 112 (pre-AIA), second paragraph, as being indefinite for failing to particularly point out and distinctly claim the subject matter which the inventor or a joint inventor, or for pre-AIA the applicant regards as the invention.
+In claim 1 lines 10-11 “the digital audio file” does not have proper antecedent basis. Line 5 of claim 1 recites “at least two digital audio files." Since the at least two files are not differentiated, it cannot be determined which one is referred to in lines 10-11. Similarly, in claims 10-12 “the digital audio file” is confusing since these claims depend from claim 8 which recites “two or more digital audio files." In claim 13 it is not clear if “a first digital audio file” is one of the “two or more digital audio files” from claim 8 or a further, third, audio file.
+In claim 2 “the at least two switches” lacks antecedent basis. Only one switch is recited in claim 1, as amended.
+Correction is required.
+
+## Claim Rejections - 35 USC § 103
+The following is a quotation of pre-AIA 35 U.S.C. 103(a) which forms the basis for all obviousness rejections set forth in this Office action:
+(a) A patent may not be obtained though the invention is not identically disclosed or described as set forth in section 102 of this title, if the differences between the subject matter sought to be patented and the prior art are such that the subject matter as a whole would have been obvious at the time the invention was made to a person having ordinary skill in the art to which said subject matter pertains. Patentability shall not be negatived by the manner in which the invention was made.
+Claims 1-5, 8-15 and 17-20 are rejected under pre-AIA 35 U.S.C. 103(a) as being unpatentable over Avery in view of Ellman et al. US publication 2005/0287913 A1 (Ellman).
+Avery teaches a greeting card comprising body 10 (Figure 1) having a plurality of panels 21, 22A, 22B, with indicia thereon wherein two of the panels (22A and 22B) form enclosed cavity 24 (Figures 2 and 3). Cavity includes an electronics module operative to save and playback at least one audio file upon activation of a slide switch (Figure 6). The card must be open for this switch to be activated.
+Avery does not teach a touch sensitive switch which requires constant user interaction to replay the entirety of an audio file however this is well known in the art as shown by Ellman. Ellman teaches a switch [0071] wherein an audio file (laughing) will play in response to rubbing. After the rubbing stops, the audio file (laughing) will stop. It would have been obvious to a person having ordinary skill in the art to utilize a touch sensitive switch as shown by Ellman in the display of Avery to provide an improved display and increased entertainment for the recipient (as is taught by Ellman).
+Avery and Ellman do not specifically teach the type of messages display by the indicia or played from the memory, however the particular indicia are considered to be entirely a matter of design choice. The examiner takes official notice of many types of greeting cards that include both sung and spoken messages as well as children’s toys and books which provide instructions. It would have been obvious to one of ordinary skill to utilize the particular message desired to be conveyed to the recipient.
+Regarding claims 11 and 12, Ellman does not specifically teach changing the speed or volume with the touch sensitive switch however these are well known controls for a display. Ellman teaches using the touch switch to provide information to the user (response from the doll). It would have been obvious to one of ordinary skill to utilize such a switch for various ways of controlling a display.
+Claims 6 and 7 are rejected under pre-AIA 35 U.S.C. 103(a) as being unpatentable over Avery and Ellman as applied to claim 1 above, and further in view of Feuer, US patent 4,200,222 (Feuer).
+Avery and Ellman do not teach a card having an aperture in one panel or a die cut piece attached to the body however these features are well known in the art as shown by Feuer. Feuer teaches a card including aperture 24 in one panel for viewing an additional piece 20 attached to the card. It would have been obvious to one of ordinary skill to utilize such additional features in the card of Avery (as modified by Ellman) to provide further entertainment and decoration for the viewer.
+
+## Response to Arguments
+Regarding the Drawings, Applicant states that the touch sensor switch is described in the Specification as element 24, however element 24 is the sensor switch plate.
+Applicant’s arguments with respect to claims have been considered but are moot because the arguments do not apply to the references being used in the current rejection.
+The Ellman reference has been applied in response to Applicant’s amendments to the claims regarding the continuous motion and ceasing of playback when motion stops in reference to the touch sensor switch.
+
+## Conclusion
+Applicant's amendment necessitated the new ground(s) of rejection presented in this Office action. Accordingly, THIS ACTION IS MADE FINAL. See MPEP § 706.07(a). Applicant is reminded of the extension of time policy as set forth in 37 CFR 1.136(a).
+A shortened statutory period for reply to this final action is set to expire THREE MONTHS from the mailing date of this action. In the event a first reply is filed within TWO MONTHS of the mailing date of this final action and the advisory action is not mailed until after the end of the THREE-MONTH shortened statutory period, then the shortened statutory period will expire on the date the advisory action is mailed, and any extension fee pursuant to 37 CFR 1.136(a) will be calculated from the mailing date of the advisory action. In no event, however, will the statutory period for reply expire later than SIX MONTHS from the date of this final action.
+Any inquiry concerning this communication or earlier communications from the examiner should be directed to JOANNE SILBERMANN whose telephone number is (571)272-6653. The examiner can normally be reached on M-F 5:30 - 2:00.
+If attempts to reach the examiner by telephone are unsuccessful, the examiner’s supervisor, Paul Dickson can be reached on 571-272-7742. The fax phone number for the organization where this application or proceeding is assigned is 571-273-8300.
+Information regarding the status of an application may be obtained from the Patent Application Information Retrieval (PAIR) system. Status information for published applications may be obtained from either Private PAIR or Public PAIR. Status information for unpublished applications is available through Private PAIR only. For more information about the PAIR system, see http://pair-direct.uspto.gov. Should you have questions on access to the Private PAIR system, contact the Electronic Business Center (EBC) at 866-217-9197 (toll-free). If you would like assistance from a USPTO Customer Service Representative or access to the automated information system, call 800-786-9199 (IN USA OR CANADA) or 571-272-1000.
+Joanne Silbermann_x000d_ Primary Examiner_x000d_ Art Unit 3611
+Primary Examiner
+Art Unit 3611
+/Joanne Silbermann/
+Primary Examiner, Art Unit 3611

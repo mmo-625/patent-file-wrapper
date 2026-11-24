@@ -16,8 +16,8 @@ sandbox/
 
 # Pipeline output: run.py writes to example/data/<application number>/.
 # Keep only the committed example; ignore any other application you fetch.
-example/data/*
-!example/data/18909470/
+#example/data/*
+#!example/data/18909470/
 
 # OS / editor
 .DS_Store

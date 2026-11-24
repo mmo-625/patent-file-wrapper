@@ -1,0 +1,562 @@
+[
+  {
+    "date": "2006-08-25",
+    "code": "TRNA",
+    "description": "Transmittal of New Application",
+    "direction": "INCOMING",
+    "document_id": "ERB7T13PPPOPPY2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-08-25",
+    "code": "OATH",
+    "description": "Oath or Declaration filed",
+    "direction": "INCOMING",
+    "document_id": "ERB7T149PPOPPY2",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-08-25",
+    "code": "SPEC",
+    "description": "Specification",
+    "direction": "INCOMING",
+    "document_id": "ERB7T15MPPOPPY2",
+    "pages": 18,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-08-25",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "ERB7T165PPOPPY2",
+    "pages": 8,
+    "format": "PDF",
+    "path": "files/2006-08-25_CLM_ERB7T165PPOPPY2.pdf"
+  },
+  {
+    "date": "2006-08-25",
+    "code": "ABST",
+    "description": "Abstract",
+    "direction": "INCOMING",
+    "document_id": "ERB7T16ZPPOPPY2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-08-25",
+    "code": "DRW",
+    "description": "Drawings-only black and white line drawings",
+    "direction": "INCOMING",
+    "document_id": "ERB7T17IPPOPPY2",
+    "pages": 4,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-08-25",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "ERB7T180PPOPPY2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-08-25",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "ERB7T18JPPOPPY2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-09-11",
+    "code": "PEFN",
+    "description": "Pre-Exam Formalities Notice",
+    "direction": "OUTGOING",
+    "document_id": "ES0LBHUDPP2GUI2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-11-07",
+    "code": "LET.",
+    "description": "Miscellaneous Incoming Letter",
+    "direction": "INCOMING",
+    "document_id": "EU8YRKJYPPOPPY4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-11-07",
+    "code": "PEFR",
+    "description": "Applicant Response to Pre-Exam Formalities Notice",
+    "direction": "INCOMING",
+    "document_id": "EUJ15OETPPOPPY2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-11-07",
+    "code": "OATH",
+    "description": "Oath or Declaration filed",
+    "direction": "INCOMING",
+    "document_id": "EUJ15OFXPPOPPY2",
+    "pages": 5,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-11-07",
+    "code": "PEFR",
+    "description": "Applicant Response to Pre-Exam Formalities Notice",
+    "direction": "INCOMING",
+    "document_id": "EUJ15OGNPPOPPY2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-11-07",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "EU8YRKL1PPOPPY4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-11-07",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "EU8YRKLKPPOPPY4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-11-14",
+    "code": "APP.FILE.REC",
+    "description": "Filing Receipt",
+    "direction": "OUTGOING",
+    "document_id": "EUJ5ZM1UPPOPPY5",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-11-14",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "EUL4SEFAPPOPPY1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2007-03-01",
+    "code": "NTC.PUB",
+    "description": "Notice of Publication",
+    "direction": "OUTGOING",
+    "document_id": "EYS6GL9DPPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2007-10-16",
+    "code": "TRAN.LET",
+    "description": "Transmittal Letter",
+    "direction": "INCOMING",
+    "document_id": "F7URY3G3PPOPPY4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2007-10-16",
+    "code": "IDS",
+    "description": "Information Disclosure Statement (IDS) Form (SB08)",
+    "direction": "INCOMING",
+    "document_id": "F7YQ1NAYPPOPPY2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2007-10-16",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "F7URY3HQPPOPPY4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-11-19",
+    "code": "CTNF",
+    "description": "Non-Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "FNPTBGOMPPOPPY5",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2008-11-19_CTNF_FNPTBGOMPPOPPY5.xml"
+  },
+  {
+    "date": "2008-11-19",
+    "code": "892",
+    "description": "List of references cited by examiner",
+    "direction": "OUTGOING",
+    "document_id": "FNPTBGQRPPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-11-19",
+    "code": "FWCLM",
+    "description": "Index of Claims",
+    "direction": "INTERNAL",
+    "document_id": "FNPTBGT5PPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-11-19",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "FNPTBGTHPPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-11-19",
+    "code": "1449",
+    "description": "List of References cited by applicant and considered by examiner",
+    "direction": "OUTGOING",
+    "document_id": "FNPTBGTTPPOPPY5",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-11-19",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "FNPTBGUEPPOPPY5",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-11-19",
+    "code": "BIB",
+    "description": "Bibliographic Data Sheet",
+    "direction": "INTERNAL",
+    "document_id": "FNPTBGUQPPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-12-17",
+    "code": "IDS",
+    "description": "Information Disclosure Statement (IDS) Form (SB08)",
+    "direction": "INCOMING",
+    "document_id": "FOUQ11OPPPOPPY4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-12-17",
+    "code": "TRAN.LET",
+    "description": "Transmittal Letter",
+    "direction": "INCOMING",
+    "document_id": "FOXQFSMYPPOPPY2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-12-17",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "FOUQ11PZPPOPPY4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-12-17",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "FOUQ11RBPPOPPY4",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-03-20",
+    "code": "IDS",
+    "description": "Information Disclosure Statement (IDS) Form (SB08)",
+    "direction": "INCOMING",
+    "document_id": "FSJGKXXLPPOPPY4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-03-20",
+    "code": "TRAN.LET",
+    "description": "Transmittal Letter",
+    "direction": "INCOMING",
+    "document_id": "FSPVAPPUPPOPPY2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-03-20",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "FSJGKXYRPPOPPY4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-03-20",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "FSJGKXZRPPOPPY4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-04-20",
+    "code": "A...",
+    "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+    "direction": "INCOMING",
+    "document_id": "FTROO52YPPOPPY4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-04-20",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "FTROO544PPOPPY4",
+    "pages": 8,
+    "format": "PDF",
+    "path": "files/2009-04-20_CLM_FTROO544PPOPPY4.pdf"
+  },
+  {
+    "date": "2009-04-20",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "FTROO54ZPPOPPY4",
+    "pages": 6,
+    "format": "PDF",
+    "path": "files/2009-04-20_REM_FTROO54ZPPOPPY4.pdf"
+  },
+  {
+    "date": "2009-04-20",
+    "code": "XT/",
+    "description": "Extension of Time",
+    "direction": "INCOMING",
+    "document_id": "FTROO55GPPOPPY4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-04-20",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "FTROO58NPPOPPY4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-04-20",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "FTROO593PPOPPY4",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-04-20",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "FUMITLIZPPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-06-10",
+    "code": "892",
+    "description": "List of references cited by examiner",
+    "direction": "OUTGOING",
+    "document_id": "FVPCIAC3PPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-06-10",
+    "code": "FWCLM",
+    "description": "Index of Claims",
+    "direction": "INTERNAL",
+    "document_id": "FVPCIAD5PPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-06-10",
+    "code": "IIFW",
+    "description": "Issue Information including classification, examiner, name, claim, renumbering, etc.",
+    "direction": "INTERNAL",
+    "document_id": "FVPCIADRPPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-06-10",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "FVPCIAE3PPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-06-10",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "FVPCIAEPPPOPPY5",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-06-10",
+    "code": "1449",
+    "description": "List of References cited by applicant and considered by examiner",
+    "direction": "OUTGOING",
+    "document_id": "FVPCIAF0PPOPPY5",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-06-10",
+    "code": "1449",
+    "description": "List of References cited by applicant and considered by examiner",
+    "direction": "OUTGOING",
+    "document_id": "FVPCIAFLPPOPPY5",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-06-10",
+    "code": "NOA",
+    "description": "Notice of Allowance and Fees Due (PTOL-85)",
+    "direction": "OUTGOING",
+    "document_id": "FVR23Z4EPPOPPY5",
+    "pages": 11,
+    "format": "PDF",
+    "path": "files/2009-06-10_NOA_FVR23Z4EPPOPPY5.pdf"
+  },
+  {
+    "date": "2009-09-10",
+    "code": "IFEE",
+    "description": "Issue Fee Payment (PTO-85B)",
+    "direction": "INCOMING",
+    "document_id": "FZFUVGE1PPOPPY2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-09-10",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "FZFUVGFGPPOPPY2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-09-10",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "FZFUVGG5PPOPPY2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-09-30",
+    "code": "ISSUE.NTF",
+    "description": "Issue Notification",
+    "direction": "OUTGOING",
+    "document_id": "G08SPYJVPPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2012-04-10",
+    "code": "EBCC.AD",
+    "description": "Notice of Change of Address Place in File Wrapper Due to Electronic Business Center(EBC) Customer Number Update",
+    "direction": "INTERNAL",
+    "document_id": "H0UYZE5NPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  }
+]

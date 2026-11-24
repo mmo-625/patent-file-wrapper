@@ -1,0 +1,389 @@
+Source: example/data/14952677/files/2017-01-21_REM_IYBTOXBBPXXIFW2.xml:14952677/IYBTOXBBPXXIFW2/14952677.2017-01-20.IYBTOXBBPXXIFW2.REM.xml
+Type: IncomingDocument
+Markup: [+inserted+]  [-deleted-]
+
+REM1495267737,476224012017-01-212017-01-25REM DOCUMENT
+
+## REMARKS
+Reply to Examiner's Remarks
+With respect to the Examiner's comment, "It is because, the applicant is silent regarding
+whether the combination of the lights and speakers are connected hardwired by a series
+connection or parallel connection. The claim is too broad that it covers both of the connections.
+In fig. 12, 13, cols. 9-10, Maker teaches combining a plurality of lights and speakers in a string
+that can be combined into multiple strings for decoration. Thus, the rejection of the claims in
+view of Maker will remain." The present invention is the combining lights and speakers on one
+built in strand.
+The present invention does not use / utilize a serial bus to connect the lights and speakers
+/ music. In the present invention, the lights and speakers share the power cable and they are not
+connected. The speakers and lights work separately in the present invention.
+Applicant has amended the claim and is concurrently filing a requested for continued
+examination (RCE) so that the Examiner will enter the claim amendments and can review the merits of the amended claims.
+The Examiner is invited to initiate a phone call with Applicant's attorney, if desired, to
+more efficiently move the application forward to allowance. Additionally, the applicant can furnish a copy of the wiring diagram and schematic of the actual device to further and more
+explicitly claim and show that which is being claimed.
+Rejections under 35 USC 102
+Claims 1-3, 5 and 6 are rejected under 35 U.S.C. 102(a)(2) as being anticipated by
+Lin (U.S. Pub. No. 2014/0219481).
+With respect to claim 1, the Examiner alleges Figures 1-2 of Lin teach a strand speaker
+device comprising all the claim limitations.
+Applicant has amended the claims by clarifying and more explicitly claiming the
+limitations and adding the limitations from claim 10 into claim 1.
+The amend claim includes the following limitations not taught by Lin.
+(A). a plurality of speakers strung together in combination forming a string of speakers, (B). a wireless speaker and a plurality of additional speakers are hardwired to each other
+forming the spring of speakers,
+(C). the first speaker on the string is wireless, using wireless technology to obtain input; (D). the wireless first speaker on the string is wired to a plurality of additional speakers
+hardwired to each other;
+(E). the wireless speaker on the string is paired to a device providing the audio;
+(F). the rest of the speakers on the string are hardwired to each other;
+(G). a plurality of lights strung together in combination forming a string of lights;
+(H). the string of lights is combined with the string of speakers;
+(I). the string of lights and the string of speakers share a power cable;
+(J). the string of lights and the string of speakers work separately and independently and are not
+otherwise connected.
+The Examiner alleges (fig. 1, 2; paragraphs 0014-0015) teach a plurality of speakers
+strung together in combination and all the limitations of claim 1. Lin, in para. 14 actually states
+and requires that a sensing switch 106 be disposed between each speaker in his wired or unwired
+string of speakers. Thus, Lin does not teach an identical invention nor every element of the
+claimed invention as arranged in the claim. Here Lin would not have the same invention and
+would not be functional in the same manner if the sensing switches 106 were omitted.
+Lin does not teach the two limitations where the first speaker on the string is wireless,
+using wireless technology to obtain input (fig. 1, 2; paragraphs 0014-0015); and the first speaker
+on the string is wired to a plurality of additional speakers hardwired to each other (fig. 1, 2;
+paragraphs 0014-0015).
+Lin does not teach:
+(A). a plurality of speakers strung together in combination forming a string of speakers,
+(B). a wireless speaker and a plurality of additional speakers are hardwired to each other
+forming the spring of speakers,
+(C). the first speaker on the string is wireless, using wireless technology to obtain input; (D). the wireless first speaker on the string is wired to a plurality of additional speakers hardwired to each other;
+(E). the wireless speaker on the string is paired to a device providing the audio;
+(F). the rest of the speakers on the string are hardwired to each other;
+Para. 14 of Lin states:
+"Generally, the first speaker 102 and the second speaker 104 are connected together to form a single sound channel or dual sound channels
+speaker. As shown in FIG. 1b, when the first speaker 102 is separated from the second speaker 104, the sensing switch 106, disposed between the first speaker
+102 and the second speaker 104, outputs a signal to the audio decoder 108.
+Therefore, the audio decoder 108 switches the multiple sound channels speaker 100 from a single sound channel or dual sound channels speaker to a 2.1 sound
+channels speaker, and switches the two second speakers 104 to left and right
+sound channels speakers respectively, and further switches the first speaker 102 to
+a low-sounding speaker."
+Here, Lin is not teaching a string of speakers where the first speaker on the string is wired
+to a plurality of additional speakers hardwired to each other and the first speaker on the string is
+wireless, using wireless technology to obtain input. Lin is teaching a speaker system that
+requires and uses a sensing switch 106 that is disposed between the first speaker 102 and the second speaker 104, outputs a signal to the audio decoder 108. Where the audio decoder 108
+then determines and switches the sound channels of the various speakers to determine and switch or set the plurality of speakers to left or right sound channels and even "low-sounding" speakers.
+The present invention, in comparison, has no such switch and decoder, and the invention
+of Lin would be non-functional for its intended purpose if altered in a manner to remove or not use the audio decoder and sensing switches. Here, the present invention merely has one or more
+speakers, which play the music as received by the first speaker, which have wired or wireless
+communication with a device providing the audio.
+Lin also does not teach:
+(G). a plurality of lights strung together in combination forming a string of lights; (H). the string of lights is combined with the string of speakers;
+(I). the string of lights and the string of speakers share a power cable;
+(J). the string of lights and the string of speakers work separately and independently and are not
+otherwise connected.
+Lin makes no mention of teaching a plurality of lights strung in combination with a string
+of speakers where they lights and speakers share a common power cable, while also maintaining
+independent control.
+MPEP § 2131 states that "'[a] claim is anticipated only if each and every element as set
+forth in the claim is found, either expressly or inherently [See related post] described, in a single prior art reference.' Verdegaal Bros. v. Union Oil Co. of California, 814 F.2d 628, 631, 2
+USPQ2d 1051, 1053 (Fed. Cir. 1987)" (emphasis added). "'The identical invention must be
+shown in as complete detail as is contained in the ... claim.' Richardson v. Suzuki Motor Co.,
+868 F.2d 1226, 1236, 9 USPQ2d 1913, 1920 (Fed. Cir. 1989)" (emphasis added).
+Moreover, "[e]very element of the claimed invention must be literally present,
+arranged as in the claim." Id. (emphasis added). In the present case, the Office Action has not
+established that each element of the claims is disclosed in Lin.
+For the reasons discussed above, and more specifically, because the claim limitations of
+the present invention are not shown in as complete detail as is contained in the claims and every element of the claimed invention is not literally presented and arranged as in the
+claims by Lin, withdrawal of these rejections are respectfully requested.
+With respect to claims 2 and 3, the limitation specifically states an auxiliary (AUX)
+connection used connect a first set of string of speakers to a second set of string speakers. Here,
+Lin does not teach sets of string speakers but a speaker system which may or may not have the speakers wired together to create a single set of speakers.
+Lin makes no teaching or suggestion that could be viewed as anticipating the creation of
+light "strings" and speaker "strings" as taught and claimed by the present invention or the
+combining or linking of such speakers strings (claim 3) as taught and claimed by the present
+invention as their use is in conflict with that of Lin.
+The Examiner cites Figures 1 and 2 as teaching this limitation, but figures 1 and 2 make
+no mention of and aux cord and or an aux port. In fact, and entire reading and word search of Line fails to find any mention or use of "aux", "port" or "auxiliary port". Thus, Lin makes no teaching or suggestion of an AUX plug, port, or connection between one or more strands of
+speakers, which is logical since Lin does not teach or suggestion the creating of speaker strands
+as disclosed and claimed by the present invention and would therefore not be able to teach or
+suggest the connection of one or more strands, since strands are not used or taught by Lin in any manner, as Lin is direct to creating a speaker system that can be switched between two or more
+various sound channels to match speaker performance with that of the audio broadcast being
+received.
+With respect to claims 5 and 6, the limitations are "wherein on one end of the string of
+speakers will have a male auxiliary (AUX) in connection to connect to additional speaker sets" and "wherein on the opposing end of the speaker string, a female auxiliary (AUX) in connection
+for non-wired audio devices to connect to the speakers is provided".
+In claims 5 and 6 of the present invention the limitations are narrow and well defined
+specifically claiming how one or more "strings" of speakers is to be connected in a wired
+embodiment and specifying the beginning and ending wiring of each string so that they can be connected and interchangeable.
+Lin makes no teaching or suggestion that could be viewed as anticipating the creation of
+light "strings" and speaker "strings" as taught and claimed by the present invention or the
+combining or linking of such speakers strings (claim 3) as taught and claimed by the present
+invention as their use is in conflict with that of Lin. Therefore, it is impossible for Lin to
+anticipate the claims and impossible for the claim limitations to be found either expressly or
+inherently in Lin.
+Claims 10-13 and 15 are rejected under 35 U.S.C. 102(a)(1) as being anticipated by
+Maker et al. (U.S. Patent No. 6,564,108).
+With respect to claim 10, Applicant has canceled claim 10 making traverse of the
+rejection moot. The limitations of claim 10 have been added to amended claim 1. Applicant
+would respectfully assert the arguments with respect to Maker for claims 11-13 for the
+limitations moved from canceled claim 10 to amended claim 1.
+With respect to claims 11-13, Maker teaches a method for providing auxiliary lighting
+for enhancing a scene during a multi-media presentation (abstract). Maker does not teach
+combining a plurality of lights and speakers in a string that can be combined into multiple strings
+for decoration. In cols. 9-10 as cited by the Examiner, Maker teaches where the lights and
+speakers are individually connected to a serial bus for control and more specifically that they are "uniquely addressed", which means they use a single analog connection to a single light bulb or
+illumination source (Col. 10).
+In Maker, "The digital bus 1220, allows for digital information to be sent for controlling
+the lighting units. This solution provides that all of the speakers and lights are connected to this bus 1220." The present invention does not use a bus, nor are the lights and speakers controlled
+individually (Col. 10). In the present invention, a light string is combined with a string of
+speakers hardwired to each other, not individually to a bus.
+The present invention does not use / utilize a serial bus to connect the lights and speakers
+/ music. In the present invention, the lights and speakers share the power cable and they are not connected. The speakers and lights work separately in the present invention.
+Applicant has amended the claim and is concurrently filing a requested for continued
+examination (RCE) so that the Examiner will enter the claim amendments and can review the
+merits of the amended claims.
+Maker, in Col. 10, 11. 18-34 teaches how the bus connects and co-ordinates the lighting and audio, grouping them into left rear, right rear, right front, and left front sections. The present
+invention is absent these groupings and is merely presenting the lights in a single, hardwired strand
+in combination with a linear, hardwired strand of speakers.
+In Col. 11, as cited by the Examiner, Maker specifically states "It is important to note, that
+the embodiments above provide total separation between the lighting and the audio in either the connections and/or the physical placements of the speakers and the illumination sources." This statement explicitly shows that Maker is not teaching or anticipating the present invention as it
+explicitly and specifically points out that the lighting and audio are totally separated in their physical placement, which is in direct contrast to the claims which require the string of lights and speakers to be combined and located along the same strand.
+With respect to the limitations of claim 12, the first speaker on the string is wireless,
+using wireless technology to obtain input; the wireless speaker on the string will be paired to a
+device providing the audio; the first speaker on the string is wired to a plurality of additional speakers hardwired to each other; the rest of the speakers on the string are hardwired to each
+other; and the rest of the speakers on the string are hardwired to the wireless speaker.
+Again, Maker teaches where the plurality of lights and speakers are individually attached
+to a serial bus for control, not to each other in a "string". Maker, in Col. 10, 11. 18-34 teaches
+how the bus connects and co-ordinates the lighting and audio, grouping them into left rear, right rear, right front, and left front sections. The present invention is absent these groupings and is
+merely presenting the lights in a single, hardwired strand in combination with a linear, hardwired
+strand of speakers.
+In claim 12, the claims are narrow and explicit requiring the first speaker to wireless
+obtain the input from a device and then share that input directly with a plurality of hardwire
+additional speakers. In Maker, each individual speaker is controlled independently by the serial
+bus, which does not distribute the same audio single to a single speaker which then shares or
+distributes it to the other, speakers directly hardwired to the first speaker.
+With respect to the limitations of claims 13 and 15, the limitations "an auxiliary
+(AUX) connection so a user can connect one string of speakers to a "Host" Chain; and wherein for the linked chain speakers, all speakers will be AUX including the first wireless speaker" are not taught by Maker in Cols. 9, 10, and 11 as cited by the Examiner for the same above reasons.
+Additionally, in claim 13 of the present invention the limitations are narrow and well
+defined specifically claiming how one or more "strings" of speakers is to be connected in a wired
+embodiment and specifying the beginning and ending wiring of each string so that they can be
+connected and interchangeable.
+With respect to claim 15, the limitations where "one end of the string of lights/speakers will have a female outlet that will enable users to plug into a second strand of lights into the
+present invention using any other type of chain lights; and this end will also provide a male auxiliary (AUX) in connection to connect to additional light sets that include speakers" are
+impossible to be taught by Maker for the reasons previously stated. In Maker, each individual speaker is controlled independently by the serial bus, which does not distribute the same audio single to a single speaker which then shares or distributes it to the other, speakers directly
+hardwired to the first speaker. Maker makes not mention use or suggestion of AUX cables or ports for connecting "strings" or groupings of lights and speakers, and such a use would make
+the invention of Maker inoperable as Maker uses and requires a serial bus to individually control
+lights and speakers, which is in direct contrast to the present invention and pending claims. In summary, with respect to claims 11-13 and 15, Maker makes no teaching or
+suggestion that could be viewed as anticipating the creation of light "strings" and speaker
+"strings" as taught and claimed by the present invention or the combining or linking of such
+speaker and light strings as taught and claimed by the present invention as their use is in conflict
+with that of Maker who teaches individual control of individual lights and speakers, the direct
+opposite of creating "strings". Therefore, it is impossible for Maker to anticipate the claims and
+impossible for the claim limitations to be found either expressly or inherently in Maker.
+MPEP § 2131 states that "'[a] claim is anticipated only if each and every element as set
+forth in the claim is found, either expressly or inherently [See related post] described, in a single prior art reference.' Verdegaal Bros. v. Union Oil Co. of California, 814 F.2d 628, 631, 2
+USPQ2d 1051, 1053 (Fed. Cir. 1987)" (emphasis added). "'The identical invention must be
+shown in as complete detail as is contained in the ... claim.' Richardson v. Suzuki Motor Co.,
+868 F.2d 1226, 1236, 9 USPQ2d 1913, 1920 (Fed. Cir. 1989)" (emphasis added).
+Moreover, "[e]very element of the claimed invention must be literally present,
+arranged as in the claim." Id. (emphasis added). In the present case, the Office Action has not
+established that each element of the claims is disclosed in Lin.
+For the reasons discussed above, and more specifically, because the claim limitations of
+the present invention are not shown in as complete detail as is contained in the claims and every element of the claimed invention is not literally presented and arranged as in the
+claims by Maker, withdrawal of these rejections are respectfully requested.
+With respect to claim 11, Applicant relies on the arguments previously presented for
+claim 10 from which claim 11 depends. Withdrawal of this rejection is respectfully requested.
+Rejections under 35 USC 103
+A prima facie case of obviousness is established when an examiner provides:
+1. one or more references
+2. that were available to the inventor and
+3. that teach
+4. a suggestion to combine or modify the references,
+5. the combination or modification of which would appear to be sufficient to have made
+the claimed invention obvious to one of ordinary skill in the art.
+Accordingly, an applicant who is able to prove that the Examiner has failed to establish
+any one of these elements will prevent the prima facie case of obviousness from being
+established.
+Under Graham v. John Deere Co. the standard of obvious used by the Examiner to
+support the obviousness rejection is incorrect. The Examiner must view the claim as a whole
+and not merely the differences between the present invention and the prior art.
+Here, Examiner has done nothing more with respect to the other than to list the claim
+elements/limitations, and merely citing a teaching of the individual element in the prior art.
+Thus, it is not correct for an Examiner to focus on the differences between the prior art
+and the claimed invention and then to state that the differences themselves or individually are obvious, there must be some expectation that the combination of the two would be successful
+and there must be motivation to combine.
+Here, there is no expectation that merely combining the two systems would be easily and readily apparent to one of ordinary skill in the art. If such a combination is obvious and
+easily enabled, Examiner should quickly and easily be able to provide a citation for just such a
+combination.
+Claims 4 and 7-9 are rejected under 35 U.S.C. 103(a) as being unpatentable over Lin
+(U.S. Pub. No. 2014/0219481).
+With respect to the Examiner taking official Notice for the claims limitations of
+claims 4, and 7-9
+With respect to Official Notice, the MPEP states that "such rejections should be
+judiciously applied" (see MPEP § 2144.03). Applicant notes that contrary to the caution advised
+by the MPEP, in this case, the Office Action liberally applied Official Notice to a majority of the
+claims for various conclusory reasons that are not supported by the record.
+The MPEP goes on to mandate that "Official notice without documentary evidence to
+support an [E]xaminer's conclusion is permissible only in some circumstances" (see MPEP §
+2144.03(A)). "It would not be appropriate for the [E]xaminer to take official notice of facts without citing a prior art reference where the facts asserted to be well known are not capable of
+instant and unquestionable demonstration as being well-known" (see Id., emphasis added).
+"For example, assertions of technical facts in the areas of esoteric technology or specific knowledge of the prior art must always be supported by citation to some reference work
+recognized as standard in the pertinent art. In re Ahlert, 424 F.2d at 1091, 165 USPQ at 420-21"
+(Id., emphasis added).
+Applicant notes that no such support has been provided in this case. Reviewing courts
+must rely on the record, and the Federal Circuit has always required that absent the case where
+Official Notice is "instant and unquestionable", the Office Action must provide support and reasoning for Official Notice to be proper.
+In the instant case, the Office Action stated, in part, that the limitations of claims 4, and
+7-9 are so well know that the Examiner is asserting official notice. However, per the above, the
+facts asserted as well-known must be capable of instant and unquestionable demonstration as being well-known, and Applicant does not believe that such is the case here. If the Examiner continues to believe that the above-recited features are well known in the art, Applicant
+respectfully requests that the Examiner provide a reference or references in the next Office
+Action allegedly offering evidence that this is the case.
+If applicant adequately traverses the examiner's assertion of official notice, the examiner
+must provide documentary evidence in the next Office action if the rejection is to be maintained.
+See 37 CFR 1.104(c)(2). See also Zurko, 258 F.3d at 1386, 59 USPQ2d at 1697 ("[T]he Board
+[or examiner] must point to some concrete evidence in the record in support of these findings" to satisfy the substantial evidence test). If the examiner is relying on personal knowledge to support the finding of what is known in the art, the examiner must provide an affidavit or declaration
+setting forth specific factual statements and explanation to support the finding. See 37 CFR
+1.104(d)(2).
+(MPEP § 2144.03(C)). The legal standard for applying Official Notice under MPEP § 2144.03 is rigorous, and Applicant respectfully submits that the present application of Official
+Notice falls short of meeting this high standard.
+Per the above, the cited documents, both individually and in combination, fail to teach or
+suggest all of the features of the above-rejected claims. Accordingly, it is respectfully submitted
+that the rejection is overcome and respectfully requested that the rejection be withdrawn.
+With respect to claims 4 and 8, Section 2144.03 of the Manual of Patent Examining
+Procedure (MPEP) provides guidelines for relying on Official Notice and personal knowledge.
+Official Notice is permissible only in limited circumstances. Official Notice is permissible only for certain types of facts; those that are capable of instant and unquestionable demonstration as
+being well-known. It is never appropriate to rely solely on Official Notice as the principal
+evidence upon which a rejection was based. Instead, Official Notice is only appropriate for facts
+that are of notorious character and that serve to fill in the gaps that might exist in the evidentiary
+showing to support a particular ground of rejection. (MPEP § 2144.03(A)).
+To traverse Official Notice, an Applicant must specifically point out the supposed
+error(s) in the Examiner's action, which would include stating why the noticed fact is not
+considered to be common knowledge or well-known in the art. Here, the Examiner has cited related prior art of Lin and Maker, neither of which teach placing lights in or on a string. Lin
+teaches a method for speaker switching and Maker a method for creating a presentation setting using multiple lights and speakers, not on a string but connected by a serial bus and set about a
+room.
+With respect to claim 4, none of the cited prior art teaches a string, which is why the
+Examiner can not readily find any prior art teaching with respect to the limitations "the speakers should have between 12 Watt to 5 Watts each; and the speakers are placed every 4 to 5 feet apart
+along the light string", which are directed to the spacing of the lights and speakers on a string
+and their desired size range for optimal performance. The prior art does not use, teach, or
+suggest the novel and non-obvious combination taught by the present invention which is why the
+Examiner can not readily find prior art teaching these limitations and is taking unsupported Official Notice in an effort to improperly reject the claims.
+With respect to claim 8, none of the cited prior art suggests a battery back as both Lin
+and Maker required much more sophisticated electronics to run their devices and could not be
+enabled easily by a battery pack. It would not have been obvious to a POSTIA as alleged by the Examiner in their reasoning for a POSITA to use a battery pack for the devices taught by Lin or Maker since both require additional electronics and power to run, where the use of a battery pack
+to power them would make them non-functional for their intended purpose.
+When an Applicant challenges a factual assertion as not properly officially noticed or not
+properly based upon common knowledge, the Office must support the finding with adequate
+documentary evidence in the next Office action if the rejection is to be maintained. (MPEP
+§2144.03(C)).
+At this time Applicant is challenging the factual assertion made by the Examiner as
+not properly based upon common knowledge, Applicant is requesting that Examiner
+support the finding with adequate documentary evidence in the next Office action if the rejection is to be maintained as provided by MPEP §2144.03(B), MPEP §2144.03(C) and
+also see Zurko ("holding that general conclusions concerning what is 'basic knowledge' or
+'common sense' to one of ordinary skill in the art without specific factual findings and some
+concrete evidence in the record to support these findings will not support an obviousness rejection"). Examiner is requested to provide an affidavit/declaration under 37 CFR
+1.104(d)(2) or withdraw the rejection.
+Additionally, Official Notice is not sufficient to supply motivation for modifications.
+The factual inquire to modify must be based on objective evidence of records. Ex parte
+Humphreys holds that when an Examiner does not provide specific reasons to support the obviousness rejection, they have failed to establish the prima facie case of obviousness.
+Here the Examiner fails to state the specific element or motivation that is being taken for
+each of the respective claim limitations and merely makes up a reason stating "it would have
+been obvious to one of ordinary skill in the art at the time the invention was made to modify Lin
+to incorporate the speakers having between 4 Watt to 5 Watts each and the speakers are placed every 4 to 5 feet apart along the light string in Lin's invention in order to make particular speaker
+device of a particular power and particular distance", which could just as easily be validated by
+making a statement that any characteristic is inherent.
+With respect to claims 7 and 9, Applicant relies on the arguments previously present for
+claim 1 from which claims 7 and 9 depend. Withdrawal of this rejection is respectfully
+requested.
+Claims 14 and 16-19 are rejected under 35 U.S.C. 103(a) as being unpatentable over
+Maker et al. (U.S. Patent No. 6,564,108).
+With respect to the Examiner taking official Notice for the claims limitations of
+claims 14 and 16-19.
+With respect to Official Notice, the MPEP states that "such rejections should be
+judiciously applied" (see MPEP § 2144.03). Applicant notes that contrary to the caution advised by the MPEP, in this case, the Office Action liberally applied Official Notice to a majority of the
+claims for various conclusory reasons that are not supported by the record.
+The MPEP goes on to mandate that "Official notice without documentary evidence to
+support an [E]xaminer's conclusion is permissible only in some circumstances" (see MPEP §
+2144.03(A)). "It would not be appropriate for the [E]xaminer to take official notice of facts
+without citing a prior art reference where the facts asserted to be well known are not capable of
+instant and unquestionable demonstration as being well-known" (see Id., emphasis added).
+"For example, assertions of technical facts in the areas of esoteric technology or specific knowledge of the prior art must always be supported by citation to some reference work
+recognized as standard in the pertinent art. In re Ahlert, 424 F.2d at 1091, 165 USPQ at 420-21" (Id., emphasis added).
+Applicant notes that no such support has been provided in this case. Reviewing courts
+must rely on the record, and the Federal Circuit has always required that absent the case where
+Official Notice is "instant and unquestionable", the Office Action must provide support and
+reasoning for Official Notice to be proper.
+In the instant case, the Office Action stated, in part, that the limitations of claims 14, and
+16-19 are so well know that the Examiner is asserting official notice. However, per the above,
+the facts asserted as well-known must be capable of instant and unquestionable demonstration as being well-known, and Applicant does not believe that such is the case here. If the Examiner
+continues to believe that the above-recited features are well known in the art, Applicant
+respectfully requests that the Examiner provide a reference or references in the next Office
+Action allegedly offering evidence that this is the case.
+If applicant adequately traverses the examiner's assertion of official notice, the examiner
+must provide documentary evidence in the next Office action if the rejection is to be maintained.
+See 37 CFR 1.104(c)(2). See also Zurko, 258 F.3d at 1386, 59 USPQ2d at 1697 ("[T]he Board
+[or examiner] must point to some concrete evidence in the record in support of these findings" to satisfy the substantial evidence test). If the examiner is relying on personal knowledge to support the finding of what is known in the art, the examiner must provide an affidavit or declaration
+setting forth specific factual statements and explanation to support the finding. See 37 CFR
+1.104(d)(2).
+(MPEP § 2144.03(C)). The legal standard for applying Official Notice under MPEP §
+2144.03 is rigorous, and Applicant respectfully submits that the present application of Official Notice falls short of meeting this high standard.
+At this time Applicant is challenging the factual assertion made by the Examiner as
+not properly officially noticed and not properly based upon common knowledge, Applicant
+is requesting that Examiner support the finding with adequate documentary evidence in
+the next Office action if the rejection is to be maintained as provided by MPEP
+§2144.03(B), MPEP §2144.03(C) and also see Zurko ("holding that general conclusions
+concerning what is 'basic knowledge' or 'common sense' to one of ordinary skill in the art without specific factual findings and some concrete evidence in the record to support these
+findings will not support an obviousness rejection"). Examiner is requested to provide an affidavit/declaration under 37 CFR 1.104(d)(2) or withdraw the rejection.
+Additionally, Official Notice is not sufficient to supply motivation for modifications.
+The factual inquire to modify must be based on objective evidence of records. Ex parte
+Humphreys holds that when an Examiner does not provide specific reasons to support the obviousness rejection, they have failed to establish the prima facie case of obviousness.
+Here the Examiner fails to state the specific element or motivation that is being taken for
+each of the respective claim limitations and merely makes up a reason stating "it would have
+been obvious to one of ordinary skill in the art at the time the invention was made to modify Lin
+to incorporate the speakers having between 4 Watt to 5 Watts each and the speakers are placed every 4 to 5 feet apart along the light string in Lin's invention in order to make particular speaker
+device of a particular power and particular distance", which could just as easily be validated by
+making a statement that any characteristic is inherent.
+Per the above, the cited documents, both individually and in combination, fail to teach or
+suggest all of the features of the above-rejected claims. Accordingly, it is respectfully submitted that the rejection is overcome and respectfully requested that the rejection be withdrawn.
+With respect to claim 14, here, the Examiner has cited related prior art of Lin and
+Maker, neither of which teach placing lights in or on a string. Maker teaches a method for
+creating a presentation setting using multiple lights and speakers, not on a string but connected
+by a serial bus and set about a room.
+None of the cited prior art teaches a string, which is why the Examiner can not readily
+find any prior art teaching with respect to the limitations "the speakers should have between 1% Watt to 5 Watts each; and the speakers are placed every 4 to 5 feet apart along the light string", which are directed to the spacing of the lights and speakers on a string and their desired size
+range for optimal performance. The prior art does not use, teach, or suggest the novel and non- obvious combination taught by the present invention which is why the Examiner can not readily find prior art teaching these limitations and is taking unsupported Official Notice in an effort to improperly reject the claims.
+With respect to claim 16, Applicant relies on the Argument previously presented for
+Claims 15 and 10 from which claim 16 depends and the additional argument directed to the
+claim limitations of claim 16. With respect to claim 16, the limitations where "on the opposing
+end of the light string, a male and female plug is provided to all the string to be connected to a standard power outlet and also provide a female plug so additional strings or other devices can
+have access to the outlet; and this end will be provided with a female auxiliary (AUX) in
+connection for non-wired audio devices to connect to the speakers" are impossible to be taught
+by Maker for the reasons previously stated.
+In Maker, each individual speaker is controlled independently by the serial bus, which
+does not distribute the same audio single to a single speaker which then shares or distributes it to
+the other, speakers directly hardwired to the first speaker. Maker makes not mention use or
+suggestion of AUX cables or ports for connecting "strings" or groupings of lights and speakers,
+and such a use would make the invention of Maker inoperable as Maker uses and requires a
+serial bus to individually control lights and speakers, which is in direct contrast to the present
+invention and pending claims.
+The Examiner must provide specific factual findings predicated on sound technical and
+scientific reasoning to support taking Official Notice. (MPEP §2144.03(B)). The Examiner should present Applicant with the explicit basis on which Official Notice is based so that the Applicant is able to challenge the assertion in the next reply after the Office action. (MPEP
+§2144.03(B)).
+Withdrawal of this rejection is respectfully requested.
+With respect to claims 17-19, Applicant relies on the arguments previously present for claim 10 from which claims 17-19 depend. Withdrawal of this rejection is respectfully
+requested.
+
+## Conclusion
+For all the reasons advanced above, Applicant respectfully submits that the application is in
+condition for examination and allowance and that action is earnestly solicited.
+In the event that an extension of time is required, or may be required in addition to that
+requested in a petition for an extension of time, the Commissioner is requested to grant a petition for
+that extension of time which is required to make this response timely.
+Respectfully submitted,
+/matthewtwelker/
+MATTHEW T. WELKER
+REGISTRATION NO. 53,756
+Date: 01/21/2017
+White-Welker & Welker, LLC
+Customer No. 37,476
+PO Box 199
+Clear Spring, Maryland 21722-0199
+O 410.507.2837
+F 301.842.1141

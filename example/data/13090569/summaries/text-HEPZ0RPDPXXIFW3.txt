@@ -1,0 +1,1 @@
+The invention has been refined to focus on interactive greeting cards that utilize specific physical interactions to control digital audio playback. These updates clarify that audio playback is tied to continuous user input—such as back-and-forth rubbing motions—and define how these motions can modulate volume, playback speed, or resume functions from a paused state.

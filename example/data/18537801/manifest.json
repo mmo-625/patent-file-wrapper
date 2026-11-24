@@ -1,0 +1,432 @@
+[
+  {
+    "date": "2023-12-13",
+    "code": "DRW",
+    "description": "Drawings-only black and white line drawings",
+    "direction": "INCOMING",
+    "document_id": "47aa332b-711e-4ac3-a6a7-741e77d2b111",
+    "pages": null,
+    "format": "MS_WORD",
+    "path": null
+  },
+  {
+    "date": "2023-12-13",
+    "code": "APP.TEXT",
+    "description": "Application body structured text document",
+    "direction": "INCOMING",
+    "document_id": "f8649a65-f6ac-46a9-959f-23a92fe847c7",
+    "pages": null,
+    "format": "MS_WORD",
+    "path": null
+  },
+  {
+    "date": "2023-12-13",
+    "code": "OATH",
+    "description": "Oath or Declaration filed",
+    "direction": "INCOMING",
+    "document_id": "LQ3BP4A2REENX10",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2023-12-13",
+    "code": "TRNA",
+    "description": "Transmittal of New Application",
+    "direction": "INCOMING",
+    "document_id": "LQ3BP4A3REENX10",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2023-12-13",
+    "code": "N417.PYMT",
+    "description": "Electronic Fee Payment",
+    "direction": "INCOMING",
+    "document_id": "LQ3BP4A4REENX10",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2023-12-13",
+    "code": "SPEC",
+    "description": "Specification",
+    "direction": "INCOMING",
+    "document_id": "LQ3BP4A5REENX10",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2023-12-13",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "LQ3BP4A6REENX10",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2023-12-13_CLM_LQ3BP4A6REENX10.xml"
+  },
+  {
+    "date": "2023-12-13",
+    "code": "ABST",
+    "description": "Abstract",
+    "direction": "INCOMING",
+    "document_id": "LQ3BP4A7REENX10",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2023-12-13",
+    "code": "DRW",
+    "description": "Drawings-only black and white line drawings",
+    "direction": "INCOMING",
+    "document_id": "LQ3BP4A8REENX10",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2023-12-13",
+    "code": "ADS",
+    "description": "Application Data Sheet",
+    "direction": "INCOMING",
+    "document_id": "LQ3BP4A9REENX10",
+    "pages": 5,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2023-12-13",
+    "code": "ADS",
+    "description": "Application Data Sheet",
+    "direction": "INCOMING",
+    "document_id": "LQ3BP4AAREENX10",
+    "pages": 8,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2023-12-13",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "LQ3BP4ACREENX10",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2023-12-22",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "LQGL9L59GREENX4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2023-12-22",
+    "code": "APP.FILE.REC",
+    "description": "Filing Receipt",
+    "direction": "OUTGOING",
+    "document_id": "LQGL9L5AGREENX4",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2023-12-22",
+    "code": "WELCOME.LET",
+    "description": "Welcome Letter from USPTO Director and Deputy Director",
+    "direction": "OUTGOING",
+    "document_id": "LQGL9L5BGREENX4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-06-27",
+    "code": "NTC.PUB",
+    "description": "Notice of Publication",
+    "direction": "OUTGOING",
+    "document_id": "LXWLXOGYXBLUEX4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-07-12",
+    "code": "NTC.PUB",
+    "description": "Notice of Publication",
+    "direction": "OUTGOING",
+    "document_id": "LYI8428DXBLUEX5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-01-12",
+    "code": "CTNF",
+    "description": "Non-Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "MK793YO4149X195",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2026-01-12_CTNF_MK793YO4149X195.xml"
+  },
+  {
+    "date": "2026-01-12",
+    "code": "892",
+    "description": "List of references cited by examiner",
+    "direction": "OUTGOING",
+    "document_id": "MK793YO6149X195",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-01-12",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "MK793YO8149X195",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-01-12",
+    "code": "FOR",
+    "description": "Foreign Reference",
+    "direction": "INCOMING",
+    "document_id": "MK793YO9149X195",
+    "pages": 97,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-01-12",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "MK793YOB149X195",
+    "pages": 11,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-01-29",
+    "code": "M865E",
+    "description": "Electronic Request for Interview with Examiner",
+    "direction": "INCOMING",
+    "document_id": "MKZRMATBX23X166",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-02-20",
+    "code": "EXIN",
+    "description": "Examiner Interview Summary Record (PTOL - 413)",
+    "direction": "OUTGOING",
+    "document_id": "MLUXAE7D5X15X96",
+    "pages": 2,
+    "format": "PDF",
+    "path": "files/2026-02-20_EXIN_MLUXAE7D5X15X96.pdf"
+  },
+  {
+    "date": "2026-02-20",
+    "code": "OA.APPENDIX",
+    "description": "Office Action Appendix",
+    "direction": "OUTGOING",
+    "document_id": "MLUXAE7H5X15X96",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-02-20",
+    "code": "OA.APPENDIX",
+    "description": "Office Action Appendix",
+    "direction": "OUTGOING",
+    "document_id": "MLUXAE7J5X15X96",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-03-21",
+    "code": "APP.TEXT",
+    "description": "Application body structured text document",
+    "direction": "INCOMING",
+    "document_id": "0e972499-21b9-49a2-839d-f2bb24a29178",
+    "pages": null,
+    "format": "MS_WORD",
+    "path": null
+  },
+  {
+    "date": "2026-03-21",
+    "code": "SA..",
+    "description": "Supplemental Response or Supplemental Amendment",
+    "direction": "INCOMING",
+    "document_id": "7a47d633-9b68-4116-84de-fc66a03b6a91",
+    "pages": null,
+    "format": "MS_WORD",
+    "path": null
+  },
+  {
+    "date": "2026-03-21",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "MN0BFM6EX61X171",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2026-03-21_CLM_MN0BFM6EX61X171.xml"
+  },
+  {
+    "date": "2026-03-21",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "MN0BFM6IX61X171",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-03-21",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "MN0BFM6JX61X171",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2026-03-21_CLM_MN0BFM6JX61X171.xml"
+  },
+  {
+    "date": "2026-03-21",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "MN0BFM6KX61X171",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2026-03-21_REM_MN0BFM6KX61X171.xml"
+  },
+  {
+    "date": "2026-04-14",
+    "code": "NTC.A.NONCPL",
+    "description": "Notice to the applicant regarding a non-compliant or non-responsive amendment",
+    "direction": "OUTGOING",
+    "document_id": "MNYMW7QRX36X173",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-04-18",
+    "code": "A...",
+    "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+    "direction": "INCOMING",
+    "document_id": "MO4TSWZA65X42X3",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-04-18",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "MO4TSWZE65X42X3",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2026-04-18_CLM_MO4TSWZE65X42X3.xml"
+  },
+  {
+    "date": "2026-04-18",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "MO4TSWZF65X42X3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-04-18",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "MOF4F9D0X138X73",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-05-06",
+    "code": "NTC.A.NONCPL",
+    "description": "Notice to the applicant regarding a non-compliant or non-responsive amendment",
+    "direction": "OUTGOING",
+    "document_id": "MOU5MEYWX71X108",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-05-06",
+    "code": "OA.APPENDIX",
+    "description": "Office Action Appendix",
+    "direction": "OUTGOING",
+    "document_id": "MOU5MEYYX71X108",
+    "pages": 6,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-05-09",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "MOYV4D275X65X28",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2026-05-09_CLM_MOYV4D275X65X28.xml"
+  },
+  {
+    "date": "2026-05-09",
+    "code": "A...",
+    "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+    "direction": "INCOMING",
+    "document_id": "MOYV4D2A5X65X28",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-05-09",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "MOYV4D2C5X65X28",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2026-05-09",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "MUEM388N121X250",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  }
+]

@@ -1,0 +1,274 @@
+Source: example/data/11467512/files/2009-04-20_CLM_FTROO544PPOPPY4.pdf
+Pages: 8
+
+--- page 1 (ocr) ---
+Serial No. 11/467,512
+Reply to Office Action dated November 19, 2008
+
+Amendments to the Claims:
+This listing of claims will replace all prior versions, and listings, of claims in the application:
+Listing of the Claims:
+
+1. (Currently Amended) A system, comprising:
+
+at least one motion capture camera configured to capture motion data from a
+facial surface of an actor using a plurality of sensors disposed on the facial surface of the
+actor;-and
+
+a motion capture processor coupled to said at least one motion capture camera,
+said motion capture processor including:
+
+a storage unit;
+
+an image capture module configured to control said at least one motion
+capture camera to capture frame by frame images of said plurality of sensors
+disposed on the facial surface of the actor, said image capture module receiving
+and storing said frame by frame images on said storage unit;
+
+a sensor tracking module configured to retrieve the stored frame by frame
+images from said storage unit, to perform a tracking function on the images to
+accurately map said plurality of sensors for each frame, and to provide said
+motion data from the facial surface;-asd
+
+a digital modeling module configured to receive said motion data to
+
+generate a modeled surface representing the facial surface of the actor; and
+
+113748/5732US/990461.01
+
+--- page 2 (ocr) ---
+Serial No. 11/467,512
+Reply to Office Action dated November 19, 2008
+
+2. (Original) The system of claim 1, wherein said storage unit, said image capture
+module, said sensor tracking module, and said digital modeling module of said motion
+
+capture processor are configured physically together in a head-mounted system.
+
+3. (Original) The system of claim 1, wherein said sensor tracking module and
+said digital modeling module of said motion capture processor are configured physically
+separately from said storage unit and said image capture module, which are configured in
+
+a head-mounted system.
+
+4. (Original) The system of claim 1, further comprising:
+
+at least one camera configured to capture images of environment surrounding the
+actor; and
+
+a display configured to display to the actor the images of environment
+surrounding the actor captured by said at least one camera, said display capable of also
+displaying virtual images overlaying on top of the images of environment surrounding the
+actor to allow the actor to show natural facial expressions substantially synchronized to
+
+relevant occurrences.
+
+5. (Original) The system of claim 1, further comprising:
+
+a microphone configured to record audio from the actor; and
+
+a cooling unit configured to cool the actor, wherein the cooling unit is turned off
+
+113748/5732US/990461.01
+
+--- page 3 (ocr) ---
+Serial No. 11/467,512
+Reply to Office Action dated November 19, 2008
+
+when the microphone is turned on.
+
+6. (Original) The system of claim 1, wherein said motion capture processor
+includes
+a wireless network interface module configured to wirelessly transmit and receive
+
+data to and from a user workstation.
+
+7. (Original) The system of claim 6, further comprising
+a recorder configured to record motion data captured by said at least one motion
+capture camera from the facial surface of the actor,
+
+wherein said recorder receives record commands from said user workstation.
+
+8. (Original) The system of claim 1, wherein said at least one motion capture
+camera includes
+a field splitter configured to deliver multiple fields of view such that stereo vision
+
+is achievable without having multiple cameras.
+
+9. (Original) The system of claim 1, wherein each camera of said at least one
+
+motion capture camera includes a telecentric lens.
+
+10. (Original) The system of claim 1, further comprising
+
+a mirror configured in one of spherical, hyperbolic, and planar shapes to allow
+
+113748/5732US/990461.01
+
+--- page 4 (ocr) ---
+Serial No. 11/467,512
+Reply to Office Action dated November 19, 2008
+
+said at least one motion capture camera to capture a reflection of the facial surface, said
+mirror allowing said at least one motion capture camera to be ergonomically mounted to
+
+cause less calibration/stabilization problems on the helmet.
+
+11. (Original) The system of claim 1, further comprising:
+
+a plurality of electrodes configured to measure the eye movement and output
+corresponding signal; and
+
+an electrooculogram control unit configured to receive said corresponding signal
+
+from said plurality of electrodes and to convert that signal to motion data.
+
+12. (Original) The system of claim 1, wherein said head-mounted system
+
+includes a helmet.
+
+13. (Currently Amended) A method of capturing and processing facial motion
+data, comprising:
+
+coupling a plurality of sensors to target points on a facial surface of an actor;
+
+capturing frame by frame images of said plurality of sensors disposed on the
+facial surface of the actor using at least one motion capture camera disposed on a head-
+mounted system;
+
+performing, in the head-mounted system, a tracking function on said frame by
+frame images of said plurality of sensors to accurately map said plurality of sensors for
+
+each frame;-ass
+
+113748/5732US/990461.01
+
+--- page 5 (ocr) ---
+Serial No. 11/467,512
+Reply to Office Action dated November 19, 2008
+
+generating, in the head-mounted system, a modeled surface representing the facial
+
+surface of the actor: and
+
+14. (Original) The method of claim 13, further comprising:
+
+capturing images of environment surrounding the actor; and
+
+displaying to the actor the images of environment surrounding the actor,
+
+wherein said displaying includes displaying virtual images overlayed on top of the
+images of environment surrounding the actor to allow the actor to show natural facial
+
+expressions substantially synchronized to a synchronization signal.
+
+15. (Original) The method of claim 14, further comprising
+generating said synchronization signal synchronized to events relevant to the
+
+movement of the facial surface of the actor.
+
+16. (Original) The method of claim 13, wherein said capturing frame by frame
+images further includes
+
+using at least one off-body motion capture camera.
+
+17. (Original) The method of claim 13, further comprising
+
+performing z-depth calculations using grayscale imaging after said capturing
+
+frame by frame images of said plurality of sensors.
+
+113748/5732US/990461.01
+
+--- page 6 (ocr) ---
+Serial No. 11/467,512
+Reply to Office Action dated November 19, 2008
+
+18. (Original) The method of claim 13, further comprising
+performing 2-D to 3-D triangulation after said capturing frame by frame images
+
+of said plurality of sensors.
+
+19. (Original) The method of claim 18, further comprising
+removing perspective distortion after said capturing frame by frame images of
+
+said plurality of sensors.
+
+20. (Original) The method of claim 19, wherein said removing perspective
+distortion includes:
+
+unwarping said frame by frame images; and
+
+improving said 2-D to 3-D triangulation.
+
+21. (Original) The method of claim 13, further comprising
+
+illuminating the facial surface of the actor using infrared illumination.
+
+22. (Canceled)
+
+23. (Currently Amended) The method of claim-2_i3, further comprising
+
+generating a 3-D mesh of the facial surface by triangulating the speckle pattern.
+
+113748/5732US/990461.01
+
+--- page 7 (ocr) ---
+Serial No. 11/467,512
+Reply to Office Action dated November 19, 2008
+
+24. (Original) The method of claim 23, further comprising:
+generating transitioning expressions with interest mesh vertices; and
+mathematically compute a least-error fitting of interest and using said mesh
+
+vertices.
+
+25. (Original) The method of claim 23, further comprising:
+scanning, digitizing, and modeling a neutral face of the actor; and
+
+projecting mesh vertices on the neutral face of the actor.
+
+26. (Original) The method of claim 13, wherein said coupling a plurality of
+sensors to target points on a facial surface of an actor includes
+
+painting a pattern on the facial surface of the actor using reflective material.
+
+27. (Original) The method of claim 13, wherein said coupling a plurality of
+sensors to target points on a facial surface of an actor includes
+
+passing an invisible strip of light over the facial surface of the actor using a laser.
+
+28. (Original) The method of claim 27, wherein said capturing frame by frame
+images of said plurality of sensors disposed on the facial surface of the actor includes:
+
+scanning strip contours using said at least one motion capture camera;
+
+reconstructing lines created by said passing of an invisible strip of light as surface
+
+geometry; and
+
+113748/5732US/990461.01
+
+--- page 8 (ocr) ---
+Serial No. 11/467,512
+Reply to Office Action dated November 19, 2008
+
+joining the lines to generate a mesh.
+
+29. (Currently Amended) A system for capturing and processing facial motion
+data, comprising:
+
+means for coupling a plurality of sensors to target points on a facial surface of an
+actor;
+
+means for capturing frame by frame images of said plurality of sensors disposed
+on the facial surface of the actor using at least one motion capture camera disposed on a
+head-mounted system;
+
+means for performing, in the head-mounted system, a tracking function on said
+frame by frame images of said plurality of sensors to accurately map said plurality of
+sensors for each frame;-asd
+
+means for generating, in the head-mounted system, a modeled surface
+
+113748/5732US/990461.01

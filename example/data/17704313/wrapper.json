@@ -1,0 +1,1347 @@
+{
+  "count": 1,
+  "patentFileWrapperDataBag": [
+    {
+      "grantDocumentMetaData": {
+        "productIdentifier": "PTGRXML",
+        "zipFileName": "ipg240924.zip",
+        "fileCreateDateTime": "2024-09-30T18:00:57",
+        "xmlFileName": "17704313_12101343.xml",
+        "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2024/ipg240924/17704313_12101343.xml"
+      },
+      "eventDataBag": [
+        {
+          "eventCode": "PGM/",
+          "eventDescriptionText": "Recordation of Patent Grant Mailed",
+          "eventDate": "2024-09-24"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2024-09-24"
+        },
+        {
+          "eventCode": "MEPG_NTF",
+          "eventDescriptionText": "Mail Patent eGrant Notification",
+          "eventDate": "2024-09-24"
+        },
+        {
+          "eventCode": "EPG_NTF",
+          "eventDescriptionText": "Patent eGrant Notification",
+          "eventDate": "2024-09-24"
+        },
+        {
+          "eventCode": "EPG/",
+          "eventDescriptionText": "Recordation of Patent eGrant",
+          "eventDate": "2024-09-24"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2024-09-05"
+        },
+        {
+          "eventCode": "WPIR",
+          "eventDescriptionText": "Issue Notification Mailed",
+          "eventDate": "2024-09-04"
+        },
+        {
+          "eventCode": "PTAC",
+          "eventDescriptionText": "Patent Issue Date Used in PTA Calculation",
+          "eventDate": "2024-09-24"
+        },
+        {
+          "eventCode": "D1935",
+          "eventDescriptionText": "Dispatch to FDC",
+          "eventDate": "2024-08-14"
+        },
+        {
+          "eventCode": "PILS",
+          "eventDescriptionText": "Application Is Considered Ready for Issue",
+          "eventDate": "2024-08-14"
+        },
+        {
+          "eventCode": "N084",
+          "eventDescriptionText": "Issue Fee Payment Verified",
+          "eventDate": "2024-08-06"
+        },
+        {
+          "eventCode": "IFEE",
+          "eventDescriptionText": "Issue Fee Payment Received",
+          "eventDate": "2024-08-06"
+        },
+        {
+          "eventCode": "ELC_RVW",
+          "eventDescriptionText": "Electronic Review",
+          "eventDate": "2024-06-28"
+        },
+        {
+          "eventCode": "ELC_RVW",
+          "eventDescriptionText": "Electronic Review",
+          "eventDate": "2024-06-28"
+        },
+        {
+          "eventCode": "EML_NTF",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2024-06-28"
+        },
+        {
+          "eventCode": "MN/=.",
+          "eventDescriptionText": "Mail Notice of Allowance",
+          "eventDate": "2024-06-28"
+        },
+        {
+          "eventCode": "N/=.",
+          "eventDescriptionText": "Notice of Allowance Data Verification Completed",
+          "eventDate": "2024-06-25"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2024-06-07"
+        },
+        {
+          "eventCode": "A...",
+          "eventDescriptionText": "Response after Non-Final Action",
+          "eventDate": "2024-05-29"
+        },
+        {
+          "eventCode": "C602",
+          "eventDescriptionText": "Oath or Declaration Filed (Including Supplemental)",
+          "eventDate": "2022-04-20"
+        },
+        {
+          "eventCode": "ELC_RVW",
+          "eventDescriptionText": "Electronic Review",
+          "eventDate": "2024-05-09"
+        },
+        {
+          "eventCode": "ELC_RVW",
+          "eventDescriptionText": "Electronic Review",
+          "eventDate": "2024-05-09"
+        },
+        {
+          "eventCode": "EML_NTF",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2024-05-09"
+        },
+        {
+          "eventCode": "MCTNF",
+          "eventDescriptionText": "Mail Non-Final Rejection",
+          "eventDate": "2024-05-09"
+        },
+        {
+          "eventCode": "CTNF",
+          "eventDescriptionText": "Non-Final Rejection",
+          "eventDate": "2024-05-04"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2024-04-06"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2024-02-21"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2024-02-05"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2023-09-29"
+        },
+        {
+          "eventCode": "PG-ISSUE",
+          "eventDescriptionText": "PG-Pub Issue Notification",
+          "eventDate": "2023-09-29"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2022-04-27"
+        },
+        {
+          "eventCode": "OIPE",
+          "eventDescriptionText": "Application Dispatched from OIPE",
+          "eventDate": "2022-04-26"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2022-03-30"
+        },
+        {
+          "eventCode": "CCRDY",
+          "eventDescriptionText": "Application ready for PDX access by participating foreign offices",
+          "eventDate": "2022-03-30"
+        },
+        {
+          "eventCode": "PGPC",
+          "eventDescriptionText": "Sent to Classification Contractor",
+          "eventDate": "2022-03-29"
+        },
+        {
+          "eventCode": "FTFS",
+          "eventDescriptionText": "FITF set to YES - revise initial setting",
+          "eventDate": "2022-03-29"
+        },
+        {
+          "eventCode": "PTA.RFE",
+          "eventDescriptionText": "Patent Term Adjustment - Ready for Examination",
+          "eventDate": "2022-03-25"
+        },
+        {
+          "eventCode": "COMP",
+          "eventDescriptionText": "Application Is Now Complete",
+          "eventDate": "2022-03-30"
+        },
+        {
+          "eventCode": "COMP",
+          "eventDescriptionText": "Application Is Now Complete",
+          "eventDate": "2022-03-30"
+        },
+        {
+          "eventCode": "FLRCPT.O",
+          "eventDescriptionText": "Filing Receipt",
+          "eventDate": "2022-03-30"
+        },
+        {
+          "eventCode": "SREXR141",
+          "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results",
+          "eventDate": "2022-03-25"
+        },
+        {
+          "eventCode": "APPERMS",
+          "eventDescriptionText": "Applicants have given acceptable permission for participating foreign",
+          "eventDate": "2022-03-25"
+        },
+        {
+          "eventCode": "BIG.",
+          "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)",
+          "eventDate": "2022-03-25"
+        },
+        {
+          "eventCode": "IEXX",
+          "eventDescriptionText": "Initial Exam Team nn",
+          "eventDate": "2022-03-25"
+        }
+      ],
+      "applicationMetaData": {
+        "firstInventorToFileIndicator": "Y",
+        "applicationStatusCode": 150,
+        "applicationTypeCode": "UTL",
+        "entityStatusData": {
+          "smallEntityStatusIndicator": false,
+          "businessEntityStatusCategory": "Regular Undiscounted"
+        },
+        "filingDate": "2022-03-25",
+        "uspcSymbolText": "726/23",
+        "nationalStageIndicator": false,
+        "firstInventorName": "Tsahi FLYSHER",
+        "cpcClassificationBag": [
+          "H04L  63/1425",
+          "G06N  20/00",
+          "G06F  18/2148",
+          "G06F  18/214",
+          "H04L  41/142",
+          "H04L  41/16"
+        ],
+        "effectiveFilingDate": "2022-03-25",
+        "publicationDateBag": [
+          "2023-09-28"
+        ],
+        "publicationSequenceNumberBag": [
+          "0308461"
+        ],
+        "earliestPublicationDate": "2023-09-28",
+        "applicationTypeLabelName": "Utility",
+        "applicationStatusDate": "2024-09-04",
+        "class": "726",
+        "applicationTypeCategory": "REGULAR",
+        "inventorBag": [
+          {
+            "firstName": "Tsahi",
+            "lastName": "FLYSHER",
+            "inventorNameText": "Tsahi FLYSHER",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Ra`anana",
+                "countryCode": "IL",
+                "nameLineOneText": "FLYSHER, Tsahi",
+                "countryName": "ISRAEL",
+                "postalAddressCategory": "residence"
+              },
+              {
+                "cityName": "Ra`anana",
+                "countryCode": "IL",
+                "nameLineOneText": "Tsahi  FLYSHER",
+                "countryName": "ISRAEL",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          },
+          {
+            "firstName": "Ira",
+            "lastName": "COHEN",
+            "inventorNameText": "Ira COHEN",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Ra'anana",
+                "countryCode": "IL",
+                "nameLineOneText": "Ira  COHEN",
+                "countryName": "ISRAEL",
+                "postalAddressCategory": "postal"
+              },
+              {
+                "cityName": "Reut",
+                "countryCode": "IL",
+                "nameLineOneText": "COHEN, Ira",
+                "countryName": "ISRAEL",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Inbal",
+            "lastName": "TADESKI",
+            "inventorNameText": "Inbal TADESKI",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Ra`anana",
+                "countryCode": "IL",
+                "nameLineOneText": "TADESKI, Inbal",
+                "countryName": "ISRAEL",
+                "postalAddressCategory": "residence"
+              },
+              {
+                "cityName": "Ra`anana",
+                "countryCode": "IL",
+                "nameLineOneText": "Inbal  TADESKI",
+                "countryName": "ISRAEL",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          },
+          {
+            "firstName": "Meir",
+            "lastName": "TOLEDANO",
+            "inventorNameText": "Meir TOLEDANO",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Tel Aviv",
+                "countryCode": "IL",
+                "nameLineOneText": "TOLEDANO, Meir",
+                "countryName": "ISRAEL",
+                "postalAddressCategory": "residence"
+              },
+              {
+                "cityName": "Ra`anana",
+                "countryCode": "IL",
+                "nameLineOneText": "Meir  TOLEDANO",
+                "countryName": "ISRAEL",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          }
+        ],
+        "applicationStatusDescriptionText": "Patented Case",
+        "patentNumber": "12101343",
+        "grantDate": "2024-09-24",
+        "applicantBag": [
+          {
+            "applicantNameText": "Anodot Ltd.",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Ra'anana",
+                "countryCode": "IL",
+                "nameLineOneText": "Anodot Ltd.",
+                "countryName": "ISRAEL",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          }
+        ],
+        "firstApplicantName": "Anodot Ltd.",
+        "customerNumber": 179535,
+        "groupArtUnitNumber": "2435",
+        "earliestPublicationNumber": "US20230308461A1",
+        "inventionTitle": "Event-Based Machine Learning for a Time-Series Metric",
+        "applicationConfirmationNumber": 8637,
+        "examinerNameText": "GUNDRY, STEPHEN T",
+        "subclass": "23",
+        "publicationCategoryBag": [
+          "Granted/Issued",
+          "Pre-Grant Publications - PGPub"
+        ],
+        "docketNumber": "51462-12"
+      },
+      "patentTermAdjustmentData": {
+        "applicantDayDelayQuantity": 0,
+        "overlappingDayQuantity": 0,
+        "ipOfficeAdjustmentDelayQuantity": 0,
+        "cDelayQuantity": 0,
+        "adjustmentTotalQuantity": 350,
+        "bDelayQuantity": 0,
+        "nonOverlappingDayDelayQuantity": 350,
+        "aDelayQuantity": 350,
+        "patentTermAdjustmentHistoryDataBag": [
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "PTA 36 Months",
+            "eventSequenceNumber": 47.5,
+            "originatingEventSequenceNumber": 0.5,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-09-24"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Patent Issue Date Used in PTA Calculation",
+            "eventSequenceNumber": 47.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-09-24"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Export to Final Data Capture",
+            "eventSequenceNumber": 46.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-08-15"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Dispatch to FDC",
+            "eventSequenceNumber": 45.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-08-14"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application Is Considered Ready for Issue",
+            "eventSequenceNumber": 44.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-08-14"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Issue Fee Payment Verified",
+            "eventSequenceNumber": 43.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-08-06"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Issue Fee Payment Received",
+            "eventSequenceNumber": 42.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-08-06"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Finished Initial Data Capture",
+            "eventSequenceNumber": 41.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-07-12"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Export to Initial Data Capture",
+            "eventSequenceNumber": 40.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-06-28"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Review",
+            "eventSequenceNumber": 39.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-06-28"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Review",
+            "eventSequenceNumber": 38.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-06-28"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 37.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-06-28"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Notice of Allowance",
+            "eventSequenceNumber": 36.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-06-28"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Office Action Review",
+            "eventSequenceNumber": 35.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-06-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Office Action Review",
+            "eventSequenceNumber": 34.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-06-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Notice of Allowance Data Verification Completed",
+            "eventSequenceNumber": 33.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-06-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Document Verification",
+            "eventSequenceNumber": 32.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-06-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Reasons for Allowance",
+            "eventSequenceNumber": 31.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-06-13"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Allowability Notice",
+            "eventSequenceNumber": 30.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-06-13"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Date Forwarded to Examiner",
+            "eventSequenceNumber": 29.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-06-07"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Response after Non-Final Action",
+            "eventSequenceNumber": 28.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-05-29"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Oath or Declaration Filed (Including Supplemental)",
+            "eventSequenceNumber": 27.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-04-20"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Review",
+            "eventSequenceNumber": 26.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-05-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Review",
+            "eventSequenceNumber": 25.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-05-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 24.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-05-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Non-Final Rejection",
+            "eventSequenceNumber": 23.0,
+            "originatingEventSequenceNumber": 0.5,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 350,
+            "eventDate": "2024-05-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Non-Final Rejection",
+            "eventSequenceNumber": 22.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-05-04"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Case Docketed to Examiner in GAU",
+            "eventSequenceNumber": 21.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-04-06"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Case Docketed to Examiner in GAU",
+            "eventSequenceNumber": 20.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-02-21"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Case Docketed to Examiner in GAU",
+            "eventSequenceNumber": 19.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2024-02-05"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 18.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2023-09-29"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "PG-Pub Issue Notification",
+            "eventSequenceNumber": 17.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2023-09-29"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Case Docketed to Examiner in GAU",
+            "eventSequenceNumber": 16.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-04-27"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application Dispatched from OIPE",
+            "eventSequenceNumber": 15.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-04-26"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 14.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-03-30"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application ready for PDX access by participating foreign offices",
+            "eventSequenceNumber": 13.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-03-30"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Sent to Classification Contractor",
+            "eventSequenceNumber": 12.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-03-29"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "FITF set to YES - revise initial setting",
+            "eventSequenceNumber": 11.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-03-29"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Patent Term Adjustment - Ready for Examination",
+            "eventSequenceNumber": 10.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-03-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application Is Now Complete",
+            "eventSequenceNumber": 9.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-03-30"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application Is Now Complete",
+            "eventSequenceNumber": 8.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-03-30"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Filing Receipt",
+            "eventSequenceNumber": 7.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-03-30"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results",
+            "eventSequenceNumber": 6.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-03-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Applicants have given acceptable permission for participating foreign",
+            "eventSequenceNumber": 5.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-03-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Cleared by OIPE CSR",
+            "eventSequenceNumber": 4.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-03-28"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "IFW Scan & PACR Auto Security Review",
+            "eventSequenceNumber": 3.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-03-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)",
+            "eventSequenceNumber": 2.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-03-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Initial Exam Team nn",
+            "eventSequenceNumber": 1.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-03-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Filing date",
+            "eventSequenceNumber": 0.5,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2022-03-25"
+          }
+        ]
+      },
+      "assignmentBag": [
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/59648/649",
+          "assignmentReceivedDate": "2022-04-20",
+          "reelAndFrameNumber": "059648/0649",
+          "frameNumber": 649,
+          "assignmentRecordedDate": "2022-04-20",
+          "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "RA`ANANA",
+                "geographicRegionCode": "ILX",
+                "postalCode": "4366518",
+                "ictCountryCode": "IL",
+                "countryName": "ISRAEL",
+                "addressLineOneText": "HA-TIDHAR ST 16"
+              },
+              "assigneeNameText": "ANODOT LTD."
+            }
+          ],
+          "assignmentMailedDate": "2022-04-21",
+          "reelNumber": 59648,
+          "correspondenceAddress": {
+            "addressLineOneText": "409 E JEFFERSON AVENUE, FIFTH FLOOR",
+            "correspondentNameText": "MILLER JOHNSON",
+            "addressLineTwoText": "DETROIT, 48226 UNITED STATES"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2022-04-02",
+              "assignorName": "TOLEDANO, MEIR"
+            },
+            {
+              "executionDate": "2022-04-03",
+              "assignorName": "TADESKI, INBAL"
+            },
+            {
+              "executionDate": "2022-04-04",
+              "assignorName": "COHEN, IRA"
+            },
+            {
+              "executionDate": "2022-04-14",
+              "assignorName": "FLYSHER, TSAHI"
+            }
+          ],
+          "pageTotalQuantity": 4,
+          "attorneyDocketNumber": "51462-12"
+        },
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/73040/5",
+          "assignmentReceivedDate": "2025-11-26",
+          "reelAndFrameNumber": "073040/0005",
+          "frameNumber": 5,
+          "assignmentRecordedDate": "2025-11-26",
+          "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "PETAH TIKVA",
+                "geographicRegionCode": "ILX",
+                "postalCode": "4951038",
+                "ictCountryCode": "IL",
+                "countryName": "ISRAEL",
+                "addressLineOneText": "25 BASEL STREET"
+              },
+              "assigneeNameText": "GLASSBOX LTD."
+            }
+          ],
+          "assignmentMailedDate": "2025-11-27",
+          "reelNumber": 73040,
+          "correspondenceAddress": {
+            "addressLineOneText": "24 HA-NAGAR, AMY-C BUILDING, P.O.B 6411 NEVE-NE'EM",
+            "correspondentNameText": "Jencmen & Co Shalev",
+            "addressLineTwoText": "HOD HASHARON, 4527713 ISRAEL"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2025-10-30",
+              "assignorName": "ANODOT LTD."
+            }
+          ],
+          "pageTotalQuantity": 6,
+          "attorneyDocketNumber": "SHJ2312-US AND SHJ2313-US"
+        }
+      ],
+      "pgpubDocumentMetaData": {
+        "productIdentifier": "APPXML",
+        "zipFileName": "ipa230928.zip",
+        "fileCreateDateTime": "2024-09-30T11:06:58",
+        "xmlFileName": "17704313_20230308461.xml",
+        "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/APPXML-SPLT/2023/ipa230928/17704313_20230308461.xml"
+      },
+      "lastIngestionDateTime": "2026-04-30T19:00:02",
+      "recordAttorney": {
+        "customerNumberCorrespondenceData": {
+          "powerOfAttorneyAddressBag": [
+            {
+              "cityName": "Grand Rapids",
+              "geographicRegionName": "MICHIGAN",
+              "geographicRegionCode": "MI",
+              "countryCode": "US",
+              "postalCode": "49501-0306",
+              "nameLineOneText": "Miller Johnson",
+              "countryName": "UNITED STATES",
+              "addressLineOneText": "PO Box 306"
+            }
+          ],
+          "patronIdentifier": 179535
+        },
+        "powerOfAttorneyBag": [
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "MEGAN",
+            "lastName": "PARRISH",
+            "registrationNumber": "80846",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DETROIT",
+                "geographicRegionName": "MICHIGAN",
+                "geographicRegionCode": "MI",
+                "countryCode": "US",
+                "postalCode": "48226",
+                "nameLineOneText": "MILLER, JOHNSON, SNELL & CUMMISKEY, P.L.C.",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "500 WOODWARD AVENUE",
+                "addressLineTwoText": "SUITE 3600"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "313-524-2589",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "C",
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "BRANDON",
+            "lastName": "GRIFFITH",
+            "registrationNumber": "74934",
+            "attorneyAddressBag": [
+              {
+                "cityName": "GRAND RAPIDS",
+                "geographicRegionName": "MICHIGAN",
+                "geographicRegionCode": "MI",
+                "countryCode": "US",
+                "postalCode": "49503",
+                "nameLineOneText": "MILLER, JOHNSON, SNELL & CUMMISKEY, P.L.C.",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "45 OTTAWA AVE SW",
+                "addressLineTwoText": "SUITE 1100"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "248-462-4458",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JACOB",
+            "lastName": "COWDREY",
+            "registrationNumber": "81803",
+            "attorneyAddressBag": [
+              {
+                "cityName": "GRAND RAPIDS",
+                "geographicRegionName": "MICHIGAN",
+                "geographicRegionCode": "MI",
+                "countryCode": "US",
+                "postalCode": "49503",
+                "nameLineOneText": "MILLER JOHNSON",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "45 OTTAWA AVENUE SW",
+                "addressLineTwoText": "SUITE 1100"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "248-320-8710",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "J.",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "SETH",
+            "lastName": "GUTHRIE",
+            "registrationNumber": "78799",
+            "attorneyAddressBag": [
+              {
+                "cityName": "GRAND RAPIDS",
+                "geographicRegionName": "MICHIGAN",
+                "geographicRegionCode": "MI",
+                "countryCode": "US",
+                "postalCode": "49503",
+                "nameLineOneText": "MILLER JOHNSON",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "45 OTTAWA AVE SW, SUITE 1100"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "303-475-6028",
+                "telecomTypeCode": "TEL"
+              },
+              {
+                "telecommunicationNumber": "314-726-7501",
+                "telecomTypeCode": "FAX"
+              }
+            ],
+            "middleName": "K.",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "NATHAN",
+            "lastName": "SPORTEL",
+            "registrationNumber": "67980",
+            "attorneyAddressBag": [
+              {
+                "cityName": "GRAND RAPIDS",
+                "geographicRegionName": "MICHIGAN",
+                "geographicRegionCode": "MI",
+                "countryCode": "US",
+                "postalCode": "49503",
+                "nameLineOneText": "MILLER JOHNSON",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "45 OTTAWA AVE SW",
+                "addressLineTwoText": "#1100"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "616-831-1793",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "P.",
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "MICHAEL",
+            "lastName": "NYE",
+            "registrationNumber": "62126",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DETROIT",
+                "geographicRegionName": "MICHIGAN",
+                "geographicRegionCode": "MI",
+                "countryCode": "US",
+                "postalCode": "48226",
+                "nameLineOneText": "MILLER, JOHNSON, SNELL & CUMMISKEY, P.L.C.",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "500 WOODWARD AVE # 3600"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "313-672-6933",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "R.",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "ARTHUR",
+            "lastName": "HALLMAN",
+            "registrationNumber": "77829",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DETROIT",
+                "geographicRegionName": "MICHIGAN",
+                "geographicRegionCode": "MI",
+                "countryCode": "US",
+                "postalCode": "48226",
+                "nameLineOneText": "MILLER JOHNSON",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "409 E. JEFFERSON AVENUE",
+                "addressLineTwoText": "FIFTH FLOOR"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "313-672-6948",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          }
+        ],
+        "attorneyBag": [
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "MICHAEL",
+            "lastName": "NYE",
+            "registrationNumber": "62126",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DETROIT",
+                "geographicRegionName": "MICHIGAN",
+                "geographicRegionCode": "MI",
+                "countryCode": "US",
+                "postalCode": "48226",
+                "nameLineOneText": "MILLER, JOHNSON, SNELL & CUMMISKEY, P.L.C.",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "500 WOODWARD AVE # 2800"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "313-672-6933",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "R.",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "NATHAN",
+            "lastName": "SPORTEL",
+            "registrationNumber": "67980",
+            "attorneyAddressBag": [
+              {
+                "cityName": "GRAND RAPIDS",
+                "geographicRegionName": "MICHIGAN",
+                "geographicRegionCode": "MI",
+                "countryCode": "US",
+                "postalCode": "49503",
+                "nameLineOneText": "MILLER JOHNSON",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "45 OTTAWA AVE SW",
+                "addressLineTwoText": "#1100"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "616-831-1793",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "P.",
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "BRANDON",
+            "lastName": "GRIFFITH",
+            "registrationNumber": "74934",
+            "attorneyAddressBag": [
+              {
+                "cityName": "GRAND RAPIDS",
+                "geographicRegionName": "MICHIGAN",
+                "geographicRegionCode": "MI",
+                "countryCode": "US",
+                "postalCode": "49503",
+                "nameLineOneText": "MILLER, JOHNSON, SNELL & CUMMISKEY, P.L.C.",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "45 OTTAWA AVE SW",
+                "addressLineTwoText": "SUITE 1100"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "248-462-4458",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "HAILEY",
+            "lastName": "JAHN",
+            "registrationNumber": "76301",
+            "attorneyAddressBag": [
+              {
+                "cityName": "GRAND RAPIDS",
+                "geographicRegionName": "MICHIGAN",
+                "geographicRegionCode": "MI",
+                "countryCode": "US",
+                "postalCode": "49503",
+                "nameLineOneText": "MILLER JOHNSON",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "45 OTTAWA AVENUE SW",
+                "addressLineTwoText": "SUITE 1100"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "616-831-1923",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "I.",
+            "registeredPractitionerCategory": "AGENT"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "ARTHUR",
+            "lastName": "HALLMAN",
+            "registrationNumber": "77829",
+            "attorneyAddressBag": [
+              {
+                "cityName": "DETROIT",
+                "geographicRegionName": "MICHIGAN",
+                "geographicRegionCode": "MI",
+                "countryCode": "US",
+                "postalCode": "48226",
+                "nameLineOneText": "MILLER JOHNSON",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "409 E. JEFFERSON AVENUE",
+                "addressLineTwoText": "FIFTH FLOOR"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "313-672-6948",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "SETH",
+            "lastName": "GUTHRIE",
+            "registrationNumber": "78799",
+            "attorneyAddressBag": [
+              {
+                "cityName": "GRAND RAPIDS",
+                "geographicRegionName": "MICHIGAN",
+                "geographicRegionCode": "MI",
+                "countryCode": "US",
+                "postalCode": "49503",
+                "nameLineOneText": "MILLER JOHNSON",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "45 OTTAWA AVE SW, SUITE 1100"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "303-475-6028",
+                "telecomTypeCode": "TEL"
+              },
+              {
+                "telecommunicationNumber": "314-726-7501",
+                "telecomTypeCode": "FAX"
+              }
+            ],
+            "middleName": "K.",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JACOB",
+            "lastName": "COWDREY",
+            "registrationNumber": "81803",
+            "attorneyAddressBag": [
+              {
+                "cityName": "GRAND RAPIDS",
+                "geographicRegionName": "MICHIGAN",
+                "geographicRegionCode": "MI",
+                "countryCode": "US",
+                "postalCode": "49503",
+                "nameLineOneText": "MILLER JOHNSON",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "45 OTTAWA AVENUE SW",
+                "addressLineTwoText": "SUITE 1100"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "248-320-8710",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "J.",
+            "registeredPractitionerCategory": "ATTNY"
+          }
+        ]
+      },
+      "applicationNumberText": "17704313",
+      "correspondenceAddressBag": [
+        {
+          "cityName": "Grand Rapids",
+          "geographicRegionName": "MICHIGAN",
+          "geographicRegionCode": "MI",
+          "countryCode": "US",
+          "postalCode": "49501-0306",
+          "nameLineOneText": "Miller Johnson",
+          "countryName": "UNITED STATES",
+          "addressLineOneText": "PO Box 306"
+        }
+      ]
+    }
+  ],
+  "requestIdentifier": "08938116-35fa-4140-9988-5fc3d57651b8"
+}

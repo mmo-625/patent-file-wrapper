@@ -1,0 +1,158 @@
+[
+  {
+    "date": "2022-03-25",
+    "sender": "Applicant",
+    "message": "I've filed a patent application for Event-Based Machine Learning for a Time-Series Metric.",
+    "code": "FILED"
+  },
+  {
+    "date": "2022-03-25",
+    "sender": "Applicant",
+    "message": "The invention involves a computerized method and system for generating training samples for an anomaly detection system by analyzing time-series events that impact a target metric. It operates by grouping these events based on shared attributes, determining their influence patterns on the target metric, and clustering the groups with similar influence patterns. Additionally, the process incorporates impact scoring and filtering thresholds to selectively remove irrelevant event groups before or during the clustering phase.",
+    "code": "CLM",
+    "claims": [
+      {
+        "number": 1,
+        "status": "Original",
+        "lines": [
+          "A computerized method comprising:",
+          "receiving a plurality of events that occurred during a time series of a target metric, wherein each event of the events includes an event attribute characterizing the event;",
+          "generating a set of event groups for the plurality of events, wherein each event of a respective event group shares a respective event attribute with one or more other events of the respective event group;",
+          "for each respective event group of the set of event groups, determining an influence pattern that identifies an influence of the respective event group on the target metric;",
+          "clustering the set of event groups into event clusters based on a respective influence pattern of each respective event group, wherein each event cluster includes one or more event groups that share a similar influence pattern; and",
+          "generating a plurality of training samples for an anomaly detection system based on a respective event cluster."
+        ],
+        "amended": false,
+        "reconstructed": false
+      },
+      {
+        "number": 11,
+        "status": "Original",
+        "lines": [
+          "A system comprising:",
+          "processor hardware; and",
+          "memory hardware in communication with the processor hardware, wherein the memory hardware stores instructions that, when executed by the processor hardware, perform operations, and wherein the operations include:",
+          "receiving a plurality of events that occurred during a time series of a target metric, wherein each respective event includes an event attribute characterizing the respective event;",
+          "generating a set of event groups for the plurality of events, wherein each event of a respective event group shares a respective event attribute with one or more other events of the respective event group;",
+          "for each respective event group of the set of event groups, determining an influence pattern that identifies an influence of the respective event group on the target metric;",
+          "clustering the set of event groups into event clusters based on a respective influence pattern of each respective event group, wherein each event cluster includes one or more event groups that share a similar influence pattern; and",
+          "generating a plurality of training samples for an anomaly detection system based on a respective event cluster."
+        ],
+        "amended": false,
+        "reconstructed": false
+      },
+      {
+        "number": 18,
+        "status": "Original",
+        "lines": [
+          "The system of claim I I wherein the anomaly detection system is a machine learning-based anomaly detection system."
+        ],
+        "amended": false,
+        "reconstructed": false
+      },
+      {
+        "number": 19,
+        "status": "Original",
+        "lines": [
+          "The system of claim I I wherein determining the influence pattern that identifies the influence of the respective event group on the target metric includes determining a mean expected influence for all events of the respective event group."
+        ],
+        "amended": false,
+        "reconstructed": false
+      }
+    ]
+  },
+  {
+    "date": "2022-03-30",
+    "sender": "USPTO",
+    "message": "The application is complete and has been accepted for examination.",
+    "code": "COMP"
+  },
+  {
+    "date": "2022-03-30",
+    "sender": "USPTO",
+    "message": "The application is complete and has been accepted for examination.",
+    "code": "COMP"
+  },
+  {
+    "date": "2023-09-29",
+    "sender": "USPTO",
+    "message": "The application has been published.",
+    "code": "PG-ISSUE"
+  },
+  {
+    "date": "2024-05-09",
+    "sender": "Examiner",
+    "message": "This Non-Final Office Action examines pending claims 1-20 of your application, rejecting claims 1-2, 7-8, 11-12, and 17-18 under 35 U.S.C. § 103 as unpatentable over the combined teachings of Settle and Dodson. Please note that claims 3-6, 9-10, 13-16, and 19-20 disclose allowable subject matter and would be patentable if incorporated into the independent claims.",
+    "code": "CTNF"
+  },
+  {
+    "date": "2024-05-29",
+    "sender": "Applicant",
+    "message": "I've filed an amendment in response to the non-final rejection.",
+    "code": "A..."
+  },
+  {
+    "date": "2024-05-29",
+    "sender": "Applicant",
+    "message": "The invention is a computerized method and system for generating training samples for an anomaly detection system by analyzing a time series of a target metric. Recent amendments clarify that determining the influence of each event group on the target metric specifically involves calculating a mean expected influence for all events within that group. Additionally, the clustering process has been refined to evaluate and group event groups based on the similarity of their influence patterns relative to a second event group.",
+    "code": "CLM",
+    "claims": [
+      {
+        "number": 1,
+        "status": "Currently amended",
+        "lines": [
+          "A computerized method comprising:",
+          "receiving a plurality of events that occurred during a time series of a target metric, wherein each event of the [+plurality of+] events includes an event attribute characterizing the [+respective+] event;",
+          "generating a set of event groups for the plurality of events, wherein each event of a respective event group shares a respective event attribute with one or more other events of the respective event group;",
+          "for each respective event group of the set of event groups, determining an influence pattern that identifies an influence of the respective event group on the target [+metric, wherein determining the influence pattern includes determining a mean expected influence for all events of the respective event group;+]",
+          "clustering the set of event groups into event clusters based on a respective influence pattern of each respective event group, wherein each event cluster includes one or more event groups that share a similar influence pattern; and",
+          "generating a plurality of training samples for an anomaly detection system based on a respective event cluster."
+        ],
+        "amended": true,
+        "reconstructed": false
+      },
+      {
+        "number": 11,
+        "status": "Currently amended",
+        "lines": [
+          "A system comprising:",
+          "processor hardware; and",
+          "memory hardware in communication with the processor hardware,",
+          "wherein the memory hardware stores instructions that, when executed by the processor hardware, perform operations, and wherein the operations include:",
+          "receiving a plurality of events that occurred during a time series of a target metric, wherein each respective event [+of the plurality of events+] includes an event attribute characterizing the respective event;",
+          "generating a set of event groups for the plurality of events, wherein each event of a respective event group shares a respective event attribute with one or more other events of the respective event group;",
+          "for each respective event group of the set of event groups,",
+          "determining an influence pattern that identifies an influence of the respective event group on the target [+metric, wherein determining the influence pattern includes determining a mean expected influence for all events of the respective event group;+]",
+          "clustering the set of event groups into event clusters based on a respective influence pattern of each respective event group, wherein each event cluster includes one or more event groups that share a similar influence pattern;",
+          "and generating a plurality of training samples for an anomaly detection system based on a respective event cluster."
+        ],
+        "amended": true,
+        "reconstructed": false
+      }
+    ]
+  },
+  {
+    "date": "2024-05-29",
+    "sender": "Applicant",
+    "message": "In response to the office action, we have amended independent claims 1 and 11 to incorporate the allowable limitations of former dependent claims 9 and 19. We respectfully request that the Examiner withdraw the rejections over Settle and Dodson, as the prior art fails to teach these combined features, and pass the application to allowance.",
+    "code": "REM"
+  },
+  {
+    "date": "2024-06-28",
+    "sender": "Examiner",
+    "message": "The application has been allowed. Once the issue fee is paid, the patent will be granted.",
+    "code": "NOA"
+  },
+  {
+    "date": "2024-09-04",
+    "sender": "USPTO",
+    "message": "The patent will issue as U.S. Patent No. 12101343.",
+    "code": "ISSUE.NTF"
+  },
+  {
+    "date": "2024-09-24",
+    "sender": "USPTO",
+    "message": "U.S. Patent No. 12101343 has been granted for Event-Based Machine Learning for a Time-Series Metric.",
+    "code": "EGRANT.NTF"
+  }
+]

@@ -1,0 +1,2462 @@
+{
+  "count": 1,
+  "patentFileWrapperDataBag": [
+    {
+      "grantDocumentMetaData": {
+        "productIdentifier": "PTGRXML",
+        "zipFileName": "ipg131119.zip",
+        "fileCreateDateTime": "2024-09-29T12:12:21",
+        "xmlFileName": "13090569_08584385.xml",
+        "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2013/ipg131119/13090569_08584385.xml"
+      },
+      "eventDataBag": [
+        {
+          "eventCode": "M1553",
+          "eventDescriptionText": "Payment of Maintenance Fee, 12th Year, Large Entity",
+          "eventDate": "2025-04-04"
+        },
+        {
+          "eventCode": "C.ADB",
+          "eventDescriptionText": "Correspondence Address Change",
+          "eventDate": "2023-09-15"
+        },
+        {
+          "eventCode": "C.ADB",
+          "eventDescriptionText": "Correspondence Address Change",
+          "eventDate": "2023-09-15"
+        },
+        {
+          "eventCode": "M1555",
+          "eventDescriptionText": "7.5 yr surcharge - late pmt w/in 6 mo, Large Entity",
+          "eventDate": "2021-07-20"
+        },
+        {
+          "eventCode": "M1552",
+          "eventDescriptionText": "Payment of Maintenance Fee, 8th Year, Large Entity",
+          "eventDate": "2021-07-20"
+        },
+        {
+          "eventCode": "REM.",
+          "eventDescriptionText": "Maintenance Fee Reminder Mailed",
+          "eventDate": "2021-07-12"
+        },
+        {
+          "eventCode": "PGM/",
+          "eventDescriptionText": "Recordation of Patent Grant Mailed",
+          "eventDate": "2013-11-19"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2013-10-31"
+        },
+        {
+          "eventCode": "WPIR",
+          "eventDescriptionText": "Issue Notification Mailed",
+          "eventDate": "2013-10-30"
+        },
+        {
+          "eventCode": "PTAC",
+          "eventDescriptionText": "Patent Issue Date Used in PTA Calculation",
+          "eventDate": "2013-11-19"
+        },
+        {
+          "eventCode": "D1935",
+          "eventDescriptionText": "Dispatch to FDC",
+          "eventDate": "2013-10-24"
+        },
+        {
+          "eventCode": "D1935",
+          "eventDescriptionText": "Dispatch to FDC",
+          "eventDate": "2013-10-24"
+        },
+        {
+          "eventCode": "PILS",
+          "eventDescriptionText": "Application Is Considered Ready for Issue",
+          "eventDate": "2013-10-19"
+        },
+        {
+          "eventCode": "N084",
+          "eventDescriptionText": "Issue Fee Payment Verified",
+          "eventDate": "2013-10-11"
+        },
+        {
+          "eventCode": "IFEE",
+          "eventDescriptionText": "Issue Fee Payment Received",
+          "eventDate": "2013-10-11"
+        },
+        {
+          "eventCode": "ELC_RVW",
+          "eventDescriptionText": "Electronic Review",
+          "eventDate": "2013-10-09"
+        },
+        {
+          "eventCode": "EML_NTF",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2013-10-09"
+        },
+        {
+          "eventCode": "MN/=.",
+          "eventDescriptionText": "Mail Notice of Allowance",
+          "eventDate": "2013-10-09"
+        },
+        {
+          "eventCode": "N/=.",
+          "eventDescriptionText": "Notice of Allowance Data Verification Completed",
+          "eventDate": "2013-10-04"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2013-09-21"
+        },
+        {
+          "eventCode": "A...",
+          "eventDescriptionText": "Response after Non-Final Action",
+          "eventDate": "2013-09-19"
+        },
+        {
+          "eventCode": "ELC_RVW",
+          "eventDescriptionText": "Electronic Review",
+          "eventDate": "2013-09-06"
+        },
+        {
+          "eventCode": "EML_NTF",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2013-09-06"
+        },
+        {
+          "eventCode": "MCTNF",
+          "eventDescriptionText": "Mail Non-Final Rejection",
+          "eventDate": "2013-09-06"
+        },
+        {
+          "eventCode": "CTNF",
+          "eventDescriptionText": "Non-Final Rejection",
+          "eventDate": "2013-08-29"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2013-08-27"
+        },
+        {
+          "eventCode": "RCEX",
+          "eventDescriptionText": "Request for Continued Examination (RCE)",
+          "eventDate": "2013-08-26"
+        },
+        {
+          "eventCode": "ABN9",
+          "eventDescriptionText": "Disposal for a RCE / CPA / R129",
+          "eventDate": "2013-08-27"
+        },
+        {
+          "eventCode": "BRCE",
+          "eventDescriptionText": "Workflow - Request for RCE - Begin",
+          "eventDate": "2013-08-26"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2013-08-21"
+        },
+        {
+          "eventCode": "MCTAV",
+          "eventDescriptionText": "Mail Advisory Action (PTOL - 303)",
+          "eventDate": "2013-08-21"
+        },
+        {
+          "eventCode": "CTAV",
+          "eventDescriptionText": "Advisory Action (PTOL-303)",
+          "eventDate": "2013-08-13"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2013-08-09"
+        },
+        {
+          "eventCode": "A.NE",
+          "eventDescriptionText": "Response after Final Action",
+          "eventDate": "2013-08-08"
+        },
+        {
+          "eventCode": "ELC_RVW",
+          "eventDescriptionText": "Electronic Review",
+          "eventDate": "2013-07-02"
+        },
+        {
+          "eventCode": "EML_NTF",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2013-07-02"
+        },
+        {
+          "eventCode": "MCTFR",
+          "eventDescriptionText": "Mail Final Rejection (PTOL - 326)",
+          "eventDate": "2013-07-02"
+        },
+        {
+          "eventCode": "CTFR",
+          "eventDescriptionText": "Final Rejection",
+          "eventDate": "2013-06-27"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2013-04-25"
+        },
+        {
+          "eventCode": "PA..",
+          "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)",
+          "eventDate": "2013-04-25"
+        },
+        {
+          "eventCode": "C.AD",
+          "eventDescriptionText": "Correspondence Address Change",
+          "eventDate": "2013-04-18"
+        },
+        {
+          "eventCode": "MPEN",
+          "eventDescriptionText": "Mail Pre-Exam Notice",
+          "eventDate": "2013-04-09"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2013-03-27"
+        },
+        {
+          "eventCode": "A...",
+          "eventDescriptionText": "Response after Non-Final Action",
+          "eventDate": "2013-03-25"
+        },
+        {
+          "eventCode": "MCTNF",
+          "eventDescriptionText": "Mail Non-Final Rejection",
+          "eventDate": "2013-01-31"
+        },
+        {
+          "eventCode": "CTNF",
+          "eventDescriptionText": "Non-Final Rejection",
+          "eventDate": "2013-01-25"
+        },
+        {
+          "eventCode": "IDSC",
+          "eventDescriptionText": "Information Disclosure Statement considered",
+          "eventDate": "2011-08-10"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2012-10-30"
+        },
+        {
+          "eventCode": "ELC.",
+          "eventDescriptionText": "Response to Election / Restriction Filed",
+          "eventDate": "2012-10-29"
+        },
+        {
+          "eventCode": "MCTRS",
+          "eventDescriptionText": "Mail Restriction Requirement",
+          "eventDate": "2012-10-18"
+        },
+        {
+          "eventCode": "CTRS",
+          "eventDescriptionText": "Restriction/Election Requirement",
+          "eventDate": "2012-10-16"
+        },
+        {
+          "eventCode": "A.PE",
+          "eventDescriptionText": "Preliminary Amendment",
+          "eventDate": "2011-11-22"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2011-11-26"
+        },
+        {
+          "eventCode": "TI1050",
+          "eventDescriptionText": "Transfer Inquiry to GAU",
+          "eventDate": "2011-11-16"
+        },
+        {
+          "eventCode": "TI1050",
+          "eventDescriptionText": "Transfer Inquiry to GAU",
+          "eventDate": "2011-10-28"
+        },
+        {
+          "eventCode": "PG-ISSUE",
+          "eventDescriptionText": "PG-Pub Issue Notification",
+          "eventDate": "2011-10-27"
+        },
+        {
+          "eventCode": "RCAP",
+          "eventDescriptionText": "Reference capture on IDS",
+          "eventDate": "2011-08-10"
+        },
+        {
+          "eventCode": "M844",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2011-08-10"
+        },
+        {
+          "eventCode": "WIDS",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2011-08-10"
+        },
+        {
+          "eventCode": "OIPE",
+          "eventDescriptionText": "Application Dispatched from OIPE",
+          "eventDate": "2011-07-25"
+        },
+        {
+          "eventCode": "COMP",
+          "eventDescriptionText": "Application Is Now Complete",
+          "eventDate": "2011-07-07"
+        },
+        {
+          "eventCode": "PGPC",
+          "eventDescriptionText": "Sent to Classification Contractor",
+          "eventDate": "2011-07-06"
+        },
+        {
+          "eventCode": "FLRCPT.U",
+          "eventDescriptionText": "Filing Receipt - Updated",
+          "eventDate": "2011-07-07"
+        },
+        {
+          "eventCode": "ADDFLFEE",
+          "eventDescriptionText": "Additional Application Filing Fees",
+          "eventDate": "2011-06-27"
+        },
+        {
+          "eventCode": "OATHDECL",
+          "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic",
+          "eventDate": "2011-06-27"
+        },
+        {
+          "eventCode": "INCD",
+          "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned",
+          "eventDate": "2011-05-04"
+        },
+        {
+          "eventCode": "FLRCPT.O",
+          "eventDescriptionText": "Filing Receipt",
+          "eventDate": "2011-05-04"
+        },
+        {
+          "eventCode": "IEXX",
+          "eventDescriptionText": "Initial Exam Team nn",
+          "eventDate": "2011-04-20"
+        }
+      ],
+      "applicationMetaData": {
+        "firstInventorToFileIndicator": "N",
+        "applicationStatusCode": 150,
+        "applicationTypeCode": "UTL",
+        "entityStatusData": {
+          "businessEntityStatusCategory": "Regular Undiscounted"
+        },
+        "filingDate": "2011-04-20",
+        "uspcSymbolText": "40/124.03",
+        "nationalStageIndicator": false,
+        "firstInventorName": "David Mayer",
+        "cpcClassificationBag": [
+          "B42D  15/022",
+          "G09F   1/00"
+        ],
+        "effectiveFilingDate": "2011-04-20",
+        "publicationDateBag": [
+          "2011-10-27"
+        ],
+        "publicationSequenceNumberBag": [
+          "0258893"
+        ],
+        "earliestPublicationDate": "2011-10-27",
+        "applicationTypeLabelName": "Utility",
+        "applicationStatusDate": "2013-10-30",
+        "class": "40",
+        "applicationTypeCategory": "REGULAR",
+        "inventorBag": [
+          {
+            "firstName": "David",
+            "lastName": "Mayer",
+            "countryCode": "US",
+            "inventorNameText": "David Mayer",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Bay Village",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "countryCode": "US",
+                "nameLineOneText": "David  Mayer",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              },
+              {
+                "cityName": "Bay Village",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "countryCode": "US",
+                "nameLineOneText": "David  Mayer",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Catherine",
+            "lastName": "Tasse",
+            "countryCode": "US",
+            "inventorNameText": "Catherine Tasse",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Westlake",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "countryCode": "US",
+                "nameLineOneText": "Catherine  Tasse",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Sarah",
+            "lastName": "Eklund",
+            "countryCode": "US",
+            "inventorNameText": "Sarah C. Eklund",
+            "middleName": "C.",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Cleveland",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "countryCode": "US",
+                "nameLineOneText": "Sarah C. Eklund",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Allison",
+            "lastName": "Marsh",
+            "countryCode": "US",
+            "inventorNameText": "Allison Marsh",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Ravenna",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "countryCode": "US",
+                "nameLineOneText": "Allison  Marsh",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Jerry",
+            "lastName": "Guo",
+            "countryCode": "CN",
+            "inventorNameText": "Jerry Guo",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Shanghai",
+                "countryCode": "CN",
+                "nameLineOneText": "Jerry  Guo",
+                "countryName": "CHINA",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Tiger",
+            "lastName": "Qiao",
+            "countryCode": "CN",
+            "inventorNameText": "Tiger Qiao",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Shanghai",
+                "countryCode": "CN",
+                "nameLineOneText": "Tiger  Qiao",
+                "countryName": "CHINA",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          }
+        ],
+        "applicationStatusDescriptionText": "Patented Case",
+        "patentNumber": "8584385",
+        "grantDate": "2013-11-19",
+        "customerNumber": 113985,
+        "groupArtUnitNumber": "3611",
+        "earliestPublicationNumber": "US20110258893A1",
+        "inventionTitle": "INTERACTIVE ELECTRONIC GREETING CARDS WITH TAP AND TOUCH ACTIVATED EFFECTS",
+        "applicationConfirmationNumber": 2736,
+        "examinerNameText": "SILBERMANN, JOANNE",
+        "subclass": "124.03",
+        "publicationCategoryBag": [
+          "Granted/Issued",
+          "Pre-Grant Publications - PGPub"
+        ],
+        "docketNumber": "109769.0270"
+      },
+      "parentContinuityBag": [
+        {
+          "parentApplicationStatusCode": 159,
+          "claimParentageTypeCode": "PRO",
+          "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+          "parentApplicationStatusDescriptionText": "Provisional Application Expired",
+          "parentApplicationNumberText": "61326727",
+          "parentApplicationFilingDate": "2010-04-22",
+          "childApplicationNumberText": "13090569"
+        }
+      ],
+      "patentTermAdjustmentData": {
+        "applicantDayDelayQuantity": 0,
+        "overlappingDayQuantity": 0,
+        "ipOfficeAdjustmentDelayQuantity": 0,
+        "cDelayQuantity": 0,
+        "adjustmentTotalQuantity": 120,
+        "bDelayQuantity": 0,
+        "nonOverlappingDayDelayQuantity": 120,
+        "aDelayQuantity": 120,
+        "patentTermAdjustmentHistoryDataBag": [
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "PTA 36 Months",
+            "eventSequenceNumber": 80.5,
+            "originatingEventSequenceNumber": 0.5,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-08-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Patent Issue Date Used in PTA Calculation",
+            "eventSequenceNumber": 80.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-11-19"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Export to Final Data Capture",
+            "eventSequenceNumber": 79.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-10-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Finished Initial Data Capture",
+            "eventSequenceNumber": 78.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-10-23"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Dispatch to FDC",
+            "eventSequenceNumber": 77.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-10-24"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Dispatch to FDC",
+            "eventSequenceNumber": 76.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-10-24"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application Is Considered Ready for Issue",
+            "eventSequenceNumber": 75.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-10-19"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Issue Fee Payment Verified",
+            "eventSequenceNumber": 74.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-10-11"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Issue Fee Payment Received",
+            "eventSequenceNumber": 72.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-10-11"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Notice of Allowance",
+            "eventSequenceNumber": 69.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-10-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Office Action Review",
+            "eventSequenceNumber": 68.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-10-04"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Office Action Review",
+            "eventSequenceNumber": 67.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-10-04"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Notice of Allowance Data Verification Completed",
+            "eventSequenceNumber": 66.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-10-04"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Issue Revision Completed",
+            "eventSequenceNumber": 65.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-10-04"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Document Verification",
+            "eventSequenceNumber": 64.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-10-04"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Examiner's Amendment Communication",
+            "eventSequenceNumber": 63.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-09-27"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Allowability Notice",
+            "eventSequenceNumber": 62.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-09-27"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Date Forwarded to Examiner",
+            "eventSequenceNumber": 58.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-09-21"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Response after Non-Final Action",
+            "eventSequenceNumber": 57.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-09-19"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Review",
+            "eventSequenceNumber": 56.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-09-06"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 55.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-09-06"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Non-Final Rejection",
+            "eventSequenceNumber": 54.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-09-06"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Office Action Review",
+            "eventSequenceNumber": 53.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-08-30"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Office Action Review",
+            "eventSequenceNumber": 52.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-08-30"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Non-Final Rejection",
+            "eventSequenceNumber": 51.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-08-29"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Date Forwarded to Examiner",
+            "eventSequenceNumber": 50.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-08-27"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Amendment Submitted/Entered with Filing of CPA/RCE",
+            "eventSequenceNumber": 49.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-08-26"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Request for Continued Examination (RCE)",
+            "eventSequenceNumber": 48.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-08-26"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Disposal for a RCE / CPA / R129",
+            "eventSequenceNumber": 47.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-08-27"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Workflow - Request for RCE - Begin",
+            "eventSequenceNumber": 46.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-08-26"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 45.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-08-21"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Advisory Action (PTOL - 303)",
+            "eventSequenceNumber": 44.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-08-21"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Office Action Review",
+            "eventSequenceNumber": 43.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-08-13"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Advisory Action (PTOL-303)",
+            "eventSequenceNumber": 42.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-08-13"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Date Forwarded to Examiner",
+            "eventSequenceNumber": 41.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-08-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Response after Final Action",
+            "eventSequenceNumber": 40.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-08-08"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Review",
+            "eventSequenceNumber": 39.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-07-02"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 38.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-07-02"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Final Rejection (PTOL - 326)",
+            "eventSequenceNumber": 37.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-07-02"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Office Action Review",
+            "eventSequenceNumber": 36.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-06-28"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Final Rejection",
+            "eventSequenceNumber": 35.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-06-27"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 34.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-04-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)",
+            "eventSequenceNumber": 33.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-04-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Correspondence Address Change",
+            "eventSequenceNumber": 32.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-04-18"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Pre-Exam Notice",
+            "eventSequenceNumber": 31.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-04-09"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Date Forwarded to Examiner",
+            "eventSequenceNumber": 30.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-03-27"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Response after Non-Final Action",
+            "eventSequenceNumber": 29.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-03-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Non-Final Rejection",
+            "eventSequenceNumber": 28.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-01-31"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Office Action Review",
+            "eventSequenceNumber": 27.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-01-28"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Non-Final Rejection",
+            "eventSequenceNumber": 26.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2013-01-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement considered",
+            "eventSequenceNumber": 25.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-08-10"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Date Forwarded to Examiner",
+            "eventSequenceNumber": 24.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2012-10-30"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Response to Election / Restriction Filed",
+            "eventSequenceNumber": 23.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2012-10-29"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Restriction Requirement",
+            "eventSequenceNumber": 22.0,
+            "originatingEventSequenceNumber": 0.5,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 120,
+            "eventDate": "2012-10-18"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Office Action Review",
+            "eventSequenceNumber": 21.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2012-10-18"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Restriction/Election Requirement",
+            "eventSequenceNumber": 20.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2012-10-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Preliminary Amendment",
+            "eventSequenceNumber": 19.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-11-22"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Case Docketed to Examiner in GAU",
+            "eventSequenceNumber": 18.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-11-26"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Transfer Inquiry to GAU",
+            "eventSequenceNumber": 17.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-11-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Transfer Inquiry to GAU",
+            "eventSequenceNumber": 16.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-10-28"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "PG-Pub Issue Notification",
+            "eventSequenceNumber": 15.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-10-27"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Reference capture on IDS",
+            "eventSequenceNumber": 14.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-08-10"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 13.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-08-10"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 12.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-08-10"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application Dispatched from OIPE",
+            "eventSequenceNumber": 11.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-07-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application Is Now Complete",
+            "eventSequenceNumber": 10.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-07-07"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Sent to Classification Contractor",
+            "eventSequenceNumber": 9.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-07-06"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Filing Receipt - Updated",
+            "eventSequenceNumber": 8.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-07-07"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Additional Application Filing Fees",
+            "eventSequenceNumber": 7.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-06-27"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic",
+            "eventSequenceNumber": 6.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-06-27"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned",
+            "eventSequenceNumber": 5.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-05-04"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Filing Receipt",
+            "eventSequenceNumber": 4.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-05-04"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Cleared by OIPE CSR",
+            "eventSequenceNumber": 3.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-04-22"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "IFW Scan & PACR Auto Security Review",
+            "eventSequenceNumber": 2.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-04-21"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Initial Exam Team nn",
+            "eventSequenceNumber": 1.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-04-20"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Filing date",
+            "eventSequenceNumber": 0.5,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2011-04-20"
+          }
+        ]
+      },
+      "assignmentBag": [
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/26501/256",
+          "assignmentReceivedDate": "2011-06-27",
+          "reelAndFrameNumber": "026501/0256",
+          "frameNumber": 256,
+          "assignmentRecordedDate": "2011-06-27",
+          "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44144",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN ROAD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "AMERICAN GREETINGS CORPORATION"
+            }
+          ],
+          "assignmentMailedDate": "2011-06-27",
+          "reelNumber": 26501,
+          "correspondenceAddress": {
+            "addressLineThreeText": "CLEVELAND, OH 44114",
+            "addressLineOneText": "SUITE 900",
+            "correspondentNameText": "JAMES C. SCOTT ROETZEL & ANDRESS",
+            "addressLineTwoText": "1375 EAST NINTH STREET"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2011-04-25",
+              "assignorName": "MARSH, ALLISON"
+            },
+            {
+              "executionDate": "2011-04-25",
+              "assignorName": "MAYER, DAVID"
+            },
+            {
+              "executionDate": "2011-04-25",
+              "assignorName": "TASSE, CATHERINE"
+            },
+            {
+              "executionDate": "2011-04-27",
+              "assignorName": "EKLUND, SARAH C."
+            },
+            {
+              "executionDate": "2011-06-04",
+              "assignorName": "QIAO, TIGER"
+            },
+            {
+              "executionDate": "2011-06-21",
+              "assignorName": "GUO, JERRY"
+            }
+          ],
+          "pageTotalQuantity": 5,
+          "attorneyDocketNumber": "109769.0270"
+        },
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v3/public/download/patent/27935/308",
+          "assignmentReceivedDate": "2012-03-27",
+          "reelAndFrameNumber": "027935/0308",
+          "frameNumber": 308,
+          "assignmentRecordedDate": "2012-03-27",
+          "conveyanceText": "FIRST AMENDMENT TO AMENDED AND RESTATED PLEDGE AND SECURITY AGREEMENT",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "PITTSBURGH",
+                "geographicRegionName": "PENNSYLVANIA",
+                "geographicRegionCode": "PA",
+                "postalCode": "15222",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "249 FIFTH AVENUE",
+                "ictStateCode": "PA"
+              },
+              "assigneeNameText": "PNC BANK, NATIONAL ASSOCIATION"
+            }
+          ],
+          "assignmentMailedDate": "2012-03-28",
+          "reelNumber": 27935,
+          "correspondenceAddress": {
+            "addressLineThreeText": "PITTSBURGH, PA 15219",
+            "addressLineOneText": "301 GRANT STREET",
+            "correspondentNameText": "MICHAEL L. DEVER",
+            "addressLineTwoText": "20TH FLOOR"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "A.G. (UK), INC."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "A.G. EUROPE, INC."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "A.G. INDUSTRIES, INC."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "A.G.C. INVESTMENTS, INC."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "AG INTERACTIVE, INC."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "AGC HOLDINGS, LLC"
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "AGC, LLC"
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "AGCM, INC."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "AGP KIDS, INC."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "AMERICAN GREETINGS CORPORATION"
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "CARDSTORE, INC, FORMERLY KNOWN AS PHOTOWORKS, INC."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "CARLTON CARDS RETAIL, INC."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "CLOUDCO, INC."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "CREATACARD INTERNATIONAL LEASING INC."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "CREATACARD, INC."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "CUSTOM HOLDINGS, INC."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "GIBSON GREETINGS INTERNATIONAL LIMITED"
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "JOHN SANDS (AUSTRALIA) LTD."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "JOHN SANDS (N.Z.) LTD."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "JOHN SANDS HOLDING CORP."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "MEMPHIS PROPERTY CORPORATION"
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "MIDIRINGTONES, LLC"
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "PAPYRUS-RECYCLED GREETINGS, INC."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "PLUS MARK LLC, FORMERLY KNOWN AS PLUS MARK, INC."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "RPG HOLDINGS, INC."
+            },
+            {
+              "executionDate": "2012-01-18",
+              "assignorName": "THOSE CHARACTERS FROM CLEVELAND, INC."
+            }
+          ],
+          "pageTotalQuantity": 50,
+          "attorneyDocketNumber": "0011046-301801"
+        },
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v3/public/download/patent/31200/816",
+          "assignmentReceivedDate": "2013-09-10",
+          "reelAndFrameNumber": "031200/0816",
+          "frameNumber": 816,
+          "assignmentRecordedDate": "2013-09-10",
+          "conveyanceText": "AMENDED AND RESTATED COLLATERAL ASSIGNMENT OF PATENTS",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "PITTSBURGH",
+                "geographicRegionName": "PENNSYLVANIA",
+                "geographicRegionCode": "PA",
+                "postalCode": "15219",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "500 FIRST AVENUE",
+                "addressLineTwoText": "COMMERCIAL LOAN SERVICE CENTER/DCC",
+                "ictStateCode": "PA"
+              },
+              "assigneeNameText": "PNC BANK, A NATIONAL ASSOCIATION, AS COLLATERAL AGENT"
+            }
+          ],
+          "assignmentMailedDate": "2013-09-16",
+          "reelNumber": 31200,
+          "correspondenceAddress": {
+            "addressLineOneText": "650 TOWN CENTER DRIVE, 20TH FLOOR",
+            "correspondentNameText": "LATHAM & WATKINS LLP",
+            "addressLineTwoText": "COSTA MESA, CA 92626"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2013-08-09",
+              "assignorName": "AMERICAN GREETINGS CORPORATION"
+            }
+          ],
+          "pageTotalQuantity": 36,
+          "attorneyDocketNumber": "052248-0000"
+        },
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v3/public/download/patent/45307/476",
+          "assignmentReceivedDate": "2018-02-12",
+          "reelAndFrameNumber": "045307/0476",
+          "frameNumber": 476,
+          "assignmentRecordedDate": "2018-02-12",
+          "conveyanceText": "SECURITY AGREEMENT",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "PITTSBURGH",
+                "geographicRegionName": "PENNSYLVANIA",
+                "geographicRegionCode": "PA",
+                "postalCode": "15219",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "500 FIRST AVENUE",
+                "addressLineTwoText": "COMMERCIAL LOAN SERVICE CENTER/DCC",
+                "ictStateCode": "PA"
+              },
+              "assigneeNameText": "PNC BANK, NATIONAL ASSOCIATION, AS COLLATERAL AGENT"
+            }
+          ],
+          "assignmentMailedDate": "2018-03-22",
+          "reelNumber": 45307,
+          "correspondenceAddress": {
+            "addressLineThreeText": "COLUMBUS, OH 43219",
+            "addressLineOneText": "4400 EASTON COMMONS WAY",
+            "correspondentNameText": "CT CORPORATION",
+            "addressLineTwoText": "SUITE 125"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2017-02-16",
+              "assignorName": "AMERICAN GREETINGS CORPORATION"
+            }
+          ],
+          "pageTotalQuantity": 39
+        },
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v3/public/download/patent/45915/841",
+          "assignmentReceivedDate": "2018-04-12",
+          "reelAndFrameNumber": "045915/0841",
+          "frameNumber": 841,
+          "assignmentRecordedDate": "2018-04-12",
+          "conveyanceText": "SECURITY AGREEMENT",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "NEW YORK",
+                "geographicRegionName": "NEW YORK",
+                "geographicRegionCode": "NY",
+                "postalCode": "10019",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "745 SEVENTH AVENUE",
+                "ictStateCode": "NY"
+              },
+              "assigneeNameText": "BARCLAYS BANK PLC, AS COLLATERAL AGENT"
+            }
+          ],
+          "assignmentMailedDate": "2018-05-30",
+          "reelNumber": 45915,
+          "correspondenceAddress": {
+            "addressLineThreeText": "COLUMBUS, OH 43219",
+            "addressLineOneText": "4400 EASTON COMMONS WAY",
+            "correspondentNameText": "CT CORPORATION",
+            "addressLineTwoText": "SUITE 125"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2018-04-06",
+              "assignorName": "AMERICAN GREETINGS CORPORATION"
+            }
+          ],
+          "pageTotalQuantity": 24
+        },
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v3/public/download/patent/45917/6",
+          "assignmentReceivedDate": "2018-04-11",
+          "reelAndFrameNumber": "045917/0006",
+          "frameNumber": 6,
+          "assignmentRecordedDate": "2018-04-11",
+          "conveyanceText": "RELEASE OF SECURITY INTEREST",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "AMERICAN GREETINGS CORPORATION"
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "AGC HOLDINGS, LLC"
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "AGC, LLC"
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "AGCM, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "A.G.C. INVESTMENTS, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "A.G. EUROPE, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "A.G. INDUSTRIES, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "AG INTERACTIVE, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "A.G. (UK), INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "AGP KIDS, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "CARDSTORE, INC. FORMERLY KNOWN AS PHOTOWORKS, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "CARLTON CARDS RETAIL, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "CREATACARD, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "CREATACARD INTERNATIONAL LEASING INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "CLOUDCO, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "CUSTOM HOLDINGS, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "GIBSON GREETINGS INTERNATIONAL LIMITED"
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "JOHN SANDS (AUSTRALIA) LTD."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "JOHN SANDS (N.Z.) LTD."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "JOHN SANDS HOLDING CORP."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "MEMPHIS PROPERTY CORPORATION"
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "MIDIRINGTONES, LLC"
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "PAPYRUS-RECYCLED GREETINGS, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "PLUS-MARK LLC, FORMERLY KNOWN AS PLUS MARK, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "THOSE CHARACTERS FROM CLEVELAND, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "PRGCO, LLC"
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BOULEVARD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "RPG HOLDINGS, INC."
+            }
+          ],
+          "assignmentMailedDate": "2018-05-30",
+          "reelNumber": 45917,
+          "correspondenceAddress": {
+            "addressLineThreeText": "COLUMBUS, OH 43219",
+            "addressLineOneText": "4400 EASTON COMMONS WAY",
+            "correspondentNameText": "CT CORPORATION",
+            "addressLineTwoText": "SUITE 125"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2018-04-06",
+              "assignorName": "PNC BANK, NATIONAL ASSOCIATION"
+            }
+          ],
+          "pageTotalQuantity": 100
+        },
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v3/public/download/patent/64640/852",
+          "assignmentReceivedDate": "2023-08-18",
+          "reelAndFrameNumber": "064640/0852",
+          "frameNumber": 852,
+          "assignmentRecordedDate": "2023-08-18",
+          "conveyanceText": "RELEASE OF SECURITY INTEREST",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "AMERICAN GREETINGS CORPORATION"
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "AGC HOLDDINGS, LLC"
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "AGC, LLC"
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "A.G.C. INVESTMENTS, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "A.G. EUROPE, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "A.G. INDUSTRIES, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "BRECKSVILLE",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "AG INTERACTIVE, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "A.G. (UK), INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "AGP KIDS, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "CARLTON CARDS RETAIL, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "CLOUDCO, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "CREATEACARD, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "CREATEACARD INTERNATIONAL LEASING INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "CUSTOM HOLDINGS, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "GIBSON GREETINGS INTERNATIONAL LIMITED"
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "JOHN SANDS (AUSTRALIA) LTD."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "JOHN SANDS (N.Z.) LTD."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "JOHN SANDS HOLDING CORP."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "MEMPHIS PROPERTY CORPORATION"
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "PAPYRUS-RECYCLED GREETINGS, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "PLUS MARK LLC, FORMERLY KNOWN AS PLUS MARK, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "RPG HOLDINGS, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "THOSE CHARACTERS FROM CLEVELAND, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "AGCM, INC."
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "MIDIRINGTONES, LLC"
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CLEVELAND",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "postalCode": "44145-8151",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "ONE AMERICAN BLVD",
+                "ictStateCode": "OH"
+              },
+              "assigneeNameText": "CARDSTORE, INC, FORMERLY KNOWN AS PHOTOWORKS, INC."
+            }
+          ],
+          "assignmentMailedDate": "2023-08-22",
+          "reelNumber": 64640,
+          "correspondenceAddress": {
+            "addressLineThreeText": "BRECKSVILLE, OH 44141",
+            "addressLineOneText": "6750 MILLER ROAD",
+            "correspondentNameText": "LINDA M ADAMS",
+            "addressLineTwoText": "13051695"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2023-08-17",
+              "assignorName": "PNC BANK, NATIONAL ASSOCIATION"
+            }
+          ],
+          "pageTotalQuantity": 7
+        },
+        {
+          "assignmentReceivedDate": "2026-07-09",
+          "assignorBag": [
+            {
+              "executionDate": "2026-07-08",
+              "assignorName": "AMERICAN GREETINGS CORPORATION"
+            }
+          ],
+          "reelAndFrameNumber": "075943/0642",
+          "frameNumber": 642,
+          "assignmentRecordedDate": "2026-07-09",
+          "conveyanceText": "SECURITY AGREEMENT",
+          "imageAvailableStatusCode": false,
+          "pageTotalQuantity": 28,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "WETHERSFIELD",
+                "geographicRegionName": "CONNECTICUT",
+                "geographicRegionCode": "CT",
+                "postalCode": "06109",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1310 SILAS DEANE HIGHWAY",
+                "ictStateCode": "CT"
+              },
+              "assigneeNameText": "WILMINGTON TRUST, NATIONAL ASSOCIATION, AS AGENT"
+            }
+          ],
+          "assignmentMailedDate": "2026-09-10",
+          "reelNumber": 75943,
+          "correspondenceAddress": {
+            "addressLineThreeText": "Columbus, OH 43219",
+            "addressLineOneText": "4400 Easton Commons Way",
+            "correspondentNameText": "Michael Violet",
+            "addressLineTwoText": "Suite 125"
+          }
+        }
+      ],
+      "pgpubDocumentMetaData": {
+        "productIdentifier": "APPXML",
+        "zipFileName": "ipa111027.zip",
+        "fileCreateDateTime": "2024-09-27T16:58:23",
+        "xmlFileName": "13090569_20110258893.xml",
+        "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/APPXML-SPLT/2011/ipa111027/13090569_20110258893.xml"
+      },
+      "lastIngestionDateTime": "2026-09-10T11:00:03",
+      "childContinuityBag": [
+        {
+          "firstInventorToFileIndicator": false,
+          "childApplicationStatusDescriptionText": "Abandoned  --  Incomplete Application (Pre-examination)",
+          "claimParentageTypeCode": "DIV",
+          "childApplicationStatusCode": 160,
+          "claimParentageTypeCodeDescriptionText": "is a Division of",
+          "parentApplicationNumberText": "13090569",
+          "childApplicationFilingDate": "2012-10-29",
+          "childApplicationNumberText": "13662925"
+        },
+        {
+          "firstInventorToFileIndicator": false,
+          "childApplicationStatusDescriptionText": "Abandoned  --  Failure to Respond to an Office Action",
+          "claimParentageTypeCode": "DIV",
+          "childApplicationStatusCode": 161,
+          "claimParentageTypeCodeDescriptionText": "is a Division of",
+          "parentApplicationNumberText": "13090569",
+          "childApplicationFilingDate": "2012-11-21",
+          "childApplicationNumberText": "13682808"
+        },
+        {
+          "firstInventorToFileIndicator": false,
+          "childApplicationStatusDescriptionText": "Patented Case",
+          "claimParentageTypeCode": "CIP",
+          "childApplicationStatusCode": 150,
+          "claimParentageTypeCodeDescriptionText": "is a Continuation in-part of",
+          "childPatentNumber": "8763285",
+          "parentApplicationNumberText": "13090569",
+          "childApplicationFilingDate": "2012-09-13",
+          "childApplicationNumberText": "13613101"
+        },
+        {
+          "firstInventorToFileIndicator": false,
+          "childApplicationStatusDescriptionText": "Abandoned  --  Incomplete Application (Pre-examination)",
+          "claimParentageTypeCode": "DIV",
+          "childApplicationStatusCode": 160,
+          "claimParentageTypeCodeDescriptionText": "is a Division of",
+          "parentApplicationNumberText": "13090569",
+          "childApplicationFilingDate": "2012-10-29",
+          "childApplicationNumberText": "13662914"
+        },
+        {
+          "firstInventorToFileIndicator": false,
+          "childApplicationStatusDescriptionText": "Abandoned  --  Failure to Respond to an Office Action",
+          "claimParentageTypeCode": "DIV",
+          "childApplicationStatusCode": 161,
+          "claimParentageTypeCodeDescriptionText": "is a Division of",
+          "parentApplicationNumberText": "13090569",
+          "childApplicationFilingDate": "2012-11-21",
+          "childApplicationNumberText": "13682798"
+        }
+      ],
+      "recordAttorney": {
+        "customerNumberCorrespondenceData": {
+          "powerOfAttorneyAddressBag": [
+            {
+              "cityName": "Cleveland",
+              "geographicRegionName": "OHIO",
+              "geographicRegionCode": "OH",
+              "countryCode": "US",
+              "postalCode": "44145",
+              "nameLineOneText": "American Greetings Corporation",
+              "countryName": "UNITED STATES",
+              "addressLineOneText": "1 American Blvd."
+            }
+          ],
+          "patronIdentifier": 113985
+        },
+        "powerOfAttorneyBag": [
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "CHRISTINE",
+            "lastName": "FLANAGAN",
+            "registrationNumber": "65482",
+            "attorneyAddressBag": [
+              {
+                "cityName": "STRONGSVILLE",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "countryCode": "US",
+                "postalCode": "44136",
+                "nameLineOneText": "THE LAW OFFICE OF CHRISTINE A. FLANAGAN, LLC",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "13500 PEARL ROAD, SUITE 139, #112"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "216-367-2788",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          }
+        ],
+        "attorneyBag": [
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "CHRISTINE",
+            "lastName": "FLANAGAN",
+            "registrationNumber": "65482",
+            "attorneyAddressBag": [
+              {
+                "cityName": "STRONGSVILLE",
+                "geographicRegionName": "OHIO",
+                "geographicRegionCode": "OH",
+                "countryCode": "US",
+                "postalCode": "44136",
+                "nameLineOneText": "THE LAW OFFICE OF CHRISTINE A. FLANAGAN, LLC",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "13500 PEARL ROAD, SUITE 139, #112"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "216-367-2788",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          }
+        ]
+      },
+      "applicationNumberText": "13090569",
+      "correspondenceAddressBag": [
+        {
+          "cityName": "Cleveland",
+          "geographicRegionName": "OHIO",
+          "geographicRegionCode": "OH",
+          "countryCode": "US",
+          "postalCode": "44145",
+          "nameLineOneText": "American Greetings Corporation",
+          "countryName": "UNITED STATES",
+          "addressLineOneText": "1 American Blvd."
+        }
+      ]
+    }
+  ],
+  "requestIdentifier": "4121b4ba-db07-4e19-acee-df15fd949f2e"
+}

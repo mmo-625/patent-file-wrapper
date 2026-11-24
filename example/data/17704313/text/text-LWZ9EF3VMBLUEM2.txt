@@ -1,0 +1,24 @@
+Source: example/data/17704313/files/2024-05-29_REM_LWZ9EF3VMBLUEM2.xml:17704313/LWZ9EF3VMBLUEM2/17704313.05-29-2024.LWZ9EF3VMBLUEM2.REM.XML
+Type: IncomingDocument
+Markup: [+inserted+]  [-deleted-]
+
+## REMARKS
+Claims 1-8, 10-18, and 20 are pending, with claims 1 and 11 being independent. Claims 1, 3-6, 11, and 13-16 are amended. Claims 9 and 19 are canceled. While the Applicant disagrees with the current rejections, the Applicant has amended the claims to expedite prosecution. The Applicant reserves the right to pursue the claims as originally filed in one or more continuing applications.
+Support for the amendments can be found throughout the written description, claims, and drawings as originally filed. Independent claims 1 and 11 have simply been amended to incorporate limitations of respective dependent claims. The Examiner is respectfully requested to reconsider and withdraw the rejections in view of the above amendments and below remarks. ALLOWABLE SUBJECT MATTER
+The Examiner states that claims 3-6, 9-10, 13-16, and 19-20 would be allowable if rewritten in independent form. The Applicant thanks the Examiner for favorable review of these claims. Accordingly, the Applicant has amended claims 1 and 11 to include the limitations of allowable claims 9 and 19 respectively. Therefore, claims 1-8, 10-18, and 20 should now be in condition for allowance. OBVIOUSNESS REJECTION
+Claims 1-2, 7-8, 11-12, and 17-18 stand rejected under 35 U.S.C. § 103 as being unpatentable over U.S. Pub. No. 2021/0149754 ("Settle) in view of U.S. Pub. No. 2018/0316707 ("Dodson").
+As acknowledged by the Examiner (Office Action, 2), Settle and Dodson do not teach or suggest at least the features of dependent claim 9, which has been incorporated into representative claim 1. For at least the above reasons, the Applicant respectfully asserts that claim 1 defines over the cited art.
+Independent claim 11 is allowable for at least similar reasons as independent claim 1. The remaining claims are dependent and are therefore allowable for at least the same reasons as the respective independent claim.
+
+## CONCLUSION
+It is believed that all of the stated grounds of rejection have been properly traversed, accommodated, or rendered moot. The Applicant therefore respectfully requests that the Examiner reconsider and withdraw all presently outstanding rejections. It is believed that a full and complete response has been made to the outstanding Office Action and that the present application is in condition for allowance. Thus, prompt and favorable consideration of this amendment is respectfully requested. By addressing particular positions taken by the Examiner in the above remarks, the Applicant does not acquiesce to other positions that have not been explicitly addressed. In addition, the Applicant's arguments for the patentability of a claim should not be understood as implying that no other reasons exist for the patentability of that claim.
+The Applicant invites the Examiner to contact the below practitioner if any issues are identified that stand in the way of allowance of the application.
+Respectfully submitted,
+Dated: 2024 May 29 By: /Michael R. Nye/
+Michael R. Nye
+Reg. No. 62,126
+Phone: 313-672-6933
+Miller Johnson
+PO Box 306
+Grand Rapids, MI 49501-0306
+SKG/MRN

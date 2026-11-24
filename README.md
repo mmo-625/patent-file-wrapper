@@ -70,6 +70,14 @@ The output goes to `example/data/<application number>/`. To change that location
 Re-running is cheap. Downloads and Gemini summaries that already exist are reused, so
 an interrupted run picks up where it stopped.
 
+To redo only the summaries, delete the ones you want regenerated from `summaries/` and
+run with `--from-summaries`. This reuses the saved `timeline.json` and `text/` and
+makes no USPTO calls:
+
+```bash
+.venv/bin/python run.py 18909470 --from-summaries
+```
+
 ## How it works
 
 ```
@@ -95,6 +103,7 @@ python3 organize.py wrapper.json documents.json manifest.json
 .venv/bin/python summarizer.py example/data/18909470/text/text-M97JD5LWWFYGX54.txt ctnf
 python3 rejections.py example/data/18909470/text/text-M97JD5LWWFYGX54.txt
 python3 claims.py example/data/18909470/text/text-MHNVZFKJ4X45X46.txt
+python3 claims.py <claims text> <previous claims text>   # rebuild changes in a scanned filing
 python3 conversation.py example/data/18909470/timeline.json
 python3 chat_view.py example/data/18909470/conversation.json
 python3 claim_parser.py <claims.xml>     # one claims XML → marked-up claim text
@@ -113,7 +122,7 @@ Anything filtered out or not recognized is printed, never silently dropped.
 ### Messages
 
 - **Fixed sentences** for milestones and cover documents (filing, Track One, publication,
-  allowance, issue, grant) live in `BOILERPLATE` in `summarizer.py`.
+  RCE, allowance, issue, grant) live in `BOILERPLATE` in `summarizer.py`.
 - **Gemini prompts** for each document type (claims, restriction, rejections, remarks,
   interviews) live in `instructions()` in `summarizer.py`.
 - **Rejection breakdown:** non-final and final rejections (CTNF, CTFR) get a collapsible
@@ -124,7 +133,9 @@ Anything filtered out or not recognized is printed, never silently dropped.
 - **Independent claims:** each claims filing (CLM) gets one collapsible button per
   independent claim, showing the full claim text. In amended claims, insertions are green and
   deletions red and struck through. `claims.py` reads them from the parsed claims text. 
-  Canceled and withdrawn claims are skipped.
+  Canceled and withdrawn claims are skipped. Older scanned filings often have no
+  amendment markup, so their changes are rebuilt by comparing each amended claim with
+  the previous claims filing. Those claims say so under the legend.
 - **Summary card:** the top of the page counts the key events (restrictions, rejections,
   responses, interviews, allowance) and shows the filing-to-grant time. The categories
   are `SUMMARY` in `chat_view.py`.
@@ -134,7 +145,8 @@ Anything filtered out or not recognized is printed, never silently dropped.
 ### Text markup
 
 In parsed claims and remarks, amendments are marked `[+inserted text+]` and
-`[-deleted text-]`. Section headings start with `## `.
+`[-deleted text-]`. Section headings start with `## `. In older claims files with no
+amendment markup, text the OCR was unsure of is marked `[?uncertain?]`.
 
 ## Notes and limitations
 
@@ -143,6 +155,14 @@ In parsed claims and remarks, amendments are marked `[+inserted text+]` and
   and are reported as "not downloaded".
 - **OCR text:** text from scanned documents can contain OCR errors and the law firm's
   page footers.
+- **Older claims formats:** USPTO's claims XML has changed over time.
+  - About 2017 on: amendments are tagged.
+  - About 2012–2017: amendments are tagged only where USPTO's OCR caught the
+    underlining and strikethrough.
+  - Before 2012: amendments are not tagged at all.
+
+  Where they aren't tagged, the rebuilt changes are best-effort. Garbled struck-through
+  words are filtered out, but some OCR fragments can still show up as changes.
 - **Same-day duplicates:** some responses appear twice on the same day (a full response
   and a 1-page split copy). The timeline keeps the full response.
 - **Privacy:** Gemini's free tier may use your inputs to improve Google's products.

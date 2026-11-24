@@ -1,0 +1,982 @@
+[
+  {
+    "date": "2005-03-07",
+    "code": "TRNA",
+    "description": "Transmittal of New Application",
+    "direction": "INCOMING",
+    "document_id": "E6F44NKFPP1GUI2",
+    "pages": 4,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-03-07",
+    "code": "SPEC",
+    "description": "Specification",
+    "direction": "INCOMING",
+    "document_id": "E6F44NLAPP1GUI2",
+    "pages": 18,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-03-07",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "E6F44NLVPP1GUI2",
+    "pages": 4,
+    "format": "PDF",
+    "path": "files/2005-03-07_CLM_E6F44NLVPP1GUI2.pdf"
+  },
+  {
+    "date": "2005-03-07",
+    "code": "ABST",
+    "description": "Abstract",
+    "direction": "INCOMING",
+    "document_id": "E6F44NMQPP1GUI2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-03-07",
+    "code": "DRW",
+    "description": "Drawings-only black and white line drawings",
+    "direction": "INCOMING",
+    "document_id": "E6F44NNLPP1GUI2",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-03-07",
+    "code": "OATH",
+    "description": "Oath or Declaration filed",
+    "direction": "INCOMING",
+    "document_id": "E6F44NODPP1GUI2",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-03-07",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "E6F44NP2PP1GUI2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-03-07",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "E6F44NPRPP1GUI2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-03-31",
+    "code": "PEFN",
+    "description": "Pre-Exam Formalities Notice",
+    "direction": "OUTGOING",
+    "document_id": "E7AH8KBIPP2GUI1",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-04-27",
+    "code": "A.PE",
+    "description": "Preliminary Amendment",
+    "direction": "INCOMING",
+    "document_id": "E84MPYCKPP2GUI2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-04-27",
+    "code": "SPEC",
+    "description": "Specification",
+    "direction": "INCOMING",
+    "document_id": "E84MPYHQPP2GUI2",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-04-27",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "E84MPYJ6PP2GUI2",
+    "pages": 5,
+    "format": "PDF",
+    "path": "files/2005-04-27_CLM_E84MPYJ6PP2GUI2.pdf"
+  },
+  {
+    "date": "2005-04-27",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "E84MPYKBPP2GUI2",
+    "pages": 2,
+    "format": "PDF",
+    "path": "files/2005-04-27_REM_E84MPYKBPP2GUI2.pdf"
+  },
+  {
+    "date": "2005-04-27",
+    "code": "DRW",
+    "description": "Drawings-only black and white line drawings",
+    "direction": "INCOMING",
+    "document_id": "E84MPYKWPP2GUI2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-04-27",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "E84MPYLIPP2GUI2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-05-19",
+    "code": "PEFR",
+    "description": "Applicant Response to Pre-Exam Formalities Notice",
+    "direction": "INCOMING",
+    "document_id": "E92M9N0TPP2GUI2",
+    "pages": 5,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-05-19",
+    "code": "OATH",
+    "description": "Oath or Declaration filed",
+    "direction": "INCOMING",
+    "document_id": "E92M9N22PP2GUI2",
+    "pages": 4,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-05-19",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "E9MLNL7BPP1GUI3",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-06-10",
+    "code": "IDS",
+    "description": "Information Disclosure Statement (IDS) Form (SB08)",
+    "direction": "INCOMING",
+    "document_id": "E9X40BZ5PP1GUI4",
+    "pages": 4,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-09-23",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "EECPA434PP1GUI1",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-09-29",
+    "code": "CTNF",
+    "description": "Non-Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "EECPA3YAPP1GUI1",
+    "pages": 6,
+    "format": "PDF",
+    "path": "files/2005-09-29_CTNF_EECPA3YAPP1GUI1.pdf"
+  },
+  {
+    "date": "2005-09-29",
+    "code": "1449",
+    "description": "List of References cited by applicant and considered by examiner",
+    "direction": "OUTGOING",
+    "document_id": "EECPA3ZFPP1GUI1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-09-29",
+    "code": "892",
+    "description": "List of references cited by examiner",
+    "direction": "OUTGOING",
+    "document_id": "EECPA404PP1GUI1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-09-29",
+    "code": "BIB",
+    "description": "Bibliographic Data Sheet",
+    "direction": "INTERNAL",
+    "document_id": "EECPA40SPP1GUI1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-09-29",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "EECPA41GPP1GUI1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-12-05",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "EGVGZ946PP1GUI4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2005-12-05",
+    "code": "FWCLM",
+    "description": "Index of Claims",
+    "direction": "INTERNAL",
+    "document_id": "EGVGZ95WPP1GUI4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-01-06",
+    "code": "PGA9",
+    "description": "Request/Corrected Patent Application Publications",
+    "direction": "INCOMING",
+    "document_id": "EI9FFMJPPP1GUI2",
+    "pages": 29,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-01-06",
+    "code": "CFILE",
+    "description": "Request for Corrected Filing Receipt",
+    "direction": "INCOMING",
+    "document_id": "EI9FKNXEPP1GUI2",
+    "pages": 4,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-01-25",
+    "code": "PGA9.DEC",
+    "description": "Decision for a Request for Corrected Patent Application Publication",
+    "direction": "OUTGOING",
+    "document_id": "EIX7S0HIPP1GUI4",
+    "pages": 6,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-01-31",
+    "code": "A...",
+    "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+    "direction": "INCOMING",
+    "document_id": "EJ8SF0WCPP1GUI1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-01-31",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "EJ8SF0XRPP1GUI1",
+    "pages": 4,
+    "format": "PDF",
+    "path": "files/2006-01-31_CLM_EJ8SF0XRPP1GUI1.pdf"
+  },
+  {
+    "date": "2006-01-31",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "EJ8SF0YVPP1GUI1",
+    "pages": 3,
+    "format": "PDF",
+    "path": "files/2006-01-31_REM_EJ8SF0YVPP1GUI1.pdf"
+  },
+  {
+    "date": "2006-01-31",
+    "code": "XT/",
+    "description": "Extension of Time",
+    "direction": "INCOMING",
+    "document_id": "EJ8SF0ZIPP1GUI1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-01-31",
+    "code": "LET.",
+    "description": "Miscellaneous Incoming Letter",
+    "direction": "INCOMING",
+    "document_id": "EJ8SF107PP1GUI1",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-01-31",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "EJFY0GA2PP1GUI3",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-01-31",
+    "code": "FWCLM",
+    "description": "Index of Claims",
+    "direction": "INTERNAL",
+    "document_id": "EJFY0GBBPP1GUI3",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-04-05",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "ELWHIZJ8PP2GUI1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-04-11",
+    "code": "CTFR",
+    "description": "Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "ELWHIZFIPP2GUI1",
+    "pages": 8,
+    "format": "PDF",
+    "path": "files/2006-04-11_CTFR_ELWHIZFIPP2GUI1.pdf"
+  },
+  {
+    "date": "2006-04-11",
+    "code": "892",
+    "description": "List of references cited by examiner",
+    "direction": "OUTGOING",
+    "document_id": "ELWHIZH3PP2GUI1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-06-09",
+    "code": "AMSB",
+    "description": "Amendment Submitted/Entered with Filing of Continued Prosecution Application (CPA)/Request for Continued Examination(RCE)",
+    "direction": "INCOMING",
+    "document_id": "EOD3B5T9PP1GUI3",
+    "pages": 4,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-06-09",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "EOD3B5USPP1GUI3",
+    "pages": 5,
+    "format": "PDF",
+    "path": "files/2006-06-09_CLM_EOD3B5USPP1GUI3.pdf"
+  },
+  {
+    "date": "2006-06-09",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "EOD3B5VDPP1GUI3",
+    "pages": 3,
+    "format": "PDF",
+    "path": "files/2006-06-09_REM_EOD3B5VDPP1GUI3.pdf"
+  },
+  {
+    "date": "2006-06-09",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "EOH0230FPP1GUI2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-06-19",
+    "code": "CTAV",
+    "description": "Advisory Action (PTOL-303)",
+    "direction": "OUTGOING",
+    "document_id": "EOPSDPM8PP1GUI3",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-07-11",
+    "code": "AMSB",
+    "description": "Amendment Submitted/Entered with Filing of Continued Prosecution Application (CPA)/Request for Continued Examination(RCE)",
+    "direction": "INCOMING",
+    "document_id": "EPK3DZ8YPP1GUI1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-07-11",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "EPK3DZAWPP1GUI1",
+    "pages": 5,
+    "format": "PDF",
+    "path": "files/2006-07-11_CLM_EPK3DZAWPP1GUI1.pdf"
+  },
+  {
+    "date": "2006-07-11",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "EPK3DZC4PP1GUI1",
+    "pages": 3,
+    "format": "PDF",
+    "path": "files/2006-07-11_REM_EPK3DZC4PP1GUI1.pdf"
+  },
+  {
+    "date": "2006-07-11",
+    "code": "LET.",
+    "description": "Miscellaneous Incoming Letter",
+    "direction": "INCOMING",
+    "document_id": "EPK3DZDCPP1GUI1",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-07-11",
+    "code": "RCEX",
+    "description": "Request for Continued Examination (RCE)",
+    "direction": "INCOMING",
+    "document_id": "EPK3DZEKPP1GUI1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-07-11",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "EPMRV5X3PP1GUI1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-09-18",
+    "code": "CTNF",
+    "description": "Non-Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "ESA86QVIPP1GUI4",
+    "pages": 7,
+    "format": "PDF",
+    "path": "files/2006-09-18_CTNF_ESA86QVIPP1GUI4.pdf"
+  },
+  {
+    "date": "2006-10-13",
+    "code": "EXIN",
+    "description": "Examiner Interview Summary Record (PTOL - 413)",
+    "direction": "OUTGOING",
+    "document_id": "ETCVTVV1PPOPPY1",
+    "pages": 3,
+    "format": "PDF",
+    "path": "files/2006-10-13_EXIN_ETCVTVV1PPOPPY1.pdf"
+  },
+  {
+    "date": "2006-12-26",
+    "code": "A...",
+    "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+    "direction": "INCOMING",
+    "document_id": "EWAZKH36PPOPPY1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2006-12-26",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "EWAZKH56PPOPPY1",
+    "pages": 5,
+    "format": "PDF",
+    "path": "files/2006-12-26_CLM_EWAZKH56PPOPPY1.pdf"
+  },
+  {
+    "date": "2006-12-26",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "EWAZKH6EPPOPPY1",
+    "pages": 3,
+    "format": "PDF",
+    "path": "files/2006-12-26_REM_EWAZKH6EPPOPPY1.pdf"
+  },
+  {
+    "date": "2006-12-26",
+    "code": "AF/D",
+    "description": "Affidavit-submitted prior to Mar 15, 2013",
+    "direction": "INCOMING",
+    "document_id": "EWAZKH7MPPOPPY1",
+    "pages": 4,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2007-01-20",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "EX6C072MPPOPPY1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2007-03-14",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "EZGZUC69PPOPPY1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2007-03-16",
+    "code": "CTNF",
+    "description": "Non-Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "EZGZUB1XPPOPPY1",
+    "pages": 8,
+    "format": "PDF",
+    "path": "files/2007-03-16_CTNF_EZGZUB1XPPOPPY1.pdf"
+  },
+  {
+    "date": "2007-03-16",
+    "code": "892",
+    "description": "List of references cited by examiner",
+    "direction": "OUTGOING",
+    "document_id": "EZGZUB7JPPOPPY1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2007-03-16",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "EZGZUBK3PPOPPY1",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2007-07-16",
+    "code": "A...",
+    "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+    "direction": "INCOMING",
+    "document_id": "F4AA7FBBPPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2007-07-16",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "F4AA7FCRPPOPPY5",
+    "pages": 5,
+    "format": "PDF",
+    "path": "files/2007-07-16_CLM_F4AA7FCRPPOPPY5.pdf"
+  },
+  {
+    "date": "2007-07-16",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "F4AA7FD6PPOPPY5",
+    "pages": 3,
+    "format": "PDF",
+    "path": "files/2007-07-16_REM_F4AA7FD6PPOPPY5.pdf"
+  },
+  {
+    "date": "2007-07-16",
+    "code": "XT/",
+    "description": "Extension of Time",
+    "direction": "INCOMING",
+    "document_id": "F4AA7FG9PPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2007-07-16",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "F4IMOCC8PPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2007-10-04",
+    "code": "CTFR",
+    "description": "Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "F7ENNASXPPOPPY5",
+    "pages": 9,
+    "format": "PDF",
+    "path": "files/2007-10-04_CTFR_F7ENNASXPPOPPY5.pdf"
+  },
+  {
+    "date": "2007-10-31",
+    "code": "RCEX",
+    "description": "Request for Continued Examination (RCE)",
+    "direction": "INCOMING",
+    "document_id": "F8OE9AE1PPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2007-10-31",
+    "code": "AMSB",
+    "description": "Amendment Submitted/Entered with Filing of Continued Prosecution Application (CPA)/Request for Continued Examination(RCE)",
+    "direction": "INCOMING",
+    "document_id": "F8OE9AJKPPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2007-10-31",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "F8OE9AP5PPOPPY5",
+    "pages": 5,
+    "format": "PDF",
+    "path": "files/2007-10-31_CLM_F8OE9AP5PPOPPY5.pdf"
+  },
+  {
+    "date": "2007-10-31",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "F8OE9APKPPOPPY5",
+    "pages": 3,
+    "format": "PDF",
+    "path": "files/2007-10-31_REM_F8OE9APKPPOPPY5.pdf"
+  },
+  {
+    "date": "2007-10-31",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "F91VON2KPPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2007-12-07",
+    "code": "CTNF",
+    "description": "Non-Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "FA19REF7PPOPPY5",
+    "pages": 9,
+    "format": "PDF",
+    "path": "files/2007-12-07_CTNF_FA19REF7PPOPPY5.pdf"
+  },
+  {
+    "date": "2008-05-01",
+    "code": "A...",
+    "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+    "direction": "INCOMING",
+    "document_id": "FFPQVD3SPPOPPY4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-05-01",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "FFPQVD56PPOPPY4",
+    "pages": 7,
+    "format": "PDF",
+    "path": "files/2008-05-01_CLM_FFPQVD56PPOPPY4.pdf"
+  },
+  {
+    "date": "2008-05-01",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "FFPQVD6ZPPOPPY4",
+    "pages": 4,
+    "format": "PDF",
+    "path": "files/2008-05-01_REM_FFPQVD6ZPPOPPY4.pdf"
+  },
+  {
+    "date": "2008-05-01",
+    "code": "XT/",
+    "description": "Extension of Time",
+    "direction": "INCOMING",
+    "document_id": "FFPQVD7NPPOPPY4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-05-01",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "FFPQVD8MPPOPPY4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-05-01",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "FFPQVDC6PPOPPY4",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-05-01",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "FH28MAIVPPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-05-01",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "FH290YWCPPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-08-07",
+    "code": "CTFR",
+    "description": "Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "FJSRUPWVPPOPPY5",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2008-08-07_CTFR_FJSRUPWVPPOPPY5.xml"
+  },
+  {
+    "date": "2008-10-03",
+    "code": "A.NE",
+    "description": "Response After Final Action",
+    "direction": "INCOMING",
+    "document_id": "FLVAXBMXPPOPPY4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-10-03",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "FLVAXBOTPPOPPY4",
+    "pages": 8,
+    "format": "PDF",
+    "path": "files/2008-10-03_CLM_FLVAXBOTPPOPPY4.pdf"
+  },
+  {
+    "date": "2008-10-03",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "FLVAXBPCPPOPPY4",
+    "pages": 4,
+    "format": "PDF",
+    "path": "files/2008-10-03_REM_FLVAXBPCPPOPPY4.pdf"
+  },
+  {
+    "date": "2008-10-03",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "FLVAXBSRPPOPPY4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-10-03",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "FLZCAH09PPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-10-20",
+    "code": "CTAV",
+    "description": "Advisory Action (PTOL-303)",
+    "direction": "OUTGOING",
+    "document_id": "FMJZ9DR6PPOPPY5",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-10-20",
+    "code": "ANE.I",
+    "description": "Amendment After Final or under 37CFR 1.312, initialed by the examiner.",
+    "direction": "INTERNAL",
+    "document_id": "FMJZ9DS2PPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2008-11-03",
+    "code": "N/AP",
+    "description": "Notice of Appeal Filed",
+    "direction": "INCOMING",
+    "document_id": "FN4VQSJIPPOPPY5",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-01-05",
+    "code": "AP.B",
+    "description": "Appeal Brief Filed",
+    "direction": "INCOMING",
+    "document_id": "FPLO8H9BPPOPPY4",
+    "pages": 32,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-01-05",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "FPLO8HE6PPOPPY4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-01-05",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "FPLO8HF0PPOPPY4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-04-08",
+    "code": "APEA",
+    "description": "Examiner's Answer to Appeal Brief",
+    "direction": "OUTGOING",
+    "document_id": "FT93MEUVPPOPPY5",
+    "pages": 12,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2009-07-21",
+    "code": "AP_DK_M",
+    "description": "Appeal Docketing Notice",
+    "direction": "OUTGOING",
+    "document_id": "FXEVV5EWPPOPPY5",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2010-10-12",
+    "code": "APDA",
+    "description": "Patent Board Decision - Examiner Affirmed",
+    "direction": "OUTGOING",
+    "document_id": "GF6X4SHKPPOPPY5",
+    "pages": 8,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-02-08",
+    "code": "ABN",
+    "description": "Abandonment",
+    "direction": "OUTGOING",
+    "document_id": "GJWXAJD4PPOPPY5",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  }
+]

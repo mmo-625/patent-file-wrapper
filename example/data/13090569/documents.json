@@ -1,0 +1,1337 @@
+{
+  "count": 84,
+  "documentBag": [
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2023-09-15T00:00:00.000-0400",
+      "documentIdentifier": "LMKTKLSIXBLUEX0",
+      "documentCode": "C.AD.PC",
+      "documentCodeDescriptionText": "Change of Address via Patent Center\u200b",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/LMKTKLSIXBLUEX0.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2023-09-15T00:00:00.000-0400",
+      "documentIdentifier": "LMKTKN31XBLUEX5",
+      "documentCode": "MFEE.C.AD.PC",
+      "documentCodeDescriptionText": "Change of Address via\u00a0\u200bPatent Center",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/LMKTKN31XBLUEX5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2023-09-15T00:00:00.000-0400",
+      "documentIdentifier": "LMKTTGTMXBLUEX4",
+      "documentCode": "C.AD.PC",
+      "documentCodeDescriptionText": "Change of Address via Patent Center\u200b",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/LMKTTGTMXBLUEX4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-10-30T00:00:00.000-0400",
+      "documentIdentifier": "HNF982I2PXXIFW4",
+      "documentCode": "ISSUE.NTF",
+      "documentCodeDescriptionText": "Issue Notification",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HNF982I2PXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-10-26T00:00:00.000-0400",
+      "documentIdentifier": "HN9GVBRGPXXIFW4",
+      "documentCode": "1449",
+      "documentCodeDescriptionText": "List of References cited by applicant and considered by examiner",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HN9GVBRGPXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-10-11T00:00:00.000-0400",
+      "documentIdentifier": "HMNX3GUEPXXIFW3",
+      "documentCode": "IFEE",
+      "documentCodeDescriptionText": "Issue Fee Payment (PTO-85B)",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HMNX3GUEPXXIFW3.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-10-11T00:00:00.000-0400",
+      "documentIdentifier": "HMNX3GV3PXXIFW3",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HMNX3GV3PXXIFW3.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-10-11T00:00:00.000-0400",
+      "documentIdentifier": "HMNX3GVEPXXIFW3",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HMNX3GVEPXXIFW3.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-10-09T00:00:00.000-0400",
+      "documentIdentifier": "HMHRW5FWPXXIFW4",
+      "documentCode": "NOA",
+      "documentCodeDescriptionText": "Notice of Allowance and Fees Due (PTOL-85)",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HMHRW5FWPXXIFW4.pdf",
+          "pageTotalQuantity": 9
+        },
+        {
+          "mimeTypeIdentifier": "MS_WORD",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HMHRW5FWPXXIFW4/files/Allowability%20Notice.DOCM"
+        },
+        {
+          "mimeTypeIdentifier": "XML",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HMHRW5FWPXXIFW4/xmlarchive"
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-10-09T00:00:00.000-0400",
+      "documentIdentifier": "HMHRW5I1PXXIFW4",
+      "documentCode": "SRNT",
+      "documentCodeDescriptionText": "Examiner's search strategy and results",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HMHRW5I1PXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-10-09T00:00:00.000-0400",
+      "documentIdentifier": "HMHRW5I9PXXIFW4",
+      "documentCode": "IIFW",
+      "documentCodeDescriptionText": "Issue Information including classification, examiner, name, claim, renumbering, etc.",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HMHRW5I9PXXIFW4.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-10-09T00:00:00.000-0400",
+      "documentIdentifier": "HMHRW5IHPXXIFW4",
+      "documentCode": "BIB",
+      "documentCodeDescriptionText": "Bibliographic Data Sheet",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HMHRW5IHPXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-10-09T00:00:00.000-0400",
+      "documentIdentifier": "HMHRW5J3PXXIFW4",
+      "documentCode": "SRFW",
+      "documentCodeDescriptionText": "Search information including classification, databases and other search related notes",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HMHRW5J3PXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-09-19T00:00:00.000-0400",
+      "documentIdentifier": "HLS4ZP62PXXIFW3",
+      "documentCode": "A...",
+      "documentCodeDescriptionText": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HLS4ZP62PXXIFW3.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-09-19T00:00:00.000-0400",
+      "documentIdentifier": "HLXL36GHPXXIFW2",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HLXL36GHPXXIFW2.pdf",
+          "pageTotalQuantity": 4
+        },
+        {
+          "mimeTypeIdentifier": "XML",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HLXL36GHPXXIFW2/xmlarchive"
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-09-19T00:00:00.000-0400",
+      "documentIdentifier": "HLXL36HIPXXIFW2",
+      "documentCode": "REM",
+      "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HLXL36HIPXXIFW2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-09-19T00:00:00.000-0400",
+      "documentIdentifier": "HLS4ZP6MPXXIFW3",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HLS4ZP6MPXXIFW3.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-09-19T00:00:00.000-0400",
+      "documentIdentifier": "HLUX7OTJPXXIFW4",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HLUX7OTJPXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-09-06T00:00:00.000-0400",
+      "documentIdentifier": "HL6P8O72PXXIFW4",
+      "documentCode": "CTNF",
+      "documentCodeDescriptionText": "Non-Final Rejection",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HL6P8O72PXXIFW4.pdf",
+          "pageTotalQuantity": 7
+        },
+        {
+          "mimeTypeIdentifier": "XML",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HL6P8O72PXXIFW4/xmlarchive"
+        },
+        {
+          "mimeTypeIdentifier": "MS_WORD",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HL6P8O72PXXIFW4/files/Non-Final%20Rejection.DOCM"
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-09-06T00:00:00.000-0400",
+      "documentIdentifier": "HL6P8O7SPXXIFW4",
+      "documentCode": "892",
+      "documentCodeDescriptionText": "List of references cited by examiner",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HL6P8O7SPXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-09-06T00:00:00.000-0400",
+      "documentIdentifier": "HL6P8O80PXXIFW4",
+      "documentCode": "SRFW",
+      "documentCodeDescriptionText": "Search information including classification, databases and other search related notes",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HL6P8O80PXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-08-26T00:00:00.000-0400",
+      "documentIdentifier": "HKU6I88XPXXIFW3",
+      "documentCode": "RCEX",
+      "documentCodeDescriptionText": "Request for Continued Examination (RCE)",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HKU6I88XPXXIFW3.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-08-26T00:00:00.000-0400",
+      "documentIdentifier": "HKU6I89PPXXIFW3",
+      "documentCode": "AMSB",
+      "documentCodeDescriptionText": "Amendment Submitted/Entered with Filing of Continued Prosecution Application (CPA)/Request for Continued Examination(RCE)",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HKU6I89PPXXIFW3.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-08-26T00:00:00.000-0400",
+      "documentIdentifier": "HKWKPKV9PXXIFW2",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HKWKPKV9PXXIFW2.pdf",
+          "pageTotalQuantity": 4
+        },
+        {
+          "mimeTypeIdentifier": "XML",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HKWKPKV9PXXIFW2/xmlarchive"
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-08-26T00:00:00.000-0400",
+      "documentIdentifier": "HKWKPKW2PXXIFW2",
+      "documentCode": "REM",
+      "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HKWKPKW2PXXIFW2.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-08-26T00:00:00.000-0400",
+      "documentIdentifier": "HKU6I89WPXXIFW3",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HKU6I89WPXXIFW3.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-08-26T00:00:00.000-0400",
+      "documentIdentifier": "HKU6I8A4PXXIFW3",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HKU6I8A4PXXIFW3.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-08-26T00:00:00.000-0400",
+      "documentIdentifier": "HL3GWDEVPXXIFW4",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HL3GWDEVPXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-08-21T00:00:00.000-0400",
+      "documentIdentifier": "HKJOGJANPXXIFW4",
+      "documentCode": "CTAV",
+      "documentCodeDescriptionText": "Advisory Action (PTOL-303)",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HKJOGJANPXXIFW4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-08-08T00:00:00.000-0400",
+      "documentIdentifier": "HK47M5Y5PXXIFW3",
+      "documentCode": "A.NE",
+      "documentCodeDescriptionText": "Response After Final Action",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HK47M5Y5PXXIFW3.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-08-08T00:00:00.000-0400",
+      "documentIdentifier": "HK5K3WVHPXXIFW2",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HK5K3WVHPXXIFW2.pdf",
+          "pageTotalQuantity": 4
+        },
+        {
+          "mimeTypeIdentifier": "XML",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HK5K3WVHPXXIFW2/xmlarchive"
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-08-08T00:00:00.000-0400",
+      "documentIdentifier": "HK5K3WW4PXXIFW2",
+      "documentCode": "REM",
+      "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HK5K3WW4PXXIFW2.pdf",
+          "pageTotalQuantity": 4
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-08-08T00:00:00.000-0400",
+      "documentIdentifier": "HK47M5YVPXXIFW3",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HK47M5YVPXXIFW3.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-08-08T00:00:00.000-0400",
+      "documentIdentifier": "HK9URLLIPXXIFW4",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HK9URLLIPXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-07-02T00:00:00.000-0400",
+      "documentIdentifier": "HIHJ99D0PXXIFW4",
+      "documentCode": "CTFR",
+      "documentCodeDescriptionText": "Final Rejection",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HIHJ99D0PXXIFW4.pdf",
+          "pageTotalQuantity": 8
+        },
+        {
+          "mimeTypeIdentifier": "MS_WORD",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HIHJ99D0PXXIFW4/files/Final%20Rejection.DOCM"
+        },
+        {
+          "mimeTypeIdentifier": "XML",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HIHJ99D0PXXIFW4/xmlarchive"
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-07-02T00:00:00.000-0400",
+      "documentIdentifier": "HIHJ99EHPXXIFW4",
+      "documentCode": "892",
+      "documentCodeDescriptionText": "List of references cited by examiner",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HIHJ99EHPXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-07-02T00:00:00.000-0400",
+      "documentIdentifier": "HIHJ99ERPXXIFW4",
+      "documentCode": "SRFW",
+      "documentCodeDescriptionText": "Search information including classification, databases and other search related notes",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HIHJ99ERPXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-04-25T00:00:00.000-0400",
+      "documentIdentifier": "HFWKQ93LPXXIFW4",
+      "documentCode": "N570",
+      "documentCodeDescriptionText": "Communication - Re:  Power of Attorney (PTOL-308)",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HFWKQ93LPXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-04-25T00:00:00.000-0400",
+      "documentIdentifier": "HFWKQWOCPXXIFW4",
+      "documentCode": "N570",
+      "documentCodeDescriptionText": "Communication - Re:  Power of Attorney (PTOL-308)",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HFWKQWOCPXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-04-13T00:00:00.000-0400",
+      "documentIdentifier": "HFH7FGQZPXXIFW3",
+      "documentCode": "PA..",
+      "documentCodeDescriptionText": "Power of Attorney",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HFH7FGQZPXXIFW3.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-04-13T00:00:00.000-0400",
+      "documentIdentifier": "HFH7FGRIPXXIFW3",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HFH7FGRIPXXIFW3.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-04-13T00:00:00.000-0400",
+      "documentIdentifier": "HFH7FGRSPXXIFW3",
+      "documentCode": "R3.73",
+      "documentCodeDescriptionText": "Assignee showing of ownership per 37 CFR 3.73",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HFH7FGRSPXXIFW3.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-04-09T00:00:00.000-0400",
+      "documentIdentifier": "HFA7XBVZPXXIFW4",
+      "documentCode": "PEFN",
+      "documentCodeDescriptionText": "Pre-Exam Formalities Notice",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HFA7XBVZPXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-04-09T00:00:00.000-0400",
+      "documentIdentifier": "HFJOPXT5PXXIFW4",
+      "documentCode": "N572",
+      "documentCodeDescriptionText": "Response - Re:  Informal Power of Attorney (PTOL-308)",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HFJOPXT5PXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-04-02T00:00:00.000-0400",
+      "documentIdentifier": "HF19ZRRLPXXIFW3",
+      "documentCode": "PA..",
+      "documentCodeDescriptionText": "Power of Attorney",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HF19ZRRLPXXIFW3.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-04-02T00:00:00.000-0400",
+      "documentIdentifier": "HF19ZRS3PXXIFW3",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HF19ZRS3PXXIFW3.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-03-25T00:00:00.000-0400",
+      "documentIdentifier": "HEPZ0RODPXXIFW3",
+      "documentCode": "A...",
+      "documentCodeDescriptionText": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HEPZ0RODPXXIFW3.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-03-25T00:00:00.000-0400",
+      "documentIdentifier": "HEPZ0RPDPXXIFW3",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HEPZ0RPDPXXIFW3.pdf",
+          "pageTotalQuantity": 5
+        },
+        {
+          "mimeTypeIdentifier": "XML",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HEPZ0RPDPXXIFW3/xmlarchive"
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-03-25T00:00:00.000-0400",
+      "documentIdentifier": "HEPZ0RPPPXXIFW3",
+      "documentCode": "REM",
+      "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HEPZ0RPPPXXIFW3.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-03-25T00:00:00.000-0400",
+      "documentIdentifier": "HEPZ0RPXPXXIFW3",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HEPZ0RPXPXXIFW3.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-03-25T00:00:00.000-0400",
+      "documentIdentifier": "HESUCQ5RPXXIFW4",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HESUCQ5RPXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-01-31T00:00:00.000-0500",
+      "documentIdentifier": "HCLX3PAEPXXIFW4",
+      "documentCode": "CTNF",
+      "documentCodeDescriptionText": "Non-Final Rejection",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HCLX3PAEPXXIFW4.pdf",
+          "pageTotalQuantity": 7
+        },
+        {
+          "mimeTypeIdentifier": "MS_WORD",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HCLX3PAEPXXIFW4/files/Non-Final%20Rejection.DOCM"
+        },
+        {
+          "mimeTypeIdentifier": "XML",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HCLX3PAEPXXIFW4/xmlarchive"
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-01-31T00:00:00.000-0500",
+      "documentIdentifier": "HCLX3PBHPXXIFW4",
+      "documentCode": "892",
+      "documentCodeDescriptionText": "List of references cited by examiner",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HCLX3PBHPXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-01-31T00:00:00.000-0500",
+      "documentIdentifier": "HCLX3PBWPXXIFW4",
+      "documentCode": "1449",
+      "documentCodeDescriptionText": "List of References cited by applicant and considered by examiner",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HCLX3PBWPXXIFW4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-01-31T00:00:00.000-0500",
+      "documentIdentifier": "HCLX3PC3PXXIFW4",
+      "documentCode": "SRNT",
+      "documentCodeDescriptionText": "Examiner's search strategy and results",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HCLX3PC3PXXIFW4.pdf",
+          "pageTotalQuantity": 5
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2013-01-31T00:00:00.000-0500",
+      "documentIdentifier": "HCLX3PCGPXXIFW4",
+      "documentCode": "SRFW",
+      "documentCodeDescriptionText": "Search information including classification, databases and other search related notes",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/HCLX3PCGPXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2012-10-29T00:00:00.000-0400",
+      "documentIdentifier": "H8VY4YSDPXXIFW3",
+      "documentCode": "ELC.",
+      "documentCodeDescriptionText": "Response to Election / Restriction Filed",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/H8VY4YSDPXXIFW3.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2012-10-29T00:00:00.000-0400",
+      "documentIdentifier": "H90C11RMPXXIFW1",
+      "documentCode": "REM",
+      "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/H90C11RMPXXIFW1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2012-10-29T00:00:00.000-0400",
+      "documentIdentifier": "H8VY4YTCPXXIFW3",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/H8VY4YTCPXXIFW3.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2012-10-29T00:00:00.000-0400",
+      "documentIdentifier": "H8VY4YTKPXXIFW3",
+      "documentCode": "TRAN.LET",
+      "documentCodeDescriptionText": "Transmittal Letter",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/H8VY4YTKPXXIFW3.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2012-10-18T00:00:00.000-0400",
+      "documentIdentifier": "H8FX9692PXXIFW4",
+      "documentCode": "CTRS",
+      "documentCodeDescriptionText": "Requirement for Restriction/Election",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/H8FX9692PXXIFW4.pdf",
+          "pageTotalQuantity": 5
+        },
+        {
+          "mimeTypeIdentifier": "XML",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/H8FX9692PXXIFW4/xmlarchive"
+        },
+        {
+          "mimeTypeIdentifier": "MS_WORD",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/H8FX9692PXXIFW4/files/Restriction_Election%20Requirement.DOCM"
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-11-22T00:00:00.000-0500",
+      "documentIdentifier": "GVBCLVZTPXXIFW3",
+      "documentCode": "A.PE",
+      "documentCodeDescriptionText": "Preliminary Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GVBCLVZTPXXIFW3.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-11-22T00:00:00.000-0500",
+      "documentIdentifier": "GVJQC7QGPXXIFW2",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GVJQC7QGPXXIFW2.pdf",
+          "pageTotalQuantity": 4
+        },
+        {
+          "mimeTypeIdentifier": "XML",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GVJQC7QGPXXIFW2/xmlarchive"
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-11-22T00:00:00.000-0500",
+      "documentIdentifier": "GVJQC7S9PXXIFW2",
+      "documentCode": "REM",
+      "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GVJQC7S9PXXIFW2.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-11-22T00:00:00.000-0500",
+      "documentIdentifier": "GVBCLW0MPXXIFW3",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GVBCLW0MPXXIFW3.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-11-22T00:00:00.000-0500",
+      "documentIdentifier": "GVJUDFSYPXXIFW4",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GVJUDFSYPXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-10-27T00:00:00.000-0400",
+      "documentIdentifier": "GU9RSKRYPPOPPY5",
+      "documentCode": "NTC.PUB",
+      "documentCodeDescriptionText": "Notice of Publication",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GU9RSKRYPPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-08-10T00:00:00.000-0400",
+      "documentIdentifier": "GR6NM7T5PPOPPY2",
+      "documentCode": "IDS",
+      "documentCodeDescriptionText": "Information Disclosure Statement (IDS) Form (SB08)",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GR6NM7T5PPOPPY2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-08-10T00:00:00.000-0400",
+      "documentIdentifier": "GR6NM7UJPPOPPY2",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GR6NM7UJPPOPPY2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-07-07T00:00:00.000-0400",
+      "documentIdentifier": "GPSZ7J8FPPOPPY5",
+      "documentCode": "APP.FILE.REC",
+      "documentCodeDescriptionText": "Filing Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GPSZ7J8FPPOPPY5.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-07-07T00:00:00.000-0400",
+      "documentIdentifier": "GPSZ7ZH6PPOPPY5",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GPSZ7ZH6PPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-06-27T00:00:00.000-0400",
+      "documentIdentifier": "GPFF6MKIPPOPPY2",
+      "documentCode": "OATH",
+      "documentCodeDescriptionText": "Oath or Declaration filed",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GPFF6MKIPPOPPY2.pdf",
+          "pageTotalQuantity": 5
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-06-27T00:00:00.000-0400",
+      "documentIdentifier": "GPFF6ML5PPOPPY2",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GPFF6ML5PPOPPY2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-06-27T00:00:00.000-0400",
+      "documentIdentifier": "GPFF6MLJPPOPPY2",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GPFF6MLJPPOPPY2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-05-04T00:00:00.000-0400",
+      "documentIdentifier": "GNAJD5RLPPOPPY5",
+      "documentCode": "APP.FILE.REC",
+      "documentCodeDescriptionText": "Filing Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GNAJD5RLPPOPPY5.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-05-04T00:00:00.000-0400",
+      "documentIdentifier": "GNAJDD4NPPOPPY5",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GNAJDD4NPPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-05-04T00:00:00.000-0400",
+      "documentIdentifier": "GNAJDGZ3PPOPPY5",
+      "documentCode": "NTC.MISS.PRT",
+      "documentCodeDescriptionText": "Notice to File Missing Parts",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GNAJDGZ3PPOPPY5.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-04-20T00:00:00.000-0400",
+      "documentIdentifier": "GMQS5XNOPPOPPY2",
+      "documentCode": "SPEC",
+      "documentCodeDescriptionText": "Specification",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GMQS5XNOPPOPPY2.pdf",
+          "pageTotalQuantity": 7
+        },
+        {
+          "mimeTypeIdentifier": "XML",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GMQS5XNOPPOPPY2/xmlarchive"
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-04-20T00:00:00.000-0400",
+      "documentIdentifier": "GMXDI9JRPPOPPY3",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GMXDI9JRPPOPPY3.pdf",
+          "pageTotalQuantity": 4
+        },
+        {
+          "mimeTypeIdentifier": "XML",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GMXDI9JRPPOPPY3/xmlarchive"
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-04-20T00:00:00.000-0400",
+      "documentIdentifier": "GMXDI9LLPPOPPY3",
+      "documentCode": "ABST",
+      "documentCodeDescriptionText": "Abstract",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GMXDI9LLPPOPPY3.pdf",
+          "pageTotalQuantity": 1
+        },
+        {
+          "mimeTypeIdentifier": "XML",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GMXDI9LLPPOPPY3/xmlarchive"
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-04-20T00:00:00.000-0400",
+      "documentIdentifier": "GMQS5XO2PPOPPY2",
+      "documentCode": "DRW",
+      "documentCodeDescriptionText": "Drawings-only black and white line drawings",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GMQS5XO2PPOPPY2.pdf",
+          "pageTotalQuantity": 4
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-04-20T00:00:00.000-0400",
+      "documentIdentifier": "GMQS5XOQPPOPPY2",
+      "documentCode": "OATH",
+      "documentCodeDescriptionText": "Oath or Declaration filed",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GMQS5XOQPPOPPY2.pdf",
+          "pageTotalQuantity": 5
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-04-20T00:00:00.000-0400",
+      "documentIdentifier": "GMQS5XPDPPOPPY2",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GMQS5XPDPPOPPY2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "13090569",
+      "officialDate": "2011-04-20T00:00:00.000-0400",
+      "documentIdentifier": "GMQS5XQ0PPOPPY2",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/13090569/GMQS5XQ0PPOPPY2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    }
+  ]
+}

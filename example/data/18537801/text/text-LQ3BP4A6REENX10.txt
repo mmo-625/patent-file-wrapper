@@ -1,0 +1,56 @@
+Source: example/data/18537801/files/2023-12-13_CLM_LQ3BP4A6REENX10.xml:18537801/LQ3BP4A6REENX10/209fe3b7-77d6-4be2-b40c-16c280d5014c.xml
+Type: ClaimsDocument
+Markup: [+inserted+]  [-deleted-]
+
+Claim 1 (unknown)
+1. An autonomous snow removal machine that is self-operating, using sensors and an edge computer module to navigate and clear snow. Elements that comprise this machine include:
+a manually controlled snowblower conversion; whereby the machine is created from a regular snowblower by replacing its manual controls with electric motors powered by batteries;
+electrically driven functions, whereby key functions like wheel movement, chute control, deflector control, and auger engagement are now powered by electric motors;
+edge computer control, whereby an onboard edge computer module receives data from sensors and sends instructions to the electric motors to control the machine's movements;
+pre-stored map for localization, whereby the machine utilizes a map of the area, created during snowless conditions, to identify its location and boundaries;
+manual mode capability, whereby the machine can be operated manually when required by disengaging the clutch mechanism at the wheels and other electric motors.
+
+Claim 2 (unknown)
+2. An autonomous snow removal machine according to claim 1, characterized by a smartphone application user interface for control.
+
+Claim 3 (unknown)
+3. An autonomous snow removal machine according to claim 1, characterized by swivel wheels in the front for easier turning.
+
+Claim 4 (unknown)
+4. An autonomous snow removal machine according to claim 1, characterized by a single battery supplying power to all electric motors.
+
+Claim 5 (unknown)
+5. An autonomous snow removal machine according to claim 1, characterized with use of different types and combinations of sensors for improved surroundings awareness.
+
+Claim 6 (unknown)
+6. An autonomous snow removal machine according to claim 1, characterized with protective enclosures for sensors, batteries, and other electronic components.
+
+Claim 7 (unknown)
+7. An autonomous snow removal machine according to claim 1, characterized with different number and size of wheels, tracks, and drive mechanisms.
+
+Claim 8 (unknown)
+8. An autonomous snow removal machine Snowblower according to claim 1, characterized with application to farming machines.
+
+Claim 9 (unknown)
+9. An autonomous snow removal machine according to claim 1, characterized with application in industrial applications.
+
+Claim 10 (unknown)
+10. An autonomous snow removal machine according to claim 1, characterized with application in lawn mowing.
+
+Claim 11 (unknown)
+11. An autonomous snow removal machine according to claim 1, characterized with application in application in clearing snow from roads, parking lots, and other paved areas.
+
+Claim 12 (unknown)
+12. An autonomous snow removal machine according to claim 1, characterized with added lights and sounds for pedestrian safety.
+
+Claim 13 (unknown)
+13. An autonomous snow removal machine according to claim 1, characterized with manual control option via the smartphone application.
+
+Claim 14 (unknown)
+14. An autonomous snow removal machine according to claim 1, with additional static sensor communication for improved location awareness.
+
+Claim 15 (unknown)
+15. An autonomous snow removal machine according to claim 1, characterized with static signs on the premises providing location information.
+
+Claim 16 (unknown)
+16. An autonomous snow removal machine according to claim 1, characterized with ability to spray salt for melting remaining snow and ice.

@@ -1,0 +1,1407 @@
+{
+  "count": 1,
+  "patentFileWrapperDataBag": [
+    {
+      "grantDocumentMetaData": {
+        "productIdentifier": "PTGRXML",
+        "zipFileName": "ipg091020.zip",
+        "fileCreateDateTime": "2024-09-29T10:19:16",
+        "xmlFileName": "11467512_07606392.xml",
+        "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/PTGRXML-SPLT/2009/ipg091020/11467512_07606392.xml"
+      },
+      "eventDataBag": [
+        {
+          "eventCode": "M1553",
+          "eventDescriptionText": "Payment of Maintenance Fee, 12th Year, Large Entity",
+          "eventDate": "2021-03-24"
+        },
+        {
+          "eventCode": "C.ADB",
+          "eventDescriptionText": "Correspondence Address Change",
+          "eventDate": "2012-04-09"
+        },
+        {
+          "eventCode": "PGM/",
+          "eventDescriptionText": "Recordation of Patent Grant Mailed",
+          "eventDate": "2009-10-20"
+        },
+        {
+          "eventCode": "EML_NTR",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2009-10-01"
+        },
+        {
+          "eventCode": "WPIR",
+          "eventDescriptionText": "Issue Notification Mailed",
+          "eventDate": "2009-09-30"
+        },
+        {
+          "eventCode": "PTAC",
+          "eventDescriptionText": "Patent Issue Date Used in PTA Calculation",
+          "eventDate": "2009-10-20"
+        },
+        {
+          "eventCode": "D1935",
+          "eventDescriptionText": "Dispatch to FDC",
+          "eventDate": "2009-09-18"
+        },
+        {
+          "eventCode": "PILS",
+          "eventDescriptionText": "Application Is Considered Ready for Issue",
+          "eventDate": "2009-09-17"
+        },
+        {
+          "eventCode": "N084",
+          "eventDescriptionText": "Issue Fee Payment Verified",
+          "eventDate": "2009-09-10"
+        },
+        {
+          "eventCode": "IFEE",
+          "eventDescriptionText": "Issue Fee Payment Received",
+          "eventDate": "2009-09-10"
+        },
+        {
+          "eventCode": "ELC_RVW",
+          "eventDescriptionText": "Electronic Review",
+          "eventDate": "2009-06-11"
+        },
+        {
+          "eventCode": "EML_NTF",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2009-06-10"
+        },
+        {
+          "eventCode": "MN/=.",
+          "eventDescriptionText": "Mail Notice of Allowance",
+          "eventDate": "2009-06-10"
+        },
+        {
+          "eventCode": "N/=.",
+          "eventDescriptionText": "Notice of Allowance Data Verification Completed",
+          "eventDate": "2009-06-05"
+        },
+        {
+          "eventCode": "IDSC",
+          "eventDescriptionText": "Information Disclosure Statement considered",
+          "eventDate": "2009-03-20"
+        },
+        {
+          "eventCode": "IDSC",
+          "eventDescriptionText": "Information Disclosure Statement considered",
+          "eventDate": "2008-12-17"
+        },
+        {
+          "eventCode": "EIDS.",
+          "eventDescriptionText": "Electronic Information Disclosure Statement",
+          "eventDate": "2008-12-17"
+        },
+        {
+          "eventCode": "EIDS.",
+          "eventDescriptionText": "Electronic Information Disclosure Statement",
+          "eventDate": "2009-03-20"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2009-05-12"
+        },
+        {
+          "eventCode": "A...",
+          "eventDescriptionText": "Response after Non-Final Action",
+          "eventDate": "2009-04-20"
+        },
+        {
+          "eventCode": "XT/G",
+          "eventDescriptionText": "Request for Extension of Time - Granted",
+          "eventDate": "2009-04-20"
+        },
+        {
+          "eventCode": "WIDS",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2009-03-20"
+        },
+        {
+          "eventCode": "WIDS",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2008-12-17"
+        },
+        {
+          "eventCode": "ELC_RVW",
+          "eventDescriptionText": "Electronic Review",
+          "eventDate": "2008-11-20"
+        },
+        {
+          "eventCode": "EML_NTF",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2008-11-20"
+        },
+        {
+          "eventCode": "MCTNF",
+          "eventDescriptionText": "Mail Non-Final Rejection",
+          "eventDate": "2008-11-19"
+        },
+        {
+          "eventCode": "CTNF",
+          "eventDescriptionText": "Non-Final Rejection",
+          "eventDate": "2008-11-17"
+        },
+        {
+          "eventCode": "IDSC",
+          "eventDescriptionText": "Information Disclosure Statement considered",
+          "eventDate": "2007-10-16"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2007-12-05"
+        },
+        {
+          "eventCode": "LET.",
+          "eventDescriptionText": "Miscellaneous Incoming Letter",
+          "eventDate": "2007-10-16"
+        },
+        {
+          "eventCode": "RCAP",
+          "eventDescriptionText": "Reference capture on IDS",
+          "eventDate": "2007-10-16"
+        },
+        {
+          "eventCode": "M844",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2007-10-16"
+        },
+        {
+          "eventCode": "W525",
+          "eventDescriptionText": "Withdraw Flagged for 5/25",
+          "eventDate": "2007-10-17"
+        },
+        {
+          "eventCode": "WIDS",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2007-10-16"
+        },
+        {
+          "eventCode": "F525",
+          "eventDescriptionText": "Flagged for 5/25",
+          "eventDate": "2007-10-15"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2007-06-25"
+        },
+        {
+          "eventCode": "ELC_RVW",
+          "eventDescriptionText": "Electronic Review",
+          "eventDate": "2007-03-06"
+        },
+        {
+          "eventCode": "EML_NTF",
+          "eventDescriptionText": "Email Notification",
+          "eventDate": "2007-03-05"
+        },
+        {
+          "eventCode": "PG-ISSUE",
+          "eventDescriptionText": "PG-Pub Issue Notification",
+          "eventDate": "2007-03-05"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2007-02-14"
+        },
+        {
+          "eventCode": "TSSCOMP",
+          "eventDescriptionText": "IFW TSS Processing by Tech Center Complete",
+          "eventDate": "2006-12-14"
+        },
+        {
+          "eventCode": "WROIPE",
+          "eventDescriptionText": "Application Return from OIPE",
+          "eventDate": "2006-11-14"
+        },
+        {
+          "eventCode": "COMP",
+          "eventDescriptionText": "Application Is Now Complete",
+          "eventDate": "2006-11-14"
+        },
+        {
+          "eventCode": "ADDFLFEE",
+          "eventDescriptionText": "Additional Application Filing Fees",
+          "eventDate": "2006-11-07"
+        },
+        {
+          "eventCode": "OATHDECL",
+          "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic",
+          "eventDate": "2006-11-07"
+        },
+        {
+          "eventCode": "INCD",
+          "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned",
+          "eventDate": "2006-09-11"
+        },
+        {
+          "eventCode": "ROIPE",
+          "eventDescriptionText": "Application Return TO OIPE",
+          "eventDate": "2006-09-08"
+        },
+        {
+          "eventCode": "OIPE",
+          "eventDescriptionText": "Application Dispatched from OIPE",
+          "eventDate": "2006-09-08"
+        },
+        {
+          "eventCode": "COMP",
+          "eventDescriptionText": "Application Is Now Complete",
+          "eventDate": "2006-09-11"
+        },
+        {
+          "eventCode": "IEXX",
+          "eventDescriptionText": "Initial Exam Team nn",
+          "eventDate": "2006-08-25"
+        }
+      ],
+      "applicationMetaData": {
+        "firstInventorToFileIndicator": "N",
+        "applicationStatusCode": 150,
+        "applicationTypeCode": "UTL",
+        "entityStatusData": {
+          "businessEntityStatusCategory": "Regular Undiscounted"
+        },
+        "filingDate": "2006-08-25",
+        "uspcSymbolText": "382/103",
+        "nationalStageIndicator": false,
+        "firstInventorName": "Demian Gordon",
+        "cpcClassificationBag": [
+          "G06T   7/246",
+          "G06V  40/166",
+          "G06T   7/00",
+          "G06T   7/20"
+        ],
+        "effectiveFilingDate": "2006-08-25",
+        "publicationDateBag": [
+          "2007-03-01"
+        ],
+        "publicationSequenceNumberBag": [
+          "0047768"
+        ],
+        "earliestPublicationDate": "2007-03-01",
+        "applicationTypeLabelName": "Utility",
+        "applicationStatusDate": "2009-09-30",
+        "class": "382",
+        "applicationTypeCategory": "REGULAR",
+        "inventorBag": [
+          {
+            "firstName": "Demian",
+            "lastName": "Gordon",
+            "countryCode": "US",
+            "inventorNameText": "Demian Gordon",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Culver City",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Demian  Gordon",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Remington",
+            "lastName": "Scott",
+            "countryCode": "US",
+            "inventorNameText": "Remington Scott",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Los Angeles",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Remington  Scott",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Parag",
+            "lastName": "Havaldar",
+            "countryCode": "US",
+            "inventorNameText": "Parag Havaldar",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Cerritos",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Parag  Havaldar",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Dennis",
+            "lastName": "Hauck",
+            "countryCode": "US",
+            "nameSuffix": "JR.",
+            "inventorNameText": "Dennis J. Hauck JR.",
+            "middleName": "J.",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Hermosa Beach",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "nameLineOneText": "Dennis J. Hauck JR.",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          }
+        ],
+        "applicationStatusDescriptionText": "Patented Case",
+        "patentNumber": "7606392",
+        "grantDate": "2009-10-20",
+        "customerNumber": 103865,
+        "groupArtUnitNumber": "2624",
+        "earliestPublicationNumber": "US20070047768A1",
+        "inventionTitle": "CAPTURING AND PROCESSING FACIAL MOTION DATA",
+        "applicationConfirmationNumber": 3670,
+        "examinerNameText": "TUCKER, WESLEY J",
+        "subclass": "103",
+        "publicationCategoryBag": [
+          "Granted/Issued",
+          "Pre-Grant Publications - PGPub"
+        ],
+        "docketNumber": "113748-732UT1"
+      },
+      "parentContinuityBag": [
+        {
+          "parentApplicationStatusCode": 159,
+          "claimParentageTypeCode": "PRO",
+          "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+          "parentApplicationStatusDescriptionText": "Provisional Application Expired",
+          "parentApplicationNumberText": "60711897",
+          "parentApplicationFilingDate": "2005-08-26",
+          "childApplicationNumberText": "11467512"
+        },
+        {
+          "parentApplicationStatusCode": 159,
+          "claimParentageTypeCode": "PRO",
+          "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+          "parentApplicationStatusDescriptionText": "Provisional Application Expired",
+          "parentApplicationNumberText": "60711908",
+          "parentApplicationFilingDate": "2005-08-26",
+          "childApplicationNumberText": "11467512"
+        },
+        {
+          "parentApplicationStatusCode": 159,
+          "claimParentageTypeCode": "PRO",
+          "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+          "parentApplicationStatusDescriptionText": "Provisional Application Expired",
+          "parentApplicationNumberText": "60711906",
+          "parentApplicationFilingDate": "2005-08-26",
+          "childApplicationNumberText": "11467512"
+        },
+        {
+          "parentApplicationStatusCode": 159,
+          "claimParentageTypeCode": "PRO",
+          "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+          "parentApplicationStatusDescriptionText": "Provisional Application Expired",
+          "parentApplicationNumberText": "60711907",
+          "parentApplicationFilingDate": "2005-08-26",
+          "childApplicationNumberText": "11467512"
+        }
+      ],
+      "patentTermAdjustmentData": {
+        "applicantDayDelayQuantity": 60,
+        "overlappingDayQuantity": 0,
+        "ipOfficeAdjustmentDelayQuantity": 0,
+        "cDelayQuantity": 0,
+        "adjustmentTotalQuantity": 331,
+        "bDelayQuantity": 0,
+        "nonOverlappingDayDelayQuantity": 391,
+        "aDelayQuantity": 391,
+        "patentTermAdjustmentHistoryDataBag": [
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "PTA 36 Months",
+            "eventSequenceNumber": 57.5,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-09-30"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Patent Issue Date Used in PTA Calculation",
+            "eventSequenceNumber": 57.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-10-20"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Export to Final Data Capture",
+            "eventSequenceNumber": 56.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-09-21"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Dispatch to FDC",
+            "eventSequenceNumber": 55.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-09-18"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application Is Considered Ready for Issue",
+            "eventSequenceNumber": 54.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-09-17"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Issue Fee Payment Verified",
+            "eventSequenceNumber": 53.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-09-10"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Issue Fee Payment Received",
+            "eventSequenceNumber": 52.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-09-10"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Finished Initial Data Capture",
+            "eventSequenceNumber": 51.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-07-06"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Export to Initial Data Capture",
+            "eventSequenceNumber": 50.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-06-12"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Review",
+            "eventSequenceNumber": 49.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-06-11"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Notice of Allowance",
+            "eventSequenceNumber": 47.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-06-10"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Issue Revision Completed",
+            "eventSequenceNumber": 46.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-06-05"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Document Verification",
+            "eventSequenceNumber": 45.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-06-05"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Notice of Allowance Data Verification Completed",
+            "eventSequenceNumber": 44.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-06-05"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Allowability Notice",
+            "eventSequenceNumber": 43.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-06-05"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement considered",
+            "eventSequenceNumber": 42.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-03-20"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement considered",
+            "eventSequenceNumber": 41.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2008-12-17"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Information Disclosure Statement",
+            "eventSequenceNumber": 40.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2008-12-17"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Information Disclosure Statement",
+            "eventSequenceNumber": 39.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-03-20"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Date Forwarded to Examiner",
+            "eventSequenceNumber": 38.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-05-12"
+          },
+          {
+            "applicantDayDelayQuantity": 60,
+            "eventDescriptionText": "Response after Non-Final Action",
+            "eventSequenceNumber": 37.0,
+            "originatingEventSequenceNumber": 31.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-04-20"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Request for Extension of Time - Granted",
+            "eventSequenceNumber": 36.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-04-20"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 35.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2009-03-20"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 34.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2008-12-17"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Review",
+            "eventSequenceNumber": 33.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2008-11-20"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 32.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2008-11-20"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Mail Non-Final Rejection",
+            "eventSequenceNumber": 31.0,
+            "originatingEventSequenceNumber": -1.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 391,
+            "eventDate": "2008-11-19"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Non-Final Rejection",
+            "eventSequenceNumber": 30.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2008-11-17"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement considered",
+            "eventSequenceNumber": 27.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2007-10-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Case Docketed to Examiner in GAU",
+            "eventSequenceNumber": 25.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2007-12-05"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Miscellaneous Incoming Letter",
+            "eventSequenceNumber": 24.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2007-10-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Reference capture on IDS",
+            "eventSequenceNumber": 23.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2007-10-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 22.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2007-10-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Withdraw Flagged for 5/25",
+            "eventSequenceNumber": 20.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2007-10-17"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+            "eventSequenceNumber": 19.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2007-10-16"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Flagged for 5/25",
+            "eventSequenceNumber": 18.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2007-10-15"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Case Docketed to Examiner in GAU",
+            "eventSequenceNumber": 17.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2007-06-25"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Electronic Review",
+            "eventSequenceNumber": 16.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2007-03-06"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Email Notification",
+            "eventSequenceNumber": 15.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2007-03-05"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "PG-Pub Issue Notification",
+            "eventSequenceNumber": 14.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2007-03-05"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Case Docketed to Examiner in GAU",
+            "eventSequenceNumber": 13.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2007-02-14"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "IFW TSS Processing by Tech Center Complete",
+            "eventSequenceNumber": 12.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2006-12-14"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application Return from OIPE",
+            "eventSequenceNumber": 11.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2006-11-14"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application Is Now Complete",
+            "eventSequenceNumber": 10.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2006-11-14"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Additional Application Filing Fees",
+            "eventSequenceNumber": 9.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2006-11-07"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic",
+            "eventSequenceNumber": 8.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2006-11-07"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned",
+            "eventSequenceNumber": 7.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2006-09-11"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application Return TO OIPE",
+            "eventSequenceNumber": 6.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2006-09-08"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application Dispatched from OIPE",
+            "eventSequenceNumber": 5.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2006-09-08"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Application Is Now Complete",
+            "eventSequenceNumber": 4.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2006-09-11"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Cleared by OIPE CSR",
+            "eventSequenceNumber": 3.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2006-09-06"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "IFW Scan & PACR Auto Security Review",
+            "eventSequenceNumber": 2.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2006-09-02"
+          },
+          {
+            "applicantDayDelayQuantity": 0,
+            "eventDescriptionText": "Initial Exam Team nn",
+            "eventSequenceNumber": 1.0,
+            "originatingEventSequenceNumber": 0.0,
+            "ptaPTECode": "PTA",
+            "ipOfficeDayDelayQuantity": 0,
+            "eventDate": "2006-08-25"
+          }
+        ]
+      },
+      "assignmentBag": [
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18551/444",
+          "assignmentReceivedDate": "2006-11-27",
+          "reelAndFrameNumber": "018551/0444",
+          "frameNumber": 444,
+          "assignmentRecordedDate": "2006-11-27",
+          "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "TOKYO 141",
+                "geographicRegionCode": "JPX",
+                "ictCountryCode": "JP",
+                "countryName": "JAPAN",
+                "addressLineOneText": "7-35 KITASHINAGAWA 6-CHOME",
+                "addressLineTwoText": "SHINAGAWA-KU"
+              },
+              "assigneeNameText": "SONY CORPORATION"
+            },
+            {
+              "assigneeAddress": {
+                "cityName": "CULVER CITY",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "postalCode": "90232",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "10202 WEST WASHINGTON BLVD.",
+                "ictStateCode": "CA"
+              },
+              "assigneeNameText": "SONY PICTURES ENTERTAINMENT INC."
+            }
+          ],
+          "assignmentMailedDate": "2006-11-27",
+          "reelNumber": 18551,
+          "correspondenceAddress": {
+            "addressLineOneText": "530 B. STREET, SUITE 2100",
+            "correspondentNameText": "PROCOPIO, CORY, HARGREAVES & SAVITCH LLP",
+            "addressLineTwoText": "SAN DIEGO, CA 92101"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2006-09-20",
+              "assignorName": "GORDON, DEMIAN"
+            },
+            {
+              "executionDate": "2006-09-25",
+              "assignorName": "HAUCK, DENNIS J., JR."
+            },
+            {
+              "executionDate": "2006-11-03",
+              "assignorName": "SCOTT, REMINGTON"
+            },
+            {
+              "executionDate": "2006-11-27",
+              "assignorName": "HAVALDAR, PARAG"
+            }
+          ],
+          "pageTotalQuantity": 6,
+          "attorneyDocketNumber": "113748-5732US"
+        }
+      ],
+      "pgpubDocumentMetaData": {
+        "productIdentifier": "APPXML",
+        "zipFileName": "ipa070301.zip",
+        "fileCreateDateTime": "2024-09-27T14:31:29",
+        "xmlFileName": "11467512_20070047768.xml",
+        "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/APPXML-SPLT/2007/ipa070301/11467512_20070047768.xml"
+      },
+      "lastIngestionDateTime": "2026-04-14T21:00:03",
+      "childContinuityBag": [
+        {
+          "firstInventorToFileIndicator": false,
+          "childApplicationStatusDescriptionText": "Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362",
+          "claimParentageTypeCode": "CON",
+          "childApplicationStatusCode": 250,
+          "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+          "childPatentNumber": "8218825",
+          "parentApplicationNumberText": "11467512",
+          "childApplicationFilingDate": "2009-08-25",
+          "childApplicationNumberText": "12547378"
+        },
+        {
+          "childApplicationStatusDescriptionText": "RO PROCESSING COMPLETED-PLACED IN STORAGE",
+          "claimParentageTypeCode": "CON",
+          "childApplicationStatusCode": 218,
+          "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+          "parentApplicationNumberText": "11467512",
+          "childApplicationFilingDate": "2006-08-28",
+          "childApplicationNumberText": "PCTUS2006033713"
+        }
+      ],
+      "recordAttorney": {
+        "powerOfAttorneyBag": [
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "PETER",
+            "lastName": "TOTO",
+            "registrationNumber": "36293",
+            "attorneyAddressBag": [
+              {
+                "cityName": "PARK RIDGE",
+                "geographicRegionName": "NEW JERSEY",
+                "geographicRegionCode": "NJ",
+                "countryCode": "US",
+                "postalCode": "07656",
+                "nameLineOneText": "SONY CORPORATION OF AMERICA",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1 SONY DRIVE"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "201-930-6155",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "HANS",
+            "lastName": "MAHR",
+            "registrationNumber": "46138",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN DIEGO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92127",
+                "nameLineOneText": "SONY CORPORATION OF AMERICA",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "INTELLECTUAL PROPERTY DEPARTMENT",
+                "addressLineTwoText": "16530 VIA ESPRILLO, MZ  7190"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "858-942-3055",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JAIME",
+            "lastName": "SIEGEL",
+            "registrationNumber": "39027",
+            "attorneyAddressBag": [
+              {
+                "cityName": "RANCHO MIRAGE",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92270",
+                "nameLineOneText": "JAMIE SIEGEL, ESQ.",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "PO BOX 1979"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "201-615-0584",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "MARK",
+            "lastName": "GORMAN",
+            "registrationNumber": "43641",
+            "attorneyAddressBag": [
+              {
+                "cityName": "MEMPHIS",
+                "geographicRegionName": "TENNESSEE",
+                "geographicRegionCode": "TN",
+                "countryCode": "US",
+                "postalCode": "38116",
+                "nameLineOneText": "SMITH & NEPHEW, INC.",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1450 BROOKS ROAD"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "901-399-6903",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "SAMUEL",
+            "lastName": "LEE",
+            "registrationNumber": "42791",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN DIEGO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92101",
+                "nameLineOneText": "PROCOPIO, CORY, HARGREAVES  & SAVITCH, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "525 B STREET, SUITE 2200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "619-238-1900",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "MILTON",
+            "lastName": "FRAZIER",
+            "registrationNumber": "44687",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN DIEGO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92127",
+                "nameLineOneText": "SONY CORPORATION OF AMERICA",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "INTELLECTUAL PROPERTY DEPARTMENT",
+                "addressLineTwoText": "16530 VIA ESPRILLO, MZ 7190"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "858-942-1325",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "HAROLD",
+            "lastName": "FUJII",
+            "registrationNumber": "38458",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN JOSE",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "95112",
+                "nameLineOneText": "SONY CORPORATION OF AMERICA",
+                "nameLineTwoText": "INTELLECTUAL PROPERTY DEPARTMENT",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1730 N. 1ST STREET, MS 2S"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "408-352-4540",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "FREDERICK",
+            "lastName": "ZUSTAK",
+            "registrationNumber": "36728",
+            "attorneyAddressBag": [
+              {
+                "cityName": "GOLDEN",
+                "geographicRegionName": "COLORADO",
+                "geographicRegionCode": "CO",
+                "countryCode": "US",
+                "postalCode": "80401",
+                "nameLineOneText": "POLARIS INTELLECTUAL PROPERTY LLC",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1014 HOMESTAKE DRIVE"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "858-539-6172",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          }
+        ],
+        "attorneyBag": [
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "RICHARD",
+            "lastName": "CAMPBELL",
+            "registrationNumber": "34790",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN DIEGO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92101",
+                "nameLineOneText": "PROCOPIO CORY HARGREAVES & SAVITCH, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "525 B STREET",
+                "addressLineTwoText": "SUITE 2200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "619-515-3289",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "STEPHEN",
+            "lastName": "BEUERLE",
+            "registrationNumber": "38380",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN DIEGO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92101",
+                "nameLineOneText": "PROCOPIO CORY HARGREAVES AND SAVITCH LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "525 B STREET, SUITE  2200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "619-238-1900",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "SAMUEL",
+            "lastName": "LEE",
+            "registrationNumber": "42791",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN DIEGO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92101",
+                "nameLineOneText": "PROCOPIO, CORY, HARGREAVES  & SAVITCH, LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "525 B STREET, SUITE 2200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "619-238-1900",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "HANS",
+            "lastName": "MAHR",
+            "registrationNumber": "46138",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN DIEGO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92127",
+                "nameLineOneText": "SONY CORPORATION OF AMERICA",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "INTELLECTUAL PROPERTY DEPARTMENT",
+                "addressLineTwoText": "16530 VIA ESPRILLO, MZ  7190"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "858-942-3055",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "ANTHONY",
+            "lastName": "KEFALOS",
+            "registrationNumber": "61931",
+            "attorneyAddressBag": [
+              {
+                "cityName": "POWAY",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92064",
+                "nameLineOneText": "DECISION SCIENCES INTERNATIONAL CORPORATION",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "12345 FIRST AMERICAN WAY"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "858-571-1900",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JONATHAN",
+            "lastName": "CHENG",
+            "registrationNumber": "67912",
+            "attorneyAddressBag": [
+              {
+                "cityName": "IRVINE",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92618",
+                "nameLineOneText": "PROCOPIO, CORY, HARGREAVES & SAVITCH",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "100 SPECTRUM CENTER DRIVE",
+                "addressLineTwoText": "SUITE 520"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "310-729-2126",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "ERICA",
+            "lastName": "KASHANI",
+            "registrationNumber": "81472",
+            "attorneyAddressBag": [
+              {
+                "cityName": "SAN DIEGO",
+                "geographicRegionName": "CALIFORNIA",
+                "geographicRegionCode": "CA",
+                "countryCode": "US",
+                "postalCode": "92101",
+                "nameLineOneText": "PROCOPIO, CORY, HARGREAVES & SAVITCH LLP",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "525 B STREET, SUITE 2200"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "619-238-1900",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "A.",
+            "registeredPractitionerCategory": "ATTNY"
+          }
+        ]
+      },
+      "applicationNumberText": "11467512",
+      "correspondenceAddressBag": [
+        {
+          "cityName": "San Diego",
+          "geographicRegionName": "CALIFORNIA",
+          "geographicRegionCode": "CA",
+          "countryCode": "US",
+          "postalCode": "92101",
+          "nameLineOneText": "Procopio - SPE",
+          "countryName": "UNITED STATES",
+          "addressLineOneText": "525 B Street",
+          "addressLineTwoText": "Suite 2200"
+        }
+      ]
+    }
+  ],
+  "requestIdentifier": "383f5200-a11d-4aec-89d2-5acb339ca7f1"
+}

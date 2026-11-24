@@ -1,0 +1,31 @@
+Source: example/data/17704313/files/2024-06-28_NOA_LXVPNTLSXBLUEX4.xml:17704313/LXVPNTLSXBLUEX4/Allowability Notice.xml
+Type: OutgoingDocument
+Markup: [+inserted+]  [-deleted-]
+
+## DETAILED ACTION
+
+## Notice of Pre-AIA or AIA Status
+The present application, filed on or after March 16, 2013, is being examined under the first inventor to file provisions of the AIA.
+
+## Applicant(s) Response to Official Action
+The response filed on 5/29/2024 has been entered and made of record.
+
+## Response to Amendment/Remarks
+In the response filed Claims 1, 3-6, 11, and 13-16 were amended. Claims 9 and 19 were canceled. Claims 1-8, 10-18, and 20 were presented for examination.
+Applicants’ amendments/arguments overcome the prior art of record; the rejections of the claims under AIA 35 U.S.C. 103; and are persuasive. Accordingly, said rejections are withdrawn. Examiner further articulates the differences between the prior art and in allowed claims in the examiners reason for allowance below.
+
+## Allowable Subject Matter
+Claims 1-8, 10-18, and 20 are allowed.
+The following is an Examiner's statement of reasons for allowance:
+Various examples have been found in the art describe aspects of the claimed invention. The cited prior art does not disclose the amended portions of the independent claims.
+Hence, while various art tangentially discusses aspects of the claimed invention none of the prior individually or in reasonable combination discloses the claimed invention.
+Dependent claims being dependent on their respective independent claims are therefore allowed under the same rationale.
+Any comments considered necessary by Applicant must be submitted no later than the payment of the issue fee and, to avoid processing delays, should preferably accompany the issue fee. Such submissions should be clearly labeled “Comments to Statement of Reasons for Allowance.”
+Additionally, the closest prior art has been supplied in the record.
+
+## Conclusion
+The prior art made of record and not relied upon is considered pertinent to applicant's disclosure: See PTO-892.
+Any inquiry concerning this communication or earlier communications from the examiner should be directed to STEPHEN GUNDRY whose telephone number is (571)270-0507. The examiner can normally be reached on Monday - Friday 8:30 AM - 5PM EST.
+If attempts to reach the examiner by telephone are unsuccessful, the examiner’s supervisor, Joseph Hirl can be reached on (571)272-3685. The fax phone number for the organization where this application or proceeding is assigned is 571-273-8300.
+Information regarding the status of published or unpublished applications may be obtained from Patent Center. Unpublished application information in Patent Center is available to registered users. To file and manage patent submissions in Patent Center, visit: https://patentcenter.uspto.gov. Visit https://www.uspto.gov/patents/apply/patent-center for more information about Patent Center and https://www.uspto.gov/patents/docx for information about filing in DOCX format. For additional questions, contact the Electronic Business Center (EBC) at 866-217-9197 (toll-free). If you would like assistance from a USPTO Customer Service Representative, call 800-786-9199 (IN USA OR CANADA) or 571-272-1000.
+/STEPHEN T GUNDRY/Primary Examiner, Art Unit 2435

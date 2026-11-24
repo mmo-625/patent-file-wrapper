@@ -1,0 +1,80 @@
+Source: example/data/13090569/files/2013-08-08_CLM_HK5K3WVHPXXIFW2.xml:13090569/HK5K3WVHPXXIFW2/13090569.2013-08-07.HK5K3WVHPXXIFW2.CLM.xml
+Type: ClaimsDocument
+Markup: [+inserted+]  [-deleted-]  [?uncertain OCR?]
+
+Claim 1 (currently amended)
+An interactive greeting card comprising:
+a greeting card body having a plurality of greeting card panels, two of the greeting card panels forming an enclosed cavity;
+an electronics module contained within the enclosed cavity of the greeting card body, the electronics module operative to save and playback at least two digital audio files;
+wherein playback of one of the at least two digital audio files is triggered by a user interacting with a specified area of the greeting card and wherein continuous user interaction is required to continue hearing playback of the one of the at least two digital audio files [?ntirety.?] [?of?] digit[?a?]l [?audio?] [?file.?]
+
+Claim 2 (currently amended)
+The interactive greeting card of claim 1[?,?] [?w?]he[?rein?] [?one?] [?of?] [?the?] [?at?] [?leas?] [?tw-?] [?switches-is?] further comprising a slide switch.
+
+Claim 3 (previously presented)
+The interactive greeting card of claim 1, wherein one of the at least two digital audio files contains spoken instructions indicating where to touch the greeting card to initiate the other digital audio file.
+
+Claim 4 (previously presented)
+The interactive greeting card of claim 1, wherein the greeting card contains printed indicia indicating where to touch the greeting card to initiate one of the at least two digital audio files.
+
+Claim 5 (previously presented)
+The interactive greeting card of claim 1, wherein the greeting card must be in an open position for playback of one of the at least two digital audio files.
+
+Claim 6 (original)
+The interactive greeting card of claim 1, wherein one of the greeting card panels contains an aperture through which an inside surface of the greeting card is visible.
+
+Claim 7 (original)
+The interactive greeting card of claim 1 further comprising a die cut piece attached to the greeting card body.
+
+Claim 8 (currently amended)
+An interactive greeting card comprising:
+a multi-panel greeting card body having an enclosed cavity between two panels thereof[?;?]
+an electronics module contained with the enclosed cavity, the electronics module operative to store and playback two or more digital audio files;
+wherein a slide switch initiates playback of one of the two or more digital audio files, and
+wherein a user applying [?a?] [?tw?] a continuous back and forth motion to an area of the greeting card proximate to the touch sensor switch plate initiates [?p?]layback of one of the two or more digital audio files and when the user stops the continuous back and forth motion, the one of the two or more digital audio files ceases playback [?ofe?] [?ne-ef?] [?the-two?]
+
+Claim 9 (original)
+The interactive greeting card of claim 8, wherein the slide switch is located across the first fold line and is triggered when the greeting card is opened by unfolding the first panel away from the second panel along the first fold line.
+
+Claim 10 (currently amended)
+The interactive greeting card of claim 8, wherein when the continuous back and forth motion ceases, [?the-?]audio playback [?eft-ediit?] [?adiefil?] ceases.
+
+Claim 11 (currently amended)
+The interactive greeting card of claim 8, wherein an increase in the speed of the continuous back and forth motion increases the volume of the digi[?tal-?]audio [?fi?]le.
+
+Claim 12 (currently amended)
+The interactive greeting card of claim 8, wherein an increase in the speed of the continuous back and forth motion increases the speed at[?-whi-h-of?] [?the?] [?d?]igita[?l?] audio f[?ile-is-played.?]
+
+Claim 13 (currently amended)
+The interactive greeting card of claim 8, wherein the slide switch initiates playback of a first of the two or more digital audio files containing verbal instructions on wherein to apply the continuous back and forth motion on the greeting card to initiate playback of a second of the two or more digital audio files.
+
+Claim 14 (original)
+The interactive greeting card of claim 8, wherein the greeting card body contains printed indicia thereon indicating where to apply the continuous back and forth motion on the greeting card to initiate playback of one of the at least two digital audio files.
+
+Claim 15 (currently amended)
+An interactive greeting card comprising:
+a greeting card body having at least three panels;
+an electronics module contained within a cavity formed between two of the at least three panels of the greeting card body, the electronics module operative to store and playback at least one audio file;
+a touch sensor switch plate located beneath one of the at least three panels of the greeting card[?,?] digital [?auedi-file;?]
+wherein playback of the at least one audio file occurs only while a user continuously rubs an area of the greeting card above the touch sensor switch plate.
+
+Claim 16 (withdrawn)
+The interactive greeting card of claim 15, wherein the touch sensor switch is triggered by a human touching or tapping on an area of the greeting card which covers the touch sensor switch plate.
+
+Claim 17 (currently amended)
+The interactive greeting card of claim 15, wherein playback of the at least one audio file stops as soon as the user stops the rubbing motion on the area of the greeting card above the touch sensor switch [?p?]late.
+
+Claim 18 (previously presented)
+The interactive greeting card of claim 17, wherein when the rubbing motion stops, playback of the at least one audio file stops.
+
+Claim 19 (previously presented)
+The interactive greeting card of claim 18, wherein if the rubbing motion is re-initiated without closing the greeting card, playback of the at least one audio file will start where it left off when the user ceased the rubbing motion.
+
+Claim 20 (canceled)
+
+
+Claim 21 (withdrawn)
+The interactive greeting card of claim 1, wherein both of the at least two switches are touch sensitive switches.
+
+Claim 22 (withdrawn)
+The interactive greeting card of claim 1 further comprising a plurality of touch sensitive switches.

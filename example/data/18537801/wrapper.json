@@ -1,0 +1,278 @@
+{
+  "count": 1,
+  "patentFileWrapperDataBag": [
+    {
+      "eventDataBag": [
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2026-09-23"
+        },
+        {
+          "eventCode": "A...",
+          "eventDescriptionText": "Response after Non-Final Action",
+          "eventDate": "2026-05-09"
+        },
+        {
+          "eventCode": "NINA",
+          "eventDescriptionText": "Mail Notice of Informal or Non-Responsive Amendment",
+          "eventDate": "2026-05-06"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2026-04-25"
+        },
+        {
+          "eventCode": "A.I.",
+          "eventDescriptionText": "Informal or Non-Responsive Amendment after Examiner Action",
+          "eventDate": "2026-04-18"
+        },
+        {
+          "eventCode": "A...",
+          "eventDescriptionText": "Response after Non-Final Action",
+          "eventDate": "2026-04-18"
+        },
+        {
+          "eventCode": "NINA",
+          "eventDescriptionText": "Mail Notice of Informal or Non-Responsive Amendment",
+          "eventDate": "2026-04-14"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2026-04-03"
+        },
+        {
+          "eventCode": "A.I.",
+          "eventDescriptionText": "Informal or Non-Responsive Amendment after Examiner Action",
+          "eventDate": "2026-03-21"
+        },
+        {
+          "eventCode": "A...",
+          "eventDescriptionText": "Response after Non-Final Action",
+          "eventDate": "2026-03-21"
+        },
+        {
+          "eventCode": "MEXIN",
+          "eventDescriptionText": "Mail Examiner Interview Summary (PTOL - 413)",
+          "eventDate": "2026-02-20"
+        },
+        {
+          "eventCode": "EXAT",
+          "eventDescriptionText": "Interview Summary - Applicant Initiated - Telephonic",
+          "eventDate": "2026-02-19"
+        },
+        {
+          "eventCode": "EXIN",
+          "eventDescriptionText": "Interview Summary Record",
+          "eventDate": "2026-02-19"
+        },
+        {
+          "eventCode": "M865E",
+          "eventDescriptionText": "Electronic request for Examiner Interview",
+          "eventDate": "2026-01-29"
+        },
+        {
+          "eventCode": "MCTNF",
+          "eventDescriptionText": "Mail Non-Final Rejection",
+          "eventDate": "2026-01-12"
+        },
+        {
+          "eventCode": "CTNF",
+          "eventDescriptionText": "Non-Final Rejection",
+          "eventDate": "2026-01-07"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2026-01-04"
+        },
+        {
+          "eventCode": "PG-ISSUE",
+          "eventDescriptionText": "PG-Pub Issue Notification",
+          "eventDate": "2024-07-12"
+        },
+        {
+          "eventCode": "PG-ISSUE",
+          "eventDescriptionText": "PG-Pub Issue Notification",
+          "eventDate": "2024-06-27"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2024-01-14"
+        },
+        {
+          "eventCode": "OIPE",
+          "eventDescriptionText": "Application Dispatched from OIPE",
+          "eventDate": "2024-01-12"
+        },
+        {
+          "eventCode": "PGPC",
+          "eventDescriptionText": "Sent to Classification Contractor",
+          "eventDate": "2023-12-22"
+        },
+        {
+          "eventCode": "FTFS",
+          "eventDescriptionText": "FITF set to YES - revise initial setting",
+          "eventDate": "2023-12-22"
+        },
+        {
+          "eventCode": "PTA.RFE",
+          "eventDescriptionText": "Patent Term Adjustment - Ready for Examination",
+          "eventDate": "2023-12-13"
+        },
+        {
+          "eventCode": "COMP",
+          "eventDescriptionText": "Application Is Now Complete",
+          "eventDate": "2023-12-22"
+        },
+        {
+          "eventCode": "FLRCPT.O",
+          "eventDescriptionText": "Filing Receipt",
+          "eventDate": "2023-12-22"
+        },
+        {
+          "eventCode": "MPEN",
+          "eventDescriptionText": "Mail Pre-Exam Notice",
+          "eventDate": "2023-12-22"
+        },
+        {
+          "eventCode": "SREXR141",
+          "eventDescriptionText": "PTO/SB/69-Authorize EPO Access to Search Results",
+          "eventDate": "2023-12-13"
+        },
+        {
+          "eventCode": "APPERMS",
+          "eventDescriptionText": "Applicants have given acceptable permission for participating foreign",
+          "eventDate": "2023-12-13"
+        },
+        {
+          "eventCode": "BIG.",
+          "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)",
+          "eventDate": "2023-12-13"
+        },
+        {
+          "eventCode": "IEXX",
+          "eventDescriptionText": "Initial Exam Team nn",
+          "eventDate": "2023-12-13"
+        }
+      ],
+      "applicationMetaData": {
+        "firstInventorToFileIndicator": "Y",
+        "applicationStatusCode": 71,
+        "applicationTypeCode": "UTL",
+        "entityStatusData": {
+          "smallEntityStatusIndicator": false,
+          "businessEntityStatusCategory": "Regular Undiscounted"
+        },
+        "filingDate": "2023-12-13",
+        "uspcSymbolText": "37/243",
+        "nationalStageIndicator": false,
+        "firstInventorName": "Rajeev Thakur",
+        "cpcClassificationBag": [
+          "E01H   5/098",
+          "G05D   1/227",
+          "G05D2105/12",
+          "G05D2105/15",
+          "G05D2107/23",
+          "G05D   1/648",
+          "G05D2107/21",
+          "G05D2101/26",
+          "G05D   1/6484",
+          "G05D2107/17",
+          "G05D2109/10",
+          "G05D   1/246",
+          "G05D   1/222",
+          "A01D  34/008",
+          "A01D2101/00",
+          "E01H  10/007"
+        ],
+        "effectiveFilingDate": "2023-12-13",
+        "publicationDateBag": [
+          "2024-06-27"
+        ],
+        "publicationSequenceNumberBag": [
+          "0209579"
+        ],
+        "earliestPublicationDate": "2024-06-27",
+        "applicationTypeLabelName": "Utility",
+        "applicationStatusDate": "2026-05-09",
+        "class": "37",
+        "applicationTypeCategory": "REGULAR",
+        "inventorBag": [
+          {
+            "firstName": "Rajeev",
+            "lastName": "Thakur",
+            "inventorNameText": "Rajeev Thakur",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Novi",
+                "geographicRegionName": "MICHIGAN",
+                "geographicRegionCode": "MI",
+                "countryCode": "US",
+                "nameLineOneText": "Thakur,Rajeev",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              },
+              {
+                "cityName": "Novi",
+                "geographicRegionName": "MICHIGAN",
+                "geographicRegionCode": "MI",
+                "countryCode": "US",
+                "nameLineOneText": "Thakur,Rajeev",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              }
+            ]
+          }
+        ],
+        "applicationStatusDescriptionText": "Response to Non-Final Office Action Entered and Forwarded to Examiner",
+        "customerNumber": 191196,
+        "groupArtUnitNumber": "3671",
+        "earliestPublicationNumber": "US20240209579A1",
+        "inventionTitle": "Autonomous snow removal machine",
+        "applicationConfirmationNumber": 7201,
+        "examinerNameText": "TSUI, ALFRED H",
+        "subclass": "243",
+        "publicationCategoryBag": [
+          "Pre-Grant Publications - PGPub"
+        ]
+      },
+      "parentContinuityBag": [
+        {
+          "parentApplicationStatusCode": 159,
+          "claimParentageTypeCode": "PRO",
+          "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+          "parentApplicationStatusDescriptionText": "Provisional Application Expired",
+          "parentApplicationNumberText": "63434511",
+          "parentApplicationFilingDate": "2022-12-22",
+          "childApplicationNumberText": "18537801"
+        }
+      ],
+      "pgpubDocumentMetaData": {
+        "productIdentifier": "APPXML",
+        "zipFileName": "ipa240627.zip",
+        "fileCreateDateTime": "2024-09-30T11:40:47",
+        "xmlFileName": "18537801_20240209579.xml",
+        "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/APPXML-SPLT/2024/ipa240627/18537801_20240209579.xml"
+      },
+      "lastIngestionDateTime": "2026-09-24T00:00:07",
+      "applicationNumberText": "18537801",
+      "correspondenceAddressBag": [
+        {
+          "cityName": "Novi",
+          "geographicRegionName": "MICHIGAN",
+          "geographicRegionCode": "MI",
+          "countryCode": "US",
+          "postalCode": "48376",
+          "nameLineOneText": "Rajeev Thakur",
+          "countryName": "UNITED STATES",
+          "addressLineOneText": "27195 Victoria Road"
+        }
+      ]
+    }
+  ],
+  "requestIdentifier": "285d0584-125d-4a46-be94-58341562a481"
+}

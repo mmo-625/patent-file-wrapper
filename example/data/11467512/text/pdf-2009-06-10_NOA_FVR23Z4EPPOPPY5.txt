@@ -1,0 +1,478 @@
+Source: example/data/11467512/files/2009-06-10_NOA_FVR23Z4EPPOPPY5.pdf
+Pages: 11
+
+--- page 1 (ocr) ---
+UNITED STATES PATENT AND TRADEMARK OFFICE
+
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address: COMMISSIONER FOR PATENTS
+
+P.O. Box 1450
+
+Alexandria, Virginia 22313-1450
+
+www.uspto.gov
+
+NOTICE OF ALLOWANCE AND FEE(S) DUE
+
+PROCOPIO, CORY, HARGREAVES & SAVITCH LLP TUCKER, WESLEY J
+SUITE 2100
+
+2624
+
+SAN DIEGO, CA 92101 DATE MAILED: 06/10/2009
+
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+
+11/467,512 08/25/2006 Demian Gordon 113748-5732US 3670
+TITLE OF INVENTION: CAPTURING AND PROCESSING FACIAL MOTION DATA
+
+APPLN. TYPE SMALL ENTITY ISSUE FEE DUE PUBLICATION FEE DUE |] PREV. PAID ISSUE FEE TOTAL FEE(S) DUE DATE DUE
+NO $0
+
+nonprovisional $1510 $300 $1810 09/10/2009
+
+THE APPLICATION IDENTIFIED ABOVE HAS BEEN EXAMINED AND IS ALLOWED FOR ISSUANCE AS A PATENT.
+PROSECUTION ON THE MERITS IS CLOSED. THIS NOTICE OF ALLOWANCE IS NOT A GRANT OF PATENT RIGHTS.
+THIS APPLICATION IS SUBJECT TO WITHDRAWAL FROM ISSUE AT THE INITIATIVE OF THE OFFICE OR UPON
+PETITION BY THE APPLICANT. SEE 37 CFR 1.313 AND MPEP 1308.
+
+THE ISSUE FEE AND PUBLICATION FEE (IF REQUIRED) MUST BE PAID WITHIN THREE MONTHS FROM THE
+MAILING DATE OF THIS NOTICE OR THIS APPLICATION SHALL BE REGARDED AS ABANDONED. THIS
+STATUTORY PERIOD CANNOT BE EXTENDED. SEE 35 U.S.C. 151. THE ISSUE FEE DUE INDICATED ABOVE DOES
+NOT REFLECT A CREDIT FOR ANY PREVIOUSLY PAID ISSUE FEE IN THIS APPLICATION. IF AN ISSUE FEE HAS
+PREVIOUSLY BEEN PAID IN THIS APPLICATION (AS SHOWN ABOVE), THE RETURN OF PART B OF THIS FORM
+WILL BE CONSIDERED A REQUEST TO REAPPLY THE PREVIOUSLY PAID ISSUE FEE TOWARD THE ISSUE FEE NOW
+DUE.
+
+HOW TO REPLY TO THIS NOTICE:
+I. Review the SMALL ENTITY status shown above.
+
+If the SMALL ENTITY is shown as YES, verify your current If the SMALL ENTITY is shown as NO:
+SMALL ENTITY status:
+
+A. If the status is the same, pay the TOTAL FEE(S) DUE shown A. Pay TOTAL FEE(S) DUE shown above, or
+above.
+
+B. If the status above is to be removed, check box 5b on Part B - B. If applicant claimed SMALL ENTITY status before, or is now
+Fee(s) Transmittal and pay the PUBLICATION FEE (if required) claiming SMALL ENTITY status, check box 5a on Part B - Fee(s)
+and twice the amount of the ISSUE FEE shown above, or Transmittal and pay the PUBLICATION FEE (if required) and 1/2
+
+the ISSUE FEE shown above.
+
+II. PART B - FEE(S) TRANSMITTAL, or its equivalent, must be completed and returned to the United States Patent and Trademark Office
+(USPTO) with your ISSUE FEE and PUBLICATION FEE (if required). If you are charging the fee(s) to your deposit account, section "4b"
+of Part B - Fee(s) Transmittal should be completed and an extra copy of the form should be submitted. If an equivalent of Part B is filed, a
+request to reapply a previously paid issue fee must be clearly made, and delays in processing may occur due to the difficulty in recognizing
+the paper as an equivalent of Part B.
+
+IH. All communications regarding this application must give the application number. Please direct all communications prior to issuance to
+Mail Stop ISSUE FEE unless advised to the contrary.
+
+IMPORTANT REMINDER: Utility patents issuing on applications filed on or after Dec. 12, 1980 may require payment of
+maintenance fees. It is patentee's responsibility to ensure timely payment of maintenance fees when due.
+
+Page | of 3
+PTOL-85 (Rev. 08/07) Approved for use through 08/31/2010.
+
+--- page 2 (ocr) ---
+PART B - FEE(S) TRANSMITTAL
+
+Complete and send this form, together with applicable fee(s), to: Mail Mail Stop ISSUE FEE
+Commissioner for Patents
+P.O. Box 1450
+Alexandria, Virginia 22313-1450
+or Fax (571)-273-2885
+
+INSTRUCTIONS: This form should be used for transmitting the ISSUE FEE and PUBLICATION FEE (if required). Blocks 1 through 5 should be completed where
+appropriate. All further correspondence including the Patent, advance orders and notification of maintenance fees will be mailed to the current correspondence address as
+indicated unless corrected below or directed otherwise in Block 1, by (a) specifying a new correspondence address; and/or (b) indicating a separate "FEE ADDRESS" for
+maintenance fee notifications.
+
+CURRENT CORRESPONDENCE ADDRESS (Note: Use Block 1 for any change of address) Note: A certificate of mailing can only be used for domestic mailings of the
+Fee(s) Transmittal. This certificate cannot be used for any other accompanying
+papers. Each additional paper, such as an assignment or formal drawing, must
+
+ave its own certificate of mailing or transmission.
+
+27189 7590 06/10/2009
+Certificate of Mailing or Transmission
+PROCOPIO, CORY, HARGREAVES & SAVITCH LLP I hereby certify that this Fee(s) Transmittal is being deposited with the United
+530 B STREET States Postal Service with sufficient postage for first class mail in an envelope
+addressed to the Mail Stop ISSUE FEE address above, or being facsimile
+SUITE 2100 transmitted to the USPTO (571) 273-2885, on the date indicated below.
+SAN DIEGO, CA 92101
+
+(Depositor's name)
+
+(Signature)
+
+(Date)
+
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+
+11/467,512 08/25/2006 Demian Gordon 113748-5732US 3670
+TITLE OF INVENTION: CAPTURING AND PROCESSING FACIAL MOTION DATA
+
+APPLN. TYPE SMALL ENTITY ISSUE FEE DUE PUBLICATION FEE DUE |] PREV. PAID ISSUE FEE TOTAL FEE(S) DUE DATE DUE
+NO $0
+
+nonprovisional $1510 $300 $1810 09/10/2009
+
+EXAMINER ART UNIT CLASS-SUBCLASS
+
+TUCKER, WESLEY J 2624 382-103000
+
+1. Change of correspondence address or indication of "Fee Address" (37
+CFR 1.363).
+
+(J Change of correspondence address (or Change of Correspondence
+Address form PTO/SB/122) attached.
+
+LI "Fee Address" indication (or "Fee Address" Indication form
+PTO/SB/47; Rev 03-02 or more recent) attached. Use of a Customer
+Number is required.
+
+2. For printing on the patent front page, list
+
+(1) the names of up to 3 registered patent attorneys 1
+or agents OR, alternatively,
+
+(2) the name of a single firm (having as a member a 2
+registered attorney or agent) and the names of up to
+
+2 registered patent attorneys or agents. If nonameis 3
+listed, no name will be printed.
+
+3. ASSIGNEE NAME AND RESIDENCE DATA TO BE PRINTED ON THE PATENT (print or type)
+
+PLEASE NOTE: Unless an assignee is identified below, no assignee data will appear on the patent. If an assignee is identified below, the document has been filed for
+recordation as set forth in 37 CFR 3.11. Completion of this form is NOT a substitute for filing an assignment.
+
+(A) NAME OF ASSIGNEE (B) RESIDENCE: (CITY and STATE OR COUNTRY)
+
+Please check the appropriate assignee category or categories (will not be printed on the patent) : LJ individual (J Corporation or other private group entity (J Government
+
+4a. The following fee(s) are submitted: 4b. Payment of Fee(s): (Please first reapply any previously paid issue fee shown above)
+LI Issue Fee LI A check is enclosed.
+_] Publication Fee (No small entity discount permitted) | Payment by credit card. Form PTO-2038 is attached.
+LY Advance Order - # of Copies [_] The Director is hereby authorized to charge the required fee(s), any deficiency, or credit any
+overpayment, to Deposit Account Number (enclose an extra copy of this form).
+5. Change in Entity Status (from status indicated above)
+LJ a. Applicant claims SMALL ENTITY status. See 37 CFR 1.27. Ld b. Applicant is no longer claiming SMALL ENTITY status. See 37 CFR 1.27(g)(2).
+
+NOTE: The Issue Fee and Publication Fee (if required) will not be accepted from anyone other than the applicant; a registered attorney or agent; or the assignee or other party in
+interest as shown by the records of the United States Patent and Trademark Office.
+
+Authorized Signature Date
+
+Typed or printed name Registration No.
+
+This collection of information is required by 37 CFR 1.311. The information is required to obtain or retain a benefit by the public which is to file (and by the USPTO to process)
+an application. Confidentiality is governed by 35 U.S.C. 122 and 37 CFR 1.14. This collection is estimated to take 12 minutes to complete, including gathering, preparing, and
+submitting the completed application form to the USPTO. Time will vary depending upon the individual case. Any comments on the amount of time you require to complete
+this form and/or suggestions for reducing this burden, should be sent to the Chief Information Officer, U.S. Patent and Trademark Office, U.S. Department of Commerce, P.O.
+Box 1450, Alexandria, Virginia 22313-1450. DO NOT SEND FEES OR COMPLETED FORMS TO THIS ADDRESS. SEND TO: Commissioner for Patents, P.O. Box 1450,
+Alexandria, Virginia 22313-1450.
+
+Under the Paperwork Reduction Act of 1995, no persons are required to respond to a collection of information unless it displays a valid OMB control number.
+
+PTOL-85 (Rev. 08/07) Approved for use through 08/31/2010. OMB 0651-0033 U.S. Patent and Trademark Office; U.S. DEPARTMENT OF COMMERCE
+
+--- page 3 (ocr) ---
+UNITED STATES PATENT AND TRADEMARK OFFICE
+
+UNITED STATES DEPARTMENT OF COMMERCE
+United States Patent and Trademark Office
+Address: COMMISSIONER FOR PATENTS
+
+P.O. Box 1450
+
+Alexandria, Virginia 22313-1450
+
+www.uspto.gov
+
+APPLICATION NO. FILING DATE FIRST NAMED INVENTOR ATTORNEY DOCKET NO. CONFIRMATION NO.
+
+11/467,512 08/25/2006 Demian Gordon 113748-5732US 3670
+PROCOPIO, CORY, HARGREAVES & SAVITCH LLP TUCKER, WESLEY J
+SUITE 2100
+
+2624
+
+SAN DIEGO, CA 92101 DATE MAILED: 06/10/2009
+
+Determination of Patent Term Adjustment under 35 U.S.C. 154 (b)
+(application filed on or after May 29, 2000)
+
+The Patent Term Adjustment to date is 331 day(s). If the issue fee is paid on the date that is three months after the
+mailing date of this notice and the patent issues on the Tuesday before the date that is 28 weeks (six and a half
+months) after the mailing date of this notice, the Patent Term Adjustment will be 331 day(s).
+
+If a Continued Prosecution Application (CPA) was filed in the above-identified application, the filing date that
+determines Patent Term Adjustment is the filing date of the most recent CPA.
+
+Applicant will be able to obtain more detailed information by accessing the Patent Application Information Retrieval
+(PAIR) WEB site (http://pair.uspto.gov).
+
+Any questions regarding the Patent Term Extension or Adjustment determination should be directed to the Office of
+Patent Legal Administration at (571)-272-7702. Questions relating to issue and publication fee payments should be
+directed to the Customer Service Center of the Office of Patent Publication at 1-(888)-786-0101 or
+(571)-272-4200.
+
+Page 3 of 3
+PTOL-85 (Rev. 08/07) Approved for use through 08/31/2010.
+
+--- page 4 (ocr) ---
+Application No. Applicant(s)
+
+11/467,512 GORDON ET AL.
+
+Notice of Allowability Examiner Art Unit
+WESLEY TUCKER 2624
+
+-- The MAILING DATE of this communication appears on the cover sheet with the correspondence address--
+All claims being allowable, PROSECUTION ON THE MERITS IS (OR REMAINS) CLOSED in this application. If not included
+herewith (or previously mailed), a Notice of Allowance (PTOL-85) or other appropriate communication will be mailed in due course. THIS
+NOTICE OF ALLOWABILITY IS NOT A GRANT OF PATENT RIGHTS. This application is subject to withdrawal from issue at the initiative
+of the Office or upon petition by the applicant. See 37 CFR 1.313 and MPEP 1308.
+
+1. K] This communication is responsive to amendment filed 4-20-09.
+2. ] The allowed claim(s) is/are 1-21 and 24-29.
+
+3. [] Acknowledgment is made of a claim for foreign priority under 35 U.S.C. § 119(a)-(d) or (f).
+
+a)O All b)[L1)Some* c)[1None of the:
+1. Certified copies of the priority documents have been received.
+2. C1 Certified copies of the priority documents have been received in Application No.
+3. [1] Copies of the certified copies of the priority documents have been received in this national stage application from the
+
+International Bureau (PCT Rule 17.2(a)).
+* Certified copies not received:
+Applicant has THREE MONTHS FROM THE “MAILING DATE?” of this communication to file a reply complying with the requirements
+
+noted below. Failure to timely comply will result in ABANDONMENT of this application.
+THIS THREE-MONTH PERIOD IS NOT EXTENDABLE.
+
+4. (] A SUBSTITUTE OATH OR DECLARATION must be submitted. Note the attached EXAMINER’S AMENDMENT or NOTICE OF
+INFORMAL PATENT APPLICATION (PTO-152) which gives reason(s) why the oath or declaration is deficient.
+
+5. [] CORRECTED DRAWINGS ( as “replacement sheets”) must be submitted.
+(a) CJ including changes required by the Notice of Draftsperson’s Patent Drawing Review ( PTO-948) attached
+1) [1] hereto or 2)[[] to Paper No./Mail Date.
+(ob) (J including changes required by the attached Examiner's Amendment / Comment or in the Office action of
+Paper No./Mail Date.
+
+Identifying indicia such as the application number (see 37 CFR 1.84(c)) should be written on the drawings in the front (not the back) of
+each sheet. Replacement sheet(s) should be labeled as such in the header according to 37 CFR 1.121(d).
+
+6. [] DEPOSIT OF and/or INFORMATION about the deposit of BIOLOGICAL MATERIAL must be submitted. Note the
+attached Examiner’s comment regarding REQUIREMENT FOR THE DEPOSIT OF BIOLOGICAL MATERIAL.
+
+Attachment(s)
+1. KJ Notice of References Cited (PTO-892) 5. FJ Notice of Informal Patent Application
+2. [] Notice of Draftperson's Patent Drawing Review (PTO-948) 6. [J Interview Summary (PTO-413),
+Paper No./Mail Date .
+
+3. [X] Information Disclosure Statements (PTO/SB/08), 7. KX] Examiner's Amendment/Comment
+
+Paper No./Mail Date See Continuation Sheet
+4. (J Examiner's Comment Regarding Requirement for Deposit 8. ] Examiner's Statement of Reasons for Allowance
+
+of Biological Material
+
+9. [J Other .
+
+Wes Tucker/
+Primary Examiner, Art Unit 2624
+
+U.S. Patent and Trademark Office
+PTOL-37 (Rev. 08-06) Notice of Allowability Part of Paper No./Mail Date 20090603
+
+--- page 5 (ocr) ---
+Continuation Sheet (PTOL-37) Application No. 11/467,512
+Continuation of Attachment(s) 3. Information Disclosure Statements (PT O/SB/08), Paper No./Mail Date: 12-17-2008 and 3-20-2009.
+
+--- page 6 (ocr) ---
+Application/Control Number: 11/467,512 Page 2
+Art Unit: 2624
+
+DETAILED ACTION
+
+Response to Amendment
+
+1. Applicant’s amendment filed April, 20" 2009 has been entered and made
+of record.
+2. Applicant has amended claims 1, 13, 23 and 29. Claim 22 is cancelled.
+
+Claims 1-21 and 23-29 are now pending.
+
+3. Applicant amended the independent claims to include previously indicated
+allowable subject matter.
+
+4. Applicant also agreed to the Examiner’s amendment described below.
+Independent claims 1, 13 and 29 are each amended to include the subject matter of
+claim 23. Claim 23 is also cancelled. Claims 24 and 25 are amended to depend on
+claim 13 instead of cancelled claim 23. Claims 1-21 and 24-29 are accordingly in
+
+condition for allowance.
+
+EXAMINER’S AMENDMENT
+5. An examiner's amendment to the record appears below. Should the
+changes and/or additions be unacceptable to applicant, an amendment may be filed as
+provided by 37 CFR 1.312. To ensure consideration of such an amendment, it MUST be
+submitted no later than the payment of the issue fee.
+Authorization for this examiner's amendment was given in a telephone interview
+
+with Samuel S. Lee, Reg. No. 42,791 on June 3, 2009.
+
+--- page 7 (ocr) ---
+Application/Control Number: 11/467,512 Page 3
+Art Unit: 2624
+
+Claim 1 should be amended as follows:
+
+A system, comprising:
+
+at least one motion capture camera configured to capture motion data from
+a facial surface of an actor using a plurality of sensors disposed on the facial
+surface of the actor; and
+
+a motion capture processor coupled to said at least one motion capture
+camera, said motion capture processor including:
+
+a storage unit;
+
+an image capture module configured to control said at least one motion
+capture camera to capture frame by frame images of said plurality of sensors
+disposed on the facial surface of the actor, said image capture module receiving
+and storing said frame by frame images on said storage unit;
+
+a sensor tracking module configured to retrieve the stored frame by frame
+images from said storage unit, to perform a tracking function on the images to
+accurately map said plurality of sensors for each frame, and to provide said
+motion data from the facial surface; and
+
+a digital modeling module configured to receive said motion data to
+generate a modeled surface representing the facial surface of the actor; and
+
+a near-IR light configured to project speckle pattern on the facial surface of
+
+the actor and generating a 3-D mesh of the facial surface by triangulating the
+
+speckle pattern.
+
+--- page 8 (ocr) ---
+Application/Control Number: 11/467,512 Page 4
+Art Unit: 2624
+
+Claim 13 should be amended as follows:
+
+A method of capturing and processing facial motion data, comprising:
+
+coupling a plurality of sensors to target points on a facial surface of an
+actor;
+
+capturing frame by frame images of said plurality of sensors disposed on
+the facial surface of the actor using at least one motion capture camera disposed
+on a head-mounted system;
+
+performing, in the head-mounted system, a tracking function on said frame
+by frame images of said plurality of sensors to accurately map said plurality of
+sensors for each frame; and
+
+generating, in the head-mounted system, a modeled surface representing
+the facial surface of the actor; and
+
+projecting a speckle pattern on the facial surface of the actor using a near-
+IR light_and generating a 3-D mesh of the facial surface by trianqulating the
+
+speckle pattern.
+
+Claim 23 should be cancelled.
+
+Claims 24 and 25 should be amended to depend from claim 13, instead on
+
+cancelled claim 23.
+
+--- page 9 (ocr) ---
+Application/Control Number: 11/467,512 Page 5
+Art Unit: 2624
+
+Claim 29 should be amended as follows:
+
+A system for capturing and processing facial motion data, comprising:
+
+means for coupling a plurality of sensors to target points on a facial
+
+surface of an actor;
+
+means for capturing frame by frame images of said plurality of sensors
+disposed on the facial surface of the actor using at least one motion capture
+
+camera disposed on a head-mounted system;
+
+means for performing, in the head-mounted system, a tracking function on
+said frame by frame images of said plurality of sensors to accurately map said
+
+plurality of sensors for each frame; and
+
+means for generating, in the head-mounted system, a modeled surface
+representing the facial surface of the actor; and
+
+means for projecting a speckle pattern on the facial surface of the actor
+and generating a 3-D mesh of the facial surface by trianqulating the speckle
+
+pattern.
+
+Allowable Subject Matter
+6. Claims 1-21 and 24-29 are allowed.
+The following is an examiner's statement of reasons for allowance:
+Applicant amended independent claims 1, 13 and 29 to include previously
+
+indicated allowable subject matter. The primary reference to Dillon teaches a motion
+
+--- page 10 (ocr) ---
+Application/Control Number: 11/467,512 Page 6
+Art Unit: 2624
+
+capture system to track facial features of an actor, but does not teach the feature of
+projecting a near-IR speckle pattern in order to track the facial features. Secondary
+reference U.S. Patent 7,388,971 to Rice et al. teaches using near-IR speckle patterns to
+analyze facial features (column 3, lines 20-35 and column 4, lines 50-62), but neither
+Dillon or Rice or any other found prior art of reference teaches the additional step of
+generating a 3-D mesh of the facial surface by triangulating the speckle pattern.
+Independent claims 1, 13 and 29 are now accordingly in condition for allowance.
+
+Any comments considered necessary by applicant must be submitted no later
+than the payment of the issue fee and, to avoid processing delays, should preferably
+accompany the issue fee. Such submissions should be clearly labeled “Comments on
+
+Statement of Reasons for Allowance.”
+
+Contact Information
+f. Any inquiry concerning this communication or earlier communications from
+the examiner should be directed to WESLEY TUCKER whose telephone number is
+(571)272-7427. The examiner can normally be reached on 9AM-5PM.
+If attempts to reach the examiner by telephone are unsuccessful, the examiner’s
+supervisor, Brian Werner can be reached on 571-272-7401. The fax phone number for
+
+the organization where this application or proceeding is assigned is 571-273-8300.
+
+--- page 11 (ocr) ---
+Application/Control Number: 11/467,512 Page 7
+Art Unit: 2624
+
+Information regarding the status of an application may be obtained from the
+Patent Application Information Retrieval (PAIR) system. Status information for
+published applications may be obtained from either Private PAIR or Public PAIR.
+Status information for unpublished applications is available through Private PAIR only.
+For more information about the PAIR system, see http://pair-direct.uspto.gov. Should
+you have questions on access to the Private PAIR system, contact the Electronic
+Business Center (EBC) at 866-217-9197 (toll-free). If you would like assistance from a
+USPTO Customer Service Representative or access to the automated information
+system, call 800-786-9199 (IN USA OR CANADA) or 571-272-1000.
+
+/Wes_ Tucker/
+Primary Examiner, Art Unit 2624

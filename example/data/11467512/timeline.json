@@ -1,0 +1,142 @@
+{
+  "case": {
+    "applicationNumberText": "11467512",
+    "inventionTitle": "CAPTURING AND PROCESSING FACIAL MOTION DATA",
+    "filingDate": "2006-08-25",
+    "applicationStatusDescriptionText": "Patented Case",
+    "grantDate": "2009-10-20",
+    "patentNumber": "7606392",
+    "examinerNameText": "TUCKER, WESLEY J",
+    "firstApplicantName": null,
+    "groupArtUnitNumber": "2624"
+  },
+  "entry_count": 11,
+  "timeline": [
+    {
+      "date": "2006-08-25",
+      "kind": "case",
+      "source": "Applicant",
+      "code": "FILED",
+      "description": "Application filed",
+      "pages": null,
+      "document_id": null,
+      "file": null,
+      "message": "I've filed a patent application for CAPTURING AND PROCESSING FACIAL MOTION DATA."
+    },
+    {
+      "date": "2006-08-25",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "CLM",
+      "description": "Claims",
+      "pages": 8,
+      "document_id": "ERB7T165PPOPPY2",
+      "file": "example/data/11467512/files/2006-08-25_CLM_ERB7T165PPOPPY2.pdf",
+      "text_file": "example/data/11467512/text/pdf-2006-08-25_CLM_ERB7T165PPOPPY2.txt",
+      "message": "Although no specific claim insertions or deletions are marked in the provided text, the invention defines a comprehensive system, method, and apparatus for capturing and processing facial motion data using head-mounted camera and processing systems. It features specialized hardware configurations\u2014such as specialized lenses, mirrors, and displays for mixed-reality synchronization\u2014as well as advanced algorithmic techniques like infrared illumination, speckle pattern projection, and 3-D mesh generation."
+    },
+    {
+      "date": "2006-09-11",
+      "kind": "event",
+      "source": "USPTO",
+      "code": "COMP",
+      "description": "Application Is Now Complete",
+      "pages": null,
+      "document_id": null,
+      "file": null,
+      "message": "The application is complete and has been accepted for examination."
+    },
+    {
+      "date": "2006-11-14",
+      "kind": "event",
+      "source": "USPTO",
+      "code": "COMP",
+      "description": "Application Is Now Complete",
+      "pages": null,
+      "document_id": null,
+      "file": null,
+      "message": "The application is complete and has been accepted for examination."
+    },
+    {
+      "date": "2007-03-05",
+      "kind": "event",
+      "source": "USPTO",
+      "code": "PG-ISSUE",
+      "description": "PG-Pub Issue Notification",
+      "pages": null,
+      "document_id": null,
+      "file": null,
+      "message": "The application has been published."
+    },
+    {
+      "date": "2008-11-19",
+      "kind": "document",
+      "source": "USPTO",
+      "code": "CTNF",
+      "description": "Non-Final Rejection",
+      "pages": 14,
+      "document_id": "FNPTBGOMPPOPPY5",
+      "file": "example/data/11467512/files/2008-11-19_CTNF_FNPTBGOMPPOPPY5.xml",
+      "text_file": "example/data/11467512/text/text-FNPTBGOMPPOPPY5.txt",
+      "message": "In this Non-Final Rejection, claims 1-3, 7, 12, 13, 16, 26, and 29 have been rejected under 35 U.S.C. 102 as anticipated by Dillon, while various other claims have been rejected under 35 U.S.C. 103 based on combinations of Dillon with other prior art references. However, claims 5, 22-25, and 28 have been indicated as containing allowable subject matter if rewritten in independent form."
+    },
+    {
+      "date": "2009-04-20",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "A...",
+      "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+      "pages": 1,
+      "document_id": "FTROO52YPPOPPY4",
+      "file": null,
+      "message": "I've filed an amendment in response to the non-final rejection."
+    },
+    {
+      "date": "2009-04-20",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "CLM",
+      "description": "Claims",
+      "pages": 8,
+      "document_id": "FTROO544PPOPPY4",
+      "file": "example/data/11467512/files/2009-04-20_CLM_FTROO544PPOPPY4.pdf",
+      "text_file": "example/data/11467512/text/pdf-2009-04-20_CLM_FTROO544PPOPPY4.txt",
+      "message": "Our invention focuses on systems and methods for capturing and processing facial motion data using a head-mounted setup. Specifically, we have streamlined our claim language by removing trailing conjunctions to better emphasize the integrated operations of capturing frame-by-frame images, tracking sensors, and generating a digital modeled surface of an actor's face."
+    },
+    {
+      "date": "2009-04-20",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "REM",
+      "description": "Applicant Arguments/Remarks Made in an Amendment",
+      "pages": 6,
+      "document_id": "FTROO54ZPPOPPY4",
+      "file": "example/data/11467512/files/2009-04-20_REM_FTROO54ZPPOPPY4.pdf",
+      "text_file": "example/data/11467512/text/pdf-2009-04-20_REM_FTROO54ZPPOPPY4.txt",
+      "message": "In response to the recent Office Action, we have canceled claim 22 and amended our independent claims to incorporate its allowable subject matter. Consequently, all pending rejections under 35 U.S.C. \u00a7\u00a7 102 and 103 over Dillon and the various secondary references have been fully overcome. We respectfully request the withdrawal of these rejections and the prompt allowance of our application."
+    },
+    {
+      "date": "2009-06-10",
+      "kind": "document",
+      "source": "USPTO",
+      "code": "NOA",
+      "description": "Notice of Allowance and Fees Due (PTOL-85)",
+      "pages": 11,
+      "document_id": "FVR23Z4EPPOPPY5",
+      "file": "example/data/11467512/files/2009-06-10_NOA_FVR23Z4EPPOPPY5.pdf",
+      "text_file": "example/data/11467512/text/pdf-2009-06-10_NOA_FVR23Z4EPPOPPY5.txt",
+      "message": "The application has been allowed. Once the issue fee is paid, the patent will be granted."
+    },
+    {
+      "date": "2009-09-30",
+      "kind": "document",
+      "source": "USPTO",
+      "code": "ISSUE.NTF",
+      "description": "Issue Notification",
+      "pages": 1,
+      "document_id": "G08SPYJVPPOPPY5",
+      "file": null,
+      "message": "The patent will issue as U.S. Patent No. 7606392."
+    }
+  ]
+}

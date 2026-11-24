@@ -1,0 +1,1483 @@
+{
+  "count": 98,
+  "documentBag": [
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2011-02-08T00:00:00.000-0500",
+      "documentIdentifier": "GJWXAJD4PPOPPY5",
+      "documentCode": "ABN",
+      "documentCodeDescriptionText": "Abandonment",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/GJWXAJD4PPOPPY5.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2010-10-12T00:00:00.000-0400",
+      "documentIdentifier": "GF6X4SHKPPOPPY5",
+      "documentCode": "APDA",
+      "documentCodeDescriptionText": "Patent Board Decision - Examiner Affirmed",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/GF6X4SHKPPOPPY5.pdf",
+          "pageTotalQuantity": 8
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2009-07-21T00:00:00.000-0400",
+      "documentIdentifier": "FXEVV5EWPPOPPY5",
+      "documentCode": "AP_DK_M",
+      "documentCodeDescriptionText": "Appeal Docketing Notice",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FXEVV5EWPPOPPY5.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2009-04-08T00:00:00.000-0400",
+      "documentIdentifier": "FT93MEUVPPOPPY5",
+      "documentCode": "APEA",
+      "documentCodeDescriptionText": "Examiner's Answer to Appeal Brief",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FT93MEUVPPOPPY5.pdf",
+          "pageTotalQuantity": 12
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2009-01-05T00:00:00.000-0500",
+      "documentIdentifier": "FPLO8H9BPPOPPY4",
+      "documentCode": "AP.B",
+      "documentCodeDescriptionText": "Appeal Brief Filed",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FPLO8H9BPPOPPY4.pdf",
+          "pageTotalQuantity": 32
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2009-01-05T00:00:00.000-0500",
+      "documentIdentifier": "FPLO8HE6PPOPPY4",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FPLO8HE6PPOPPY4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2009-01-05T00:00:00.000-0500",
+      "documentIdentifier": "FPLO8HF0PPOPPY4",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FPLO8HF0PPOPPY4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-11-03T00:00:00.000-0500",
+      "documentIdentifier": "FN4VQSJIPPOPPY5",
+      "documentCode": "N/AP",
+      "documentCodeDescriptionText": "Notice of Appeal Filed",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FN4VQSJIPPOPPY5.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-10-20T00:00:00.000-0400",
+      "documentIdentifier": "FMJZ9DR6PPOPPY5",
+      "documentCode": "CTAV",
+      "documentCodeDescriptionText": "Advisory Action (PTOL-303)",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FMJZ9DR6PPOPPY5.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-10-20T00:00:00.000-0400",
+      "documentIdentifier": "FMJZ9DS2PPOPPY5",
+      "documentCode": "ANE.I",
+      "documentCodeDescriptionText": "Amendment After Final or under 37CFR 1.312, initialed by the examiner.",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FMJZ9DS2PPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-10-03T00:00:00.000-0400",
+      "documentIdentifier": "FLVAXBMXPPOPPY4",
+      "documentCode": "A.NE",
+      "documentCodeDescriptionText": "Response After Final Action",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FLVAXBMXPPOPPY4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-10-03T00:00:00.000-0400",
+      "documentIdentifier": "FLVAXBOTPPOPPY4",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FLVAXBOTPPOPPY4.pdf",
+          "pageTotalQuantity": 8
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-10-03T00:00:00.000-0400",
+      "documentIdentifier": "FLVAXBPCPPOPPY4",
+      "documentCode": "REM",
+      "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FLVAXBPCPPOPPY4.pdf",
+          "pageTotalQuantity": 4
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-10-03T00:00:00.000-0400",
+      "documentIdentifier": "FLVAXBSRPPOPPY4",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FLVAXBSRPPOPPY4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-10-03T00:00:00.000-0400",
+      "documentIdentifier": "FLZCAH09PPOPPY5",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FLZCAH09PPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-08-07T00:00:00.000-0400",
+      "documentIdentifier": "FJSRUPWVPPOPPY5",
+      "documentCode": "CTFR",
+      "documentCodeDescriptionText": "Final Rejection",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FJSRUPWVPPOPPY5.pdf",
+          "pageTotalQuantity": 10
+        },
+        {
+          "mimeTypeIdentifier": "MS_WORD",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FJSRUPWVPPOPPY5/files/Final%20Rejection.DOC"
+        },
+        {
+          "mimeTypeIdentifier": "XML",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FJSRUPWVPPOPPY5/xmlarchive"
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-05-01T00:00:00.000-0400",
+      "documentIdentifier": "FFPQVD3SPPOPPY4",
+      "documentCode": "A...",
+      "documentCodeDescriptionText": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FFPQVD3SPPOPPY4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-05-01T00:00:00.000-0400",
+      "documentIdentifier": "FFPQVD56PPOPPY4",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FFPQVD56PPOPPY4.pdf",
+          "pageTotalQuantity": 7
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-05-01T00:00:00.000-0400",
+      "documentIdentifier": "FFPQVD6ZPPOPPY4",
+      "documentCode": "REM",
+      "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FFPQVD6ZPPOPPY4.pdf",
+          "pageTotalQuantity": 4
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-05-01T00:00:00.000-0400",
+      "documentIdentifier": "FFPQVD7NPPOPPY4",
+      "documentCode": "XT/",
+      "documentCodeDescriptionText": "Extension of Time",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FFPQVD7NPPOPPY4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-05-01T00:00:00.000-0400",
+      "documentIdentifier": "FFPQVD8MPPOPPY4",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FFPQVD8MPPOPPY4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-05-01T00:00:00.000-0400",
+      "documentIdentifier": "FFPQVDC6PPOPPY4",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FFPQVDC6PPOPPY4.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-05-01T00:00:00.000-0400",
+      "documentIdentifier": "FH28MAIVPPOPPY5",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FH28MAIVPPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2008-05-01T00:00:00.000-0400",
+      "documentIdentifier": "FH290YWCPPOPPY5",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FH290YWCPPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-12-07T00:00:00.000-0500",
+      "documentIdentifier": "FA19REF7PPOPPY5",
+      "documentCode": "CTNF",
+      "documentCodeDescriptionText": "Non-Final Rejection",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/FA19REF7PPOPPY5.pdf",
+          "pageTotalQuantity": 9
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-10-31T00:00:00.000-0400",
+      "documentIdentifier": "F8OE9AE1PPOPPY5",
+      "documentCode": "RCEX",
+      "documentCodeDescriptionText": "Request for Continued Examination (RCE)",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/F8OE9AE1PPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-10-31T00:00:00.000-0400",
+      "documentIdentifier": "F8OE9AJKPPOPPY5",
+      "documentCode": "AMSB",
+      "documentCodeDescriptionText": "Amendment Submitted/Entered with Filing of Continued Prosecution Application (CPA)/Request for Continued Examination(RCE)",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/F8OE9AJKPPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-10-31T00:00:00.000-0400",
+      "documentIdentifier": "F8OE9AP5PPOPPY5",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/F8OE9AP5PPOPPY5.pdf",
+          "pageTotalQuantity": 5
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-10-31T00:00:00.000-0400",
+      "documentIdentifier": "F8OE9APKPPOPPY5",
+      "documentCode": "REM",
+      "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/F8OE9APKPPOPPY5.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-10-31T00:00:00.000-0400",
+      "documentIdentifier": "F91VON2KPPOPPY5",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/F91VON2KPPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-10-04T00:00:00.000-0400",
+      "documentIdentifier": "F7ENNASXPPOPPY5",
+      "documentCode": "CTFR",
+      "documentCodeDescriptionText": "Final Rejection",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/F7ENNASXPPOPPY5.pdf",
+          "pageTotalQuantity": 9
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-07-16T00:00:00.000-0400",
+      "documentIdentifier": "F4AA7FBBPPOPPY5",
+      "documentCode": "A...",
+      "documentCodeDescriptionText": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/F4AA7FBBPPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-07-16T00:00:00.000-0400",
+      "documentIdentifier": "F4AA7FCRPPOPPY5",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/F4AA7FCRPPOPPY5.pdf",
+          "pageTotalQuantity": 5
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-07-16T00:00:00.000-0400",
+      "documentIdentifier": "F4AA7FD6PPOPPY5",
+      "documentCode": "REM",
+      "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/F4AA7FD6PPOPPY5.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-07-16T00:00:00.000-0400",
+      "documentIdentifier": "F4AA7FG9PPOPPY5",
+      "documentCode": "XT/",
+      "documentCodeDescriptionText": "Extension of Time",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/F4AA7FG9PPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-07-16T00:00:00.000-0400",
+      "documentIdentifier": "F4IMOCC8PPOPPY5",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/F4IMOCC8PPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-03-16T00:00:00.000-0400",
+      "documentIdentifier": "EZGZUB1XPPOPPY1",
+      "documentCode": "CTNF",
+      "documentCodeDescriptionText": "Non-Final Rejection",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EZGZUB1XPPOPPY1.pdf",
+          "pageTotalQuantity": 8
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-03-16T00:00:00.000-0400",
+      "documentIdentifier": "EZGZUB7JPPOPPY1",
+      "documentCode": "892",
+      "documentCodeDescriptionText": "List of references cited by examiner",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EZGZUB7JPPOPPY1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-03-16T00:00:00.000-0400",
+      "documentIdentifier": "EZGZUBK3PPOPPY1",
+      "documentCode": "SRNT",
+      "documentCodeDescriptionText": "Examiner's search strategy and results",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EZGZUBK3PPOPPY1.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-03-14T00:00:00.000-0400",
+      "documentIdentifier": "EZGZUC69PPOPPY1",
+      "documentCode": "SRNT",
+      "documentCodeDescriptionText": "Examiner's search strategy and results",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EZGZUC69PPOPPY1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2007-01-20T00:00:00.000-0500",
+      "documentIdentifier": "EX6C072MPPOPPY1",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EX6C072MPPOPPY1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-12-26T00:00:00.000-0500",
+      "documentIdentifier": "EWAZKH36PPOPPY1",
+      "documentCode": "A...",
+      "documentCodeDescriptionText": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EWAZKH36PPOPPY1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-12-26T00:00:00.000-0500",
+      "documentIdentifier": "EWAZKH56PPOPPY1",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EWAZKH56PPOPPY1.pdf",
+          "pageTotalQuantity": 5
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-12-26T00:00:00.000-0500",
+      "documentIdentifier": "EWAZKH6EPPOPPY1",
+      "documentCode": "REM",
+      "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EWAZKH6EPPOPPY1.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-12-26T00:00:00.000-0500",
+      "documentIdentifier": "EWAZKH7MPPOPPY1",
+      "documentCode": "AF/D",
+      "documentCodeDescriptionText": "Affidavit-submitted prior to Mar 15, 2013",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EWAZKH7MPPOPPY1.pdf",
+          "pageTotalQuantity": 4
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-10-13T00:00:00.000-0400",
+      "documentIdentifier": "ETCVTVV1PPOPPY1",
+      "documentCode": "EXIN",
+      "documentCodeDescriptionText": "Examiner Interview Summary Record (PTOL - 413)",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/ETCVTVV1PPOPPY1.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-09-18T00:00:00.000-0400",
+      "documentIdentifier": "ESA86QVIPP1GUI4",
+      "documentCode": "CTNF",
+      "documentCodeDescriptionText": "Non-Final Rejection",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/ESA86QVIPP1GUI4.pdf",
+          "pageTotalQuantity": 7
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-07-11T00:00:00.000-0400",
+      "documentIdentifier": "EPK3DZ8YPP1GUI1",
+      "documentCode": "AMSB",
+      "documentCodeDescriptionText": "Amendment Submitted/Entered with Filing of Continued Prosecution Application (CPA)/Request for Continued Examination(RCE)",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EPK3DZ8YPP1GUI1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-07-11T00:00:00.000-0400",
+      "documentIdentifier": "EPK3DZAWPP1GUI1",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EPK3DZAWPP1GUI1.pdf",
+          "pageTotalQuantity": 5
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-07-11T00:00:00.000-0400",
+      "documentIdentifier": "EPK3DZC4PP1GUI1",
+      "documentCode": "REM",
+      "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EPK3DZC4PP1GUI1.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-07-11T00:00:00.000-0400",
+      "documentIdentifier": "EPK3DZDCPP1GUI1",
+      "documentCode": "LET.",
+      "documentCodeDescriptionText": "Miscellaneous Incoming Letter",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EPK3DZDCPP1GUI1.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-07-11T00:00:00.000-0400",
+      "documentIdentifier": "EPK3DZEKPP1GUI1",
+      "documentCode": "RCEX",
+      "documentCodeDescriptionText": "Request for Continued Examination (RCE)",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EPK3DZEKPP1GUI1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-07-11T00:00:00.000-0400",
+      "documentIdentifier": "EPMRV5X3PP1GUI1",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EPMRV5X3PP1GUI1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-06-19T00:00:00.000-0400",
+      "documentIdentifier": "EOPSDPM8PP1GUI3",
+      "documentCode": "CTAV",
+      "documentCodeDescriptionText": "Advisory Action (PTOL-303)",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EOPSDPM8PP1GUI3.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-06-09T00:00:00.000-0400",
+      "documentIdentifier": "EOD3B5T9PP1GUI3",
+      "documentCode": "AMSB",
+      "documentCodeDescriptionText": "Amendment Submitted/Entered with Filing of Continued Prosecution Application (CPA)/Request for Continued Examination(RCE)",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EOD3B5T9PP1GUI3.pdf",
+          "pageTotalQuantity": 4
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-06-09T00:00:00.000-0400",
+      "documentIdentifier": "EOD3B5USPP1GUI3",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EOD3B5USPP1GUI3.pdf",
+          "pageTotalQuantity": 5
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-06-09T00:00:00.000-0400",
+      "documentIdentifier": "EOD3B5VDPP1GUI3",
+      "documentCode": "REM",
+      "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EOD3B5VDPP1GUI3.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-06-09T00:00:00.000-0400",
+      "documentIdentifier": "EOH0230FPP1GUI2",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EOH0230FPP1GUI2.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-04-11T00:00:00.000-0400",
+      "documentIdentifier": "ELWHIZFIPP2GUI1",
+      "documentCode": "CTFR",
+      "documentCodeDescriptionText": "Final Rejection",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/ELWHIZFIPP2GUI1.pdf",
+          "pageTotalQuantity": 8
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-04-11T00:00:00.000-0400",
+      "documentIdentifier": "ELWHIZH3PP2GUI1",
+      "documentCode": "892",
+      "documentCodeDescriptionText": "List of references cited by examiner",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/ELWHIZH3PP2GUI1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-04-05T00:00:00.000-0400",
+      "documentIdentifier": "ELWHIZJ8PP2GUI1",
+      "documentCode": "SRNT",
+      "documentCodeDescriptionText": "Examiner's search strategy and results",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/ELWHIZJ8PP2GUI1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-01-31T00:00:00.000-0500",
+      "documentIdentifier": "EJ8SF0WCPP1GUI1",
+      "documentCode": "A...",
+      "documentCodeDescriptionText": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EJ8SF0WCPP1GUI1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-01-31T00:00:00.000-0500",
+      "documentIdentifier": "EJ8SF0XRPP1GUI1",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EJ8SF0XRPP1GUI1.pdf",
+          "pageTotalQuantity": 4
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-01-31T00:00:00.000-0500",
+      "documentIdentifier": "EJ8SF0YVPP1GUI1",
+      "documentCode": "REM",
+      "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EJ8SF0YVPP1GUI1.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-01-31T00:00:00.000-0500",
+      "documentIdentifier": "EJ8SF0ZIPP1GUI1",
+      "documentCode": "XT/",
+      "documentCodeDescriptionText": "Extension of Time",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EJ8SF0ZIPP1GUI1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-01-31T00:00:00.000-0500",
+      "documentIdentifier": "EJ8SF107PP1GUI1",
+      "documentCode": "LET.",
+      "documentCodeDescriptionText": "Miscellaneous Incoming Letter",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EJ8SF107PP1GUI1.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-01-31T00:00:00.000-0500",
+      "documentIdentifier": "EJFY0GA2PP1GUI3",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EJFY0GA2PP1GUI3.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-01-31T00:00:00.000-0500",
+      "documentIdentifier": "EJFY0GBBPP1GUI3",
+      "documentCode": "FWCLM",
+      "documentCodeDescriptionText": "Index of Claims",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EJFY0GBBPP1GUI3.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-01-25T00:00:00.000-0500",
+      "documentIdentifier": "EIX7S0HIPP1GUI4",
+      "documentCode": "PGA9.DEC",
+      "documentCodeDescriptionText": "Decision for a Request for Corrected Patent Application Publication",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EIX7S0HIPP1GUI4.pdf",
+          "pageTotalQuantity": 6
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-01-06T00:00:00.000-0500",
+      "documentIdentifier": "EI9FFMJPPP1GUI2",
+      "documentCode": "PGA9",
+      "documentCodeDescriptionText": "Request/Corrected Patent Application Publications",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EI9FFMJPPP1GUI2.pdf",
+          "pageTotalQuantity": 29
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2006-01-06T00:00:00.000-0500",
+      "documentIdentifier": "EI9FKNXEPP1GUI2",
+      "documentCode": "CFILE",
+      "documentCodeDescriptionText": "Request for Corrected Filing Receipt",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EI9FKNXEPP1GUI2.pdf",
+          "pageTotalQuantity": 4
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-12-05T00:00:00.000-0500",
+      "documentIdentifier": "EGVGZ946PP1GUI4",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EGVGZ946PP1GUI4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-12-05T00:00:00.000-0500",
+      "documentIdentifier": "EGVGZ95WPP1GUI4",
+      "documentCode": "FWCLM",
+      "documentCodeDescriptionText": "Index of Claims",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EGVGZ95WPP1GUI4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-09-29T00:00:00.000-0400",
+      "documentIdentifier": "EECPA3YAPP1GUI1",
+      "documentCode": "CTNF",
+      "documentCodeDescriptionText": "Non-Final Rejection",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EECPA3YAPP1GUI1.pdf",
+          "pageTotalQuantity": 6
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-09-29T00:00:00.000-0400",
+      "documentIdentifier": "EECPA3ZFPP1GUI1",
+      "documentCode": "1449",
+      "documentCodeDescriptionText": "List of References cited by applicant and considered by examiner",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EECPA3ZFPP1GUI1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-09-29T00:00:00.000-0400",
+      "documentIdentifier": "EECPA404PP1GUI1",
+      "documentCode": "892",
+      "documentCodeDescriptionText": "List of references cited by examiner",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EECPA404PP1GUI1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-09-29T00:00:00.000-0400",
+      "documentIdentifier": "EECPA40SPP1GUI1",
+      "documentCode": "BIB",
+      "documentCodeDescriptionText": "Bibliographic Data Sheet",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EECPA40SPP1GUI1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-09-29T00:00:00.000-0400",
+      "documentIdentifier": "EECPA41GPP1GUI1",
+      "documentCode": "SRFW",
+      "documentCodeDescriptionText": "Search information including classification, databases and other search related notes",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EECPA41GPP1GUI1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-09-23T00:00:00.000-0400",
+      "documentIdentifier": "EECPA434PP1GUI1",
+      "documentCode": "SRNT",
+      "documentCodeDescriptionText": "Examiner's search strategy and results",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/EECPA434PP1GUI1.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-06-10T00:00:00.000-0400",
+      "documentIdentifier": "E9X40BZ5PP1GUI4",
+      "documentCode": "IDS",
+      "documentCodeDescriptionText": "Information Disclosure Statement (IDS) Form (SB08)",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E9X40BZ5PP1GUI4.pdf",
+          "pageTotalQuantity": 4
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-05-19T00:00:00.000-0400",
+      "documentIdentifier": "E92M9N0TPP2GUI2",
+      "documentCode": "PEFR",
+      "documentCodeDescriptionText": "Applicant Response to Pre-Exam Formalities Notice",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E92M9N0TPP2GUI2.pdf",
+          "pageTotalQuantity": 5
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-05-19T00:00:00.000-0400",
+      "documentIdentifier": "E92M9N22PP2GUI2",
+      "documentCode": "OATH",
+      "documentCodeDescriptionText": "Oath or Declaration filed",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E92M9N22PP2GUI2.pdf",
+          "pageTotalQuantity": 4
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-05-19T00:00:00.000-0400",
+      "documentIdentifier": "E9MLNL7BPP1GUI3",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E9MLNL7BPP1GUI3.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-04-27T00:00:00.000-0400",
+      "documentIdentifier": "E84MPYCKPP2GUI2",
+      "documentCode": "A.PE",
+      "documentCodeDescriptionText": "Preliminary Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E84MPYCKPP2GUI2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-04-27T00:00:00.000-0400",
+      "documentIdentifier": "E84MPYHQPP2GUI2",
+      "documentCode": "SPEC",
+      "documentCodeDescriptionText": "Specification",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E84MPYHQPP2GUI2.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-04-27T00:00:00.000-0400",
+      "documentIdentifier": "E84MPYJ6PP2GUI2",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E84MPYJ6PP2GUI2.pdf",
+          "pageTotalQuantity": 5
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-04-27T00:00:00.000-0400",
+      "documentIdentifier": "E84MPYKBPP2GUI2",
+      "documentCode": "REM",
+      "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E84MPYKBPP2GUI2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-04-27T00:00:00.000-0400",
+      "documentIdentifier": "E84MPYKWPP2GUI2",
+      "documentCode": "DRW",
+      "documentCodeDescriptionText": "Drawings-only black and white line drawings",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E84MPYKWPP2GUI2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-04-27T00:00:00.000-0400",
+      "documentIdentifier": "E84MPYLIPP2GUI2",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E84MPYLIPP2GUI2.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-03-31T00:00:00.000-0500",
+      "documentIdentifier": "E7AH8KBIPP2GUI1",
+      "documentCode": "PEFN",
+      "documentCodeDescriptionText": "Pre-Exam Formalities Notice",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E7AH8KBIPP2GUI1.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-03-07T00:00:00.000-0500",
+      "documentIdentifier": "E6F44NKFPP1GUI2",
+      "documentCode": "TRNA",
+      "documentCodeDescriptionText": "Transmittal of New Application",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E6F44NKFPP1GUI2.pdf",
+          "pageTotalQuantity": 4
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-03-07T00:00:00.000-0500",
+      "documentIdentifier": "E6F44NLAPP1GUI2",
+      "documentCode": "SPEC",
+      "documentCodeDescriptionText": "Specification",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E6F44NLAPP1GUI2.pdf",
+          "pageTotalQuantity": 18
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-03-07T00:00:00.000-0500",
+      "documentIdentifier": "E6F44NLVPP1GUI2",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E6F44NLVPP1GUI2.pdf",
+          "pageTotalQuantity": 4
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-03-07T00:00:00.000-0500",
+      "documentIdentifier": "E6F44NMQPP1GUI2",
+      "documentCode": "ABST",
+      "documentCodeDescriptionText": "Abstract",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E6F44NMQPP1GUI2.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-03-07T00:00:00.000-0500",
+      "documentIdentifier": "E6F44NNLPP1GUI2",
+      "documentCode": "DRW",
+      "documentCodeDescriptionText": "Drawings-only black and white line drawings",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E6F44NNLPP1GUI2.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-03-07T00:00:00.000-0500",
+      "documentIdentifier": "E6F44NODPP1GUI2",
+      "documentCode": "OATH",
+      "documentCodeDescriptionText": "Oath or Declaration filed",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E6F44NODPP1GUI2.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-03-07T00:00:00.000-0500",
+      "documentIdentifier": "E6F44NP2PP1GUI2",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E6F44NP2PP1GUI2.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11074189",
+      "officialDate": "2005-03-07T00:00:00.000-0500",
+      "documentIdentifier": "E6F44NPRPP1GUI2",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11074189/E6F44NPRPP1GUI2.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+Source: example/data/14952677/files/2017-09-21_REM_J806D8VDPXXIFW1.xml:14952677/J806D8VDPXXIFW1/14952677.2017-09-20.J806D8VDPXXIFW1.REM.xml
+Type: IncomingDocument
+Markup: [+inserted+]  [-deleted-]
+
+## REMARKS
+Rejections under 35 USC 101
+Claims 1-9 and 11-19 are rejected under 35 U.S.C. 101 because the claimed invention is
+directed to a judicial exception (i.e., a law of nature, a natural phenomenon, or an abstract idea)
+without significantly more. The Examiner has merely copy and pasted claim 1 and followed it with the statement "there is no inventive concept sufficient to transform the claimed subject matter into a patent-eligible application. The claimed does not amount to significantly more than the abstract idea
+itself. Accordingly, the claim is not patent eligible."
+35 U.S.C. 101 reads as follows: Whoever invents or discovers any new and useful
+process, machine, manufacture, or composition of matter, or any new and useful improvement
+thereof, may obtain a patent therefor, subject to the conditions and requirements of this title.
+Based on Supreme Court precedent and recent Federal Circuit decisions, the Office's
+guidance to an examiner is that one clue to patent eligibility under 35 USC 101 is whether or not
+the process is (1) be tied to a particular machine or apparatus or (2) transforms underlying
+subject matter (such as an article or materials) to a different state or thing. Diamond v. Diehr,
+450 U.S. 175, 184 (1981); Parker v. Flook, 437 U.S. 584, 588 n.9 (1978); Gottschalk v. Benson,
+409 U.S. 63, 70 (1972); Cochrane v. Deener, 94 U.S. 780, 787-88 (1876).
+35 USC 101 Issue 1. "Abstract Idea" is undefined and ambiguous.
+Although the Supreme Court in Alice declined to provide an express definition of
+"abstract idea," the opinion is packed with evidence that the Court intended for the term "abstract
+idea" to apply not to any "abstract idea" in the colloquial sense, but only more specifically to
+abstract ideas that are fundamental practices long prevalent in their fields. Furthermore, although
+the Court did not provide any direct guidance regarding how "long" a practice must be in use to
+-' [unreadable image] -
+be "fundamental" and "long prevalent," the examples that it used have been in use for hundreds
+of years, if not longer.
+In short, although the Court did not provide a definition of "abstract idea," its reasoning
+implies that it intended to limit the concept of "abstract ideas" to those concepts which are
+fundamental and long prevalent, possibly to concepts which have been well-known and extensively used for hundreds of years. An even more narrow, but very reasonable, interpretation
+of Alice, given the opinion's strong emphasis on the risk hedging claims in Bilski, the
+"intermediated settlement" concept allegedly embodied in the claims at issue in Alice, and the
+repeated references to "economic practices," "finance class," "commerce," and "the modern economy," is that the Court intended for "abstract ideas" to be limited primarily or entirely to
+financial methods.
+In light of this, an applicant faced with an Alice-based rejection that defines an abstract
+idea relatively narrowly as a concept that is relatively new and/or confined to a relatively specific
+technological field should argue that such an alleged abstract idea is not an "abstract idea" at all within the meaning of the Alice opinion.
+For example, if a rejection defines an abstract idea as a concept of relatively recent
+origin-by which I mean a concept that originated within the last 50 years or even more-such as the present invention, it is not an "abstract idea" within the meaning of Alice because it is not
+a long-prevalent and fundamental practice, no matter how widespread, in comparison to the
+abstract ideas of risk-hedging and intermediated settlement relied upon by the Alice court, which
+have been in widespread use for many centuries throughout the world.
+The Alice Court's treatment of Diamond v. Diehr is instructive in this regard. According
+to the Alice opinion, even though the claims in Diehr recited an abstract idea in the form of a
+-8-
+well-known mathematical equation, the additional steps of feeding temperature measurements
+into a computer and then using the computer to repeatedly apply the formula to calculate the
+remaining cure time inside a rubber mold was sufficient to transform the patent ineligible
+formula into a patent eligible application of the formula.
+The Diehr example demonstrates that the "significantly more" requirement need not
+require much more than input of data and performance of repeated calculation of that data by a computer to transform a patent ineligible abstract idea into a patent eligible application of that
+idea, which is the case of the current claims.
+35 USC 101 Issue. Reference to a Non-Precendential Federal Court Ruling
+Planet Bingo, is a nonprecedential ruling, wherein the Federal Court affirmed the district
+court ruling by applying the two-part framework for identifying patent-eligible subject matter in
+Alice Corp. v. CLS Bank Int'l, 134 S. Ct 2347 (2014).
+In re Bilski, 545 F.3d 943, reiterated the machine-or-transformation test as the applicable
+test for patent-eligible subject matter. Applicant has amended the claims to recite the machine which performs the process/method steps and also the hardware components as they are being
+transformed by the process/method.
+Based on Supreme Court precedent and recent Federal Circuit decisions, the Office's
+guidance to an examiner is that one clue to patent eligibility under 35 USC 101 is whether or not
+the process is (1) be tied to a particular machine or apparatus or (2) transforms underlying
+subject matter (such as an article or materials) to a different state or thing. Diamond v. Diehr,
+450 U.S. 175, 184 (1981); Parker v. Flook, 437 U.S. 584, 588 n.9 (1978); Gottschalk v. Benson,
+409 U.S. 63, 70 (1972); Cochrane v. Deener, 94 U.S. 780, 787-88 (1876).
+-9-
+In the present application, the invention is a new and useful combination of known
+elements, lights and speakers. The claimed invention transforms the underlying subject matter,
+which is an article or material, to a different state though the novel and non-obvious combination
+of elements claimed.
+35 USC 101 Issue. Examiner's "without significantly more" basis
+With respect to Examiner's statement that the claimed invention is only directed to a
+judicial exception, "Without significantly more".
+Applicants challenge the Examiner's identification of an abstract idea. In making a 101
+rejection, the Examiner has improperly boiled down claim 1 to a very broad and basic abstract idea. The Supreme Court even noted that all inventions relate to or implicate an abstract idea if
+broken down into small enough components. However, in doing so the Examiner has missed the
+actual crux of the present invention. The present invention, and the claims have a specific
+application and the specification identifies specific problems to be solved.
+Therefore, it is inaccurate for the Examiner to categorize or state that the claimed
+invention is "directed to a judicial exemption without significantly more." The specification
+clearly illustrates that the claimed invention is not directed to a mere abstract or broad idea in a
+general context, but a specific problem to be solved, with a specific solution.
+"Significantly More": Claim must be considered as a whole
+Step 2B in the two step Alice analysis is not correctly applied by the Examiner. Here the Examiner considers that the various matching, analytical, comparison, define, determination, and
+calculating steps do not amount significantly more than the judicial exception. Since the
+Application as a whole is substantially more than the stated exception, Step 2B of the Alice
+analysis fails.
+- 10 -
+The Claims Recite Patent-Eligible Subject Matter because they are not Directed to an Excluded Class
+In the interest of furthering prosecution, Applicants respectfully submit that the claims
+are patent-eligible because they are not directed to abstract ideas, laws of nature or physical
+phenomena. For instance, the claimed subject matter is physical rather than being a mere mental process, and thus is not an abstract idea.
+Further, the claims are not directed to laws of nature or physical phenomena as the
+present invention can only be brought into existence upon it conception and constructive or
+actual reduction to practice by Inventors/Applicants.
+Thus, the Examiner's allegation does not constitute aprima facie rejection under 35
+U.S.C. § 101 and further, the claims recite patentable subject matter that is not directed to
+abstract ideas, laws of nature or physical phenomena.
+Accordingly, it is respectfully submitted that the rejection is overcome and respectfully
+requested that the rejection be withdrawn. Rejections under 35 USC 103
+A prima facie case of obviousness is established when an examiner provides:
+1. one or more references
+2. that were available to the inventor and
+3. that teach
+4. a suggestion to combine or modify the references,
+5. the combination or modification of which would appear to be sufficient to have made
+the claimed invention obvious to one of ordinary skill in the art.
+Accordingly, an applicant who is able to prove that the Examiner has failed to establish any one of these elements will prevent the prima facie case of obviousness from being
+established.
+-11-
+Under Graham v. John Deere Co. the standard of obvious used by the Examiner to
+support the obviousness rejection is incorrect. The Examiner must view the claim as a whole
+and not merely the differences between the present invention and the prior art.
+Here, Examiner has done nothing more with respect to the other than to list the claim
+elements/limitations, and merely citing a teaching of the individual element in the prior art.
+Thus, it is not correct for an Examiner to focus on the differences between the prior art
+and the claimed invention and then to state that the differences themselves or individually are obvious, there must be some expectation that the combination of the two would be successful
+and there must be motivation to combine.
+Here, there is no expectation that merely combining the two systems would be easily
+and readily apparent to one of ordinary skill in the art. If such a combination is obvious and
+easily enabled, Examiner should quickly and easily be able to provide a citation for just such a
+combination.
+Claims 1-9 and 11-19 are rejected under 35 U.S.C. 103(a) as being unpatentable over Lin (U.S. Pub. No. 2014/0219481) in view of Maker et al. (U.S. Patent No. 6,564,108).
+With respect to claims 1-6, 9, and 11-15 the Examiner has cited related prior art of Lin
+and Maker, neither of which teach placing lights in or on a string. Maker teaches a method for creating a presentation setting using multiple lights and speakers, not on a string but connected
+by a serial bus and set about a room.
+None of the cited prior art teaches a string, which is why the Examiner can not readily
+find any prior art teaching with respect to the limitations "the speakers should have between 1% Watt to 5 Watts each; and the speakers are placed every 4 to 5 feet apart along the light string",
+which are directed to the spacing of the lights and speakers on a string and their desired size
+- 12 -
+range for optimal performance. The prior art does not use, teach, or suggest the novel and non- obvious combination taught by the present invention.
+With respect to claim 7, Section 2144.03 of the Manual of Patent Examining Procedure
+(MPEP) provides guidelines for relying on Official Notice and personal knowledge. Official
+Notice is permissible only in limited circumstances. Official Notice is permissible only for certain types of facts; those that are capable of instant and unquestionable demonstration as being
+well-known. It is never appropriate to rely solely on Official Notice as the principal evidence
+upon which a rejection was based. Instead, Official Notice is only appropriate for facts that are of notorious character and that serve to fill in the gaps that might exist in the evidentiary showing to support a particular ground of rejection. (MPEP § 2144.03(A)).
+To traverse Official Notice, an Applicant must specifically point out the supposed
+error(s) in the Examiner's action, which would include stating why the noticed fact is not
+considered to be common knowledge or well-known in the art. Here, the Examiner has cited related prior art of Lin and Maker, neither of which teach placing lights in or on a string. Lin teaches a method for speaker switching and Maker a method for creating a presentation setting
+using multiple lights and speakers, not on a string but connected by a serial bus and set about a
+room.
+At this time Applicant is challenging the factual assertion made by the Examiner as
+not properly based upon common knowledge, Applicant is requesting that Examiner
+support the finding with adequate documentary evidence in the next Office action if the
+rejection is to be maintained as provided by MPEP §2144.03(B), MPEP §2144.03(C) and
+also see Zurko ("holding that general conclusions concerning what is 'basic knowledge' or
+'common sense' to one of ordinary skill in the art without specific factual findings and some
+- 13 -
+concrete evidence in the record to support these findings will not support an obviousness rejection"). Examiner is requested to provide an affidavit/declaration under 37 CFR
+1.104(d)(2) or withdraw the rejection.
+Additionally, Official Notice is not sufficient to supply motivation for modifications.
+The factual inquire to modify must be based on objective evidence of records. Ex parte Humphreys holds that when an Examiner does not provide specific reasons to support the
+obviousness rejection, they have failed to establish the prima facie case of obviousness.
+Here the Examiner fails to state the specific element or motivation that is being taken for
+each of the respective claim limitations and merely makes up a reason stating "it would have
+been obvious to one of ordinary skill in the art at the time the invention was made to modify Lin
+to incorporate the speakers having between 4 Watt to 5 Watts each and the speakers are placed
+every 4 to 5 feet apart along the light string in Lin's invention in order to make particular speaker
+device of a particular power and particular distance", which could just as easily be validated by
+making a statement that any characteristic is inherent.
+With respect to claim 8, none of the cited prior art suggests a battery back as both Lin
+and Maker required much more sophisticated electronics to run their devices and could not be
+enabled easily by a battery pack. It would not have been obvious to a POSTIA as alleged by the Examiner in their reasoning for a POSITA to use a battery pack for the devices taught by Lin or
+Maker since both require additional electronics and power to run, where the use of a battery pack to power them would make them non-functional for their intended purpose.
+With respect to claim 16, Applicant relies on the Argument previously presented for
+Claims 15 and 10 from which claim 16 depends and the additional argument directed to the
+claim limitations of claim 16. With respect to claim 16, the limitations where "on the opposing
+- 14 -
+end of the light string, a male and female plug is provided to all the string to be connected to a standard power outlet and also provide a female plug so additional strings or other devices can
+have access to the outlet; and this end will be provided with a female auxiliary (AUX) in
+connection for non-wired audio devices to connect to the speakers" are impossible to be taught
+by Maker for the reasons previously stated.
+In Maker, each individual speaker is controlled independently by the serial bus, which
+does not distribute the same audio single to a single speaker which then shares or distributes it to
+the other, speakers directly hardwired to the first speaker. Maker makes not mention use or
+suggestion of AUX cables or ports for connecting "strings" or groupings of lights and speakers, and such a use would make the invention of Maker inoperable as Maker uses and requires a
+serial bus to individually control lights and speakers, which is in direct contrast to the present
+invention and pending claims.
+The Examiner must provide specific factual findings predicated on sound technical and
+scientific reasoning to support taking Official Notice. (MPEP §2144.03(B)). The Examiner should present Applicant with the explicit basis on which Official Notice is based so that the
+Applicant is able to challenge the assertion in the next reply after the Office action. (MPEP
+§2144.03(B)).
+Withdrawal of this rejection is respectfully requested.
+With respect to claims 17-19, Applicant relies on the arguments previously present for claim 10 from which claims 17-19 depend. Withdrawal of this rejection is respectfully
+requested.
+
+## Conclusion
+- 15 -
+For all the reasons advanced above, Applicant respectfully submits that the application is in
+condition for examination and allowance and that action is earnestly solicited.
+In the event that an extension of time is required, or may be required in addition to that
+requested in a petition for an extension of time, the Commissioner is requested to grant a petition for
+that extension of time which is required to make this response timely.
+Respectfully submitted, /matthewtwelker/
+MATTHEW T. WELKER
+REGISTRATION NO. 53,756
+Date: 09/20/2017
+White-Welker & Welker, LLC
+Customer No. 37,476
+PO Box 199
+Clear Spring, Maryland 21722-0199
+O 410.507.2837 F 301.842.1141
+- 16 -

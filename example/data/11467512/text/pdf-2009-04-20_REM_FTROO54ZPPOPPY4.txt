@@ -1,0 +1,198 @@
+Source: example/data/11467512/files/2009-04-20_REM_FTROO54ZPPOPPY4.pdf
+Pages: 6
+
+--- page 1 (ocr) ---
+Serial No. 11/467,512
+Reply to Office Action dated November 19, 2008
+
+REMARKS
+Favorable reconsideration of the application is respectfully requested in light of
+the amendments and remarks herein. Upon entry of this amendment, claims 1-21 and 23-
+29 will be pending. By this amendment, claim 22 has been canceled, and claims 1, 13, 23,
+
+and 29 have been amended. No new matter has been added.
+
+$102 Rejection of Claims 1-3, 7, 12, 13, 16, 26 and 29
+
+In Section | of the Office Action of November 19, 2008 (“the Office Action’),
+claims 1-3, 7, 12, 13, 16, 26 and 29 stand rejected under 35 U.S.C. §102(b) as being
+anticipated by Dillon (U.S. Patent No. 6,020,892).
+
+Independent claims 1, 13, and 29 have been amended to include allowable subject
+matter of claim 22. Therefore, claims 1, 13, and 29 should be allowable over Dillon.
+Further, since claims 2-3, 7, 12, 16, and 26 depend from one of claims | and 13, those
+claims should also be allowable over Dillon.
+
+Accordingly, it is submitted that the rejection of claims 1-3, 7, 12, 13, 16, 26 and
+29 based upon 35 U.S.C. §102(b) has been overcome by the present remarks and
+
+withdrawal thereof is respectfully requested.
+
+$103 Rejection of Claims 4, 6, 8, 14 and 15
+
+In Section 2 of the Office Action, claims 4, 6, 8, 14 and 15 stand rejected under
+35 U.S.C. §103(a) as being unpatentable over the combination of Dillon and Lestruhaut
+
+(U.S. Patent No. 6,653,990).
+
+10
+113748/5732US/990461.01
+
+--- page 2 (ocr) ---
+Serial No. 11/467,512
+Reply to Office Action dated November 19, 2008
+
+Based on the foregoing discussion regarding claims | and 13, and since claims 4,
+6, 8, 14, and 15 depend from one of claims | and 13, those claims should also be
+allowable over Dillon. Lestruhaut was cited for allegedly disclosing only the limitations
+recited in claims 6, 8, 14, and 15. Therefore, claims 6, 8, 14, and 15 should be allowable
+over Dillon and Lestruhaut.
+
+Accordingly, it is submitted that the rejection of claims 4, 6, 8, 14 and 15 based
+upon 35 U.S.C. §103(a) has been overcome by the present remarks and withdrawal
+
+thereof is respectfully requested.
+
+$103 Rejection of Claim 9
+In Section 3 of the Office Action, claim 9 stands rejected under 35 U.S.C. §103(a)
+
+as being unpatentable over the combination of Dillon and McSheery (U.S. Patent No.
+6,324,296).
+
+Based on the foregoing discussion regarding claim 1, and since claim 9 depends
+from claim 1, claim 9 should also be allowable over Dillon. McSheery was cited for
+allegedly disclosing only the limitations recited in claim 9. Therefore, claim 9 should be
+allowable over Dillon and McSheery.
+
+Accordingly, it is submitted that the rejection of claim 9 based upon 35 U.S.C.
+§$103(a) has been overcome by the present remarks and withdrawal thereof is respectfully
+
+requested.
+
+11
+113748/5732US/990461.01
+
+--- page 3 (ocr) ---
+Serial No. 11/467,512
+Reply to Office Action dated November 19, 2008
+
+$103 Rejection of Claim 10
+
+In Section 4 of the Office Action, claim 10 stands rejected under 35 U.S.C.
+§$103(a) as being unpatentable over the combination of Dillon and Bullister (U.S. Patent
+No. 6,211,903).
+
+Based on the foregoing discussion regarding claim 1, and since claim 10 depends
+from claim 1, claim 10 should also be allowable over Dillon. Bullister was cited for
+allegedly disclosing only the limitations recited in claim 10. Therefore, claim 10 should
+be allowable over Dillon and Bullister.
+
+Accordingly, it is submitted that the rejection of claim 10 based upon 35 U.S.C.
+§$103(a) has been overcome by the present remarks and withdrawal thereof is respectfully
+
+requested.
+
+$103 Rejection of Claim 11
+
+In Section 5 of the Office Action, claim 11 stands rejected under 35 U.S.C.
+§103(a) as being unpatentable over the combination of Dillon and Eberl (U.S. Patent No.
+6,916,096).
+
+Based on the foregoing discussion regarding claim 1, and since claim 11 depends
+from claim 1, claim 11 should also be allowable over Dillon. Eberl was cited for
+allegedly disclosing only the limitations recited in claim 11. Therefore, claim 11 should
+
+be allowable over Dillon and Eberl.
+
+12
+113748/5732US/990461.01
+
+--- page 4 (ocr) ---
+Serial No. 11/467,512
+Reply to Office Action dated November 19, 2008
+
+Accordingly, it is submitted that the rejection of claim 11 based upon 35 U.S.C.
+§103(a) has been overcome by the present remarks and withdrawal thereof is respectfully
+
+requested.
+
+$103 Rejection of Claims 17-20
+
+In Section 6 of the Office Action, claims 17-20 stand rejected under 35 U.S.C.
+§103(a) as being unpatentable over the combination of Dillon and Edwards (U.S. Patent
+No. 7,324,110).
+
+Based on the foregoing discussion regarding claim 13, and since claims 17-20
+depend from claim 13, claims 17-20 should also be allowable over Dillon. Edwards was
+cited for allegedly disclosing only the limitations recited in claims 17-20. Therefore,
+claims 17-20 should be allowable over Dillon and Edwards.
+
+Accordingly, it is submitted that the rejection of claims 17-20 based upon 35
+U.S.C. §103(a) has been overcome by the present remarks and withdrawal thereof is
+
+respectfully requested.
+
+$103 Rejection of Claims 21 and 27
+
+In Section 7 of the Office Action, claims 21 and 27 stand rejected under 35 U.S.C.
+§103(a) as being unpatentable over the combination of Dillon and Kimbrough (U.S.
+Patent No. 5,926,388).
+
+Based on the foregoing discussion regarding claim 13, and since claims 21 and 27
+
+depend from claim 13, claims 21 and 27 should also be allowable over Dillon.
+
+13
+113748/5732US/990461.01
+
+--- page 5 (ocr) ---
+Serial No. 11/467,512
+Reply to Office Action dated November 19, 2008
+
+Kimbrough was cited for allegedly disclosing only the limitations recited in claims 21
+
+and 27. Therefore, claims 17-20 should be allowable over Dillon and Kimbrough.
+Accordingly, it is submitted that the rejection of claims 21 and 27 based upon 35
+
+U.S.C. §103(a) has been overcome by the present remarks and withdrawal thereof is
+
+respectfully requested.
+
+Allowable Subject Matter
+
+It is appreciatively noted that claims 5, 22-25, and 28 would be allowable if
+
+rewritten in independent form.
+
+14
+113748/5732US/990461.01
+
+--- page 6 (ocr) ---
+Serial No. 11/467,512
+Reply to Office Action dated November 19, 2008
+
+Conclusion
+In view of the foregoing, applicants respectfully request reconsideration of claims
+1-21 and 23-29 in view of the remarks and submit that all pending claims are presently in
+condition for allowance.
+In the event that additional cooperation in this case may be helpful to complete its
+prosecution, the Examiner is cordially invited to contact Applicant’s representative at the
+
+telephone number written below.
+
+Respectfully submitted,
+
+Dated: April 20, 2009 By: /Samuel S. Lee/
+Samuel S. Lee
+
+Reg. No. 42,791
+
+Procopio, Cory, Hargreaves & Savitch LLP
+530 B Street, Suite 2100
+
+San Diego, California 92101-4469
+
+(619) 525-3821
+
+15
+113748/5732US/990461.01

@@ -1,0 +1,120 @@
+Source: example/data/13090569/files/2013-03-25_REM_HEPZ0RPPPXXIFW3.pdf
+Pages: 3
+
+--- page 1 (ocr) ---
+109769.0270
+Examiner Joanne Silbermann
+Art Unit 3611
+
+REMARKS
+
+This paper is responsive to the non-final Office Action dated January 31, 2013. No
+extensions of time and/or additional claim fees are believed to be due however the Commissioner
+is hereby authorized to treat this paper as a Petition for any needed extension of time and to
+charge any fees due to Deposit Account No. 50-0959, Attorney Docket No. 109769.0270.
+
+Claims 1 through 22 are pending in this application. Claims 16, 21 and 22 have been
+withdrawn from consideration. Claims 1, 8, 15 and 17 through 19 have been amended. Support
+for the amendments to claims 1, 8, 15 and 17 through 19 can be found in the specification as
+filed. Accordingly, no new matter has been added. As such, entry of the amendment and
+
+consideration of the remarks which follow is respectfully requested.
+
+[rm
+
+Drawings:
+The drawings are objected to under 37 CFR 1.83(a). The drawings must show every
+
+feature of the invention specified in the claims. Therefore, the circuit board, the integrated
+circuit, the touch sensor switch and the memory storage device must be shown or the feature
+- cancelled from the claims. The claims have been amended to remove reference to the integrated
+circuit, circuit board, and the memory storage device. The touch sensor switch is shown in the
+
+figures at reference number 24.
+
+Il. The 35 U.S.C. § 112, Second Paragraph Rejections:
+Claims 1 through 7 are rejected under 35 U.S.C. § 112, second paragraph, as being
+
+indefinite for failing to particularly point out and distinctly claim the subject matter which the
+inventor regards as the invention. It is not clear from claim 1 how the greeting card comprises a
+touch sensor switch, at least two switches, and a touch sensitive switch, all of which are recited
+in the claim. Claims 2 through 7 are rejected as depending from a rejected base claim. Claim 1
+has been amended to definite point out and distinctly claim the subject matter which the inventor
+regards as the invention. Applicant therefore respectfully requests withdrawal of the 35 U.S.C. §
+112, second paragraph rejection of claims 1 through 7.
+
+--- page 2 (ocr) ---
+109769.0270
+Examiner Joanne Silbermann
+Art Unit 3611
+
+Il. The 35 U.S.C. § 103(a) Rejections:
+Claims 1 through 5, 8 through 15 and 17 through 20 are rejected under 35 U.S.C. § 103(a) as
+
+being unpatentable over U.S. Patent No. 7,356,950 (Avery) in view of U.S. Patent No. 6,084,569
+(Ricotta). A combination of the Avery and Ricotta references do not result in the user-interactive
+greeting card of the present invention. The Ricotta reference is non-analogous prior art. It is
+directed to an editing interface apparatus. It merely disclosing a touch section of the apparatus .
+wherein a user can touch to simulate a mouse-click to move between particular time intervals in
+a video sequence. A continuous rubbing or back and forth motion is not disclosed by Avery or
+Ricotta. Ricotta discloses a touch strip which allows a user to touch and also to drag his/her .-
+finger across the touch strip to move between frames of a video. The video editing apparatus
+does not playback audio according to the user’s continuous touch and does not cease audio when
+the user removes his/her touch from the touch sensitive area. Claim 1 has been amended to more
+clearly describe the greeting card of the present invention as having a touch sensitive switch
+which requires constant user interaction to replay the entirety of digital audio file. This
+requirement is not disclosed by Avery or Ricotta or a combination thereof. Claim 8 has also
+been amended to require a touch sensitive switch which initiates playback of one of two or more
+digital audio files when a human applies a continuous back and forth motion to an area of the
+greeting card proximate to the touch sensor switch plate and ceases playback of one of the two or
+more digital audio files when the continuous back and forth motion stops. The back and forth
+motion required to replay audio is not described by Avery or Ricotta. Again, Ricotta merely
+discloses a touch strip wherein a user can tap or drag his/her finger across for movement between
+various frames of a video. Continuous motion is not required for any audio playback and
+removal of such continuous motion does not cease the audio playback. Claim 15 has also been
+amended to require a touch sensor switch located beneath one of the at least three panels of the
+greeting card, the touch sensor switch operative to control playback of the at least one digital
+audio file, wherein playback of the at least one audio file occurs only while a user
+
+continuously rubs an area of the greeting card above the touch sensor switch. As argued above
+with respect to claims 1 and 8, the combination of Avery and Ricotta does not require continuous
+contact with an area of a greeting card to cause audio playback. Audio playback is not controlled
+
+by the touch strip described by Ricotta and Avery does not disclose any touch sensitive areas.
+
+--- page 3 (ocr) ---
+109769.0270
+Examiner Joanne Silbermann
+Art Unit 3611
+
+Ricotta describes a video editing apparatus which is not something one would consult when
+designing an interactive greeting card. The cited prior art does not disclose an interactive
+greeting card having a touch sensitive area wherein when a user applies continuous back and
+forth (or rubbing) motion, playback of an audio file is initiated and ceases to play once the user
+ends applying the continuous motion to the touch sensitive area of the greeting card. Applicant
+therefore respectfully requests withdrawal of the 35 U.S.C. § 103(a) rejection of claims 1
+through 5, 8 through 15 and 17 through 20.
+
+IV. Conclusion -
+
+For at least the foregoing reasons, claims 1 through 5, 8 through 15 and 17 through 20 are
+believed to be in condition for allowance and a Notice of Allowance is respectfully requested.
+Should the Examiner wish to discuss any of the foregoing in more detail, the undersigned
+
+attorney would welcome a telephone call.
+
+Respectfully submitted,
+ROETZEL & ANDRESS
+/JAMES C. SCOTT/
+
+James C. Scott, Reg. No. 35,351
+1375 E. Ninth Street
+
+One Cleveland Center, 9"" Floor
+Cleveland, Ohio 44114
+
+(216) 615-4832 (direct)
+
+(216) 623-0134 (facsimile)
+
+7022594_1.DOC

@@ -1,0 +1,114 @@
+Source: example/data/18537801/files/2026-01-12_CTNF_MK793YO4149X195.xml:18537801/MK793YO4149X195/Non-Final Rejection.xml
+Type: OutgoingDocument
+Markup: [+inserted+]  [-deleted-]
+
+DETAILED ACTION
+The present application, filed on or after March 16, 2013, is being examined under the first inventor to file provisions of the AIA.
+STATUS OF CLAIMS
+This Non-Final action is in reply to the application 18,537,801 filed on 12/13/2023.
+Claims 1-16 are rejected
+Claims 1 -16 are currently pending and have been examined.
+
+## Information Disclosure Statement
+The information disclosure statement (IDS) submitted on was filed after the mailing date of the 12/13/2023 fully considered by examiner The submission is in compliance with the provisions of 37 CFR 1.97.
+
+## Claim Rejections - 35 USC § 103
+In the event the determination of the status of the application as subject to AIA 35 U.S.C. 102 and 103 (or as subject to pre-AIA 35 U.S.C. 102 and 103) is incorrect, any correction of the statutory basis (i.e., changing from AIA to pre-AIA) for the rejection will not be considered a new ground of rejection if the prior art relied upon, and the rationale supporting the rejection, would be the same under either status.
+The following is a quotation of 35 U.S.C. 103 which forms the basis for all obviousness rejections set forth in this Office action:
+A patent for a claimed invention may not be obtained, notwithstanding that the claimed invention is not identically disclosed as set forth in section 102, if the differences between the claimed invention and the prior art are such that the claimed invention as a whole would have been obvious before the effective filing date of the claimed invention to a person having ordinary skill in the art to which the claimed invention pertains. Patentability shall not be negated by the manner in which the invention was made.
+Claim(s) 1 – 2, 4 – 6 are rejected under 35 U.S.C. 102(a1)(a2) as being anticipated by US PG Pub 20230284858 – Ramanand et al. hereinafter as RAMANAND in view of US PG Pubs 20160340847 – Eavenson et al. hereinafter as EAVENSON
+Regarding Claim 1
+RAMANAND discloses:
+An autonomous [-snow removal-] machine that is self-operating, using sensors and an edge computer module to navigate and clear [-snow-] material. Elements that comprise this machine include:
+a manually controlled [-snowblower-] machine conversion; whereby the machine is created from a regular [-snowblower-] machine by replacing its manual controls with electric motors powered by batteries ( para. 0058 and figure 6 – wherein a retro fit kit to incorporate the autonomous functionality using a sensor kit, control kit, actuators, para. 0069 – electric motors and batteries, additionally replacing manual controls with electrical components, )
+electrically driven functions, whereby key functions like wheel movement, chute control, deflector control, and auger engagement are now powered by electric motors; ( para. 0108 where in actuators are used to connected to mechanical elements to retract and extend or move or retract elements para. 0106 – wherein steering and an electrical component – steering encoder 220, para. 0108 - where in mechanical engagements that need actual mechanical engagements can use rods or pistons to drove a link for raising and lowering or rotating movements using a rotary link 246;)
+edge computer control, whereby an onboard edge computer module receives data from sensors and sends instructions to the electric motors to control the machine's movements;( para. 0109 – wherein a control unit may electronically and autonomously drive the vehicle using the actuators in the kit, para. 0128 where in the computer can determine the edges )
+pre-stored map for localization, whereby the machine utilizes a map of the area, created during snowless conditions, to identify its location and boundaries; ( para. 0128 – wherein a global map of an environment of the location of physical objects and characteristics of the surrounds and boundaries, this information can be stored locally)
+manual mode capability, whereby the machine can be operated manually when required by disengaging the clutch mechanism at the wheels and other electric motors. (para. 0053 - where in the vehicle can be in manual mode)
+RAMANAND discloses of a retrofit kit for manually controlled vehicle that creates a vehicle to become autonomous with electric motors and controllers. EAVENSON discloses a vehicle with an engine that is a hybrid snow thrower that can clear snow.( fig. 1)
+It would be obvious to one of ordinary skill in the art before the effective filling date of the applicants invention for the retrofit kit of a manual powered engine vehicle to be made autonomous utilize custom controller and servos to also be able to apply this type kit to another manual powered engine vehicle such a hybrid snow thrower as taught by EAVENSON. Doing so merely constitutes the substitution of one known vehicle for another to produce the predictable result of an transforming a vehicle into autonomous vehicle (MPEP 2143, subsection I, B).
+Regarding Claim 2
+RAMANAND / EAVENSON disclose claim 1
+RAMANAND discloses:
+2. An autonomous snow removal machine according to claim 1, characterized by a smartphone application user interface for control. (para. 0062 – remote computing device with a portable or wearable computing device)
+Regarding Claim 4
+RAMANAND / EAVENSON disclose claim 1
+RAMANAND discloses:
+4. An autonomous snow removal machine according to claim 1, characterized by a single battery supplying power to all electric motors. (para. 0069 – where in the electric motor may be powered off the single battery)
+Regarding Claim 5
+RAMANAND / EAVENSON disclose claim 1
+RAMANAND discloses:
+5. An autonomous snow removal machine according to claim 1, characterized with use of different types and combinations of sensors for improved surroundings awareness. ( para. 0005 – proximity sensors and lidar)
+Regarding Claim 6
+RAMANAND / EAVENSON disclose claim 1
+RAMANAND discloses:
+6. An autonomous snow removal machine according to claim 1, characterized with protective enclosures for sensors, batteries, and other electronic components. ( para. 0087 - Where in the compoennts have a single housing or multiple plates assembled together for a control box)
+Claim(s) 7 , 10, 13 - 15 are rejected under 35 U.S.C. 102(a1)(a2) as being anticipated by US PG Pub 20230284858 – Ramanand et al. hereinafter as RAMANAND in view of US PG Pubs 20160340847 – Eavenson et al. hereinafter as EAVENSON in view of US PG Pubs 20210311484 – LEE et al. hereinafter as LEE
+Regarding Claim 7
+RAMANAND / EAVENSON disclose claim 1
+RAMANAND / EAVENSON disclose of an autonomous snow blower, LEE discloses of an autonomous snow blower with different wheels, further discloses:
+An autonomous snow removal machine according to claim 1, characterized with different number and size of wheels, tracks, and drive mechanisms. ( para. 0087 – where in there are different type of combinations of wheels and tracks)
+RAMANAND / EAVENSON and LEE are considered analogous to the claimed invention because they are in the same field of endeavor of autonomous powered single engine utility vehicles. Therefore, it would have been obvious to someone of ordinary skill in the art before the effective filing date of the claimed invention to have modified RAMANAND / EAVENSON to incorporate the teachings of LEE and combine different number and size of wheels, tracks, and drive mechanisms. One would have made this combination to enhance the performance of the machine.
+Regarding Claim 10
+RAMANAND / EAVENSON disclose claim 1
+RAMANAND / EAVENSON disclose of an autonomous snow blower LEE discloses of an autonomous vehicle that is a mower, further discloses:
+LEE discloses
+An autonomous snow removal machine according to claim 1, characterized with application in lawn mowing. (para. 0004 - mower)
+RAMANAND / EAVENSON and LEE are considered analogous to the claimed invention because they are in the same field of endeavor of powered single engine utility vehicles. Therefore, it would have been obvious to someone of ordinary skill in the art before the effective filing date of the claimed invention to have modified RAMANAND / EAVENSON to incorporate the teachings of LEE and such that the autonomous vehicles would apply to a lawn mowing application. One would have made this combination to enhance the features of mowing.
+Regarding Claim 13
+RAMANAND / EAVENSON disclose claim 1
+RAMANAND / EAVENSON disclose of an autonomous snow blower LEE discloses of an autonomous snow blower that can be controlled via smart phone application, further discloses:
+LEE discloses:
+13. An autonomous snow removal machine according to claim 1, characterized with manual control option via the smartphone application. (para. 0121 - wherein the manual mode is used to teach the boundary walking mode to show wehere the boundaries are)
+RAMANAND / EAVENSON and LEE are considered analogous to the claimed invention because they are in the same field of endeavor of autonomous powered single engine utility vehicles. Therefore, it would have been obvious to someone of ordinary skill in the art before the effective filing date of the claimed invention to have modified RAMANAND / EAVENSON to incorporate the teachings of LEE of a manual control option via the smartphone application. One would have made this combination to improve the useability of the autonomous vehicles.
+Regarding Claim 14
+RAMANAND / EAVENSON disclose claim 1
+RAMANAND / EAVENSON disclose of an autonomous snow blower with the ability to detect anchor points to determine the boundaries of a particular location LEE discloses of an autonomous snow blower that also has the ability determine boundaries but uses statis sensors for improved location awarness, further discloses:
+14. An autonomous snow removal machine according to claim 1, with additional static sensor communication for improved location awareness. (para. 0188 – anchors)
+RAMANAND / EAVENSON and LEE are considered analogous to the claimed invention because they are in the same field of endeavor of autonomous powered single engine utility vehicles. Therefore, it would have been obvious to someone of ordinary skill in the art before the effective filing date of the claimed invention to have modified RAMANAND / EAVENSON to incorporate the teachings of LEE of additional static sensor communication for improved location awareness.. One would have made this combination to improve the accuracy and efficiency of the autonomous vehicle.
+Regarding Claim 15
+RAMANAND / EAVENSON disclose claim 1
+RAMANAND / EAVENSON disclose of an autonomous snow blower, LEE discloses of an autonomous snow blower that a sign that alerts of a trespassing of a fence, further discloses:
+15. An autonomous snow removal machine according to claim 1, characterized with static signs on the premises providing location information. ( wherein the static sign alert on mobile phone on trespassing on a fence)
+RAMANAND / EAVENSON and LEE are considered analogous to the claimed invention because they are in the same field of endeavor of autonomous powered single engine utility vehicles. Therefore, it would have been obvious to someone of ordinary skill in the art before the effective filing date of the claimed invention to have modified RAMANAND / EAVENSON to incorporate the teachings of LEE of static signs on the premises providing location information. One would have made this combination to the ability to alert users of information to improve functionality and useability.
+Claim(s) 8 – 9, 11, 16 are rejected under 35 U.S.C. 102(a1)(a2) as being anticipated by US PG Pub 20230284858 – Ramanand et al. hereinafter as RAMANAND in view of US PG Pubs 20160340847 – Eavenson et al. hereinafter as EAVENSON in view of WO2022010684 – Frick et al. hereinafter as FRICK
+Regarding Claim 8
+RAMANAND / EAVENSON disclose claim 1
+RAMANAND / EAVENSON discloses of an autonomous motorized utility vehicle, FRICK discloses of an autonomous motorized utility vehicle that is a farming machine, further discloses:
+An autonomous snow removal machine Snowblower according to claim 1, characterized with application to farming machines. ( para. 0039 - weeding machines for weed remediation)
+RAMANAND / EAVENSON and FRICK are considered analogous to the claimed invention because they are in the same field of endeavor of autonomous powered single engine utility vehicles. Therefore, it would have been obvious to someone of ordinary skill in the art before the effective filing date of the claimed invention to have modified RAMANAND / EAVENSON to incorporate the teachings of FRICK of application to farming machines. One would have made this combination to the improve the ability of mowing vehicles for enahanced useability and effectiveness.
+Regarding Claim 9
+RAMANAND / EAVENSON disclose claim 1
+RAMANAND / EAVENSON discloses of an autonomous motorized utility vehicle, FRICK discloses of an autonomous motorized utility vehicle that is a applicable in industrial applications such as construction, further discloses:
+An autonomous snow removal machine according to claim 1, characterized with application in industrial applications. ( para. 0088 – construction vehicles)
+RAMANAND / EAVENSON and FRICK are considered analogous to the claimed invention because they are in the same field of endeavor of autonomous powered single engine utility vehicles. Therefore, it would have been obvious to someone of ordinary skill in the art before the effective filing date of the claimed invention to have modified RAMANAND / EAVENSON to incorporate the teachings of FRICK of application in industrial applications. One would have made this combination to the improve the ability of industrial applications such as construction vehicles for enhanced useability and effectiveness.
+Regarding Claim 11
+RAMANAND / EAVENSON disclose claim 1
+RAMANAND / EAVENSON discloses of an autonomous motorized utility vehicle of a snow thrower, FRICK discloses of an autonomous motorized utility vehicle that that has application in clearning snow from roads, further discloses:
+11. An autonomous snow removal machine according to claim 1, characterized with application in application in clearing snow from roads, parking lots, and other paved areas. (para. 0074 - Wherein the there are inclusion zones and exclusion zone and the boundaries defined depends on the type of application that is being utilized,. I.e. for a mower it is the exclusion zone would be pavement, e.g. snowblower exclusion zone may be the yard)
+RAMANAND / EAVENSON and FRICK are considered analogous to the claimed invention because they are in the same field of endeavor of autonomous powered single engine utility vehicles of snow thrower. Therefore, it would have been obvious to someone of ordinary skill in the art before the effective filing date of the claimed invention to have modified RAMANAND / EAVENSON to incorporate the teachings of FRICK of application in clearing snow from roads, parking lots, and other paved areas. One would have made this combination to the improve the ability of effectiveness in clearing material from specific areas based on vehicle application.
+Regarding Claim 16
+RAMANAND / EAVENSON disclose claim 1
+RAMANAND / EAVENSON discloses of an autonomous motorized utility vehicle of a snow thrower, FRICK discloses of an autonomous motorized utility vehicle that that has application in spraying salt, further discloses:
+16. An autonomous snow removal machine according to claim 1, characterized with ability to spray salt for melting remaining snow and ice. ( salt sprayer)
+RAMANAND / EAVENSON and FRICK are considered analogous to the claimed invention because they are in the same field of endeavor of autonomous powered single engine utility vehicles of snow thrower. Therefore, it would have been obvious to someone of ordinary skill in the art before the effective filing date of the claimed invention to have modified RAMANAND / EAVENSON to incorporate the teachings of FRICK of spraying salt. One would have made this combination to the improve the ability of effectiveness in the vehicle application of spraying salt.
+Claim(s) 3, and 12 are rejected under 35 U.S.C. 102(a1)(a2) as being anticipated by US PG Pub 20230284858 – Ramanand et al. hereinafter as RAMANAND in view of US PG Pubs 20160340847 – Eavenson et al. hereinafter as EAVENSON in view of US PG Pubs 20140013722 – Pitcel et al. hereinafter as PITCEL
+
+## Regarding Claim 3
+RAMANAND / EAVENSON disclose claim 1
+RAMANAND / EAVENSON discloses of an autonomous motorized utility vehicle of a snow thrower, PITCEL discloses of an a snow thrower with swivel wheels, further discloses:
+An autonomous snow removal machine according to claim 1, characterized by swivel wheels in the front for easier turning. ( para. 0076 – wherein power equipment may include caster wheels)
+RAMANAND / EAVENSON and PITCEL are considered analogous to the claimed invention because they are in the same field of endeavor of autonomous powered single engine utility vehicles of snow thrower. Therefore, it would have been obvious to someone of ordinary skill in the art before the effective filing date of the claimed invention to have modified RAMANAND / EAVENSON to incorporate the teachings of PITCEL of swivel wheels. One would have made this combination to the improve the ability of maneuverability.
+
+## Regarding Claim 12
+RAMANAND / EAVENSON disclose claim 1
+RAMANAND / EAVENSON discloses of an autonomous motorized utility vehicle of a snow thrower, PITCEL discloses of an a snow thrower with lights and sounds, further discloses:
+12. An autonomous snow removal machine according to claim 1, characterized with added lights and sounds for pedestrian safety. (para. 0049 - wherein a flashing light or audio warning may be initated for a warning)
+RAMANAND / EAVENSON and PITCEL are considered analogous to the claimed invention because they are in the same field of endeavor of autonomous powered single engine utility vehicles of snow thrower. Therefore, it would have been obvious to someone of ordinary skill in the art before the effective filing date of the claimed invention to have modified RAMANAND / EAVENSON to incorporate the teachings of PITCEL of a snow blower with lights and sounds. One would have made this combination to the improve the ability of safety when working with a motorized utility vehicle.
+Conclusion
+Any inquiry concerning this communication or earlier communications from the examiner should be directed to ALFRED H TSUI whose telephone number is (571)272-9511. The examiner can normally be reached 9:00am - 5:00pm.
+Examiner interviews are available via telephone, in-person, and video conferencing using a USPTO supplied web-based collaboration tool. To schedule an interview, applicant is encouraged to use the USPTO Automated Interview Request (AIR) at http://www.uspto.gov/interviewpractice.
+If attempts to reach the examiner by telephone are unsuccessful, the examiner’s supervisor, Chris Sebesta can be reached on 5712720547. The fax phone number for the organization where this application or proceeding is assigned is 571-273-8300.
+Information regarding the status of published or unpublished applications may be obtained from Patent Center. Unpublished application information in Patent Center is available to registered users. To file and manage patent submissions in Patent Center, visit: https://patentcenter.uspto.gov. Visit https://www.uspto.gov/patents/apply/patent-center for more information about Patent Center and https://www.uspto.gov/patents/docx for information about filing in DOCX format. For additional questions, contact the Electronic Business Center (EBC) at 866-217-9197 (toll-free). If you would like assistance from a USPTO Customer Service Representative, call 800-786-9199 (IN USA OR CANADA) or 571-272-1000.
+/A.H.T/Examiner, Art Unit 3671
+/TARA SCHIMPF/Supervisory Patent Examiner, Art Unit 3676

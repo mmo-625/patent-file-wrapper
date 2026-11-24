@@ -1,0 +1,853 @@
+{
+  "count": 1,
+  "patentFileWrapperDataBag": [
+    {
+      "eventDataBag": [
+        {
+          "eventCode": "MABN10",
+          "eventDescriptionText": "Mail of Abandonment after Examiner's Answer or PTAB Decision",
+          "eventDate": "2011-02-08"
+        },
+        {
+          "eventCode": "ABN10",
+          "eventDescriptionText": "Abandonment after Examiner's Answer or PTAB Decision",
+          "eventDate": "2011-02-07"
+        },
+        {
+          "eventCode": "MAPDA",
+          "eventDescriptionText": "Mail PTAB Decision on Appeal - Affirmed",
+          "eventDate": "2010-10-12"
+        },
+        {
+          "eventCode": "APDA",
+          "eventDescriptionText": "PTAB Decision - Examiner Affirmed",
+          "eventDate": "2010-10-12"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2010-10-06"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2010-03-30"
+        },
+        {
+          "eventCode": "AP_DK_M",
+          "eventDescriptionText": "Docketing Notice Mailed to Appellant",
+          "eventDate": "2009-07-21"
+        },
+        {
+          "eventCode": "APAS",
+          "eventDescriptionText": "Assignment of Appeal Number",
+          "eventDate": "2009-07-21"
+        },
+        {
+          "eventCode": "APWD",
+          "eventDescriptionText": "Appeal Awaiting PTAB Docketing",
+          "eventDate": "2009-07-13"
+        },
+        {
+          "eventCode": "ARBP",
+          "eventDescriptionText": "Appeal ready for PAC review",
+          "eventDate": "2009-07-11"
+        },
+        {
+          "eventCode": "PACC",
+          "eventDescriptionText": "Exam. Ans. Review Complete",
+          "eventDate": "2009-04-23"
+        },
+        {
+          "eventCode": "MAPEA",
+          "eventDescriptionText": "Mail Examiner's Answer",
+          "eventDate": "2009-04-08"
+        },
+        {
+          "eventCode": "APEA",
+          "eventDescriptionText": "Examiner's Answer to Appeal Brief",
+          "eventDate": "2009-04-06"
+        },
+        {
+          "eventCode": "APBR",
+          "eventDescriptionText": "Appeal Brief Review Complete",
+          "eventDate": "2009-02-09"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2009-02-09"
+        },
+        {
+          "eventCode": "AP.B",
+          "eventDescriptionText": "Appeal Brief Filed",
+          "eventDate": "2009-01-05"
+        },
+        {
+          "eventCode": "N/AP",
+          "eventDescriptionText": "Notice of Appeal Filed",
+          "eventDate": "2008-11-03"
+        },
+        {
+          "eventCode": "MCTAV",
+          "eventDescriptionText": "Mail Advisory Action (PTOL - 303)",
+          "eventDate": "2008-10-20"
+        },
+        {
+          "eventCode": "CTAV",
+          "eventDescriptionText": "Advisory Action (PTOL-303)",
+          "eventDate": "2008-10-14"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2008-10-06"
+        },
+        {
+          "eventCode": "A.NE",
+          "eventDescriptionText": "Response after Final Action",
+          "eventDate": "2008-10-03"
+        },
+        {
+          "eventCode": "MCTFR",
+          "eventDescriptionText": "Mail Final Rejection (PTOL - 326)",
+          "eventDate": "2008-08-07"
+        },
+        {
+          "eventCode": "CTFR",
+          "eventDescriptionText": "Final Rejection",
+          "eventDate": "2008-08-04"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2008-06-04"
+        },
+        {
+          "eventCode": "A...",
+          "eventDescriptionText": "Response after Non-Final Action",
+          "eventDate": "2008-05-01"
+        },
+        {
+          "eventCode": "XT/G",
+          "eventDescriptionText": "Request for Extension of Time - Granted",
+          "eventDate": "2008-05-01"
+        },
+        {
+          "eventCode": "MCTNF",
+          "eventDescriptionText": "Mail Non-Final Rejection",
+          "eventDate": "2007-12-07"
+        },
+        {
+          "eventCode": "CTNF",
+          "eventDescriptionText": "Non-Final Rejection",
+          "eventDate": "2007-12-06"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2007-11-15"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2007-11-15"
+        },
+        {
+          "eventCode": "RCEX",
+          "eventDescriptionText": "Request for Continued Examination (RCE)",
+          "eventDate": "2007-10-31"
+        },
+        {
+          "eventCode": "ABN9",
+          "eventDescriptionText": "Disposal for a RCE / CPA / R129",
+          "eventDate": "2007-11-15"
+        },
+        {
+          "eventCode": "BRCE",
+          "eventDescriptionText": "Workflow - Request for RCE - Begin",
+          "eventDate": "2007-10-31"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2007-10-04"
+        },
+        {
+          "eventCode": "MCTFR",
+          "eventDescriptionText": "Mail Final Rejection (PTOL - 326)",
+          "eventDate": "2007-10-04"
+        },
+        {
+          "eventCode": "CTFR",
+          "eventDescriptionText": "Final Rejection",
+          "eventDate": "2007-10-01"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2007-07-20"
+        },
+        {
+          "eventCode": "A...",
+          "eventDescriptionText": "Response after Non-Final Action",
+          "eventDate": "2007-07-16"
+        },
+        {
+          "eventCode": "XT/G",
+          "eventDescriptionText": "Request for Extension of Time - Granted",
+          "eventDate": "2007-07-16"
+        },
+        {
+          "eventCode": "MCTNF",
+          "eventDescriptionText": "Mail Non-Final Rejection",
+          "eventDate": "2007-03-16"
+        },
+        {
+          "eventCode": "CTNF",
+          "eventDescriptionText": "Non-Final Rejection",
+          "eventDate": "2007-03-15"
+        },
+        {
+          "eventCode": "AF/D",
+          "eventDescriptionText": "Affidavit(s) (Rule 131 or 132) or Exhibit(s) Received",
+          "eventDate": "2006-12-26"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2007-01-17"
+        },
+        {
+          "eventCode": "A...",
+          "eventDescriptionText": "Response after Non-Final Action",
+          "eventDate": "2006-12-26"
+        },
+        {
+          "eventCode": "MEXIN",
+          "eventDescriptionText": "Mail Examiner Interview Summary (PTOL - 413)",
+          "eventDate": "2006-10-13"
+        },
+        {
+          "eventCode": "EXIN",
+          "eventDescriptionText": "Interview Summary Record",
+          "eventDate": "2006-10-11"
+        },
+        {
+          "eventCode": "MCTNF",
+          "eventDescriptionText": "Mail Non-Final Rejection",
+          "eventDate": "2006-09-18"
+        },
+        {
+          "eventCode": "CTNF",
+          "eventDescriptionText": "Non-Final Rejection",
+          "eventDate": "2006-09-14"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2006-07-13"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2006-07-13"
+        },
+        {
+          "eventCode": "RCEX",
+          "eventDescriptionText": "Request for Continued Examination (RCE)",
+          "eventDate": "2006-07-11"
+        },
+        {
+          "eventCode": "ABN9",
+          "eventDescriptionText": "Disposal for a RCE / CPA / R129",
+          "eventDate": "2006-07-13"
+        },
+        {
+          "eventCode": "BRCE",
+          "eventDescriptionText": "Workflow - Request for RCE - Begin",
+          "eventDate": "2006-07-11"
+        },
+        {
+          "eventCode": "MCTAV",
+          "eventDescriptionText": "Mail Advisory Action (PTOL - 303)",
+          "eventDate": "2006-06-19"
+        },
+        {
+          "eventCode": "CTAV",
+          "eventDescriptionText": "Advisory Action (PTOL-303)",
+          "eventDate": "2006-06-15"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2006-06-13"
+        },
+        {
+          "eventCode": "A.NE",
+          "eventDescriptionText": "Response after Final Action",
+          "eventDate": "2006-06-09"
+        },
+        {
+          "eventCode": "MCTFR",
+          "eventDescriptionText": "Mail Final Rejection (PTOL - 326)",
+          "eventDate": "2006-04-11"
+        },
+        {
+          "eventCode": "CTFR",
+          "eventDescriptionText": "Final Rejection",
+          "eventDate": "2006-04-07"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2006-02-07"
+        },
+        {
+          "eventCode": "A...",
+          "eventDescriptionText": "Response after Non-Final Action",
+          "eventDate": "2006-01-31"
+        },
+        {
+          "eventCode": "XT/G",
+          "eventDescriptionText": "Request for Extension of Time - Granted",
+          "eventDate": "2006-01-31"
+        },
+        {
+          "eventCode": "MPTDI",
+          "eventDescriptionText": "Mail-Petition Decision - Dismissed",
+          "eventDate": "2006-01-25"
+        },
+        {
+          "eventCode": "PET.",
+          "eventDescriptionText": "Petition Entered",
+          "eventDate": "2006-01-06"
+        },
+        {
+          "eventCode": "A.PE",
+          "eventDescriptionText": "Preliminary Amendment",
+          "eventDate": "2005-04-27"
+        },
+        {
+          "eventCode": "TSSCOMP",
+          "eventDescriptionText": "IFW TSS Processing by Tech Center Complete",
+          "eventDate": "2005-10-29"
+        },
+        {
+          "eventCode": "MCTNF",
+          "eventDescriptionText": "Mail Non-Final Rejection",
+          "eventDate": "2005-09-29"
+        },
+        {
+          "eventCode": "CTNF",
+          "eventDescriptionText": "Non-Final Rejection",
+          "eventDate": "2005-09-26"
+        },
+        {
+          "eventCode": "IDSC",
+          "eventDescriptionText": "Information Disclosure Statement considered",
+          "eventDate": "2005-06-10"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2005-08-16"
+        },
+        {
+          "eventCode": "RCAP",
+          "eventDescriptionText": "Reference capture on IDS",
+          "eventDate": "2005-06-10"
+        },
+        {
+          "eventCode": "M844",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2005-06-10"
+        },
+        {
+          "eventCode": "WIDS",
+          "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+          "eventDate": "2005-06-10"
+        },
+        {
+          "eventCode": "WROIPE",
+          "eventDescriptionText": "Application Return from OIPE",
+          "eventDate": "2005-06-02"
+        },
+        {
+          "eventCode": "COMP",
+          "eventDescriptionText": "Application Is Now Complete",
+          "eventDate": "2005-06-02"
+        },
+        {
+          "eventCode": "ROIPE",
+          "eventDescriptionText": "Application Return TO OIPE",
+          "eventDate": "2005-06-02"
+        },
+        {
+          "eventCode": "OIPE",
+          "eventDescriptionText": "Application Dispatched from OIPE",
+          "eventDate": "2005-06-01"
+        },
+        {
+          "eventCode": "COMP",
+          "eventDescriptionText": "Application Is Now Complete",
+          "eventDate": "2005-06-02"
+        },
+        {
+          "eventCode": "ADDFLFEE",
+          "eventDescriptionText": "Additional Application Filing Fees",
+          "eventDate": "2005-05-19"
+        },
+        {
+          "eventCode": "OATHDECL",
+          "eventDescriptionText": "A statement by one or more inventors satisfying the requirement under 35 USC 115, Oath of the Applic",
+          "eventDate": "2005-05-19"
+        },
+        {
+          "eventCode": "CLAIM",
+          "eventDescriptionText": "Claim Preliminary Amendment",
+          "eventDate": "2005-03-07"
+        },
+        {
+          "eventCode": "INCD",
+          "eventDescriptionText": "Notice Mailed--Application Incomplete--Filing Date Assigned",
+          "eventDate": "2005-03-31"
+        },
+        {
+          "eventCode": "IEXX",
+          "eventDescriptionText": "Initial Exam Team nn",
+          "eventDate": "2005-03-07"
+        }
+      ],
+      "applicationMetaData": {
+        "firstInventorToFileIndicator": "N",
+        "applicationStatusCode": 163,
+        "applicationTypeCode": "UTL",
+        "entityStatusData": {
+          "businessEntityStatusCategory": "Regular Undiscounted"
+        },
+        "filingDate": "2005-03-07",
+        "uspcSymbolText": "426/549",
+        "nationalStageIndicator": false,
+        "firstInventorName": "Susan M. Hayes-Jacobson",
+        "cpcClassificationBag": [
+          "A21D  10/02",
+          "A21D  13/41",
+          "A21D   6/001"
+        ],
+        "effectiveFilingDate": "2005-03-07",
+        "publicationDateBag": [
+          "2005-09-08"
+        ],
+        "publicationSequenceNumberBag": [
+          "0196505"
+        ],
+        "earliestPublicationDate": "2005-09-08",
+        "applicationTypeLabelName": "Utility",
+        "applicationStatusDate": "2011-02-07",
+        "class": "426",
+        "applicationTypeCategory": "REGULAR",
+        "inventorBag": [
+          {
+            "firstName": "Susan",
+            "lastName": "Hayes-Jacobson",
+            "countryCode": "US",
+            "inventorNameText": "Susan M. Hayes-Jacobson",
+            "middleName": "M.",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Minneapolis",
+                "geographicRegionName": "MINNESOTA",
+                "geographicRegionCode": "MN",
+                "countryCode": "US",
+                "nameLineOneText": "Susan M. Hayes-Jacobson",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Julie",
+            "lastName": "Piasecki",
+            "countryCode": "US",
+            "inventorNameText": "Julie A. Piasecki",
+            "middleName": "A.",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Coon Rapids",
+                "geographicRegionName": "MINNESOTA",
+                "geographicRegionCode": "MN",
+                "countryCode": "US",
+                "nameLineOneText": "Julie A. Piasecki",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Glenn",
+            "lastName": "Rasmussen",
+            "countryCode": "US",
+            "inventorNameText": "Glenn O. Rasmussen",
+            "middleName": "O.",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Champlin",
+                "geographicRegionName": "MINNESOTA",
+                "geographicRegionCode": "MN",
+                "countryCode": "US",
+                "nameLineOneText": "Glenn O. Rasmussen",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Cara",
+            "lastName": "Sekerak",
+            "countryCode": "US",
+            "inventorNameText": "Cara J. Sekerak",
+            "middleName": "J.",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Lakeville",
+                "geographicRegionName": "MINNESOTA",
+                "geographicRegionCode": "MN",
+                "countryCode": "US",
+                "nameLineOneText": "Cara J. Sekerak",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Julia",
+            "lastName": "Schmelzer",
+            "countryCode": "US",
+            "inventorNameText": "Julia M. Schmelzer",
+            "middleName": "M.",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "St. Louis Park",
+                "geographicRegionName": "MINNESOTA",
+                "geographicRegionCode": "MN",
+                "countryCode": "US",
+                "nameLineOneText": "Julia M. Schmelzer",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          },
+          {
+            "firstName": "Lanette",
+            "lastName": "Shaffer",
+            "countryCode": "US",
+            "inventorNameText": "Lanette M. Shaffer",
+            "middleName": "M.",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Hudson",
+                "geographicRegionName": "WISCONSIN",
+                "geographicRegionCode": "WI",
+                "countryCode": "US",
+                "nameLineOneText": "Lanette M. Shaffer",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          }
+        ],
+        "applicationStatusDescriptionText": "Abandoned  --  After Examiner's Answer or Board of Appeals Decision",
+        "groupArtUnitNumber": "1789",
+        "earliestPublicationNumber": "US20050196505A1",
+        "inventionTitle": "Extruded cookie units having interior designs",
+        "applicationConfirmationNumber": 2468,
+        "examinerNameText": "TRAN, LIEN THUY",
+        "subclass": "549",
+        "publicationCategoryBag": [
+          "Pre-Grant Publications - PGPub"
+        ],
+        "docketNumber": "P6109US-CIP1"
+      },
+      "parentContinuityBag": [
+        {
+          "parentApplicationStatusCode": 161,
+          "firstInventorToFileIndicator": false,
+          "claimParentageTypeCode": "CIP",
+          "claimParentageTypeCodeDescriptionText": "is a Continuation in-part of",
+          "parentApplicationStatusDescriptionText": "Abandoned  --  Failure to Respond to an Office Action",
+          "parentApplicationNumberText": "10267472",
+          "parentApplicationFilingDate": "2002-10-09",
+          "childApplicationNumberText": "11074189"
+        },
+        {
+          "parentApplicationStatusCode": 161,
+          "firstInventorToFileIndicator": false,
+          "claimParentageTypeCode": "CIP",
+          "claimParentageTypeCodeDescriptionText": "is a Continuation in-part of",
+          "parentApplicationStatusDescriptionText": "Abandoned  --  Failure to Respond to an Office Action",
+          "parentApplicationNumberText": "10267539",
+          "parentApplicationFilingDate": "2002-10-09",
+          "childApplicationNumberText": "11074189"
+        }
+      ],
+      "assignmentBag": [
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/16796/173",
+          "assignmentReceivedDate": "2005-09-14",
+          "reelAndFrameNumber": "016796/0173",
+          "frameNumber": 173,
+          "assignmentRecordedDate": "2005-09-14",
+          "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "MINNEAPOLIS",
+                "geographicRegionName": "MINNESOTA",
+                "geographicRegionCode": "MN",
+                "postalCode": "55440",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "NUMBER ONE GENERAL MILLS BLVD, PO BOX 1113",
+                "addressLineTwoText": "M04-15",
+                "ictStateCode": "MN"
+              },
+              "assigneeNameText": "GENERAL MILLS MARKETING, INC."
+            }
+          ],
+          "assignmentMailedDate": "2005-11-18",
+          "reelNumber": 16796,
+          "correspondenceAddress": {
+            "addressLineOneText": "P.O. BOX 1113",
+            "correspondentNameText": "GENERAL MILLS, INC.",
+            "addressLineTwoText": "MINNEAPOLIS, MN 55440"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2005-05-11",
+              "assignorName": "HAYES-JACOBSON, SUSAN M."
+            },
+            {
+              "executionDate": "2005-05-11",
+              "assignorName": "PIASECKI, JULIE A."
+            },
+            {
+              "executionDate": "2005-05-11",
+              "assignorName": "RASMUSSEN, GLENN O."
+            },
+            {
+              "executionDate": "2005-05-11",
+              "assignorName": "SCHMELZER, JULIA M."
+            },
+            {
+              "executionDate": "2005-05-11",
+              "assignorName": "SEKERAK, CARA J."
+            }
+          ],
+          "pageTotalQuantity": 5
+        }
+      ],
+      "pgpubDocumentMetaData": {
+        "productIdentifier": "APPXML",
+        "zipFileName": "ipa050908.zip",
+        "fileCreateDateTime": "2024-09-27T13:48:53",
+        "xmlFileName": "11074189_20050196505.xml",
+        "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/APPXML-SPLT/2005/ipa050908/11074189_20050196505.xml"
+      },
+      "lastIngestionDateTime": "2026-06-14T02:51:02",
+      "recordAttorney": {
+        "powerOfAttorneyBag": [
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "PETER",
+            "lastName": "DARDI",
+            "registrationNumber": "39650",
+            "attorneyAddressBag": [
+              {
+                "cityName": "FRIDLEY",
+                "geographicRegionName": "MINNESOTA",
+                "geographicRegionCode": "MN",
+                "countryCode": "US",
+                "postalCode": "55432",
+                "nameLineOneText": "CHRISTENSEN, FONDER, DARDI & HERBERT PLLC",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1250 EAST MOORE LAKE DRIVE",
+                "addressLineTwoText": "SUITE 205"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "404-949-5730",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "DOUGLAS",
+            "lastName": "TAYLOR",
+            "registrationNumber": "32945",
+            "attorneyAddressBag": [
+              {
+                "cityName": "GARDNERVILLE",
+                "geographicRegionName": "NEVADA",
+                "geographicRegionCode": "NV",
+                "countryCode": "US",
+                "postalCode": "89410",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1024 EAST VALLEY ROAD"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "612-709-3822",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "ARLENE",
+            "lastName": "HORNILLA",
+            "registrationNumber": "44776",
+            "attorneyAddressBag": [
+              {
+                "cityName": "MINNEAPOLIS",
+                "geographicRegionName": "MINNESOTA",
+                "geographicRegionCode": "MN",
+                "countryCode": "US",
+                "postalCode": "55432",
+                "nameLineOneText": "MOZARC MEDICAL",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "710 MEDTRONIC PARKWAY"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "952-405-0811",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "middleName": "L",
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "KAM",
+            "lastName": "LAW",
+            "registrationNumber": "44205",
+            "attorneyAddressBag": [
+              {
+                "cityName": "HONG KONG",
+                "nameLineOneText": "DRAXTAL IP CONSULTING LIMITED",
+                "addressLineOneText": "P.O.BOX. 11618",
+                "addressLineTwoText": "GENERAL POST OFFICE, CENTRAL"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "852-988-69852",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "ANNETTE",
+            "lastName": "FRAWLEY",
+            "registrationNumber": "50280",
+            "attorneyAddressBag": [
+              {
+                "cityName": "MINNEAPOLIS",
+                "geographicRegionName": "MINNESOTA",
+                "geographicRegionCode": "MN",
+                "countryCode": "US",
+                "postalCode": "55440",
+                "nameLineOneText": "GENERAL MILLS INC",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "P O BOX 1113"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "763-764-7768",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "J",
+            "lastName": "HAUN",
+            "registrationNumber": "53003",
+            "attorneyAddressBag": [
+              {
+                "cityName": "MINNEAPOLIS",
+                "geographicRegionName": "MINNESOTA",
+                "geographicRegionCode": "MN",
+                "countryCode": "US",
+                "postalCode": "55402",
+                "nameLineOneText": "PATTERSON THUENTE PEDERSEN, PA",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "80 SOUTH EIGHT STREET",
+                "addressLineTwoText": "4800 IDS CENTER"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "612-349-3009",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          },
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "JOHN",
+            "lastName": "O'TOOLE",
+            "registrationNumber": "28336",
+            "attorneyAddressBag": [
+              {
+                "cityName": "MEDICIE LAKE",
+                "geographicRegionName": "MINNESOTA",
+                "geographicRegionCode": "MN",
+                "countryCode": "US",
+                "postalCode": "55441",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "181 PENINSULA ROAD"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "763-545-6813",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          }
+        ]
+      },
+      "applicationNumberText": "11074189",
+      "correspondenceAddressBag": [
+        {
+          "cityName": "Minneapolis",
+          "geographicRegionName": "MINNESOTA",
+          "geographicRegionCode": "MN",
+          "countryCode": "US",
+          "postalCode": "55440",
+          "nameLineOneText": "Arlene Hornilla",
+          "nameLineTwoText": "General Mills",
+          "countryName": "UNITED STATES",
+          "addressLineOneText": "Number One General Mills Blvd.",
+          "addressLineTwoText": "P.O. Box 1113"
+        }
+      ]
+    }
+  ],
+  "requestIdentifier": "6e964dac-016d-4067-af26-4506870d9d58"
+}

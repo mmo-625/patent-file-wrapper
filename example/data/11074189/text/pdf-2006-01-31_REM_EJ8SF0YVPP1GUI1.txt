@@ -1,0 +1,121 @@
+Source: example/data/11074189/files/2006-01-31_REM_EJ8SF0YVPP1GUI1.pdf
+Pages: 3
+
+--- page 1 (ocr) ---
+Appl. No. 11/074,189
+Reply to Office Action mailed September 29, 2005
+Docket No. P6109US-CIP1
+
+REMARKS
+Claims 1-22 are currently pending in this application. By this amendment, claims 1, 14°
+and 20-22 are amended to further clarify the presently claimed invention. Support for the
+amendments to claims 1, 14 and 20-22 can be found at page 11, lines 16-28, page 15, lines 6-
+23 and page 16, line 26 — page 17, line 11. No new matter has been introduced by way of these
+
+amendments.
+
+Rejections under 35 U.S.C. § 112
+
+In the Office Action mailed September 29, 2005, claim 22 was rejected under 35 U.S.C.
+§ 112, second paragraph, as being indefinite for failing to particularly point out and distinctly
+claim the subject matter which Applicant regards as the invention. By way of the present
+amendment, claim 22 has been amended to overcome said rejection. Applicants respectfully
+
+request said rejection be withdrawn.
+
+Rejections under 35 U.S.C. § 103
+
+In the Office Action mailed September 29, 2005, claims 1-22 were rejected under 35
+U.S.C. § 103(a) as being unpatentable over United States Patent No. 5,620,713 to Rasmussen
+in view of U.S. Patent No. 4,894,246 to Dartey et al. In response, Applicants have amended
+independent claims 1, 14 and 20-22 to further clarify the presently claimed invention.
+
+Prima facie obviousness is not established if all the elements of the rejected claim are
+not disclosed or suggested in the cited art. In re Ochiai, 37 USPQ 1127, 1131 (Fed. Cir. 1995).
+("The test for obviousness vel non is statutory. It requires that one compare the claims’ ‘subject
+matter as a whole’ with the prior art 'to which said subject matter pertains.'"). See also, MPEP
+2143.03 "All Claim Limitations Must Be Taught or Suggested," citing In re Royka, 180 USPQ
+580 (CCPA 1974). "To establish prima facie obviousness of a claimed invention, all of the claim
+limitations must be taught or suggested by the prior art.". MPEP 2143.03.
+
+A criteria to establish a prima facie case of obviousness is that there must be some
+suggestion or motivation either in the references themselves or in the knowledge generally
+available to one of ordinary skill in the art to combine the reference teachings. MPEP 2142-
+2143. In re Vaeck, 947 F.2d 488, 20 USPQ 2d 1438 (Fed. Cir. 1991). Furthermore, the fact
+
+that references can be combined does not render the combination obvious unless the prior art
+suggests the desirability of the combination. MPEP2143.01, citing In re Mills, 16 U.S.P.Q.2d
+1430, (Fed. Cir. 1990). As summarized by MPEP 2141.02 in a bold heading - "PRIOR ART
+MUST BE CONSIDERED IN ITS ENTIRITY, INCLUDING DISCLOSURES THAT TEACH AWAY
+FROM THE CLAIMS."
+
+Page 6 of 8
+
+--- page 2 (ocr) ---
+Appl. No. 11/074,189
+Reply to Office Action mailed September 29, 2005
+Docket No. P6109US-CIP1
+
+As presently amended, independent claims 1, 14 and 20-22 relate to dough units or
+intermediates formed from a first and second dough wherein each dough has a moisture
+content from about 4% to about 15% by weight to promote simultaneous extrusion of the first
+and second dough. As discussed in the application as originally filed, a suitable extrudable
+cookie dough for use with the presently claimed invention must be formulated so as be
+extrudable and not too deformable at typical production rates (page 4, lines 21-23, page 12,
+lines 23-27). Dartey et al. discloses the use of a casing dough and a filler dough to form a
+multi-textured cookie, wherein the initial moisture content of the filler dough is generally at
+least about 15% by weight more than the initial moisture content of the casing cookie dough.
+(Col. 10, Lines 4-7). As such, at least one of the casing dough and filler dough taught by
+Dartey et al. would fall outside the presently claimed moisture content and thus does teach or
+suggest the presently claimed moisture contents for the first and second cookie dough.
+
+In addition, the casing and filling dough disclosed by Dartey et al. would be unsuitable
+for use in the extrusion process taught by Rasmussen as the increased moisture content of the
+filler dough could not used successfully with the extrusion methods taught by Rasmussen. As
+such, there is no suggestion or motivation to combine Rasmussen and Dartey et al. and
+instead, the references teach away from such a combination and the modification suggested by
+the Examiner can only be based on hindsight using Applicants’ specification as a template to
+guide the modification. Such hindsight reasoning based on Applicants’ own specification is not
+appropriate. See MPEP 2141.01(II]).
+
+As neither Rasmussen nor Dartey el al. disclose, teach or suggest a first and second
+dough having the presently claimed moisture contents, neither Rasmussen nor Dartey et al.,
+considered individually or in combination, can render independent claims 1, 14 and 20-22 as
+prima facie obvious. Thus, Applicants respectfully request withdrawal of the rejections to
+independent claims 1, 14 and 20-22. While Applicants do not acquiesce with respect to specific
+comments directed against dependent claims 2-13 and 15-19, Applicants do not comment
+
+further on these issues presently since they are moot in view of the above comments.
+
+Applicants respectfully request reconsideration and allowance of the pending claims as
+it is Applicants’ belief that the ejections have been overcome. Early notice of allowability is
+kindly requested. The Examiner is encouraged to contact the undersigned if it will assist in
+
+expediting prosecution of these claims.
+
+Please apply any charges or refunds to Deposit Account No. 07-0900 and provide
+
+notification of such transaction(s) to the address below.
+
+Respectfully submitted,
+
+Page 7 of 8
+
+--- page 3 (ocr) ---
+Appl. No. 11/074,189
+Reply to Office Action mailed September 29, 2005
+Docket No. P6109US-CIP1
+
+Attorney for Applicant
+Arlene L. Hornilla
+Reg. No. 44,776
+
+General Mills, Inc.
+
+P.O. Box 1113
+
+Minneapolis, MN 55440
+Phone: 763-764-4158
+Facsimile: 763-764-2268
+
+Page 8 of 8

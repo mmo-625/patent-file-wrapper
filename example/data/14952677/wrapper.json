@@ -1,0 +1,577 @@
+{
+  "count": 1,
+  "patentFileWrapperDataBag": [
+    {
+      "eventDataBag": [
+        {
+          "eventCode": "MABN2",
+          "eventDescriptionText": "Mail Abandonment for Failure to Respond to Office Action",
+          "eventDate": "2018-06-11"
+        },
+        {
+          "eventCode": "ABN2",
+          "eventDescriptionText": "Aband. for Failure to Respond to O. A.",
+          "eventDate": "2018-06-07"
+        },
+        {
+          "eventCode": "MCTFR",
+          "eventDescriptionText": "Mail Final Rejection (PTOL - 326)",
+          "eventDate": "2017-11-27"
+        },
+        {
+          "eventCode": "CTFR",
+          "eventDescriptionText": "Final Rejection",
+          "eventDate": "2017-11-22"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2017-09-24"
+        },
+        {
+          "eventCode": "A...",
+          "eventDescriptionText": "Response after Non-Final Action",
+          "eventDate": "2017-09-21"
+        },
+        {
+          "eventCode": "XT/G",
+          "eventDescriptionText": "Request for Extension of Time - Granted",
+          "eventDate": "2017-09-21"
+        },
+        {
+          "eventCode": "MCTNF",
+          "eventDescriptionText": "Mail Non-Final Rejection",
+          "eventDate": "2017-03-22"
+        },
+        {
+          "eventCode": "CTNF",
+          "eventDescriptionText": "Non-Final Rejection",
+          "eventDate": "2017-03-20"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2017-01-23"
+        },
+        {
+          "eventCode": "RCEX",
+          "eventDescriptionText": "Request for Continued Examination (RCE)",
+          "eventDate": "2017-01-21"
+        },
+        {
+          "eventCode": "ABN9",
+          "eventDescriptionText": "Disposal for a RCE / CPA / R129",
+          "eventDate": "2017-01-23"
+        },
+        {
+          "eventCode": "XT/G",
+          "eventDescriptionText": "Request for Extension of Time - Granted",
+          "eventDate": "2017-01-21"
+        },
+        {
+          "eventCode": "BRCE",
+          "eventDescriptionText": "Workflow - Request for RCE - Begin",
+          "eventDate": "2017-01-21"
+        },
+        {
+          "eventCode": "MCTFR",
+          "eventDescriptionText": "Mail Final Rejection (PTOL - 326)",
+          "eventDate": "2016-09-07"
+        },
+        {
+          "eventCode": "CTFR",
+          "eventDescriptionText": "Final Rejection",
+          "eventDate": "2016-09-03"
+        },
+        {
+          "eventCode": "FWDX",
+          "eventDescriptionText": "Date Forwarded to Examiner",
+          "eventDate": "2016-08-12"
+        },
+        {
+          "eventCode": "A...",
+          "eventDescriptionText": "Response after Non-Final Action",
+          "eventDate": "2016-08-09"
+        },
+        {
+          "eventCode": "XT/G",
+          "eventDescriptionText": "Request for Extension of Time - Granted",
+          "eventDate": "2016-08-09"
+        },
+        {
+          "eventCode": "CCRDY",
+          "eventDescriptionText": "Application ready for PDX access by participating foreign offices",
+          "eventDate": "2016-03-17"
+        },
+        {
+          "eventCode": "PG-ISSUE",
+          "eventDescriptionText": "PG-Pub Issue Notification",
+          "eventDate": "2016-03-17"
+        },
+        {
+          "eventCode": "MCTNF",
+          "eventDescriptionText": "Mail Non-Final Rejection",
+          "eventDate": "2016-02-10"
+        },
+        {
+          "eventCode": "CTNF",
+          "eventDescriptionText": "Non-Final Rejection",
+          "eventDate": "2016-02-07"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2016-01-29"
+        },
+        {
+          "eventCode": "MOPPT",
+          "eventDescriptionText": "Mail O.P. Petition Decision",
+          "eventDate": "2016-01-28"
+        },
+        {
+          "eventCode": "T1GR",
+          "eventDescriptionText": "Track 1 Request Granted",
+          "eventDate": "2016-01-27"
+        },
+        {
+          "eventCode": "MP003",
+          "eventDescriptionText": "Mail-Record Petition Decision of Granted to Make Special",
+          "eventDate": "2016-01-27"
+        },
+        {
+          "eventCode": "P003",
+          "eventDescriptionText": "Record Petition Decision of Granted to Make Special",
+          "eventDate": "2016-01-27"
+        },
+        {
+          "eventCode": "OPPT",
+          "eventDescriptionText": "O.P. Petition Decision",
+          "eventDate": "2016-01-25"
+        },
+        {
+          "eventCode": "DOCK",
+          "eventDescriptionText": "Case Docketed to Examiner in GAU",
+          "eventDate": "2016-01-14"
+        },
+        {
+          "eventCode": "OIPE",
+          "eventDescriptionText": "Application Dispatched from OIPE",
+          "eventDate": "2015-12-28"
+        },
+        {
+          "eventCode": "TK1R",
+          "eventDescriptionText": "Track 1 Request",
+          "eventDate": "2015-11-25"
+        },
+        {
+          "eventCode": "PGPC",
+          "eventDescriptionText": "Sent to Classification Contractor",
+          "eventDate": "2015-12-10"
+        },
+        {
+          "eventCode": "FTFS",
+          "eventDescriptionText": "FITF set to YES - revise initial setting",
+          "eventDate": "2015-12-10"
+        },
+        {
+          "eventCode": "PTA.RFE",
+          "eventDescriptionText": "Patent Term Adjustment - Ready for Examination",
+          "eventDate": "2015-11-25"
+        },
+        {
+          "eventCode": "SB39ACPR",
+          "eventDescriptionText": "Letter Accepting Permission for Application Access by Foreign IPO",
+          "eventDate": "2015-12-10"
+        },
+        {
+          "eventCode": "COMP",
+          "eventDescriptionText": "Application Is Now Complete",
+          "eventDate": "2015-12-10"
+        },
+        {
+          "eventCode": "FLRCPT.O",
+          "eventDescriptionText": "Filing Receipt",
+          "eventDate": "2015-12-10"
+        },
+        {
+          "eventCode": "PET.",
+          "eventDescriptionText": "Petition Entered",
+          "eventDate": "2015-11-25"
+        },
+        {
+          "eventCode": "EPRQ",
+          "eventDescriptionText": "PGPubs early publication request",
+          "eventDate": "2015-11-25"
+        },
+        {
+          "eventCode": "SMAL",
+          "eventDescriptionText": "Applicant Has Filed a Verified Statement of Small Entity Status in Compliance with 37 CFR 1.27",
+          "eventDate": "2015-12-09"
+        },
+        {
+          "eventCode": "APPERMS",
+          "eventDescriptionText": "Applicants have given acceptable permission for participating foreign",
+          "eventDate": "2015-11-25"
+        },
+        {
+          "eventCode": "BIG.",
+          "eventDescriptionText": "Entity Status Set To Undiscounted (Initial Default Setting or Status Change)",
+          "eventDate": "2015-11-25"
+        },
+        {
+          "eventCode": "IEXX",
+          "eventDescriptionText": "Initial Exam Team nn",
+          "eventDate": "2015-11-25"
+        }
+      ],
+      "applicationMetaData": {
+        "firstInventorToFileIndicator": "Y",
+        "applicationStatusCode": 161,
+        "applicationTypeCode": "UTL",
+        "entityStatusData": {
+          "smallEntityStatusIndicator": false,
+          "businessEntityStatusCategory": "Small"
+        },
+        "filingDate": "2015-11-25",
+        "uspcSymbolText": "381/79",
+        "nationalStageIndicator": false,
+        "firstInventorName": "Corey Lieblein",
+        "cpcClassificationBag": [
+          "H04R   1/028",
+          "F21S   4/10",
+          "F21V  33/0056",
+          "H04R   1/403"
+        ],
+        "effectiveFilingDate": "2015-11-25",
+        "publicationDateBag": [
+          "2016-03-17"
+        ],
+        "publicationSequenceNumberBag": [
+          "0080848"
+        ],
+        "earliestPublicationDate": "2016-03-17",
+        "applicationTypeLabelName": "Utility",
+        "applicationStatusDate": "2018-06-07",
+        "class": "381",
+        "applicationTypeCategory": "REGULAR",
+        "inventorBag": [
+          {
+            "firstName": "Corey",
+            "lastName": "Lieblein",
+            "inventorNameText": "Corey Lieblein",
+            "correspondenceAddressBag": [
+              {
+                "cityName": "Port Washington",
+                "geographicRegionName": "NEW YORK",
+                "geographicRegionCode": "NY",
+                "countryCode": "US",
+                "nameLineOneText": "Corey  Lieblein",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "postal"
+              },
+              {
+                "cityName": "Port Washington",
+                "geographicRegionName": "NEW YORK",
+                "geographicRegionCode": "NY",
+                "countryCode": "US",
+                "nameLineOneText": "Corey  Lieblein",
+                "countryName": "UNITED STATES",
+                "postalAddressCategory": "residence"
+              }
+            ]
+          }
+        ],
+        "applicationStatusDescriptionText": "Abandoned  --  Failure to Respond to an Office Action",
+        "customerNumber": 37476,
+        "groupArtUnitNumber": "2653",
+        "earliestPublicationNumber": "US20160080848A1",
+        "inventionTitle": "Wireless Strand Speakers With Additional Lighting Feature",
+        "applicationConfirmationNumber": 1893,
+        "examinerNameText": "ELAHEE, MD S",
+        "subclass": "79",
+        "publicationCategoryBag": [
+          "Pre-Grant Publications - PGPub"
+        ],
+        "docketNumber": "Corey-Strand"
+      },
+      "parentContinuityBag": [
+        {
+          "parentApplicationStatusCode": 159,
+          "claimParentageTypeCode": "PRO",
+          "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+          "parentApplicationStatusDescriptionText": "Provisional Application Expired",
+          "parentApplicationNumberText": "62190278",
+          "parentApplicationFilingDate": "2015-07-09",
+          "childApplicationNumberText": "14952677"
+        },
+        {
+          "parentApplicationStatusCode": 159,
+          "claimParentageTypeCode": "PRO",
+          "claimParentageTypeCodeDescriptionText": "Claims priority from a provisional application",
+          "parentApplicationStatusDescriptionText": "Provisional Application Expired",
+          "parentApplicationNumberText": "62214532",
+          "parentApplicationFilingDate": "2015-09-04",
+          "childApplicationNumberText": "14952677"
+        }
+      ],
+      "assignmentBag": [
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/38182/354",
+          "assignmentReceivedDate": "2016-04-04",
+          "reelAndFrameNumber": "038182/0354",
+          "frameNumber": 354,
+          "assignmentRecordedDate": "2016-04-04",
+          "conveyanceText": "ASSIGNMENT OF ASSIGNOR'S INTEREST",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "PORT WASHINGTON",
+                "geographicRegionName": "NEW YORK",
+                "geographicRegionCode": "NY",
+                "postalCode": "11050",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1 CHANNEL DRIVE",
+                "ictStateCode": "NY"
+              },
+              "assigneeNameText": "INNOVATIVE TECHNOLOGY ELECTRONICS CORP."
+            }
+          ],
+          "assignmentMailedDate": "2016-04-05",
+          "reelNumber": 38182,
+          "correspondenceAddress": {
+            "addressLineOneText": "13825 CHARLTON COURT",
+            "correspondentNameText": "MATTHEW T. WELKER, ESQ.",
+            "addressLineTwoText": "CLEAR SPRING, MD 21722"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2016-04-04",
+              "assignorName": "LIEBLEIN, COREY"
+            }
+          ],
+          "pageTotalQuantity": 3
+        },
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/38854/424",
+          "assignmentReceivedDate": "2016-06-09",
+          "reelAndFrameNumber": "038854/0424",
+          "frameNumber": 424,
+          "assignmentRecordedDate": "2016-06-09",
+          "conveyanceText": "NUNC PRO TUNC ASSIGNMENT",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "PORT WASHINGTON",
+                "geographicRegionName": "NEW YORK",
+                "geographicRegionCode": "NY",
+                "postalCode": "11050",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "1 CHANNEL DRIVE",
+                "ictStateCode": "NY"
+              },
+              "assigneeNameText": "INNOVATIVE TECHNOLOGY ELECTRONICS CORP."
+            }
+          ],
+          "assignmentMailedDate": "2016-06-10",
+          "reelNumber": 38854,
+          "correspondenceAddress": {
+            "addressLineOneText": "1095 AVENUE OF THE AMERICAS",
+            "correspondentNameText": "DECHERT LLP",
+            "addressLineTwoText": "NEW YORK, NY 10036-6797"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2016-06-01",
+              "assignorName": "LIEBLEIN, COREY"
+            }
+          ],
+          "pageTotalQuantity": 7,
+          "attorneyDocketNumber": "245033-146204"
+        },
+        {
+          "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/38881/767",
+          "assignmentReceivedDate": "2016-06-10",
+          "reelAndFrameNumber": "038881/0767",
+          "frameNumber": 767,
+          "assignmentRecordedDate": "2016-06-10",
+          "conveyanceText": "NUNC PRO TUNC ASSIGNMENT",
+          "imageAvailableStatusCode": true,
+          "assigneeBag": [
+            {
+              "assigneeAddress": {
+                "cityName": "WILMINGTON",
+                "geographicRegionName": "DELAWARE",
+                "geographicRegionCode": "DE",
+                "postalCode": "19801",
+                "ictCountryCode": "US",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "CORPORATION TRUST CENTER",
+                "addressLineTwoText": "1209 ORANGE STREET",
+                "ictStateCode": "DE"
+              },
+              "assigneeNameText": "INNOVATIVE TECHNOLOGY ELECTRONICS, LLC"
+            }
+          ],
+          "assignmentMailedDate": "2016-06-13",
+          "reelNumber": 38881,
+          "correspondenceAddress": {
+            "addressLineOneText": "1095 AVENUE OF THE AMERICAS",
+            "correspondentNameText": "DECHERT LLP",
+            "addressLineTwoText": "NEW YORK, NY 10036-6797"
+          },
+          "assignorBag": [
+            {
+              "executionDate": "2016-06-01",
+              "assignorName": "INNOVATIVE TECHNOLOGY ELECTRONICS CORP."
+            }
+          ],
+          "pageTotalQuantity": 7,
+          "attorneyDocketNumber": "245033-146204"
+        }
+      ],
+      "pgpubDocumentMetaData": {
+        "productIdentifier": "APPXML",
+        "zipFileName": "ipa160317.zip",
+        "fileCreateDateTime": "2024-09-27T19:27:56",
+        "xmlFileName": "14952677_20160080848.xml",
+        "fileLocationURI": "https://api.uspto.gov/api/v1/datasets/products/files/APPXML-SPLT/2016/ipa160317/14952677_20160080848.xml"
+      },
+      "lastIngestionDateTime": "2026-04-28T21:00:05",
+      "childContinuityBag": [
+        {
+          "firstInventorToFileIndicator": true,
+          "childApplicationStatusDescriptionText": "Patented Case",
+          "claimParentageTypeCode": "CIP",
+          "childApplicationStatusCode": 150,
+          "claimParentageTypeCodeDescriptionText": "is a Continuation in-part of",
+          "childPatentNumber": "D790739",
+          "parentApplicationNumberText": "14952677",
+          "childApplicationFilingDate": "2016-03-29",
+          "childApplicationNumberText": "29559496"
+        },
+        {
+          "firstInventorToFileIndicator": true,
+          "childApplicationStatusDescriptionText": "Patented Case",
+          "claimParentageTypeCode": "CON",
+          "childApplicationStatusCode": 150,
+          "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+          "childPatentNumber": "D796705",
+          "parentApplicationNumberText": "14952677",
+          "childApplicationFilingDate": "2016-03-29",
+          "childApplicationNumberText": "29559495"
+        },
+        {
+          "firstInventorToFileIndicator": true,
+          "childApplicationStatusDescriptionText": "Patented Case",
+          "claimParentageTypeCode": "CIP",
+          "childApplicationStatusCode": 150,
+          "claimParentageTypeCodeDescriptionText": "is a Continuation in-part of",
+          "childPatentNumber": "D802470",
+          "parentApplicationNumberText": "14952677",
+          "childApplicationFilingDate": "2016-03-29",
+          "childApplicationNumberText": "29559497"
+        },
+        {
+          "firstInventorToFileIndicator": true,
+          "childApplicationStatusDescriptionText": "Patented Case",
+          "claimParentageTypeCode": "CIP",
+          "childApplicationStatusCode": 150,
+          "claimParentageTypeCodeDescriptionText": "is a Continuation in-part of",
+          "childPatentNumber": "D790740",
+          "parentApplicationNumberText": "14952677",
+          "childApplicationFilingDate": "2016-03-29",
+          "childApplicationNumberText": "29559501"
+        }
+      ],
+      "recordAttorney": {
+        "customerNumberCorrespondenceData": {
+          "powerOfAttorneyAddressBag": [
+            {
+              "cityName": "CLEAR SPRING",
+              "geographicRegionName": "MARYLAND",
+              "geographicRegionCode": "MD",
+              "countryCode": "US",
+              "postalCode": "21722-0199",
+              "nameLineOneText": "WHITE-WELKER & WELKER, LLC",
+              "countryName": "UNITED STATES",
+              "addressLineOneText": "P.O. BOX 199"
+            }
+          ],
+          "patronIdentifier": 37476
+        },
+        "powerOfAttorneyBag": [
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "MATTHEW",
+            "lastName": "WELKER",
+            "registrationNumber": "53756",
+            "attorneyAddressBag": [
+              {
+                "cityName": "CLEAR SPRING",
+                "geographicRegionName": "MARYLAND",
+                "geographicRegionCode": "MD",
+                "countryCode": "US",
+                "postalCode": "21722-019",
+                "nameLineOneText": "WHITE-WELKER & WELKER, LLC",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "P.O. BOX 199"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "410-.50-7.2837",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          }
+        ],
+        "attorneyBag": [
+          {
+            "activeIndicator": "ACTIVE",
+            "firstName": "MATTHEW",
+            "lastName": "WELKER",
+            "registrationNumber": "53756",
+            "attorneyAddressBag": [
+              {
+                "cityName": "CLEAR SPRING",
+                "geographicRegionName": "MARYLAND",
+                "geographicRegionCode": "MD",
+                "countryCode": "US",
+                "postalCode": "21722-019",
+                "nameLineOneText": "WHITE-WELKER & WELKER, LLC",
+                "countryName": "UNITED STATES",
+                "addressLineOneText": "P.O. BOX 199"
+              }
+            ],
+            "telecommunicationAddressBag": [
+              {
+                "telecommunicationNumber": "410-.50-7.2837",
+                "telecomTypeCode": "TEL"
+              }
+            ],
+            "registeredPractitionerCategory": "ATTNY"
+          }
+        ]
+      },
+      "applicationNumberText": "14952677",
+      "correspondenceAddressBag": [
+        {
+          "cityName": "CLEAR SPRING",
+          "geographicRegionName": "MARYLAND",
+          "geographicRegionCode": "MD",
+          "countryCode": "US",
+          "postalCode": "21722-0199",
+          "nameLineOneText": "WHITE-WELKER & WELKER, LLC",
+          "countryName": "UNITED STATES",
+          "addressLineOneText": "P.O. BOX 199"
+        }
+      ]
+    }
+  ],
+  "requestIdentifier": "436038a0-959e-46fc-9f33-243f6583e84a"
+}

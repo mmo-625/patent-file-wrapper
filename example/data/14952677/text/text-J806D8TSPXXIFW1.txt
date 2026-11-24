@@ -1,0 +1,100 @@
+Source: example/data/14952677/files/2017-09-21_CLM_J806D8TSPXXIFW1.xml:14952677/J806D8TSPXXIFW1/14952677.2017-09-20.J806D8TSPXXIFW1.CLM.xml
+Type: ClaimsDocument
+Markup: [+inserted+]  [-deleted-]
+
+Claim 1 (Previously presented)
+A plurality of wireless strand speakers with additional lighting features comprising:
+a plurality of speakers strung together in combination forming a string of speakers,
+a wireless speaker and a plurality of additional speakers are hardwired to each other forming the spring of speakers;
+the first speaker on the string is wireless, using wireless technology to obtain input;
+the wireless first speaker on the string is wired to a plurality of additional speakers
+hardwired to each other;
+the wireless speaker on the string is paired to a device providing the audio;
+the rest of the speakers on the string are hardwired to each other;
+a plurality of lights strung together in combination forming a string of lights;
+the string of lights is combined with the string of speakers;
+the string of lights and the string of speakers share a power cable; and
+the string of lights and the string of speakers work separately and independently and are not otherwise connected.
+
+Claim 2 (Previously presented)
+The strand speaker device of claim 1, further comprising
+an auxiliary (AUX) connection so a user can connect a first set of string of speakers to a second set of string speakers.
+
+Claim 3 (Original)
+The strand speaker device of claim 2, wherein for the linked chain speakers, all speakers will be AUX including the first wireless speaker.
+
+Claim 4 (Original)
+The strand speaker device of claim 1, wherein
+the speakers should have between 1%2 Watt to 5 Watts each; and
+the speakers are placed every 4 to 5 feet apart along the light string.
+
+Claim 5 (Original)
+The strand speaker device of claim 1, wherein on one end of the string of speakers will have a male auxiliary (AUX) in connection to
+connect to additional speaker sets.
+
+Claim 6 (Original)
+The strand speaker device of claim 5, wherein on the opposing end of the speaker string, a female auxiliary (AUX) in connection for non-wired audio devices to connect to the speakers is provided.
+
+Claim 7 (Previously presented)
+The strand speaker device of claim 1, wherein the device will be constructed from weather proof cord for the speaker wiring;
+black or green cord color, and in 20, 30, and 40 foot sections.
+
+Claim 8 (Original)
+The strand speaker device of claim 1, further comprising a wired or wireless remote control option for controlling the speakers; and
+a rechargeable battery pack.
+
+Claim 9 (Original)
+The strand speaker device of claim 1, further comprising a slide switch used to control the device; and
+the slide switch would be able to turn the device on and off.
+
+Claim 10 (Canceled)
+
+
+Claim 11 (unknown)
+The strand lighting device of claim 1, wherein bulbs can be incandescent or LED of any color.
+
+Claim 12 (Previously presented)
+The strand lighting device of claim 1, wherein the first speaker on the string is wireless, using wireless technology to obtain input;
+the wireless speaker on the string will be paired to a device providing the audio;
+the first speaker on the string is wired to a plurality of additional speakers hardwired to
+each other;
+the rest of the speakers on the string are hardwired to each other; and
+the rest of the speakers on the string are hardwired to the wireless speaker.
+
+Claim 13 (Previously presented)
+The strand lighting device of claim 1, further comprising
+an auxiliary (AUX) connection so a user can connect one string of speakers to a "Host" Chain; and
+wherein for the linked chain speakers, all speakers will be AUX including the first wireless speaker.
+
+Claim 14 (Previously presented)
+The strand lighting device of claim 1, wherein the speakers should have between 1%2 Watt to 5 Watts each; and
+placed every 3 to 4 to 5 feet apart along the light string;
+lights are spaced three inches apart along the string.
+
+Claim 15 (Previously presented)
+The strand lighting device of claim 1, wherein one end of the string of lights/speakers will have a female outlet that will enable users to plug into a second strand of lights into the present invention using any other type of chain lights;
+and this end will also provide a male auxiliary (AUX) in connection to connect to additional light sets that include speakers.
+
+Claim 16 (Original)
+The strand lighting device of claim 15, wherein
+on the opposing end of the light string, a male and female plug is provided to all the string to be connected to a standard power outlet and also provide a female plug so additional strings or other devices can have access to the outlet; and
+this end will be provided with a female auxiliary (AUX) in connection for non-wired audio devices to connect to the speakers.
+
+Claim 17 (Previously presented)
+The strand lighting device of claim 1, wherein the device will be constructed from weather proof cord for both the light wiring and speaker wiring;
+black or green cord color, and in 20, 30, and 40 foot sections.
+
+Claim 18 (Previously presented)
+The strand lighting device of claim 1, further comprising
+a rechargeable battery pack;
+a wired or wireless remote control option for controlling the speakers and lights;
+the remote providing one or more lighting mode options; and lighting options include three different types of light modes:
+on;
+blink; and
+pulse to music.
+
+Claim 19 (Original)
+The strand lighting device of claim 1, further comprising a slide switch used to control the device;
+the slide switch would be able to turn the device on and off;
+set it to lights only;
+set it to speakers only; or set it to lights and speakers.

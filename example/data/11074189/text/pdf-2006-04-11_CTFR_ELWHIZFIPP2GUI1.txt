@@ -1,0 +1,242 @@
+Source: example/data/11074189/files/2006-04-11_CTFR_ELWHIZFIPP2GUI1.pdf
+Pages: 7
+
+--- page 2 (ocr) ---
+Application No. Applicant(s)
+11/074,189 HAYES-JACOBSON ET AL.
+
+Office Action Summary Examiner Art Unit
+1761 |
+
+-- The MAILING DATE of this communication appears on the cover sheet with the correspondence address --
+Period for Reply
+
+A SHORTENED STATUTORY PERIOD FOR REPLY IS SET TO EXPIRE 3 MONTH(S) OR THIRTY (30) DAYS,
+WHICHEVER IS LONGER, FROM THE MAILING DATE OF THIS COMMUNICATION.
+
+Extensions of time may be available under the provisions of 37 CFR 1.136(a). In no event, however, may a reply be timely filed
+
+after SIX (6) MONTHS from the mailing date of this communication.
+- If NO period for reply is specified above, the maximum statutory period will apply and will expire SIX (6) MONTHS from the mailing date of this communication.
+- Failure to reply within the set or extended period for reply will, by statute, cause the application to become ABANDONED (35 U.S.C. § 133).
+
+Any reply received by the Office later than three months after the mailing date of this communication, even if timely filed, may reduce any
+
+earned patent term adjustment. See 37 CFR 1.704(b).
+
+Status
+
+1)K] Responsive to communication(s) filed on 31 January 2006.
+2a) This action is FINAL. 2b)L] This action is non-final.
+3)L Since this application is in condition for allowance except for formal matters, prosecution as to the merits is
+closed in accordance with the practice under Ex parte Quayle, 1935 C.D. 11, 453 O.G. 213.
+
+Disposition of Claims
+
+4)X1 Claim(s) 1-22 is/are pending in the application.
+4a) Of the above claim(s) is/are withdrawn from consideration.
+5)LJ Claim(s) is/are allowed.
+6)X] Claim(s) 1-22 is/are rejected.
+7)L) Claim(s) __ is/are objected to.
+-8)L] Claim(s)___ are subject to restriction and/or election requirement.
+
+Application Papers
+
+_9)L] The specification is objected to by the Examiner.
+10) The drawing(s) filed on is/are: a)L] accepted or b)L] objected to by the Examiner.
+
+Applicant may not request that any objection to the drawing(s) be held in abeyance. See 37 CFR 1.85(a).
+
+Replacement drawing sheet(s) including the correction is required if the drawing(s) is objected to. See 37 CFR 1.121(d).
+11)L] The oath or declaration is objected to by the Examiner. Note the attached Office Action or form PTO-152.
+
+Priority under 35 U.S.C. § 119
+
+12)] Acknowledgment is made of a claim for foreign priority under 35 U.S.C. § 119(a)-(d) or (f).
+a)LJAI b)LJ Some * c)L] None of:
+1.11 Certified copies of the priority documents have been received.
+2.L] Certified copies of the priority documents have been received in Application No.
+3...) Copies of the certified copies of the priority documents have been received in this National Stage
+application from the International Bureau (PCT Rule 17.2(a)).
+* See the attached detailed Office action for a list of the certified copies not received.
+
+| Attachment(s)
+
+1) [X] Notice of References Cited (PTO-892) 4) [J interview Summary (PTO-413)
+
+2) OC Notice of Draftsperson’s Patent Drawing Review (PTO-948) Paper No(s)/Mail Date. ___
+‘1 3) (CJ information Disclosure Statement(s) (PTO-1449 or PTO/SB/08) 5) (] Notice of Informal Patent Application (PTO-152)
+, Paper No(s)/Mail Date . 6) CL) other:
+
+U.S. Patent and Trademark Office
+’ PTOL-326 (Rev. 7-05) Office Action Summary Part of Paper No./Mail Date 0406
+
+--- page 3 (ocr) ---
+Application/Contro! Number: 11/074,189 Page 2
+Art Unit: 1761
+
+Claims 1-22 are rejected under 35 U.S.C. 112, first paragraph, as failing to
+comply with the written description requirement. The claim(s) contains subject matter
+which was not described in the specification in such a way as to reasonably convey to
+one skilled in the relevant art that the inventor(s), at the time the application was filed,
+
+had possession of the claimed invention.
+| In the amendment filed 1/31/06, applicant amends claims 1, 14, 20-22 to add the
+limitation “ wherein both the first cookie dough and the second cookie dough have a
+moisture content from about 4-15%”. This limitation is not supported by the original
+disclosure. Page 11 disclose the water content of 4-15%; there is no disclosure that
+| the moisture content of the dough is about 4-15%. The specification does not disclose
+that the moisture content of the dough comes just from the water content. It is well
+known that flour has moisture content, shortening can influence the moisture content of
+the dough and other ingredients such as sugar, egg, color etc.. can also influence the
+moisture content of the dough. Water content and the moisture content of the dough
+are not the same.
+
+Claims 1-22 are rejected under 35 U.S.C. 103(a) as being unpatentable over
+Rasmussen in view of Dartey et al., Drantch et al, Hay, Jr. et al and Lengerich et al
+
+Rasmussen discloses a cookie dough intermediate having and integral design
+element. The dough intermediate is made from two dough mixes having different
+identifiable indicia such as different color characteristics or texture characteristics. The
+inner and outer cookie doughs form and interior cross sectional shape of dough that is
+
+visible. The dough intermediate is formed by simultaneously extruding two different
+
+--- page 4 (ocr) ---
+Application/Control Number: 11/074,189 Page 3
+Art Unit: 1761 .
+
+doughs through a pair of concentric dies. The co-extruded dough has an internal or
+center portion dough that is of desired cross sectional shape and encased by a second
+dough. The dough log is sliced to form individual units. The shape of an animal is
+shown in figure 3 and 6. (see col. 1 lines 55-60 and col. 4 lines 47-55)
+
+Rasmussen does not disclose a dough containing shortening with a SFI between
+about 22-35 at about 70 degree F, the moisture content of the dough, the ratio of the
+height and cross-sectional length, integral design that is visible on both sides, the
+amount of first cookie dough, a third portion of dough, design that is a particular theme
+such as seasonal, sporting and holiday, sugar having the particle size distribution as
+claimed, adding inclusion, the type of cutter as claimed, packaging the dough pieces
+and non-circular external shape.
+
+Dartey et al disclose a cookie dough. They disclose that shortening having a
+solid fat index of about 15-25% at 70 degree F is commonly used in cookie dough.
+(see col. 4 lines 60-65) |
+
+Hay Jr. et al disclose cookie dough which is formed into cookies by extrusion; the
+dough has a moisture content of less than about 20%. (see col. 8 lines 25-30) |
+
+Lengerich et al disclose cookie dough to form cookies using an extruder; the
+dough has a moisture content of less than 10%. (see col. 10 lines 49-66)
+
+Drantch et al disclose cookie dough; the dough has a moisture content of about
+5-15%. |
+
+As shown by the prior art, cookie dough can have a moisture content varying
+
+over arange. Thus, it would have been obvious to one skilled in the art to determine
+
+--- page 5 (ocr) ---
+Application/Control Number: 11/074,189 Page 4
+Art Unit: 1761
+
+the proper moisture content of the dough so that it can be properly prepared with the
+equipment used and that it would give the proper texture and taste. This determination -
+would have been readily apparent to one skilled in the art through the teaching of the
+prior art. The prior art teaches the moisture content that is typically found in cookie
+dough. It would have been obvious to one skilled in the art to use shortening having the
+claimed solid fat index because Dartey et al disclose such shortening is normally used
+in cookie dough. It would have been obvious.to combine flour, sugar, water and flour to
+make the cookie dough because such ingredients are common ingredients for cookie
+dough as shown by Dartey et al. The Rasmussen dough has a particular configuration
+and is made up of two different doughs. Since the dough intermediate is made by the
+same method of coextruding the two doughs, it is obvious the dough can be made to
+have integral design element that is visible on both sides and it would have been
+obvious to one skilled in the art to do so when desiring to enhance the appearance of
+the product. It would have been obvious to vary the dough proportion depending on the
+configuration made, the particular design wanted and the taste, flavor and texture
+desired. It would also have been obvious to one skilled in the art to change the shape
+
+| of the dies to make different external configurations and internal designs and to use
+additional dough portion to form different design elements. These parameters involves
+routine manipulation of dough equipment and would have been within the determination
+of one in the art through routine experimentation. There are many variations in making
+cookies, including different figures, decoration, dough, desire, shape etc.. All these
+
+variations are well known in the art and would have been within the skill of one in the
+
+--- page 6 (ocr) ---
+Application/Control Number: 11/074,189 _- Page 5
+Art Unit: 1761
+
+art. It would have been obvious to make the dough to fit a particular theme depending
+on the time of the year and the intended use. For example, if the dough is made during
+the winter, it would have been obvious to make a Christmas tree or wreath to have a
+holiday theme. It would have been obvious to use any cutter known in the art to cut the
+dough and it would have been obvious to package the dough pieces for commercial
+distribution and storage; this is well known in the art. As to the sugar particles, there are
+many types of sugar available; for example, there are coarse sugar, fine sugar, very fine”
+sugar etc.. The size of the sugar granule can also be manipulated manually. It would
+have been obvious to one skilled in the art to use sugar size that will mix optimally with
+the ingredients to make a homogenous dough. The appropriate size of sugar is a
+
+" result-effect variable which can be determined by one skilled in the art to produce the
+most optimum product. It would have been obvious to add inclusions such as nut, fruit
+etc.. to enhance the flavor, taste and texture of the cookie product.
+
+The change in the rejection is necessitated by amendment.
+
+In the response filed 1/31/06, applicant argues that Dartey et al disclose a dough
+in which the filler dough has a moisture content which is outside the range claimed. The
+Dartey et al reference is only relied upon for the teaching of using shortening with the
+claimed solid fat index. As shown by the prior art, the moisture content claimed is
+conventional in cookie dough. |
+
+Applicant's arguments with respect to claims 1-22 have been considered but are
+
+moot in view of the new ground(s) of rejection.
+
+--- page 7 (ocr) ---
+Application/Control Number: 11/074,189 Page 6
+Art Unit: 1761
+
+Applicant's amendment necessitated the new ground(s) of rejection presented in
+this Office action. Accordingly, THIS ACTION IS MADE FINAL. See MPEP
+§ 706.07(a). Applicant is reminded of the extension of time policy as set forth in 37
+CFR 1.136(a).
+
+A shortened statutory period for reply to this final action is set to expire THREE
+MONTHS from the mailing date of this action. In the event a first reply is filed within
+TWO MONTHS of the mailing date of this final action and the advisory action is not
+mailed until after the end of the THREE-MONTH shortened statutory period, then the
+shortened statutory period will expire on the date the advisory action is mailed, and any
+extension fee pursuant to 37 CFR 1.136(a) will be calculated from the mailing date of
+the advisory action. Inno event, however, will the statutory period for reply expire later
+than SIX MONTHS from the date of this final action.
+
+Any inquiry concerning this communication or earlier communications from the
+examiner should be directed to Lien T. Tran whose telephone number is 571-272-1408.
+The examiner can normally be reached on Tuesday, Thursday-Friday.
+
+If attempts to reach the examiner by telephone are unsuccessful, the examiner's
+supervisor, Cano Milton can be reached on 571-272-1398. The fax phone number for
+
+the organization where this application or proceeding is assigned is 571-273-8300.
+
+--- page 8 (ocr) ---
+Application/Control Number: 11/074,189 , Page 7
+Art Unit: 1761
+
+Information regarding the status of an application may be obtained from the
+Patent Application Information Retrieval (PAIR) system. Status information for
+published applications may be obtained from either Private PAIR or Public PAIR.
+Status information for unpublished applications is available through Private PAIR only.
+For more information about the PAIR system, see http://pair-direct.uspto.gov. Should
+you have questions on access to the Private PAIR system, contact the Electronic
+Business Center (EBC) at 866-217-9197 (toll-free).
+
+4/7/2006
+
+Na_
+LIEN TRAW
+PRIMARY EXAMINER

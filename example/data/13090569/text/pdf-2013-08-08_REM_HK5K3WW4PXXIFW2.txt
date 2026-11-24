@@ -1,0 +1,168 @@
+Source: example/data/13090569/files/2013-08-08_REM_HK5K3WW4PXXIFW2.pdf
+Pages: 4
+
+--- page 1 (ocr) ---
+109769.0270
+Examiner Joanne Silbermann
+Art Unit 3611
+
+REMARKS
+
+This paper is responsive to the final Office Action dated July 2, 2013. No extensions of time
+
+and/or additional claim fees are believed to be due.
+
+Claims | through 22 are pending in this application. Claims 16, 21 and 22 are withdrawn from
+
+consideration. Claims 1, 2, 8, 10 through 13, 15 and 17 have been amended. Support for the
+
+amendments to claims 1, 2, 8, 10 through 13, 15 and 17 can be found in the specification as filed.
+
+Accordingly, no new matter has been added. As such, entry of the amendments and
+
+consideration of the remarks which follow is respectfully requested.
+
+The Drawings
+The drawings are objected to under 37 CFR 1.83(a). The drawings must show every
+
+feature of the invention specified in the claims. Therefore, the touch sensor switch (claim
+15) must be shown or the feature cancelled from the claims. The term “touch sensor
+
+switch” has been removed from the claim language.
+
+The 35 U.S.C. § 112, second paragraph Rejections:
+Claims 1, 2 and 10 through 13 are rejected under 35 U.S.C. § 112(a), second paragraph,
+
+as being indefinite for failing to particularly point out and distinctly claim the subject
+
+matter which the inventor regards as the invention.
+
+In claim 1, lines 10-11 the phrase “the digital audio file” does not have proper antecedent
+basis. Also, claim 1, line 5 refers to “at least two digital audio files”. Since the at least
+two files are not differentiated, it cannot be determined which one is referred to in lines
+
+10-11. Claim 1 has been amended to correct this error.
+
+Page 6 of 9
+
+--- page 2 (ocr) ---
+U1.
+
+109769.0270
+Examiner Joanne Silbermann
+Art Unit 3611
+In claims 10 through 12 “the digital audio file” is confusing since these claims depend
+
+from claim 8 which recites “two or more digital audio files”. Claims 10 through 12 have
+
+been amended to remove the confusing language.
+
+In claim 13 it is not clear it is not clear if “a first digital audio file” is one of the “two or
+more digital audio files” from claim 8 or a further third audio file. Claim 13 has been
+
+amended to clear up the confusing language.
+
+In claim 2, “the at least two switches lacks antecedent basis. Only one switch is recited
+in claim 1, as amended. Claim 2 has been amended to remove the phrase “‘the at least
+
+two switches.”
+
+Applicant respectfully requests withdrawal of the 35 U.S.C. § 112, second paragraph
+
+rejection of claims 1, 2 and 10 through 13
+
+The 35 U.S.C. § 103(a) Rejections:
+Claims | through 5, 8 through 15 and 17 through 20 are rejected under 35 U.S.C. §
+
+103(a) as being unpatentable over U.S. Patent No. 7,356,950 (Avery) in view of U.S.
+Patent Application Publication No. 2005/0287913 (Ellman). The Ellman reference is
+directed to a toy, such as a doll, which contains an expression mechanism such that user
+interaction with said doll can cause the doll’s eyes and mouth to move and to take on
+certain facial expressions and the doll may also be capable of responding to a user’s
+touch, such as by pressing or rubbing the doll’s chest the doll may simulate laughing or
+crying. The present invention is directed to an interactive greeting card which contains
+electronics which make the greeting card capable of interacting with a user by emitting
+sound in response to the user’s continuous touch or motion applied thereon. Applicant is
+of the opinion that the Ellman reference is not analogous art to the present invention
+because the doll disclosed by Ellman is a substantive article that cannot be easily placed
+into an envelope and mailed to a user. The electronics required to effect sound in
+
+response to user-interaction are completely different in the two cases given that the
+
+Page 7 of 9
+
+--- page 3 (ocr) ---
+109769.0270
+Examiner Joanne Silbermann
+Art Unit 3611
+greeting card must be relatively lightweight, flat, and inexpensive. The choices one
+would make in inventing or designing an electronic solution given these considerations,
+would not be the same choices one would make when inventing or designing a child’s toy
+or doll. It is obvious from the figures set forth in the Ellman reference, that the internal
+components of the doll are quite intricate and substantial compared to the internal
+components of the subject greeting card. In addition to the difference in electronics, a
+person receiving the doll (as a gift or otherwise) disclosed by Ellman would perhaps
+expect added features such as facial movement, audio capabilities and user interactive
+qualities. Alternatively, while audio greeting cards may be well known in the art, user-
+interactive greeting cards wherein the user effects audio by interacting directly with the
+greeting card would provide a bigger surprise and entertainment value to the greeting
+card recipient. It is far more surprising to receive such an interactive device in such a
+
+small, inexpensive, paper-based product.
+
+Applicant also disagrees with the Examiners opinion that increasing the speed of the
+user-applied motion to the greeting card causes an increase in either the speed or volume
+of the audio is simply a matter of well-known controls. Of course, controls exist such as
+knobs, buttons, dials, etc., however, the same user-interaction which triggers the audio
+playback also controls the speed and/or sound. There is no additional controls required to
+effectuate these special effects. The user-interactive control also provides the greeting
+card recipient with increased entertainment value by increasing the speed of a recorded
+voice or animal sound or the volume of a guitar solo. These types of payoffs are not
+gained by having a separate device such as a knob or button which controls the volume
+and/or speed. None of the cited prior art discloses this feature and the unique
+combination of user-interactive sound effects with user-controlled speed and/or volume
+in a typical greeting card are novel and non-obvious, especially given that this
+
+combination is not disclosed in the prior art.
+
+In summary, Applicant is of the opinion that adding the user-interactive audio playback
+
+to a typical greeting card is far different, both technically and from an entertainment
+
+Page 8 of 9
+
+--- page 4 (ocr) ---
+109769.0270
+Examiner Joanne Silbermann
+Art Unit 3611
+perspective, from adding this type of functionality to a much larger, much more
+expensive and substantial children’s toy such as the doll described by Ellman. For at
+least these reasons, Applicant respectfully requests withdrawal of the 35 U.S.C. § 103(a)
+rejection of claims | through 5, 8 through 15 and 17 through 20.
+
+Claims 6 and 7 are rejected under 35 U.S.C. § 103(a) as being unpatentable over Avery
+and Ellman as applied to claim 1 and further in view of U.S. Patent No. 4,200,222
+(Feuer). Claims 6 and 7 are dependent from claim 1. Please see the arguments set forth
+above with respect to the non-obviousness of claim 1. Since the Feuer reference does not
+cure the deficiencies of the Avery and Ellman references Feuer cannot be said to render
+obvious claims 6 and 7. Applicant therefore respectfully requests withdrawal of the 35
+
+U.S.C. § 103(a) rejections of claims 6 and 7.
+
+Conclusion:
+
+For at least the foregoing reasons, claims | through 15 and 17 through 20 are believed to
+be in condition for allowance and a Notice of Allowance is respectfully requested.
+Should the Examiner wish to discuss any of the foregoing in more detail, the undersigned
+
+attorney would welcome a telephone call.
+
+Respectfully Submitted,
+
+Christine A. Flanagan, Reg. No. 65,482
+13500 Pearl Road, Suite 139, #112
+Strongsville, OH 44136
+
+216-367-2788
+
+Page 9 of 9

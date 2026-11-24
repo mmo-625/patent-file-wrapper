@@ -147,7 +147,7 @@ def breakdown_html(breakdown):
 
 def markup_html(line):
     """Escape a claim line, then turn [+inserted+] into <ins> and [-deleted-] into <del>."""
-    html = escape(line)
+    html = escape(re.sub(r"\[\?(.*?)\?\]", r"\1", line))  # [?uncertain OCR?] -> plain text
     html = re.sub(r"\[\+(.*?)\+\]", r"<ins>\1</ins>", html)
     return re.sub(r"\[-(.*?)-\]", r"<del>\1</del>", html)
 
@@ -156,10 +156,16 @@ def claims_html(found):
     """One collapsible button per independent claim (native <details>, no JavaScript)."""
     parts = []
     for claim in found:
+        lines = claim.get("lines") or []
         body = "".join(f'<p{" class=\"limit\"" if i else ""}>{markup_html(line)}</p>'
-                       for i, line in enumerate(claim.get("lines") or []))
-        legend = ('<p class="legend"><ins>inserted</ins> · <del>deleted</del></p>'
-                  if claim.get("amended") else "")
+                       for i, line in enumerate(lines))
+        legend = ""  # only when there is markup to explain
+        if any("[+" in line or "[-" in line for line in lines):
+            legend = "<ins>inserted</ins> · <del>deleted</del>"
+            if claim.get("reconstructed"):  # older scanned filing: compared with the last one
+                legend += ("<br>Changes found by comparing with the previous claims. "
+                           "Scanned filings may include OCR errors.")
+            legend = f'<p class="legend">{legend}</p>'
         parts.append(f'<details class="claim"><summary>Claim {escape(str(claim.get("number")))} · '
                      f'{escape(claim.get("status") or "")}</summary>'
                      f'<div class="panel">{legend}{body}</div></details>')
@@ -170,7 +176,8 @@ def claims_html(found):
 # on one day (e.g. ELC. + CLM + REM), so they are counted once per date.
 SUMMARY = [("restriction", {"CTRS"}),
            ("rejection", {"CTNF", "CTFR"}),
-           ("response", {"ELC.", "A...", "A.NE", "AMSB", "RCEX", "SA..", "A.QU", "REM"}),
+           ("RCE", {"RCEX"}),
+           ("response", {"ELC.", "A...", "A.NE", "AMSB", "SA..", "A.QU", "REM"}),
            ("interview", {"EXIN"}),
            ("allowance", {"NOA"})]
 COUNT_BY_DATE = {"response"}

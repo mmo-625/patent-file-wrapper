@@ -1,0 +1,43 @@
+Source: example/data/13090569/files/2013-01-31_CTNF_HCLX3PAEPXXIFW4.xml:13090569/HCLX3PAEPXXIFW4/Non-Final Rejection.xml
+Type: OutgoingDocument
+Markup: [+inserted+]  [-deleted-]
+
+## DETAILED ACTION
+
+## Drawings
+The drawings are objected to under 37 CFR 1.83(a). The drawings must show every feature of the invention specified in the claims. Therefore, the circuit board, the integrated circuit, the touch sensor switch, the memory storage device, the printed circuit board, and the touch sensitive switch must be shown or the feature(s) canceled from the claim(s). No new matter should be entered.
+Corrected drawing sheets in compliance with 37 CFR 1.121(d) are required in reply to the Office action to avoid abandonment of the application. Any amended replacement drawing sheet should include all of the figures appearing on the immediate prior version of the sheet, even if only one figure is being amended. The figure or figure number of an amended drawing should not be labeled as “amended.” If a drawing figure is to be canceled, the appropriate figure must be removed from the replacement sheet, and where necessary, the remaining figures must be renumbered and appropriate changes made to the brief description of the several views of the drawings for consistency. Additional replacement sheets may be necessary to show the renumbering of the remaining figures. Each drawing sheet submitted after the filing date of an application must be labeled in the top margin as either “Replacement Sheet” or “New Sheet” pursuant to 37 CFR 1.121(d). If the changes are not accepted by the examiner, the applicant will be notified and informed of any required corrective action in the next Office action. The objection to the drawings will not be held in abeyance.
+
+## Election/Restrictions
+Claims 16, 21, and 22 stand withdrawn from further consideration pursuant to 37 CFR 1.142(b) as being drawn to a nonelected species, there being no allowable generic or linking claim. Election was made without traverse in the reply filed on 10/29/12.
+
+## Claim Rejections - 35 USC § 112
+The following is a quotation of 35 U.S.C. 112(b):
+(B) CONCLUSION.—The specification shall conclude with one or more claims particularly pointing out and distinctly claiming the subject matter which the inventor or a joint inventor regards as the invention.
+The following is a quotation of 35 U.S.C. 112 (pre-AIA), second paragraph:
+The specification shall conclude with one or more claims particularly pointing out and distinctly claiming the subject matter which the applicant regards as his invention.
+Claims 1-7 are rejected under 35 U.S.C. 112(b) or 35 U.S.C. 112 (pre-AIA), second paragraph, as being indefinite for failing to particularly point out and distinctly claim the subject matter which the inventor or a joint inventor, or for pre-AIA the applicant regards as the invention.
+It is not clear from claim 1 (in light of the Drawings and Specification) how the greeting card comprises a touch sensor switch, at least two switches, and a touch sensitive switch, all of which are recited in the claim. As best as the claimed invention can be understood, the card comprises one touch sensitive switch and one slide switch. Claims 2-7 are rejected as depending from a rejected base claim.
+
+## Claim Rejections - 35 USC § 103
+The following is a quotation of 35 U.S.C. 103(a) which forms the basis for all obviousness rejections set forth in this Office action:
+(a) A patent may not be obtained though the invention is not identically disclosed or described as set forth in section 102 of this title, if the differences between the subject matter sought to be patented and the prior art are such that the subject matter as a whole would have been obvious at the time the invention was made to a person having ordinary skill in the art to which said subject matter pertains. Patentability shall not be negatived by the manner in which the invention was made.
+Claims 1-5, 8-15, and 17-20 (as far as definite) are rejected under 35 U.S.C. 103(a) as being unpatentable over Avery, US patent 7,356,950 (Avery) in view of Ricotta, US patent 6,084,569 (Ricotta).
+Avery teaches a greeting card comprising body 10 (Figure 1) having a plurality of panels 21, 22A, 22B, with indicia thereon wherein two of the panels 22A and 22B form enclosed cavity 24 (Figures 2 and 3). Cavity 24 includes an electronics module including memory storage, power source, processor, speaker, etc. for providing playback of at least one audio file upon activation of slide switch 34 (Figure 6).
+Avery does not teach a touch sensitive switch utilizing back and forth motion for providing audio playback however this is well known in the art as shown by Ricotta. Ricotta teaches a display including touch sensitive areas (Figure 3) for providing a response when a user touches the sensitive area. A user may also provide continuous motion with a finger (column 4 lines 1-17). When such motion ceases, playback will stop. It would have been obvious to a person having ordinary skill in the art to utilize a touch sensitive switch as shown by Ricotta on a card such as Avery to provide an improved display and increased entertainment for the recipient.
+Avery and Ricotta do not specifically teach the type of messages displayed by the indicia or played from the memory, however the particular indicia is considered to be entirely a matter of design choice. The examiner takes official notice of many types of greeting cards that include both sung and spoken messages as well as children’s toys and books which provide instructions. It would have been obvious to one of ordinary skill to utilize the particular message desired to be conveyed to the recipient.
+Regarding claims 11 and 12, Ricotta does not specifically teach changing the speed or volume with the touch sensitive switch however these are well known controls for a display. Ricotta teaches using the touch switch to provide display information. It would have been obvious to one of ordinary skill to utilize such a switch for various ways of controlling a display.
+Claims 6 and 7 are rejected under 35 U.S.C. 103(a) as being unpatentable over Avery and Ricotta as applied to claim 1 above, and further in view of Feuer, US patent 4,200,222 (Feuer).
+Avery and Ricotta do not teach a card having an aperture in one panel or a die cut piece attached to the body however these features are well known in the art as shown by Feuer. Feuer teaches a card including aperture 24 in one panel for viewing an additional piece 20 attached to the card. It would have been obvious to one of ordinary skill to utilize such additional features in the card of Avery (as modified by Ricotta) to provide further entertainment and decoration for the viewer.
+Feuer does not specifically state that piece 20 is die cut however the method by which this piece is made is not accorded patentable weight.
+
+## Conclusion
+The prior art made of record and not relied upon is considered pertinent to applicant's disclosure. US patents 4,748,756 and 7,240,442 are cited as showing a touch sensor and a sound reproducing card.
+Any inquiry concerning this communication or earlier communications from the examiner should be directed to JOANNE SILBERMANN whose telephone number is (571)272-6653. The examiner can normally be reached on M-F 5:30 - 2:00.
+If attempts to reach the examiner by telephone are unsuccessful, the examiner’s supervisor, James Kramer can be reached on 571-272-6783. The fax phone number for the organization where this application or proceeding is assigned is 571-273-8300.
+Information regarding the status of an application may be obtained from the Patent Application Information Retrieval (PAIR) system. Status information for published applications may be obtained from either Private PAIR or Public PAIR. Status information for unpublished applications is available through Private PAIR only. For more information about the PAIR system, see http://pair-direct.uspto.gov. Should you have questions on access to the Private PAIR system, contact the Electronic Business Center (EBC) at 866-217-9197 (toll-free). If you would like assistance from a USPTO Customer Service Representative or access to the automated information system, call 800-786-9199 (IN USA OR CANADA) or 571-272-1000.
+Joanne Silbermann_x000d_ Primary Examiner_x000d_ Art Unit 3611
+Primary Examiner
+Art Unit 3611
+/Joanne Silbermann/
+Primary Examiner, Art Unit 3611

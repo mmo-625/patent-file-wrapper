@@ -1,0 +1,1 @@
+The invention features an interactive greeting card that utilizes an internal electronics module to control digital audio playback based on user interaction. Specifically, the system is designed to modulate both the speed and volume of the audio output in direct response to the speed of a continuous back-and-forth rubbing motion applied to a specific area of the card.

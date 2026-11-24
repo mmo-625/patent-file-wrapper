@@ -1,0 +1,40 @@
+Source: example/data/13090569/files/2013-09-06_CTNF_HL6P8O72PXXIFW4.xml:13090569/HL6P8O72PXXIFW4/Non-Final Rejection.xml
+Type: OutgoingDocument
+Markup: [+inserted+]  [-deleted-]
+
+The present application is being examined under the pre-AIA first to invent provisions.
+
+## DETAILED ACTION
+
+## Election/Restrictions
+Claims 16, 21, and 22 stand withdrawn from further consideration pursuant to 37 CFR 1.142(b) as being drawn to a nonelected species, there being no allowable generic or linking claim. Election was made without traverse in the reply filed on 10/29/12.
+
+## Continued Examination Under 37 CFR 1.114
+A request for continued examination under 37 CFR 1.114, including the fee set forth in 37 CFR 1.17(e), was filed in this application after final rejection. Since this application is eligible for continued examination under 37 CFR 1.114, and the fee set forth in 37 CFR 1.17(e) has been timely paid, the finality of the previous Office action has been withdrawn pursuant to 37 CFR 1.114. Applicant's submission filed on 8/26/13 has been entered.
+
+## Claim Rejections - 35 USC § 103
+The following is a quotation of pre-AIA 35 U.S.C. 103(a) which forms the basis for all obviousness rejections set forth in this Office action:
+(a) A patent may not be obtained though the invention is not identically disclosed or described as set forth in section 102 of this title, if the differences between the subject matter sought to be patented and the prior art are such that the subject matter as a whole would have been obvious at the time the invention was made to a person having ordinary skill in the art to which said subject matter pertains. Patentability shall not be negatived by the manner in which the invention was made.
+Claims 1 and 3-5 are rejected under pre-AIA 35 U.S.C. 103(a) as being unpatentable over Segan, US publication 2007/0256337 (Segan) in view of Lin, US patent 5,135,426 (Lin).
+Segan teaches an interactive greeting card comprising a greeting card body having a plurality of greeting card panels 12, 23, 24 wherein two panels, 23, 24 form an enclosed cavity [0027] housing electronics etc. [0039]. Increasing the speed of the continuous motion of crank handle 70 allows a user to control the speed of audio playback.
+Segan does not teach a back and forth motion for playback however this is well known in the art as shown by Lin. Lin teaches playback of an audio file including back and forth motion (playing the guitar) to control the tempo of the sound (column 2 lines 13-14). It would have been obvious to a person having ordinary skill in the art to utilize such a guitar playing motion on the card of Segan to provide a more attractive, fun card for the recipient.
+Regarding claims 3 and 4, Segan does not specifically teach the type of messages displayed by the indicia or played from the memory however the particular indicia are considered to be entirely a matter of design choice. The examiner takes official notice of many types of greeting cards that include both sung and spoken messages as well as children’s toys and books which provide instructions. It would have been obvious to one of ordinary skill to utilize the particular message desired to be conveyed to the recipient.
+Regarding claim 5, Segan shows the greeting card must be in the open position to activate playback using the crank (Figure 3).
+Claim 2 is rejected under pre-AIA 35 U.S.C. 103(a) as being unpatentable over Segan and Lin as applied to claim 1 above, and further in view of Avery, US patent 7,356,950 (Avery).
+Segan does not teach a slide switch to operate playback however this is well known in the art as shown by Avery. Avery teaches slide switch 34 which activates playback when 21 and 22 are opened. It would have been obvious to one of ordinary skill to utilize such a switch on the card of Segan to provide an additional message for the recipient.
+Claim 6 is rejected under pre-AIA 35 U.S.C. 103(a) as being unpatentable over Segan and Lin as applied to claim 1 above, and further in view of Feuer, US patent 4,200,222 (Feuer).
+Segan does not teach a card having an aperture in one panel however this is well known in the art as shown by Feuer. Feuer teaches a card including aperture 24 in one panel for viewing an inside surface of the card (Figure 1). It would have been obvious to one of ordinary skill to utilize such an additional feature in the card of Segan to provide further entertainment and decoration for the viewer.
+
+## Allowable Subject Matter
+Claims 8, 9, 12-15, 17-19 are allowed.
+Claim 7 is objected to as being dependent upon a rejected base claim, but would be allowable if rewritten in independent form including all of the limitations of the base claim and any intervening claims.
+
+## Conclusion
+Any inquiry concerning this communication or earlier communications from the examiner should be directed to JOANNE SILBERMANN whose telephone number is (571)272-6653. The examiner can normally be reached on M-F 5:30 - 2:00.
+If attempts to reach the examiner by telephone are unsuccessful, the examiner’s supervisor, Paul Dickson can be reached on 571-272-7742. The fax phone number for the organization where this application or proceeding is assigned is 571-273-8300.
+Information regarding the status of an application may be obtained from the Patent Application Information Retrieval (PAIR) system. Status information for published applications may be obtained from either Private PAIR or Public PAIR. Status information for unpublished applications is available through Private PAIR only. For more information about the PAIR system, see http://pair-direct.uspto.gov. Should you have questions on access to the Private PAIR system, contact the Electronic Business Center (EBC) at 866-217-9197 (toll-free). If you would like assistance from a USPTO Customer Service Representative or access to the automated information system, call 800-786-9199 (IN USA OR CANADA) or 571-272-1000.
+Joanne Silbermann_x000d_ Primary Examiner_x000d_ Art Unit 3611
+Primary Examiner
+Art Unit 3611
+/Joanne Silbermann/
+Primary Examiner, Art Unit 3611

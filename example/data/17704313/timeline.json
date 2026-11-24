@@ -1,0 +1,153 @@
+{
+  "case": {
+    "applicationNumberText": "17704313",
+    "inventionTitle": "Event-Based Machine Learning for a Time-Series Metric",
+    "filingDate": "2022-03-25",
+    "applicationStatusDescriptionText": "Patented Case",
+    "grantDate": "2024-09-24",
+    "patentNumber": "12101343",
+    "examinerNameText": "GUNDRY, STEPHEN T",
+    "firstApplicantName": "Anodot Ltd.",
+    "groupArtUnitNumber": "2435"
+  },
+  "entry_count": 12,
+  "timeline": [
+    {
+      "date": "2022-03-25",
+      "kind": "case",
+      "source": "Applicant",
+      "code": "FILED",
+      "description": "Application filed",
+      "pages": null,
+      "document_id": null,
+      "file": null,
+      "message": "I've filed a patent application for Event-Based Machine Learning for a Time-Series Metric."
+    },
+    {
+      "date": "2022-03-25",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "CLM",
+      "description": "Claims",
+      "pages": 6,
+      "document_id": "L16OVMCAXBLUEX0",
+      "file": "example/data/17704313/files/2022-03-25_CLM_L16OVMCAXBLUEX0.xml",
+      "text_file": "example/data/17704313/text/text-L16OVMCAXBLUEX0.txt",
+      "message": "The invention involves a computerized method and system for generating training samples for an anomaly detection system by analyzing time-series events that impact a target metric. It operates by grouping these events based on shared attributes, determining their influence patterns on the target metric, and clustering the groups with similar influence patterns. Additionally, the process incorporates impact scoring and filtering thresholds to selectively remove irrelevant event groups before or during the clustering phase."
+    },
+    {
+      "date": "2022-03-30",
+      "kind": "event",
+      "source": "USPTO",
+      "code": "COMP",
+      "description": "Application Is Now Complete",
+      "pages": null,
+      "document_id": null,
+      "file": null,
+      "message": "The application is complete and has been accepted for examination."
+    },
+    {
+      "date": "2022-03-30",
+      "kind": "event",
+      "source": "USPTO",
+      "code": "COMP",
+      "description": "Application Is Now Complete",
+      "pages": null,
+      "document_id": null,
+      "file": null,
+      "message": "The application is complete and has been accepted for examination."
+    },
+    {
+      "date": "2023-09-29",
+      "kind": "event",
+      "source": "USPTO",
+      "code": "PG-ISSUE",
+      "description": "PG-Pub Issue Notification",
+      "pages": null,
+      "document_id": null,
+      "file": null,
+      "message": "The application has been published."
+    },
+    {
+      "date": "2024-05-09",
+      "kind": "document",
+      "source": "USPTO",
+      "code": "CTNF",
+      "description": "Non-Final Rejection",
+      "pages": 7,
+      "document_id": "LVWQJICMXBLUEX8",
+      "file": "example/data/17704313/files/2024-05-09_CTNF_LVWQJICMXBLUEX8.xml",
+      "text_file": "example/data/17704313/text/text-LVWQJICMXBLUEX8.txt",
+      "message": "This Non-Final Office Action examines pending claims 1-20 of your application, rejecting claims 1-2, 7-8, 11-12, and 17-18 under 35 U.S.C. \u00a7 103 as unpatentable over the combined teachings of Settle and Dodson. Please note that claims 3-6, 9-10, 13-16, and 19-20 disclose allowable subject matter and would be patentable if incorporated into the independent claims."
+    },
+    {
+      "date": "2024-05-29",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "A...",
+      "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+      "pages": 1,
+      "document_id": "LWZ9EF3NMBLUEM2",
+      "file": null,
+      "message": "I've filed an amendment in response to the non-final rejection."
+    },
+    {
+      "date": "2024-05-29",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "CLM",
+      "description": "Claims",
+      "pages": 6,
+      "document_id": "LWZ9EF3PMBLUEM2",
+      "file": "example/data/17704313/files/2024-05-29_CLM_LWZ9EF3PMBLUEM2.xml",
+      "text_file": "example/data/17704313/text/text-LWZ9EF3PMBLUEM2.txt",
+      "message": "The invention is a computerized method and system for generating training samples for an anomaly detection system by analyzing a time series of a target metric. Recent amendments clarify that determining the influence of each event group on the target metric specifically involves calculating a mean expected influence for all events within that group. Additionally, the clustering process has been refined to evaluate and group event groups based on the similarity of their influence patterns relative to a second event group."
+    },
+    {
+      "date": "2024-05-29",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "REM",
+      "description": "Applicant Arguments/Remarks Made in an Amendment",
+      "pages": 2,
+      "document_id": "LWZ9EF3VMBLUEM2",
+      "file": "example/data/17704313/files/2024-05-29_REM_LWZ9EF3VMBLUEM2.xml",
+      "text_file": "example/data/17704313/text/text-LWZ9EF3VMBLUEM2.txt",
+      "message": "In response to the office action, we have amended independent claims 1 and 11 to incorporate the allowable limitations of former dependent claims 9 and 19. We respectfully request that the Examiner withdraw the rejections over Settle and Dodson, as the prior art fails to teach these combined features, and pass the application to allowance."
+    },
+    {
+      "date": "2024-06-28",
+      "kind": "document",
+      "source": "USPTO",
+      "code": "NOA",
+      "description": "Notice of Allowance and Fees Due (PTOL-85)",
+      "pages": 8,
+      "document_id": "LXVPNTLSXBLUEX4",
+      "file": "example/data/17704313/files/2024-06-28_NOA_LXVPNTLSXBLUEX4.xml",
+      "text_file": "example/data/17704313/text/text-LXVPNTLSXBLUEX4.txt",
+      "message": "The application has been allowed. Once the issue fee is paid, the patent will be granted."
+    },
+    {
+      "date": "2024-09-04",
+      "kind": "document",
+      "source": "USPTO",
+      "code": "ISSUE.NTF",
+      "description": "Issue Notification",
+      "pages": 2,
+      "document_id": "M0O7LE0PWFYBX98",
+      "file": null,
+      "message": "The patent will issue as U.S. Patent No. 12101343."
+    },
+    {
+      "date": "2024-09-24",
+      "kind": "document",
+      "source": "USPTO",
+      "code": "EGRANT.NTF",
+      "description": "eGrant day-of Notification",
+      "pages": 2,
+      "document_id": "M1FY3XQQWFYBX98",
+      "file": null,
+      "message": "U.S. Patent No. 12101343 has been granted for Event-Based Machine Learning for a Time-Series Metric."
+    }
+  ]
+}

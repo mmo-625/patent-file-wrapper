@@ -1,0 +1,1 @@
+Our invention focuses on systems and methods for capturing and processing facial motion data using a head-mounted setup. Specifically, we have streamlined our claim language by removing trailing conjunctions to better emphasize the integrated operations of capturing frame-by-frame images, tracking sensors, and generating a digital modeled surface of an actor's face.

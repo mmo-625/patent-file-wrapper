@@ -1,0 +1,29 @@
+Source: example/data/13090569/files/2012-10-18_CTRS_H8FX9692PXXIFW4.xml:13090569/H8FX9692PXXIFW4/Restriction_Election Requirement.xml
+Type: OutgoingDocument
+Markup: [+inserted+]  [-deleted-]
+
+## DETAILED ACTION
+
+## Election/Restrictions
+This application contains claims directed to the following patentably distinct species:
+I. A slide switch and a touch switch;
+II. Two touch switches.
+If species I is elected, Applicant must elect a further sub-species:
+III. slide switch and tap switch;
+IV. slide switch and back and forth motion switch.
+The species are independent or distinct because the different switches are mutually exclusive. In addition, these species are not obvious variants of each other based on the current record.
+Applicant is required under 35 U.S.C. 121 to elect a single disclosed species, or a single grouping of patentably indistinct species, for prosecution on the merits to which the claims shall be restricted if no generic claim is finally held to be allowable. Currently, at least claim 1 appears to be generic.
+There is a search and/or examination burden for the patentably distinct species as set forth above because at least the following reason(s) apply:
+There will be different searches for the different switches.
+Applicant is advised that the reply to this requirement to be complete must include (i) an election of a species or a grouping of patentably indistinct species to be examined even though the requirement may be traversed (37 CFR 1.143) and (ii) identification of the claims encompassing the elected species or grouping of patentably indistinct species, including any claims subsequently added. An argument that a claim is allowable or that all claims are generic is considered nonresponsive unless accompanied by an election.
+The election may be made with or without traverse. To preserve a right to petition, the election must be made with traverse. If the reply does not distinctly and specifically point out supposed errors in the election of species requirement, the election shall be treated as an election without traverse. Traversal must be presented at the time of election in order to be considered timely. Failure to timely traverse the requirement will result in the loss of right to petition under 37 CFR 1.144. If claims are added after the election, applicant must indicate which of these claims are readable on the elected species or grouping of patentably indistinct species.
+Should applicant traverse on the ground that the species, or groupings of patentably indistinct species from which election is required, are not patentably distinct, applicant should submit evidence or identify such evidence now of record showing them to be obvious variants or clearly admit on the record that this is the case. In either instance, if the examiner finds one of the species unpatentable over the prior art, the evidence or admission may be used in a rejection under 35 U.S.C. 103(a) of the other species.
+Upon the allowance of a generic claim, applicant will be entitled to consideration of claims to additional species which depend from or otherwise require all the limitations of an allowable generic claim as provided by 37 CFR 1.141.
+Any inquiry concerning this communication or earlier communications from the examiner should be directed to JOANNE SILBERMANN whose telephone number is (571)272-6653. The examiner can normally be reached on M-F 5:30 - 2:00.
+If attempts to reach the examiner by telephone are unsuccessful, the examiner’s supervisor, James Kramer can be reached on 571-272-6783. The fax phone number for the organization where this application or proceeding is assigned is 571-273-8300.
+Information regarding the status of an application may be obtained from the Patent Application Information Retrieval (PAIR) system. Status information for published applications may be obtained from either Private PAIR or Public PAIR. Status information for unpublished applications is available through Private PAIR only. For more information about the PAIR system, see http://pair-direct.uspto.gov. Should you have questions on access to the Private PAIR system, contact the Electronic Business Center (EBC) at 866-217-9197 (toll-free). If you would like assistance from a USPTO Customer Service Representative or access to the automated information system, call 800-786-9199 (IN USA OR CANADA) or 571-272-1000.
+Joanne Silbermann_x000d_ Primary Examiner_x000d_ Art Unit 3611
+Primary Examiner
+Art Unit 3611
+/Joanne Silbermann/
+Primary Examiner, Art Unit 3611

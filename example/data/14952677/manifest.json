@@ -1,0 +1,602 @@
+[
+  {
+    "date": "0001-01-03",
+    "code": "DRW.SUPP",
+    "description": "Drawings-black and white line and/or other drawings",
+    "direction": "INCOMING",
+    "document_id": "09323b6781ff9e4c",
+    "pages": null,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2015-11-25",
+    "code": "PA..",
+    "description": "Power of Attorney",
+    "direction": "INCOMING",
+    "document_id": "IHFFARB5PXXIFW3",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2015-11-25",
+    "code": "DRW.NONBW",
+    "description": "Drawings-other than black and white line drawings",
+    "direction": "INCOMING",
+    "document_id": "IHFFARBBPXXIFW3",
+    "pages": 5,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2015-11-25",
+    "code": "SPEC",
+    "description": "Specification",
+    "direction": "INCOMING",
+    "document_id": "IHFFARC1PXXIFW3",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2015-11-25",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "IHFFARC8PXXIFW3",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2015-11-25_CLM_IHFFARC8PXXIFW3.xml"
+  },
+  {
+    "date": "2015-11-25",
+    "code": "ABST",
+    "description": "Abstract",
+    "direction": "INCOMING",
+    "document_id": "IHFFARCGPXXIFW3",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2015-11-25",
+    "code": "TRACK1.REQ",
+    "description": "Track One Request",
+    "direction": "INCOMING",
+    "document_id": "IHFFARG7PXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2015-11-25",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "IHFFARGZPXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2015-11-25",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "IHFFARI3PXXIFW3",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2015-11-25",
+    "code": "ADS",
+    "description": "Application Data Sheet",
+    "direction": "INCOMING",
+    "document_id": "IHFFARJAPXXIFW3",
+    "pages": 6,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2015-11-25",
+    "code": "OATH",
+    "description": "Oath or Declaration filed",
+    "direction": "INCOMING",
+    "document_id": "IHFFARJKPXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2015-11-25",
+    "code": "SCORE",
+    "description": "Placeholder sheet indicating presence of supplemental content in Supplemental Complex Repository for Examiners(SCORE)",
+    "direction": "INTERNAL",
+    "document_id": "II1N6U8BPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2015-12-10",
+    "code": "APP.FILE.REC",
+    "description": "Filing Receipt",
+    "direction": "OUTGOING",
+    "document_id": "II06D7L6PXXIFW4",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2015-12-10",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "II06D8FIPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2015-12-10",
+    "code": "PD.AUTH.G",
+    "description": "Acceptance of Permission to Access Application",
+    "direction": "OUTGOING",
+    "document_id": "II06D8KEPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-01-28",
+    "code": "PET.OP.DEC",
+    "description": "Office of Petitions Decision (PTO-90)",
+    "direction": "OUTGOING",
+    "document_id": "IJYN5JBXPXXIFW4",
+    "pages": null,
+    "format": "MS_WORD",
+    "path": null
+  },
+  {
+    "date": "2016-01-28",
+    "code": "TRACK1.GRANT",
+    "description": "Track One request Granted",
+    "direction": "OUTGOING",
+    "document_id": "IJYN5JCAPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-01-28",
+    "code": "IMIS",
+    "description": "Miscellaneous Internal Document",
+    "direction": "INTERNAL",
+    "document_id": "IJYN5JCFPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-02-10",
+    "code": "CTNF",
+    "description": "Non-Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "IKGZP0NYRXEAPX2",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2016-02-10_CTNF_IKGZP0NYRXEAPX2.xml"
+  },
+  {
+    "date": "2016-02-10",
+    "code": "892",
+    "description": "List of references cited by examiner",
+    "direction": "OUTGOING",
+    "document_id": "IKGZP0O6RXEAPX2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-02-10",
+    "code": "BIB",
+    "description": "Bibliographic Data Sheet",
+    "direction": "INTERNAL",
+    "document_id": "IKGZP0O1RXEAPX2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-02-10",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "IKGZP0NWRXEAPX2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-02-10",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "IKGZP0O2RXEAPX2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-02-10",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "IKGZP0O5RXEAPX2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-02-10",
+    "code": "FWCLM",
+    "description": "Index of Claims",
+    "direction": "INTERNAL",
+    "document_id": "IKGZP0NXRXEAPX2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-02-10",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "IKGZP0O4RXEAPX2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-02-10",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "IKGZP0O0RXEAPX2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-03-17",
+    "code": "NTC.PUB",
+    "description": "Notice of Publication",
+    "direction": "OUTGOING",
+    "document_id": "ILWDHB1PRXEAPX5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-08-09",
+    "code": "A...",
+    "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+    "direction": "INCOMING",
+    "document_id": "IRNY8TNTRXEAPX2",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2016-08-09",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "IRQDYP1TPXXIFW2",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2016-08-09_CLM_IRQDYP1TPXXIFW2.xml"
+  },
+  {
+    "date": "2016-08-09",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "IRQDYP24PXXIFW2",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2016-08-09_REM_IRQDYP24PXXIFW2.xml"
+  },
+  {
+    "date": "2016-08-09",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "IRNY8TNURXEAPX2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-08-09",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "IRNY8TNWRXEAPX2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-08-09",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "IRRPV69ORXEAPX1",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-09-07",
+    "code": "CTFR",
+    "description": "Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "ISRW80EBRXEAPX5",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2016-09-07_CTFR_ISRW80EBRXEAPX5.xml"
+  },
+  {
+    "date": "2016-09-07",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "ISRW80ECRXEAPX5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-09-07",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "ISRW80EDRXEAPX5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2016-09-07",
+    "code": "FWCLM",
+    "description": "Index of Claims",
+    "direction": "INTERNAL",
+    "document_id": "ISRW80EFRXEAPX5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2017-01-21",
+    "code": "RCEX",
+    "description": "Request for Continued Examination (RCE)",
+    "direction": "INCOMING",
+    "document_id": "IY7GAAFDRXEAPX0",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2017-01-21",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "IY7GAAFERXEAPX0",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2017-01-21",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "IY7GAAFFRXEAPX0",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2017-01-21",
+    "code": "A.NE",
+    "description": "Response After Final Action",
+    "direction": "INCOMING",
+    "document_id": "IY7GAAFGRXEAPX0",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2017-01-21",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "IYBTOXAXPXXIFW2",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2017-01-21_CLM_IYBTOXAXPXXIFW2.xml"
+  },
+  {
+    "date": "2017-01-21",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "IYBTOXBBPXXIFW2",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2017-01-21_REM_IYBTOXBBPXXIFW2.xml"
+  },
+  {
+    "date": "2017-01-21",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "IYAIMHLFRXEAPX3",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2017-03-22",
+    "code": "CTNF",
+    "description": "Non-Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "J0JYBJXGRXEAPX3",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2017-03-22_CTNF_J0JYBJXGRXEAPX3.xml"
+  },
+  {
+    "date": "2017-03-22",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "J0JYBJXHRXEAPX3",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2017-03-22",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "J0JYBJXIRXEAPX3",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2017-03-22",
+    "code": "FWCLM",
+    "description": "Index of Claims",
+    "direction": "INTERNAL",
+    "document_id": "J0JYBJXJRXEAPX3",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2017-09-21",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "J7YQP9S6RXEAPX5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2017-09-21",
+    "code": "A...",
+    "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+    "direction": "INCOMING",
+    "document_id": "J7V6LDULRXEAPX3",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2017-09-21",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "J806D8TSPXXIFW1",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2017-09-21_CLM_J806D8TSPXXIFW1.xml"
+  },
+  {
+    "date": "2017-09-21",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "J806D8VDPXXIFW1",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2017-09-21_REM_J806D8VDPXXIFW1.xml"
+  },
+  {
+    "date": "2017-09-21",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "J7V6LDUMRXEAPX3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2017-09-21",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "J7V6LDUNRXEAPX3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2017-11-27",
+    "code": "CTFR",
+    "description": "Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "JAI74OYLRXEAPX2",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2017-11-27_CTFR_JAI74OYLRXEAPX2.xml"
+  },
+  {
+    "date": "2017-11-27",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "JAI74OYMRXEAPX2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2017-11-27",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "JAI74OYNRXEAPX2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2017-11-27",
+    "code": "FWCLM",
+    "description": "Index of Claims",
+    "direction": "INTERNAL",
+    "document_id": "JAI74OYORXEAPX2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2018-06-11",
+    "code": "ABN",
+    "description": "Abandonment",
+    "direction": "OUTGOING",
+    "document_id": "JIA7HAM4RXEAPX3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  }
+]

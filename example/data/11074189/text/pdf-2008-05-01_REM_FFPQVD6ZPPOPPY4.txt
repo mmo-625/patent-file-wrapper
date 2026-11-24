@@ -1,0 +1,137 @@
+Source: example/data/11074189/files/2008-05-01_REM_FFPQVD6ZPPOPPY4.pdf
+Pages: 4
+
+--- page 1 (ocr) ---
+Application No. 11/074,189
+
+REMARKS
+Claims 1-9, 11-16 and 18-22 are pending. By this Amendment, no claims are cancelled,
+
+claim 1 is amended and no new claims are added.
+
+Claim Rejections — 35 U.S.C. § 103
+
+Claims 1-9, 11-16, and 18-22 stand rejected under 35 U.S.C. § 103(a) as being
+unpatentable over U.S. Patent No. 5,620,713 to Rasmussen in view of U.S. Patent No. 4,894,246
+to Dartey et al., U.S. Patent No. 5,079,012 to Lengerich et al., the book “Professional Baking,”
+and U.S. Patent No. 4,892,745 to Gage et al. Applicants respectfully traverse the rejections.
+
+As has been discussed in prior responses, none of the above references, alone or in
+combination, disclose or suggest the claimed sugar grind, which Applicants discussed in both the
+application as filed as well as the Affidavit of December 18, 2006 as being surprising beneficial
+to product performance. The claimed sugar grind of independent claims 1, 14, and 20-22
+includes a sugar particle size distribution with between about 18% by weight and about 45% by
+weight of the sugar being capable of retention with a 100 mesh screen.
+
+The purpose of the limitation “capable of retention with a 100 mesh screen” is to clarify
+that the particle size distribution is such that only 18-45% by weight of the total weight of sugar
+is retained on a 100 mesh screen, if, for example, the sugar is sifted using only a 100 mesh
+screen. One of ordinary skill in the art would recognize that the higher the mesh, the smaller the
+hole size. The distribution of sugar that is retained on meshes of lower value (or larger hole
+sizes), i.e. 80, 40, 30, is irrelevant with respect to this limitation. If the particle size is large
+enough that it is capable of being retained by a 100 mesh screen, it may also be large enough to
+be retained by lower mesh screens; however such further distribution limitations are not claimed.
+
+With respect to the teachings of Gage et al., none of the disclosed sugars include a sugar
+
+particle size distribution with between about 18% by weight and about 45% by weight of the
+
+--- page 2 (ocr) ---
+Application No. 11/074,189
+
+sugar being capable of retention with a 100 mesh screen. The most preferred grind referred to as
+Baker’s Special comprises at least 59.1% of particles capable of retention on a 100 mesh screen
+because if the Baker’s Special was sifted using only a 100 mesh screen, the other particles
+previously retained on the lower mesh screens may all then be retained on the 100 mesh screen.
+With respect to the claimed limitation “capable of retention with a 100 mesh screen,” the
+disclosure in Gage et al. that 0.4% remains on 40 mesh, 1.7% remains on 50 mesh, 24.8%
+remains on 80 mesh is irrelevant. The following graphics are intended to further clarify this
+
+distinction between Gage et al. and the present invention:
+
+Top view of two different mesh sizes (not to scale) — the lower the mesh, the bigger the holes:
+
+50 mesh 100 mesh
+
+Distribution of Bakers’ Special per Table A of Gage et al. vs. present disclosure when multiple
+screens used:
+
+40 mesh: 0.4%
+
+50 mesh: < ~3.5%
+
+100 mesh: 32.2% 100 mesh: 18-45%
+
+Gage et al. Present disclosure
+
+10
+
+--- page 3 (ocr) ---
+Application No. 11/074,189
+
+Distribution of Bakers’ Special per Table A of Gage et al. vs. present disclosure when only 100
+mesh screen used ~ “capable of retention with a 100 mesh screen”:
+
+100 mesh: 59.1% 100 mesh: 18-45%
+(Z 40, 50, 80, and 100
+mesh above)
+
+Gage et al. Present disclosure
+
+Every one of the “conventional” grinds shown in Table A of Gage et al. satisfies the
+definition of being too coarse or too fine for use in the present application. One of skill in the art
+reading the disclosure of Gage et al. would not be at all directed to arrive at the presently claimed
+dough and instead, would have been directed to utilize sugar grinds that Applicants have
+previously described in both the specification and affidavit as being unsuitable for the present
+invention.
+
+With reference to the Practical Baking disclosure, most of the variety of granulated
+sugars discussed in Practical Baking can be found within Table A of Gage et al., which satisfy
+the definition of being too fine or too course for use with the present invention. Practical Baking
+is utterly devoid of any discussion relating to custom grinding of sugar to achieve desirable
+results for cookie dough that must be extrudable and have suitable expansion properties such that
+a continuous design element be recognizable when a dough unit comprising at least two doughs
+is baked.
+
+Not only do Gage et al. and Practical Baking fail to disclose the claimed sugar particle
+size distribution, nowhere within any of their disclosures are there suggestions that would lead
+one of skill in the art to the presently claimed composition. Neither reference addresses the
+processing need for a dough that is capable of being extruded so as to form a continuous design
+element nor is there any discussion of baked expansion properties that allow the continuous
+design element to remain recognizable when baked, let alone when baked from a cookie unit
+
+comprising at least two doughs defining the continuous design element. Instead what is taught
+
+11
+
+--- page 4 (ocr) ---
+Application No. 11/074,189
+
+by Gage et al. and Practical Baking is that a variety of sugar grinds are commercially available
+having a wide variety of particle distribution ranges, none of which satisfy the unique needs of
+the claimed invention.
+
+In view of the foregoing, it is submitted that this application is in condition for allowance.
+Favorable consideration and prompt allowance of the application are respectfully requested.
+
+The Examiner is invited to telephone the undersigned if the Examiner believes it would
+be useful to advance prosecution.
+
+Respectfully submitted,
+
+Daidre L. Burgess
+Registration No. 60,389
+
+Customer No. 24113
+
+Patterson, Thuente, Skaar & Christensen, P.A.
+
+4800 IDS Center
+
+80 South 8th Street
+
+Minneapolis, Minnesota 55402-2100
+
+Telephone: (612) 252-1558
+
+12

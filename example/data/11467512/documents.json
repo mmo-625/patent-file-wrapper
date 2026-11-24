@@ -1,0 +1,853 @@
+{
+  "count": 56,
+  "documentBag": [
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2012-04-10T00:00:00.000-0400",
+      "documentIdentifier": "H0UYZE5NPXXIFW4",
+      "documentCode": "EBCC.AD",
+      "documentCodeDescriptionText": "Notice of Change of Address Place in File Wrapper Due to Electronic Business Center(EBC) Customer Number Update",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/H0UYZE5NPXXIFW4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-09-30T00:00:00.000-0400",
+      "documentIdentifier": "G08SPYJVPPOPPY5",
+      "documentCode": "ISSUE.NTF",
+      "documentCodeDescriptionText": "Issue Notification",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/G08SPYJVPPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-09-10T00:00:00.000-0400",
+      "documentIdentifier": "FZFUVGE1PPOPPY2",
+      "documentCode": "IFEE",
+      "documentCodeDescriptionText": "Issue Fee Payment (PTO-85B)",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FZFUVGE1PPOPPY2.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-09-10T00:00:00.000-0400",
+      "documentIdentifier": "FZFUVGFGPPOPPY2",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FZFUVGFGPPOPPY2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-09-10T00:00:00.000-0400",
+      "documentIdentifier": "FZFUVGG5PPOPPY2",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FZFUVGG5PPOPPY2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-06-10T00:00:00.000-0400",
+      "documentIdentifier": "FVPCIAC3PPOPPY5",
+      "documentCode": "892",
+      "documentCodeDescriptionText": "List of references cited by examiner",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FVPCIAC3PPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-06-10T00:00:00.000-0400",
+      "documentIdentifier": "FVPCIAD5PPOPPY5",
+      "documentCode": "FWCLM",
+      "documentCodeDescriptionText": "Index of Claims",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FVPCIAD5PPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-06-10T00:00:00.000-0400",
+      "documentIdentifier": "FVPCIADRPPOPPY5",
+      "documentCode": "IIFW",
+      "documentCodeDescriptionText": "Issue Information including classification, examiner, name, claim, renumbering, etc.",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FVPCIADRPPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-06-10T00:00:00.000-0400",
+      "documentIdentifier": "FVPCIAE3PPOPPY5",
+      "documentCode": "SRFW",
+      "documentCodeDescriptionText": "Search information including classification, databases and other search related notes",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FVPCIAE3PPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-06-10T00:00:00.000-0400",
+      "documentIdentifier": "FVPCIAEPPPOPPY5",
+      "documentCode": "SRNT",
+      "documentCodeDescriptionText": "Examiner's search strategy and results",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FVPCIAEPPPOPPY5.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-06-10T00:00:00.000-0400",
+      "documentIdentifier": "FVPCIAF0PPOPPY5",
+      "documentCode": "1449",
+      "documentCodeDescriptionText": "List of References cited by applicant and considered by examiner",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FVPCIAF0PPOPPY5.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-06-10T00:00:00.000-0400",
+      "documentIdentifier": "FVPCIAFLPPOPPY5",
+      "documentCode": "1449",
+      "documentCodeDescriptionText": "List of References cited by applicant and considered by examiner",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FVPCIAFLPPOPPY5.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-06-10T00:00:00.000-0400",
+      "documentIdentifier": "FVR23Z4EPPOPPY5",
+      "documentCode": "NOA",
+      "documentCodeDescriptionText": "Notice of Allowance and Fees Due (PTOL-85)",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FVR23Z4EPPOPPY5.pdf",
+          "pageTotalQuantity": 11
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-04-20T00:00:00.000-0400",
+      "documentIdentifier": "FTROO52YPPOPPY4",
+      "documentCode": "A...",
+      "documentCodeDescriptionText": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FTROO52YPPOPPY4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-04-20T00:00:00.000-0400",
+      "documentIdentifier": "FTROO544PPOPPY4",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FTROO544PPOPPY4.pdf",
+          "pageTotalQuantity": 8
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-04-20T00:00:00.000-0400",
+      "documentIdentifier": "FTROO54ZPPOPPY4",
+      "documentCode": "REM",
+      "documentCodeDescriptionText": "Applicant Arguments/Remarks Made in an Amendment",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FTROO54ZPPOPPY4.pdf",
+          "pageTotalQuantity": 6
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-04-20T00:00:00.000-0400",
+      "documentIdentifier": "FTROO55GPPOPPY4",
+      "documentCode": "XT/",
+      "documentCodeDescriptionText": "Extension of Time",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FTROO55GPPOPPY4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-04-20T00:00:00.000-0400",
+      "documentIdentifier": "FTROO58NPPOPPY4",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FTROO58NPPOPPY4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-04-20T00:00:00.000-0400",
+      "documentIdentifier": "FTROO593PPOPPY4",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FTROO593PPOPPY4.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-04-20T00:00:00.000-0400",
+      "documentIdentifier": "FUMITLIZPPOPPY5",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FUMITLIZPPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-03-20T00:00:00.000-0400",
+      "documentIdentifier": "FSJGKXXLPPOPPY4",
+      "documentCode": "IDS",
+      "documentCodeDescriptionText": "Information Disclosure Statement (IDS) Form (SB08)",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FSJGKXXLPPOPPY4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-03-20T00:00:00.000-0400",
+      "documentIdentifier": "FSPVAPPUPPOPPY2",
+      "documentCode": "TRAN.LET",
+      "documentCodeDescriptionText": "Transmittal Letter",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FSPVAPPUPPOPPY2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-03-20T00:00:00.000-0400",
+      "documentIdentifier": "FSJGKXYRPPOPPY4",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FSJGKXYRPPOPPY4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2009-03-20T00:00:00.000-0400",
+      "documentIdentifier": "FSJGKXZRPPOPPY4",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FSJGKXZRPPOPPY4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2008-12-17T00:00:00.000-0500",
+      "documentIdentifier": "FOUQ11OPPPOPPY4",
+      "documentCode": "IDS",
+      "documentCodeDescriptionText": "Information Disclosure Statement (IDS) Form (SB08)",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FOUQ11OPPPOPPY4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2008-12-17T00:00:00.000-0500",
+      "documentIdentifier": "FOXQFSMYPPOPPY2",
+      "documentCode": "TRAN.LET",
+      "documentCodeDescriptionText": "Transmittal Letter",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FOXQFSMYPPOPPY2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2008-12-17T00:00:00.000-0500",
+      "documentIdentifier": "FOUQ11PZPPOPPY4",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FOUQ11PZPPOPPY4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2008-12-17T00:00:00.000-0500",
+      "documentIdentifier": "FOUQ11RBPPOPPY4",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FOUQ11RBPPOPPY4.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2008-11-19T00:00:00.000-0500",
+      "documentIdentifier": "FNPTBGOMPPOPPY5",
+      "documentCode": "CTNF",
+      "documentCodeDescriptionText": "Non-Final Rejection",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FNPTBGOMPPOPPY5.pdf",
+          "pageTotalQuantity": 14
+        },
+        {
+          "mimeTypeIdentifier": "XML",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FNPTBGOMPPOPPY5/xmlarchive"
+        },
+        {
+          "mimeTypeIdentifier": "MS_WORD",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FNPTBGOMPPOPPY5/files/Non-Final%20Rejection.DOC"
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2008-11-19T00:00:00.000-0500",
+      "documentIdentifier": "FNPTBGQRPPOPPY5",
+      "documentCode": "892",
+      "documentCodeDescriptionText": "List of references cited by examiner",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FNPTBGQRPPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2008-11-19T00:00:00.000-0500",
+      "documentIdentifier": "FNPTBGT5PPOPPY5",
+      "documentCode": "FWCLM",
+      "documentCodeDescriptionText": "Index of Claims",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FNPTBGT5PPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2008-11-19T00:00:00.000-0500",
+      "documentIdentifier": "FNPTBGTHPPOPPY5",
+      "documentCode": "SRFW",
+      "documentCodeDescriptionText": "Search information including classification, databases and other search related notes",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FNPTBGTHPPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2008-11-19T00:00:00.000-0500",
+      "documentIdentifier": "FNPTBGTTPPOPPY5",
+      "documentCode": "1449",
+      "documentCodeDescriptionText": "List of References cited by applicant and considered by examiner",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FNPTBGTTPPOPPY5.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2008-11-19T00:00:00.000-0500",
+      "documentIdentifier": "FNPTBGUEPPOPPY5",
+      "documentCode": "SRNT",
+      "documentCodeDescriptionText": "Examiner's search strategy and results",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FNPTBGUEPPOPPY5.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2008-11-19T00:00:00.000-0500",
+      "documentIdentifier": "FNPTBGUQPPOPPY5",
+      "documentCode": "BIB",
+      "documentCodeDescriptionText": "Bibliographic Data Sheet",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/FNPTBGUQPPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2007-10-16T00:00:00.000-0400",
+      "documentIdentifier": "F7URY3G3PPOPPY4",
+      "documentCode": "TRAN.LET",
+      "documentCodeDescriptionText": "Transmittal Letter",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/F7URY3G3PPOPPY4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2007-10-16T00:00:00.000-0400",
+      "documentIdentifier": "F7YQ1NAYPPOPPY2",
+      "documentCode": "IDS",
+      "documentCodeDescriptionText": "Information Disclosure Statement (IDS) Form (SB08)",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/F7YQ1NAYPPOPPY2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2007-10-16T00:00:00.000-0400",
+      "documentIdentifier": "F7URY3HQPPOPPY4",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/F7URY3HQPPOPPY4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2007-03-01T00:00:00.000-0500",
+      "documentIdentifier": "EYS6GL9DPPOPPY5",
+      "documentCode": "NTC.PUB",
+      "documentCodeDescriptionText": "Notice of Publication",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/EYS6GL9DPPOPPY5.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-11-14T00:00:00.000-0500",
+      "documentIdentifier": "EUJ5ZM1UPPOPPY5",
+      "documentCode": "APP.FILE.REC",
+      "documentCodeDescriptionText": "Filing Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/EUJ5ZM1UPPOPPY5.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-11-14T00:00:00.000-0500",
+      "documentIdentifier": "EUL4SEFAPPOPPY1",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/EUL4SEFAPPOPPY1.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-11-07T00:00:00.000-0500",
+      "documentIdentifier": "EU8YRKJYPPOPPY4",
+      "documentCode": "LET.",
+      "documentCodeDescriptionText": "Miscellaneous Incoming Letter",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/EU8YRKJYPPOPPY4.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-11-07T00:00:00.000-0500",
+      "documentIdentifier": "EUJ15OETPPOPPY2",
+      "documentCode": "PEFR",
+      "documentCodeDescriptionText": "Applicant Response to Pre-Exam Formalities Notice",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/EUJ15OETPPOPPY2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-11-07T00:00:00.000-0500",
+      "documentIdentifier": "EUJ15OFXPPOPPY2",
+      "documentCode": "OATH",
+      "documentCodeDescriptionText": "Oath or Declaration filed",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/EUJ15OFXPPOPPY2.pdf",
+          "pageTotalQuantity": 5
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-11-07T00:00:00.000-0500",
+      "documentIdentifier": "EUJ15OGNPPOPPY2",
+      "documentCode": "PEFR",
+      "documentCodeDescriptionText": "Applicant Response to Pre-Exam Formalities Notice",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/EUJ15OGNPPOPPY2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-11-07T00:00:00.000-0500",
+      "documentIdentifier": "EU8YRKL1PPOPPY4",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/EU8YRKL1PPOPPY4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-11-07T00:00:00.000-0500",
+      "documentIdentifier": "EU8YRKLKPPOPPY4",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/EU8YRKLKPPOPPY4.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-09-11T00:00:00.000-0400",
+      "documentIdentifier": "ES0LBHUDPP2GUI2",
+      "documentCode": "PEFN",
+      "documentCodeDescriptionText": "Pre-Exam Formalities Notice",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/ES0LBHUDPP2GUI2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-08-25T00:00:00.000-0400",
+      "documentIdentifier": "ERB7T13PPPOPPY2",
+      "documentCode": "TRNA",
+      "documentCodeDescriptionText": "Transmittal of New Application",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/ERB7T13PPPOPPY2.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-08-25T00:00:00.000-0400",
+      "documentIdentifier": "ERB7T149PPOPPY2",
+      "documentCode": "OATH",
+      "documentCodeDescriptionText": "Oath or Declaration filed",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/ERB7T149PPOPPY2.pdf",
+          "pageTotalQuantity": 3
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-08-25T00:00:00.000-0400",
+      "documentIdentifier": "ERB7T15MPPOPPY2",
+      "documentCode": "SPEC",
+      "documentCodeDescriptionText": "Specification",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/ERB7T15MPPOPPY2.pdf",
+          "pageTotalQuantity": 18
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-08-25T00:00:00.000-0400",
+      "documentIdentifier": "ERB7T165PPOPPY2",
+      "documentCode": "CLM",
+      "documentCodeDescriptionText": "Claims",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/ERB7T165PPOPPY2.pdf",
+          "pageTotalQuantity": 8
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-08-25T00:00:00.000-0400",
+      "documentIdentifier": "ERB7T16ZPPOPPY2",
+      "documentCode": "ABST",
+      "documentCodeDescriptionText": "Abstract",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/ERB7T16ZPPOPPY2.pdf",
+          "pageTotalQuantity": 1
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-08-25T00:00:00.000-0400",
+      "documentIdentifier": "ERB7T17IPPOPPY2",
+      "documentCode": "DRW",
+      "documentCodeDescriptionText": "Drawings-only black and white line drawings",
+      "directionCategory": "INCOMING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/ERB7T17IPPOPPY2.pdf",
+          "pageTotalQuantity": 4
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-08-25T00:00:00.000-0400",
+      "documentIdentifier": "ERB7T180PPOPPY2",
+      "documentCode": "WFEE",
+      "documentCodeDescriptionText": "Fee Worksheet (SB06)",
+      "directionCategory": "INTERNAL",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/ERB7T180PPOPPY2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    },
+    {
+      "applicationNumberText": "11467512",
+      "officialDate": "2006-08-25T00:00:00.000-0400",
+      "documentIdentifier": "ERB7T18JPPOPPY2",
+      "documentCode": "N417",
+      "documentCodeDescriptionText": "Electronic Filing System Acknowledgment Receipt",
+      "directionCategory": "OUTGOING",
+      "downloadOptionBag": [
+        {
+          "mimeTypeIdentifier": "PDF",
+          "downloadUrl": "https://api.uspto.gov/api/v1/download/applications/11467512/ERB7T18JPPOPPY2.pdf",
+          "pageTotalQuantity": 2
+        }
+      ]
+    }
+  ]
+}

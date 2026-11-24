@@ -6,6 +6,15 @@ Usage:  python3 xml_parser.py <file.xml | archive.tar> [more files ...]
 
 Output: one paragraph per line; section headings start with "## ";
 amendments are marked [+inserted+] and [-deleted-].
+
+Claims come in three XML formats, depending on when they were filed:
+  uspat:ClaimsDocument   ~2017+       amendments tagged Ins / Del
+  pat:ClaimsDocument     ~2012-2017   amendments tagged InsertedText / DeletedText,
+                                      when USPTO's OCR caught them
+  us-patent-application  before 2012 scanned; amendments not tagged at all
+In the two older formats, a claims file with no tagged amendments marks OCR-uncertain
+text as [?...?] (often garbled struck-through words). claims.py uses that to rebuild
+the amendments by comparing with the previous claims filing.
 """
 import re
 import sys
@@ -20,14 +29,22 @@ SKIP = {"DocumentMetadata",                                   # read separately,
         "SpannedBoundaryData",
         "FormParagraphNumber", "FormParagraphCategory",       # form-paragraph labels
         "RelatedFormParagraph",
-        "ClaimNumber", "ClaimStatusCategory"}                 # shown in the claim header
-BLOCK = {"P", "LI", "ClaimText", "TableRow", "Heading", "Br"}     # each starts a new line
-MARK = {"Ins": "ins", "Del": "del", "S": "del"}               # S = strikethrough
+        "ClaimNumber", "ClaimStatusCategory",                 # shown in the claim header
+        "ClaimTypeCategory",                                  # "Independent" / "Dependent"
+        "BoundaryData", "boundary-data"}                      # older formats: margin line
+                                                              # numbers, page headers
+BLOCK = {"P", "LI", "ClaimText", "TableRow", "Heading", "Br",     # each starts a new line
+         "claim-text"}
+MARK = {"Ins": "ins", "Del": "del", "S": "del",               # S = strikethrough
+        "InsertedText": "ins", "DeletedText": "del"}          # ~2012-2017 claims format
+OCR = {"OCRConfidenceData", "confidence"}                     # text the OCR was unsure of
 PASS = {"ClaimsDocument", "IncomingDocument", "OutgoingDocument",  # keep text, recurse
         "Claims", "FormParagraph", "DataField", "GeneralText", "OL",
         "DataTable", "DataTableBody", "TableHeaderCell",
-        "OCRConfidenceData", "ClaimReference", "B", "I", "U", "Sub", "Sup", "Font"}
+        "ClaimReference", "B", "I", "U", "Sub", "Sup", "Font",
+        "claims", "claim-ref"} | OCR
 MARKERS = {"ins": ("[+", "+]"), "del": ("[-", "-]")}
+OLD_CLAIMS = {"pat:ClaimsDocument", "us-patent-application"}  # see the docstring
 FOOTER = re.compile(r"LAW OFFICES|Page \d+ of \d+", re.IGNORECASE)  # OCR'd page footers
 CLAIM_PREFIX = re.compile(r"^\d+\s*\.\s*\([^)]*\)\s*")              # "1.  (Original) "
 
@@ -52,29 +69,32 @@ def is_heading(elem):
     return len("".join(elem.itertext()).strip()) < 100
 
 
-def render(elem, mode, unknown):
+def render(elem, mode, unknown, ocr=False):
     """Walk an element and return (kind, text) segments.
 
     kind is 'plain', 'ins', 'del', or 'break' (start a new line). A child's tail text
     belongs to the *parent*, so it keeps `mode`. Unknown tags are kept as text and
-    counted in `unknown`.
+    counted in `unknown`. With ocr=True, OCR-uncertain text is wrapped as [?...?].
     """
     out = [(mode, elem.text)] if elem.text else []
     for child in elem:
         name = local(child.tag)
         if name in SKIP:
-            pass
+            if name in ("BoundaryData", "boundary-data"):
+                out.append((mode, " "))  # a margin number sat between two words
         elif name == "Image":  # an unreadable region the OCR stored as a picture
             out.append(("plain", " [unreadable image] "))
         elif name in BLOCK:
             prefix = [("plain", "## ")] if is_heading(child) else []
-            out += [("break", "")] + prefix + render(child, mode, unknown) + [("break", "")]
+            out += [("break", "")] + prefix + render(child, mode, unknown, ocr) + [("break", "")]
         elif name in MARK:
-            out += render(child, MARK[name], unknown)
+            out += render(child, MARK[name], unknown, ocr)
+        elif name in OCR and ocr:
+            out += [(mode, "[?")] + render(child, mode, unknown, ocr) + [(mode, "?]")]
         else:
             if name not in PASS:
                 unknown[name] += 1
-            out += render(child, mode, unknown)
+            out += render(child, mode, unknown, ocr)
         if child.tail:
             out.append((mode, child.tail))
     return out
@@ -87,6 +107,7 @@ def to_text(segments):
     """
     merged = []
     for kind, text in segments:
+        text = text.replace("\n", " ")  # raw line breaks are OCR layout; breaks come from tags
         if kind in MARKERS and not text.strip():
             kind = "plain"  # an inserted/deleted space isn't worth marking
         if merged and merged[-1][0] == kind != "break":
@@ -106,27 +127,56 @@ def to_text(segments):
             parts.append(text)
     lines = (re.sub(r"\s+", " ", line).strip() for line in "".join(parts).split("\n"))
     lines = [line for line in lines if line and line != "##"]
+    lines = [re.sub(r"\[\?\s*\?\]", "", line) for line in lines]  # empty [? ?] left by spaces
     return lines, sum(k == "ins" for k, _ in merged), sum(k == "del" for k, _ in merged)
 
 
-def document_lines(root, unknown):
+def claim_elements(root):
+    """(number, status, element) for each numbered claim, in any of the claims formats."""
+    for elem in root.iter():
+        name = local(elem.tag)
+        if name == "Claim":  # ST.96 formats: number and status are child elements
+            fields = {local(c.tag): (c.text or "").strip() for c in elem}
+            number = fields.get("ClaimNumber", "")
+            status = fields.get("ClaimStatusCategory", "")
+        elif name == "claim":  # pre-2012 format: attributes
+            number, status = elem.get("num", ""), elem.get("claim-type", "")
+        else:
+            continue
+        if number.isdigit():  # skips UNKNOWN-... entries (page headings like "CLAIMS")
+            yield number, status or "unknown", elem
+
+
+def document_lines(root, unknown, ocr=None):
     """Return (lines, insertions, deletions) for a whole document.
 
     Claims documents get a "Claim N (status)" header per claim and a blank line
     between claims; every other document is rendered paragraph by paragraph.
+    ocr=None decides by itself: an older-format claims file with no tagged amendments
+    is rendered again with OCR-uncertain text marked [?...?].
     """
-    if local(root.tag) != "ClaimsDocument":
+    if local(root.tag) not in ("ClaimsDocument", "us-patent-application"):
         return to_text(render(root, "plain", unknown))
     lines, n_ins, n_del = [], 0, 0
-    for claim in (e for e in root.iter() if local(e.tag) == "Claim"):
-        fields = {local(c.tag): (c.text or "").strip() for c in claim}
-        body, ins, dels = to_text(render(claim, "plain", unknown))
+    for number, status, claim in claim_elements(root):
+        body, ins, dels = to_text(render(claim, "plain", unknown, bool(ocr)))
         if body:  # drop the "1.  (Currently Amended)" prefix; the header already says it
             body[0] = CLAIM_PREFIX.sub("", body[0])
-        lines += ["", f"Claim {fields.get('ClaimNumber', '?')} "
-                      f"({fields.get('ClaimStatusCategory', 'unknown')})"] + body
+        lines += ["", f"Claim {number} ({status})"] + body
         n_ins, n_del = n_ins + ins, n_del + dels
+    if ocr is None and not (n_ins or n_del) and claims_format(root) in OLD_CLAIMS:
+        return document_lines(root, Counter(), ocr=True)
     return lines[1:], n_ins, n_del
+
+
+def claims_format(root):
+    """'uspat:ClaimsDocument', 'pat:ClaimsDocument' or 'us-patent-application'.
+    Both ClaimsDocument formats share a namespace; only the newer one uses WIPO ST.96 tags."""
+    name = local(root.tag)
+    if name == "ClaimsDocument":
+        st96 = any(elem.tag.startswith("{http://www.wipo.int/") for elem in root.iter())
+        return ("uspat:" if st96 else "pat:") + name
+    return name
 
 
 def xml_sources(arg):
@@ -157,8 +207,11 @@ def convert(label, inner_path, data, out_dir="out"):
     doc_id = inner_path.parent.name or inner_path.stem
     out_path = Path(out_dir) / f"text-{doc_id}.txt"
     out_path.parent.mkdir(parents=True, exist_ok=True)
+    markup = "[+inserted+]  [-deleted-]"
+    if any("[?" in line for line in lines):
+        markup += "  [?uncertain OCR?]"
     out_path.write_text(f"Source: {label}\nType: {local(root.tag)}\n"
-                        f"Markup: [+inserted+]  [-deleted-]\n\n{body}\n", encoding="utf-8")
+                        f"Markup: {markup}\n\n{body}\n", encoding="utf-8")
 
     footers = [line for line in lines if FOOTER.search(line)]
     print(f"{label}\n  -> {out_path}: {len(lines)} lines, "

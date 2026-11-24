@@ -6,7 +6,8 @@ Entries without a message (e.g. not summarized yet) are skipped and listed.
 Rejections (CTNF / CTFR) also get an optional "rejections" key: the rejection table and
 cited references from rejections.py, shown as a collapsible breakdown in chat_view.py.
 Claims filings (CLM) get an optional "claims" key: the independent claims from claims.py,
-each shown as a collapsible claim (with its amendments marked) in chat_view.py.
+each shown as a collapsible claim (with its amendments marked) in chat_view.py. Older
+scanned claims without amendment markup are compared with the previous claims filing.
 
 From another script (e.g. run.py):
   import conversation
@@ -43,12 +44,19 @@ def rejection_breakdown(entry):
     return rejections.extract(Path(path).read_text(encoding="utf-8"))
 
 
-def independent_claims(entry):
-    """Independent claims for a claims entry with a text file, else None."""
+def claims_text(entry):
+    """The parsed text of a claims entry, else None."""
     path = entry.get("text_file")
     if entry.get("code") not in CLAIM_CODES or not path or not Path(path).exists():
         return None
-    return claims.independent_claims(Path(path).read_text(encoding="utf-8")) or None
+    return Path(path).read_text(encoding="utf-8")
+
+
+def independent_claims(entry, previous_text=None):
+    """Independent claims for a claims entry with a text file, else None. previous_text is
+    the previous claims filing, used when this one has no amendment markup."""
+    text = claims_text(entry)
+    return (claims.independent_claims(text, previous_text) or None) if text else None
 
 
 def build_conversation(timeline, out_path=None, verbose=True):
@@ -56,7 +64,11 @@ def build_conversation(timeline, out_path=None, verbose=True):
     Writes out_path (unless None) and returns the list of messages, in date order."""
     entries = timeline["timeline"] if isinstance(timeline, dict) else timeline
     messages, skipped = [], []
+    previous_claims = None  # text of the last claims filing seen, for older scanned claims
     for entry in sorted(entries, key=lambda e: e.get("date") or ""):  # stable: same-day order kept
+        text = claims_text(entry)
+        found = independent_claims(entry, previous_claims)
+        previous_claims = text or previous_claims
         message = (entry.get("message") or "").strip()
         if not message:
             skipped.append(f"{entry.get('date')} {entry.get('code')}")
@@ -66,7 +78,6 @@ def build_conversation(timeline, out_path=None, verbose=True):
         breakdown = rejection_breakdown(entry)
         if breakdown:
             item["rejections"] = breakdown
-        found = independent_claims(entry)
         if found:
             item["claims"] = found
         messages.append(item)

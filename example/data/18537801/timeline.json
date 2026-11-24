@@ -1,0 +1,189 @@
+{
+  "case": {
+    "applicationNumberText": "18537801",
+    "inventionTitle": "Autonomous snow removal machine",
+    "filingDate": "2023-12-13",
+    "applicationStatusDescriptionText": "Response to Non-Final Office Action Entered and Forwarded to Examiner",
+    "grantDate": null,
+    "patentNumber": null,
+    "examinerNameText": "TSUI, ALFRED H",
+    "firstApplicantName": null,
+    "groupArtUnitNumber": "3671"
+  },
+  "entry_count": 15,
+  "timeline": [
+    {
+      "date": "2023-12-13",
+      "kind": "case",
+      "source": "Applicant",
+      "code": "FILED",
+      "description": "Application filed",
+      "pages": null,
+      "document_id": null,
+      "file": null,
+      "message": "I've filed a patent application for Autonomous snow removal machine."
+    },
+    {
+      "date": "2023-12-13",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "CLM",
+      "description": "Claims",
+      "pages": 2,
+      "document_id": "LQ3BP4A6REENX10",
+      "file": "example/data/18537801/files/2023-12-13_CLM_LQ3BP4A6REENX10.xml",
+      "text_file": "example/data/18537801/text/text-LQ3BP4A6REENX10.txt",
+      "message": "Based on the current claims, my invention is an autonomous snow removal machine created by converting a standard manual snowblower with battery-powered electric motors and an onboard edge computer module that navigates using pre-stored maps and sensor data. The design incorporates various customizable features such as a smartphone app interface, swivel wheels, single-battery power, protective enclosures, and safety lights or sounds, along with the capability to manually override the system or spray salt. Furthermore, the underlying conversion and drive technology is adaptable for broader applications including farming machines, industrial equipment, lawn mowers, and large-scale clearing of paved areas."
+    },
+    {
+      "date": "2023-12-22",
+      "kind": "event",
+      "source": "USPTO",
+      "code": "COMP",
+      "description": "Application Is Now Complete",
+      "pages": null,
+      "document_id": null,
+      "file": null,
+      "message": "The application is complete and has been accepted for examination."
+    },
+    {
+      "date": "2024-06-27",
+      "kind": "event",
+      "source": "USPTO",
+      "code": "PG-ISSUE",
+      "description": "PG-Pub Issue Notification",
+      "pages": null,
+      "document_id": null,
+      "file": null,
+      "message": "The application has been published."
+    },
+    {
+      "date": "2024-07-12",
+      "kind": "event",
+      "source": "USPTO",
+      "code": "PG-ISSUE",
+      "description": "PG-Pub Issue Notification",
+      "pages": null,
+      "document_id": null,
+      "file": null,
+      "message": "The application has been published."
+    },
+    {
+      "date": "2026-01-12",
+      "kind": "document",
+      "source": "USPTO",
+      "code": "CTNF",
+      "description": "Non-Final Rejection",
+      "pages": 16,
+      "document_id": "MK793YO4149X195",
+      "file": "example/data/18537801/files/2026-01-12_CTNF_MK793YO4149X195.xml",
+      "text_file": "example/data/18537801/text/text-MK793YO4149X195.txt",
+      "message": "In this non-final action, claims 1-16 of your application have been examined and rejected under 35 U.S.C. 103 as being obvious over combinations of prior art references including Ramanand and Eavenson, among others. Please review the detailed rejections provided in the office action and respond accordingly within the statutory period."
+    },
+    {
+      "date": "2026-02-20",
+      "kind": "document",
+      "source": "USPTO",
+      "code": "EXIN",
+      "description": "Examiner Interview Summary Record (PTOL - 413)",
+      "pages": 2,
+      "document_id": "MLUXAE7D5X15X96",
+      "file": "example/data/18537801/files/2026-02-20_EXIN_MLUXAE7D5X15X96.pdf",
+      "text_file": "example/data/18537801/text/pdf-2026-02-20_EXIN_MLUXAE7D5X15X96.txt",
+      "message": "During our telephonic interview on February 19, 2026, we discussed your proposed amendments concerning the retrofit implementation to clarify the claims. However, no agreement was reached as the claims require further search and consideration. I now await your next action in the application."
+    },
+    {
+      "date": "2026-03-21",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "SA..",
+      "description": "Supplemental Response or Supplemental Amendment",
+      "pages": null,
+      "document_id": "7a47d633-9b68-4116-84de-fc66a03b6a91",
+      "file": null,
+      "message": null
+    },
+    {
+      "date": "2026-03-21",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "CLM",
+      "description": "Claims",
+      "pages": 3,
+      "document_id": "MN0BFM6EX61X171",
+      "file": "example/data/18537801/files/2026-03-21_CLM_MN0BFM6EX61X171.xml",
+      "text_file": "example/data/18537801/text/text-MN0BFM6EX61X171.txt",
+      "message": "The invention is an autonomous snow removal machine created by converting a conventional, manually operated gasoline snowblower using a specialized drive conversion assembly, an onboard sensor suite, and an edge computer module. This system allows the machine to operate in both a training mode to map boundaries when no snow is present and an autonomous mode to clear snow while relying primarily on its onboard sensors and stored map. Furthermore, the design supports hybrid operation where a gasoline engine powers the snow auger while electric motors drive the rear wheels, and it can also be adapted for use on industrial, farming, or lawn mowing machines."
+    },
+    {
+      "date": "2026-03-21",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "CLM",
+      "description": "Claims",
+      "pages": 4,
+      "document_id": "MN0BFM6JX61X171",
+      "file": "example/data/18537801/files/2026-03-21_CLM_MN0BFM6JX61X171.xml",
+      "text_file": "example/data/18537801/text/text-MN0BFM6JX61X171.txt",
+      "message": "My invention is an autonomous snow removal machine created by converting a traditional, manually operated gasoline snowblower using a specialized drive conversion assembly, rechargeable battery power subsystem, and an onboard edge computer module. The system relies on an integrated sensor suite to map boundaries during clear conditions and execute autonomous snow clearing when snow obscures the surroundings, while the gasoline engine exclusively drives the auger and electric motors handle propulsion and steering. Additionally, the machine retains a manual operating mode with a disengageable clutch, and the core conversion technology can also be adapted for use with lawn mowing, agricultural, or industrial machinery."
+    },
+    {
+      "date": "2026-03-21",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "REM",
+      "description": "Applicant Arguments/Remarks Made in an Amendment",
+      "pages": 7,
+      "document_id": "MN0BFM6KX61X171",
+      "file": "example/data/18537801/files/2026-03-21_REM_MN0BFM6KX61X171.xml",
+      "text_file": "example/data/18537801/text/text-MN0BFM6KX61X171.txt",
+      "message": "Applicant has submitted amended claims 1-16 to overcome the rejections, highlighting features such as the retrofit architecture, the specific power split between the gas auger and electric drive, and the snow-obscured mapping workflow. These amendments clarify that the claimed machine retains manual free-rolling movement via a disengageable clutch and uses external static sensors only as supplemental localization aids. Reconsideration and allowance of the amended claims are respectfully requested."
+    },
+    {
+      "date": "2026-04-18",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "A...",
+      "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+      "pages": 1,
+      "document_id": "MO4TSWZA65X42X3",
+      "file": null,
+      "message": "I've filed an amendment in response to the non-final rejection."
+    },
+    {
+      "date": "2026-04-18",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "CLM",
+      "description": "Claims",
+      "pages": 4,
+      "document_id": "MO4TSWZE65X42X3",
+      "file": "example/data/18537801/files/2026-04-18_CLM_MO4TSWZE65X42X3.xml",
+      "text_file": "example/data/18537801/text/text-MO4TSWZE65X42X3.txt",
+      "message": "My invention is an autonomous snow removal machine created by converting a traditional manual, gasoline-powered snowblower with a specialized drive conversion assembly, electric actuators, and an onboard sensor and computer system. The machine operates by using its gasoline engine exclusively to power the snow auger while electric motors drive and steer the rear wheels, allowing it to autonomously map boundaries in a training mode and clear snow within those zones during an autonomous mode. Additionally, the conversion technology and control systems are adaptable for use on other equipment such as lawn mowers, industrial machines, and farming vehicles."
+    },
+    {
+      "date": "2026-05-09",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "CLM",
+      "description": "Claims",
+      "pages": 4,
+      "document_id": "MOYV4D275X65X28",
+      "file": "example/data/18537801/files/2026-05-09_CLM_MOYV4D275X65X28.xml",
+      "text_file": "example/data/18537801/text/text-MOYV4D275X65X28.txt",
+      "message": "The invention has been refined to specifically detail an autonomous snow removal machine created by converting a conventional, manually operated gasoline snowblower using a specialized drive conversion assembly, electric actuators, and an onboard edge computer module. The updated claims clearly delineate that the gasoline engine powers the snow auger while electric motors drive the rear wheels, and they introduce a two-mode operational capability featuring a training mode for mapping boundaries during snowless conditions and an autonomous snow-removal mode utilizing sensors and the pre-stored map. Additionally, various dependent claims now specify optional physical additions like front swivel wheels, protective enclosures, warning lights or sounds, a salt-dispensing subsystem, and smartphone app integration for remote control and boundary-teaching."
+    },
+    {
+      "date": "2026-05-09",
+      "kind": "document",
+      "source": "Applicant",
+      "code": "A...",
+      "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+      "pages": 1,
+      "document_id": "MOYV4D2A5X65X28",
+      "file": null,
+      "message": "I've filed an amendment in response to the non-final rejection."
+    }
+  ]
+}

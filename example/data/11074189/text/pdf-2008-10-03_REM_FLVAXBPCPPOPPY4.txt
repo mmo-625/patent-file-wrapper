@@ -1,0 +1,127 @@
+Source: example/data/11074189/files/2008-10-03_REM_FLVAXBPCPPOPPY4.pdf
+Pages: 4
+
+--- page 1 (ocr) ---
+Application No. 11/074,189
+REMARKS
+Claims 1-9, 11-16 and 18-22 are pending. By this Amendment, no claims are cancelled,
+
+no claims are amended and no new claims are added.
+
+Claim Rejections — 35 U.S.C. § 103
+
+Claims 1-9, 11-16, and 18-22 stand rejected under 35 U.S.C. § 103(a) as being
+unpatentable over U.S. Patent No. 5,620,713 to Rasmussen in view of U.S. Patent No. 4,894,246
+to Dartey et al., U.S. Patent No. 5,079,012 to Lengerich et al., the book “Professional Baking,”
+and U.S. Patent No. 4,892,745 to Gage et al. Applicants respectfully traverse the rejections.
+
+As set forth at MPEP § 2144.05(II]), “[a]pplicants can rebut a prima facie case of
+obviousness based on overlapping ranges by showing the criticality of the claimed range...‘In
+such a situation, the applicant must show that the particular range is critical, generally by
+showing that the claimed range achieves unexpected results relative to the prior art range.’”
+(quoting In re Woodruff, 919 F.2d 1575 (Fed. Cir. 1990)).
+
+Regarding the limitation of a shortening with a solid fat index (SFI) between about 22 to
+about 35 at about 70°F recited in each independent claim 1, 14, 20-22, the Examiner states on
+page 2 of the Office Action that Dartey et al. discloses “that shortening having a solid fat index
+of about 15-25% at 70 degree[s] F is commonly used in cookie dough” indicating a slight
+overlap at the bottom of the claimed SFI range and the top of the SFI range disclosed in Dartey
+et al. Applicants submit that one of ordinary skill in the art would not look to the teachings of
+Dartey et al. to provide the claimed SFI range. The criticality of the claimed SFI range is clearly
+
+stated in the present application as originally filed at page 12, line 31- page 13, line 4: “If
+
+10
+
+--- page 2 (ocr) ---
+Application No. 11/074,189
+shortening is used with a SFI below about 22 at 70°F, the viscosity of the cookie dough can
+decrease to a point where the dough is too soft either to extrude or make it difficult to extrude a
+structurally or graphically stable cookie dough unit 100 or one that is suitable for further
+processing. In addition, first dough portion 108, second dough portion 110, and possibly third
+dough portion 112 and fourth dough portion 113 can deform or smear such that ornamental
+design 114 may be unrecognizable.” Therefore, Dartey et al. does not disclose or suggested the
+SFI range as presently claimed.
+
+Further, a “prima facie case of obviousness may also be rebutted by showing that the art,
+in any material respect, teaches away from the claimed invention.” MPEP § 2144.05(II]) (citing
+In re Geisler, 116 F.3d 1465, 1471 (Fed. Cir. 1997)). Regarding the limitation of water in an
+amount from 4% to 15% by weight recited in each independent claim 1, 14, 20-22, the Examiner
+states on page 3 of the Office Action that Lengerich et al. discloses “cookie dough to form
+cookies using an extruder; the dough has a water content of from about .5 — 10% (see col. 11,
+lines 65-66).” However, Lengerich et al. teaches away from the present, disclosing that the
+“total moisture content of the cookie mixture is generally less than 10% and preferably less than
+8%.” Abstract. Therefore, it would not be obvious to one or ordinary skill in the art to look to
+the teachings of Lengerich et al. for the claimed water range.
+
+Additionally or alternatively, with respect to the limitation of sugar having a sugar
+particle size distribution between about 18% by weight and about 45% by weight of the sugar
+being capable of retention with a 100 mesh screen, as recited in each of the independent claims
+1, 14, and 20-22, the Examiner states on page 3 of the Office Action that Gage et al. discloses
+
+“[s]ugar wherein at least about 30% by weight remains on a US Screen mesh of 100 is most
+
+ll
+
+--- page 3 (ocr) ---
+Application No. 11/074,189
+preferred for use. (see col. 7 line 49 through col. 8 line 45).” Again, the criticality of the claimed
+sugar particles size distribution is evidenced in the present application as originally filed at page
+10, line 29 — page 11, line 3: “It has been determined that sugar ground so as to have a particle
+size distribution wherein between about 18% and about 45% by weight of the sugar is retained
+by a conventional 100 mesh screen provides a suitable sugar that increases bake induced
+expansion. It has been further discovered that a more preferred sugar composition can comprise a
+composition wherein between about 18% and about 45% by weight of the sugar is retained by a
+conventional 100 mesh screen and less than about 3.5% by weight of the sugar is retained by a
+conventional 50 mesh screen.”
+
+Finally, on page 7 of the Office Action, the Examiner states that “59.1% is the total that is
+retained on 30 mesh, 40 mesh, 50 mesh and 100 mesh” and that “[i]t is not the percent that is
+retained on 100 mesh.” However, the claim language is a sugar particle size distribution with
+between about 18% by weight and about 45% by weight of the sugar being capable of retention
+with a 100 mesh screen, as opposed to retained on a 100 mesh screen. Therefore, 59.1% of the
+sugar disclosed in Gage et al. is capable of being retained on a 100 mesh screen because if only a
+100 mesh screen was present, the sugar previously retained on the 30 mesh, 40 mesh, and 50
+mesh would now be completely retained on the 100 mesh screen, as the lower the mesh, the
+larger the holes. The Baker’s Special sugar disclosed by Gage et al. and pointed out by the
+Examiner would be too coarse for the ready-to-bake extruded cookie of the present invention.
+Gage et al. does not disclose a sugar having a particle size distribution within the claimed range
+
+of the present invention.
+
+12
+
+--- page 4 (ocr) ---
+Application No. 11/074,189
+
+Neither Rasrnussen nor the book “Professional Baking”, alone or in combination, make
+up for the deficiencies of Dartey et al., Gage et al., and Lengerich et al. as discussed above.
+Claims 1, 14, and 20-22 are allowable for at least these reasons.
+
+Claims 1-9 and 11-13 depend from claim 1, and claims 15-16 and 18-19 depend from
+claim 14, and are allowable for at least the sarne reasons claims 1, 14 are allowable.
+
+in view of the foregoing, it is submitted that this application is in condition for allowance.
+Favorable consideration and prompt allowance of the application are respectfully requested.
+
+The Examiner is invited to telephone the undersigned if the Examiner believes it would
+be useful to advance prosecution,
+
+Respectfully sabmitted,
+
+Daidre L, Burg
+Registration No. 60,389
+
+Customer No. 24113
+
+Patterson, Thuente, Skaar & Christensen, P.A,.
+
+4800 IDS Center
+
+80 South 8th Street
+
+Minneapolis, Minnesota $5402-2100
+
+Telephone: (612) 252-1558
+
+13

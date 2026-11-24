@@ -23,6 +23,12 @@ BOILERPLATE = {
     "ELC.":       "I've responded to the restriction requirement with an election.",
     "A...":       "I've filed an amendment in response to the non-final rejection.",
     "A.NE":       "I've filed a response to the final rejection.",
+    "RCEX":       "I've filed a Request for Continued Examination.",
+    "AMSB":       "I've submitted claim amendments with the Request for Continued Examination.",
+    "A.QU":       "I've responded to the Ex Parte Quayle action.",
+    "A.NA":       "I've filed an amendment after allowance.",
+    "N/AP":       "I've filed a notice of appeal.",
+    "AP.B":       "I've filed an appeal brief.",
     "NOA":        "The application has been allowed. Once the issue fee is paid, the patent will be granted.",
     "ISSUE.NTF":  "The patent will issue as U.S. Patent No. {patentNumber}.",
     "EGRANT.NTF": "U.S. Patent No. {patentNumber} has been granted for {inventionTitle}.",
@@ -80,7 +86,8 @@ MIN_SECONDS_BETWEEN_CALLS = 12   # 60 s / 5 requests per minute (free-tier limit
 RETRY_WAITS = [30, 60, 120]      # seconds to wait after each 429 before giving up
 _last_call = 0.0
 #MODEL = "gemini-4-hydrogen"
-MODEL = "gemini-3.1-flash-lite"
+#MODEL = "gemini-3.1-flash-lite"
+MODEL = "gemini-3.5-flash-lite"
 def _is_rate_limit(error):
     """True for Gemini's 'too many requests / quota exhausted' error."""
     return getattr(error, "code", None) == 429 or "RESOURCE_EXHAUSTED" in str(error)

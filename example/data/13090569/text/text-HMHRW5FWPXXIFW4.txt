@@ -1,0 +1,23 @@
+Source: example/data/13090569/files/2013-10-09_NOA_HMHRW5FWPXXIFW4.xml:13090569/HMHRW5FWPXXIFW4/Allowability Notice.xml
+Type: OutgoingDocument
+Markup: [+inserted+]  [-deleted-]
+
+The present application is being examined under the pre-AIA first to invent provisions.
+
+## DETAILED ACTION
+
+## Election/Restrictions
+This application is in condition for allowance except for the presence of claims 16, 21, and 22 directed to a separate invention are non-elected without traverse. Accordingly, claims 16, 21, and 22 have been cancelled.
+
+## Allowable Subject Matter
+Claims 1-6, 8, 9, 12-15 and 17-19 are allowed.
+
+## Conclusion
+Any inquiry concerning this communication or earlier communications from the examiner should be directed to JOANNE SILBERMANN whose telephone number is (571)272-6653. The examiner can normally be reached on M-F 5:30 - 2:00.
+If attempts to reach the examiner by telephone are unsuccessful, the examiner’s supervisor, Paul Dickson can be reached on 571-272-7742. The fax phone number for the organization where this application or proceeding is assigned is 571-273-8300.
+Information regarding the status of an application may be obtained from the Patent Application Information Retrieval (PAIR) system. Status information for published applications may be obtained from either Private PAIR or Public PAIR. Status information for unpublished applications is available through Private PAIR only. For more information about the PAIR system, see http://pair-direct.uspto.gov. Should you have questions on access to the Private PAIR system, contact the Electronic Business Center (EBC) at 866-217-9197 (toll-free). If you would like assistance from a USPTO Customer Service Representative or access to the automated information system, call 800-786-9199 (IN USA OR CANADA) or 571-272-1000.
+Joanne Silbermann_x000d_ Primary Examiner_x000d_ Art Unit 3611
+Primary Examiner
+Art Unit 3611
+/Joanne Silbermann/
+Primary Examiner, Art Unit 3611

@@ -1,0 +1,456 @@
+[
+  {
+    "date": "2011-04-20",
+    "sender": "Applicant",
+    "message": "I've filed a patent application for INTERACTIVE ELECTRONIC GREETING CARDS WITH TAP AND TOUCH ACTIVATED EFFECTS.",
+    "code": "FILED"
+  },
+  {
+    "date": "2011-04-20",
+    "sender": "Applicant",
+    "message": "The invention is an interactive greeting card featuring an internal electronics module that plays multiple digital audio files. It utilizes a slide switch to initiate playback upon opening the card and a touch-sensitive mechanism that triggers additional audio content based on specific physical interactions, such as tapping or a continuous back-and-forth motion.",
+    "code": "CLM",
+    "claims": [
+      {
+        "number": 1,
+        "status": "Original",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a greeting card body having a plurality of greeting card panels, two of the greeting card panels forming an enclosed cavity;",
+          "an electronics module contained within the enclosed cavity of the greeting card body, the electronics module comprising a circuit board, an integrated circuit, a touch sensor switch, a speaker, a memory storage device, a power source, a switch, a touch sensor switch plate, and at least two digital audio files saved on the memory storage device;",
+          "a first switch which initiates playback of a first digital audio file upon opening the greeting card;",
+          "a second switch which initiates playback of a second digital audio file upon human contact with an area of the greeting proximate to the touch sensor switch plate."
+        ],
+        "amended": false,
+        "reconstructed": false
+      },
+      {
+        "number": 8,
+        "status": "Original",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a greeting card body having a first panel connected to a second panel along a first fold line, and a third panel connected to the second panel along a second fold line, the second and third panels attached to form an enclosed cavity therebetween;",
+          "an electronics module contained within the enclosed cavity, the electronics module comprising a printed circuit board, a integrated circuit, a controller, a speaker, a memory storage device, two or more digital audio files contained saved on the memory storage device, a power source, a touch sensitive switch including a touch sensor switch plate, and a slide switch;",
+          "wherein the slide switch initiates playback of one of the two or more digital audio files, and",
+          "wherein the touch sensitive switch initiates playback of one of the two or more digital audio files when a human applies a continuous back and forth motion to an area of the greeting card proximate to the touch sensor switch plate."
+        ],
+        "amended": false,
+        "reconstructed": false
+      },
+      {
+        "number": 15,
+        "status": "Original",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a greeting card body having at least three panels;",
+          "an electronics module contained within a cavity formed between two of the at least three panels of the greeting card body, the electronics module comprising:",
+          "a printed circuit board;",
+          "an integrated circuit;",
+          "a touch sensor switch;",
+          "a touch sensor switch plate;",
+          "a slide switch;",
+          "a speaker;",
+          "a power source;",
+          "a memory storage device, the memory storage device having at least two digital audio files saved thereon;",
+          "wherein the slide switch controls playback of a first digital audio file and the touch sensor switch controls playback of a second digital audio file."
+        ],
+        "amended": false,
+        "reconstructed": false
+      }
+    ]
+  },
+  {
+    "date": "2011-07-07",
+    "sender": "USPTO",
+    "message": "The application is complete and has been accepted for examination.",
+    "code": "COMP"
+  },
+  {
+    "date": "2011-10-27",
+    "sender": "USPTO",
+    "message": "The application has been published.",
+    "code": "PG-ISSUE"
+  },
+  {
+    "date": "2011-11-22",
+    "sender": "Applicant",
+    "message": "The invention is an interactive greeting card featuring an internal electronics module that utilizes multiple digital audio files stored on a memory device. These files are triggered by a combination of switches, including touch-sensitive sensors and slide mechanisms, to provide specific audio content or verbal instructions to the user. The card design incorporates printed indicia and specific physical interactions, such as back-and-forth motions or unfolding panels, to create an immersive, responsive multimedia experience.",
+    "code": "CLM",
+    "claims": [
+      {
+        "number": 1,
+        "status": "currently amended",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a greeting card body having a plurality of greeting card panels, two of the greeting card panels forming an enclosed cavity;",
+          "an electronics module contained within the enclosed cavity of the greeting card body, the electronics module comprising a circuit board, an integrated circuit, a touch sensor switch, a speaker, a memory storage device, a power source, [+at least two switches,+] a [-switch, a touch sensor switch plate, and-] at least two digital audio files saved on the memory storage device; [-a first switch which initiates playback-]",
+          "[+wherein one+] of [-a first-] [+the at least two+] digital audio [-file upon opening-] [+files is triggered by a touch sensitive switch and wherein+] the [-greeting card; a second switch which initiates playback of a second-] [+at least two+] digital audio [-file upon human contact with an area of the greeting proximate to the touch sensor switch plate.-] [+files contain different content.+]"
+        ],
+        "amended": true,
+        "reconstructed": true
+      },
+      {
+        "number": 8,
+        "status": "currently amended",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a greeting card body having a first panel connected to a second panel along a first fold line, and a third panel connected to the second panel along a second fold line, the second and third panels attached to form an enclosed cavity therebetween;",
+          "an electronics module contained within the enclosed cavity, the electronics module comprising a printed circuit board, [-a-] [+an+] integrated circuit, a controller, a speaker, a memory storage device, two or more digital audio files [-contained-] saved on the memory storage device, a power source, a touch sensitive switch including a touch sensor switch plate, and a slide switch;",
+          "wherein the slide switch initiates playback of one of the two or more digital audio files, and",
+          "wherein the touch sensitive switch initiates playback of one of the two or more digital audio files when a human applies a continuous back and forth motion to an area of the greeting card proximate to the touch sensor switch plate."
+        ],
+        "amended": true,
+        "reconstructed": true
+      },
+      {
+        "number": 15,
+        "status": "original",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a greeting card body having at least three panels;",
+          "an electronics module contained within a cavity formed between two of the at least three panels of the greeting card body, the electronics module comprising:",
+          "a printed circuit board;",
+          "an integrated circuit;",
+          "a touch sensor switch;",
+          "a slide switch;",
+          "a speaker;",
+          "a power source;",
+          "a memory storage device, the memory storage device having at least two digital audio files saved thereon;",
+          "wherein the slide switch controls playback of a first digital audio file and the touch sensor switch controls playback of a second digital audio file."
+        ],
+        "amended": false,
+        "reconstructed": false
+      }
+    ]
+  },
+  {
+    "date": "2011-11-22",
+    "sender": "Applicant",
+    "message": "In response to the office action, I have provided the requested remarks for your consideration regarding application number 13/090,569. Should you have any questions or wish to discuss these points in greater detail, please feel free to contact me via telephone at your earliest convenience.",
+    "code": "REM"
+  },
+  {
+    "date": "2012-10-18",
+    "sender": "Examiner",
+    "message": "The claims in this application are directed to patentably distinct species of switches, which require different searches and examinations. Please elect a single species or grouping of patentably indistinct species for prosecution on the merits, while identifying the claims readable on your chosen election. Your response must be received within the set time period to avoid abandonment.",
+    "code": "CTRS"
+  },
+  {
+    "date": "2012-10-29",
+    "sender": "Applicant",
+    "message": "I've responded to the restriction requirement with an election.",
+    "code": "ELC."
+  },
+  {
+    "date": "2012-10-29",
+    "sender": "Applicant",
+    "message": "I respectfully elect to proceed with Group IV, covering claims 1–15 and 17–20, while requesting the cancellation of claims 16, 21, and 22. Please charge any associated fees to Deposit Account No. 50-0959 and contact me if any further matters require discussion.",
+    "code": "REM"
+  },
+  {
+    "date": "2013-01-31",
+    "sender": "Examiner",
+    "message": "This non-final action includes objections to the drawings and a requirement for election of species for claims 16, 21, and 22. Furthermore, claims 1-7 are rejected for indefiniteness under 35 U.S.C. 112, and various claims are rejected under 35 U.S.C. 103 as being unpatentable over the cited prior art.",
+    "code": "CTNF",
+    "rejections": {
+      "rejections": [
+        {
+          "statute": "112(b)",
+          "ground": "indefinite",
+          "claims": "1-7",
+          "references": []
+        },
+        {
+          "statute": "103(a)",
+          "ground": "unpatentable",
+          "claims": "6 and 7",
+          "references": [
+            "Avery",
+            "Ricotta as applied to claim 1 above",
+            "Feuer, US patent 4,200,222 (Feuer)"
+          ]
+        }
+      ],
+      "references": []
+    }
+  },
+  {
+    "date": "2013-03-25",
+    "sender": "Applicant",
+    "message": "I've filed an amendment in response to the non-final rejection.",
+    "code": "A..."
+  },
+  {
+    "date": "2013-03-25",
+    "sender": "Applicant",
+    "message": "The invention has been refined to focus on interactive greeting cards that utilize specific physical interactions to control digital audio playback. These updates clarify that audio playback is tied to continuous user input—such as back-and-forth rubbing motions—and define how these motions can modulate volume, playback speed, or resume functions from a paused state.",
+    "code": "CLM",
+    "claims": [
+      {
+        "number": 1,
+        "status": "currently amended",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a greeting card body having a plurality of greeting card panels, two of the greeting card panels forming an enclosed cavity;",
+          "an electronics module contained within the enclosed cavity of the greeting card body, the electronics module [-comprising a circuit board, an integrated circuit, a touch sensor switch, a speaker, a memory storage device, a power source, at least two switches,-] [+operative to save and playback+] at least two digital audio files [-saved-] [+storage at least and at least two digital files+] on the memory [-storage-] device;",
+          "wherein one of the at least two digital audio files is triggered by a touch sensitive switch [-and wherein-] [+which requires constant user interaction to replay+] the [-at least two digital-] [+entirety of the+] audio files [-contain different-] content."
+        ],
+        "amended": true,
+        "reconstructed": true
+      },
+      {
+        "number": 8,
+        "status": "currently amended",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a [+multi-panel+] greeting card [-body having a-] first panel connected to [-a second panel-] along a first fold line, and a third panel connected to the second panel along a second fold line, the second and [-third-] panels [-attached-] to form an [+having an+] enclosed cavity [-therebetween;-] [+between two panels thereof+]",
+          "an electronics module contained within the enclosed cavity, the electronics module [-comprising-] [+operative to store and playback+] a [-printed circuit board, an integrated circuit, a controller, a speaker, a memory storage device, two-] or more digital audio files [-saved on the memory storage device,-] a [-power source,-] a [-touch sensitive switch including-] a [-touch sensor switch-] plate, and a slide switch;",
+          "wherein [-the-] [+the-a+] slide switch initiates playback of one of the two or more digital audio files, and",
+          "wherein [-the-] [+the-a+] touch sensitive switch initiates playback of one of the two or more digital audio files when a human applies a continuous back and forth motion to an area of the greeting card proximate to the touch sensor switch [-plate.-] [+plate and ceases playback of one of the two or more digital audio files when the continuous back and forth motion stops.+]"
+        ],
+        "amended": true,
+        "reconstructed": true
+      },
+      {
+        "number": 15,
+        "status": "currently amended",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a greeting card body having at least three panels;",
+          "an electronics module contained within a cavity formed between two of the at least three panels of the greeting card body, the electronics module [-comprising:-] [+operative to store and playback at least one audio+]",
+          "a [-printed circuit board; an integrated circuit; a touch sensor switch; a slide switch; a speaker;-]",
+          "a power [-source;-] a memory storage device, the memory storage device having at least [-two-] digital audio files [-saved-] [+s+] thereon;",
+          "wherein the slide switch controls playback of a first digital audio file and the touch sensor switch [-controls-] [+located beneath one of the at least three panels of the greeting card, the touch sensor switch operative to+] playback of [-a second-] [+the at least one+] digital audio [-file.-] [+file;+]",
+          "[+wherein playback of the at least one audio file occurs only while a user continuously rubs an area of the greeting card above the touch sensor switch.+]"
+        ],
+        "amended": true,
+        "reconstructed": true
+      }
+    ]
+  },
+  {
+    "date": "2013-03-25",
+    "sender": "Applicant",
+    "message": "I have submitted amendments to claims 1, 8, 15, and 17–19 to address concerns regarding indefiniteness and to clarify that our interactive greeting card requires continuous user motion for audio playback. I respectfully request the withdrawal of the rejections and the issuance of a Notice of Allowance, as the cited prior art does not teach or suggest these specific interactive features.",
+    "code": "REM"
+  },
+  {
+    "date": "2013-07-02",
+    "sender": "Examiner",
+    "message": "This Office action is made final, as your recent amendments have necessitated new grounds of rejection. The application remains rejected under 35 U.S.C. § 112 for lack of antecedent basis and under 35 U.S.C. § 103 for obviousness, and the drawings are objected to for failing to show all claimed features.",
+    "code": "CTFR",
+    "rejections": {
+      "rejections": [
+        {
+          "statute": "112(b)",
+          "ground": "indefinite",
+          "claims": "1, 2 and 10-13",
+          "references": []
+        }
+      ],
+      "references": []
+    }
+  },
+  {
+    "date": "2013-08-08",
+    "sender": "Applicant",
+    "message": "I've filed a response to the final rejection.",
+    "code": "A.NE"
+  },
+  {
+    "date": "2013-08-08",
+    "sender": "Applicant",
+    "message": "The invention is an interactive greeting card featuring an internal electronics module that plays back multiple digital audio files based on specific user interactions. The current claims define a device where audio playback is strictly tied to continuous user input—such as persistent pressure, specific rubbing motions, or back-and-forth movements—ensuring that audio ceases immediately when the interaction stops. Furthermore, the invention incorporates features that allow the speed of the user's motion to dynamically control the playback volume or tempo of the audio files.",
+    "code": "CLM",
+    "claims": [
+      {
+        "number": 1,
+        "status": "currently amended",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a greeting card body having a plurality of greeting card panels, two of the greeting card panels forming an enclosed cavity;",
+          "an electronics module contained within the enclosed cavity of the greeting card body, the electronics module operative to save and playback at least two digital audio [-files storage at least and at least two digital files on the memory-] [+files;+]",
+          "wherein [+playback of+] one of the at least two digital audio files is triggered by a [-touch sensitive switch which requires constant-] [+user interacting with a specified area of the greeting card and wherein continuous+] user interaction [+is required+] to [-replay-] [+continue hearing playback of+] the [-entirety-] [+one+] of the [+at least two digital+] audio files"
+        ],
+        "amended": true,
+        "reconstructed": true
+      },
+      {
+        "number": 8,
+        "status": "currently amended",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a multi-panel greeting card [-first panel along a fold line, and a third panel to the panel along a fold line, panels form-] [+body+] having an enclosed cavity between two panels [-thereof-]",
+          "an electronics module contained [-within-] [+with+] the enclosed cavity, the electronics module operative to store and playback [+two+] or more digital audio [-files-] [+files;+]",
+          "[+wherein+] a slide switch initiates playback of one of the two or more digital audio files, and",
+          "wherein [-the-a touch sensitive switch initiates playback of one of the two or more digital audio files when-] a [-human applies-] [+user applying+] a continuous back and forth motion to an area of the greeting card proximate to the touch sensor switch plate [-and ceases-] [+initiates+] playback of one of the two or more digital audio files [+and+] when [+the user stops+] the continuous back and forth [-motion stops.-] [+motion, the one of the two or more digital audio files ceases playback+]"
+        ],
+        "amended": true,
+        "reconstructed": true
+      },
+      {
+        "number": 15,
+        "status": "currently amended",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a greeting card body having at least three panels;",
+          "an electronics module contained within a cavity formed between two of the at least three panels of the greeting card body, the electronics module operative to store and playback at least one audio [-digital audio files s thereon;-] [+file;+]",
+          "a touch sensor switch [+plate+] located beneath one of the at least three panels of the greeting card, [-the touch sensor switch operative to playback of the at least one-] digital [-audio file;-]",
+          "wherein playback of the at least one audio file occurs only while a user continuously rubs an area of the greeting card above the touch sensor [-switch.-] [+switch plate.+]"
+        ],
+        "amended": true,
+        "reconstructed": true
+      }
+    ]
+  },
+  {
+    "date": "2013-08-08",
+    "sender": "Applicant",
+    "message": "I have submitted amendments to address the indefiniteness rejections by clarifying claim language and providing proper antecedent basis. Additionally, I contend that the 35 U.S.C. § 103 rejections are improper because the cited prior art is not analogous and fails to teach the novel, user-interactive audio controls unique to my greeting card invention. Accordingly, I respectfully request the withdrawal of all rejections and the allowance of the pending claims.",
+    "code": "REM"
+  },
+  {
+    "date": "2013-08-26",
+    "sender": "Applicant",
+    "message": "I've filed a Request for Continued Examination.",
+    "code": "RCEX"
+  },
+  {
+    "date": "2013-08-26",
+    "sender": "Applicant",
+    "message": "I've submitted claim amendments with the Request for Continued Examination.",
+    "code": "AMSB"
+  },
+  {
+    "date": "2013-08-26",
+    "sender": "Applicant",
+    "message": "The invention is an interactive greeting card featuring an internal electronics module that enables audio playback through specific user interactions, such as continuous back-and-forth rubbing motions on designated card areas. Recent amendments refine these interactions by specifying that the speed and volume of the audio playback are dynamically controlled by the velocity of the user’s physical input. This design ensures that audio is tied directly to user activity, pausing immediately when the motion stops and resuming from that point if the interaction is re-initiated.",
+    "code": "CLM",
+    "claims": [
+      {
+        "number": 1,
+        "status": "currently amended",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a greeting card body having a plurality of greeting card panels, two of the greeting card panels forming an enclosed cavity;",
+          "an electronics module contained within the enclosed cavity of the greeting card body, the electronics module operative to save and playback at least two digital audio files;",
+          "wherein playback of one of the at least two digital audio files is triggered by a user interacting with a specified area of the greeting card and wherein continuous [+back and forth motion+] user [-interaction-] is required to continue hearing playback of the one of the at least two digital audio [-files-] [+files; and+]",
+          "[+wherein an increase in the speed+] of [+the continuous back and forth motion increases the speed of the audio.+]"
+        ],
+        "amended": true,
+        "reconstructed": true
+      },
+      {
+        "number": 8,
+        "status": "currently amended",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a multi-panel greeting card body having an enclosed cavity between two panels thereof;",
+          "an electronics module contained with the enclosed cavity, the electronics module operative to store and playback two or more digital audio files;",
+          "wherein a slide switch initiates playback of one of the two or more digital audio files, and",
+          "wherein a user applying a continuous back and forth motion to an area of the greeting card proximate to the touch sensor switch plate initiates playback of one of the two or more digital audio files and when the user stops the continuous back and forth motion, the one of the two or more digital audio files ceases playback [+and wherein an increase in the of the continuous back and forth motion increases the volume of the audio.+]"
+        ],
+        "amended": true,
+        "reconstructed": true
+      },
+      {
+        "number": 15,
+        "status": "currently amended",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a greeting card body having at least three panels;",
+          "an electronics module contained within a cavity formed between two of the at least three panels of the greeting card body, the electronics module operative to store and playback at least one audio file;",
+          "a touch sensor switch plate located beneath one of the at least three panels of the greeting [-digital-] [+card;+]",
+          "wherein playback of the at least one audio file occurs only while a user continuously rubs an area of the greeting card above the touch sensor switch [-plate.-]",
+          "[+wherein an increase in the speed of the continuous rubbing increases the volume of the audio.+]"
+        ],
+        "amended": true,
+        "reconstructed": true
+      }
+    ]
+  },
+  {
+    "date": "2013-08-26",
+    "sender": "Applicant",
+    "message": "I have amended claims 1, 7, 8, 15, and 18 to incorporate the subject matter previously accepted by the Examiner and to clarify their patentability. Given these adjustments and the cancellation of claims 10 and 11, I believe the remaining claims are now in condition for allowance. I respectfully request a Notice of Allowance and remain available by telephone should you wish to discuss these amendments further.",
+    "code": "REM"
+  },
+  {
+    "date": "2013-09-06",
+    "sender": "Examiner",
+    "message": "The finality of the previous Office action has been withdrawn following your Request for Continued Examination. Claims 1-6 are rejected under 35 U.S.C. § 103, while claims 8, 9, and 12-19 are currently allowed.",
+    "code": "CTNF"
+  },
+  {
+    "date": "2013-09-19",
+    "sender": "Applicant",
+    "message": "I've filed an amendment in response to the non-final rejection.",
+    "code": "A..."
+  },
+  {
+    "date": "2013-09-19",
+    "sender": "Applicant",
+    "message": "The invention features an interactive greeting card that utilizes an internal electronics module to control digital audio playback based on user interaction. Specifically, the system is designed to modulate both the speed and volume of the audio output in direct response to the speed of a continuous back-and-forth rubbing motion applied to a specific area of the card.",
+    "code": "CLM",
+    "claims": [
+      {
+        "number": 1,
+        "status": "currently amended",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a greeting card body having a plurality of greeting card panels, two of the greeting card panels forming an enclosed cavity;",
+          "an electronics module contained within the enclosed cavity of the greeting card body, the electronics module operative to save and playback at least two digital audio files;",
+          "wherein playback of one of the at least two digital audio files is triggered by a user interacting with a specified area of the greeting card and wherein continuous back and forth [-motion is-] required to continue hearing playback of the one of the at least two digital audio files; and",
+          "wherein an increase in the speed of the continuous back and forth motion increases the speed [+and volume+] of the audio."
+        ],
+        "amended": true,
+        "reconstructed": true
+      },
+      {
+        "number": 8,
+        "status": "previously presented",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a multi-panel greeting card body having an enclosed cavity between two panels thereof;",
+          "an electronics module contained with the enclosed cavity, the electronics module operative to store and playback two or more digital audio files;",
+          "wherein a slide switch initiates playback of one of the two or more digital audio files, and",
+          "wherein a user applying a continuous back and forth motion to an area of the greeting card proximate to the touch sensor switch plate initiates playback of one of the two or more digital audio files and when the user stops the continuous back and forth motion, the one of the two or more digital audio files ceases playback and wherein an increase in the speed of the continuous back and forth motion increases the volume of the audio."
+        ],
+        "amended": false,
+        "reconstructed": false
+      },
+      {
+        "number": 15,
+        "status": "previously presented",
+        "lines": [
+          "An interactive greeting card comprising:",
+          "a greeting card body having at least three panels;",
+          "an electronics module contained within a cavity formed between two of the at least three panels of the greeting card body, the electronics module operative to store and playback at least one audio file;",
+          "a touch sensor switch plate located beneath one of the at least three panels of the greeting card;",
+          "wherein playback of the at least one audio file occurs only while a user continuously rubs an area of the greeting card above the touch sensor switch plate, and",
+          "wherein an increase in the speed of the continuous rubbing increases the volume of the audio."
+        ],
+        "amended": false,
+        "reconstructed": false
+      }
+    ]
+  },
+  {
+    "date": "2013-09-19",
+    "sender": "Applicant",
+    "message": "I have amended claim 1 to incorporate the limitations of previously cancelled claim 7 to overcome the Examiner’s 103(a) rejections. I respectfully request that the Examiner withdraw these rejections and issue a Notice of Allowance for the pending claims, as they are now in condition for allowance.",
+    "code": "REM"
+  },
+  {
+    "date": "2013-10-09",
+    "sender": "Examiner",
+    "message": "The application has been allowed. Once the issue fee is paid, the patent will be granted.",
+    "code": "NOA"
+  },
+  {
+    "date": "2013-10-30",
+    "sender": "USPTO",
+    "message": "The patent will issue as U.S. Patent No. 8584385.",
+    "code": "ISSUE.NTF"
+  }
+]

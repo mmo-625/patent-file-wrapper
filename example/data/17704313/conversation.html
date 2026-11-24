@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Event-Based Machine Learning for a Time-Series Metric</title><style>
+:root { --ins:#0a7d32; --ins-bg:#dcfce7; --del:#b42318; --del-bg:#fee4e2; --bg:#ffffff; --text:#111; --muted:#6b7280; --bar:#f3f4f6; --line:#e5e7eb;
+        --applicant:#0a84ff; --applicant-text:#fff; --examiner:#e9e9eb; --examiner-text:#111;
+        --uspto:#fdecc8; --uspto-text:#4a3500; --other:#e5e7eb; --other-text:#111; }
+@media (prefers-color-scheme: dark) {
+  :root { --bg:#000; --text:#f5f5f7; --muted:#9ca3af; --bar:#1c1c1e; --line:#2c2c2e;
+          --examiner:#2c2c2e; --examiner-text:#f5f5f7; --uspto:#4a3a12; --uspto-text:#fde9b8;
+          --other:#3a3a3c; --other-text:#f5f5f7;
+          --ins:#6ee7a0; --ins-bg:#0f3d23; --del:#fca5a5; --del-bg:#4a1717; } }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--text);
+       font:16px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+header { position:sticky; top:0; background:var(--bar); border-bottom:1px solid var(--line);
+         padding:12px 16px; text-align:center; }
+header h1 { margin:0; font-size:16px; font-weight:600; }
+header p { margin:4px 0 0; font-size:12px; color:var(--muted); }
+main { max-width:720px; margin:0 auto; padding:8px 16px 32px; }
+.day { text-align:center; color:var(--muted); font-size:12px; font-weight:600; margin:20px 0 8px; }
+.row { display:flex; flex-direction:column; margin-top:2px; }
+.row.right { align-items:flex-end; } .row.left { align-items:flex-start; }
+.row.first { margin-top:10px; }
+.who { font-size:11px; color:var(--muted); margin:0 12px 2px; }
+.bubble { max-width:70%; padding:8px 12px; border-radius:18px; white-space:pre-wrap;
+          overflow-wrap:anywhere; }
+@media (max-width:480px) { .bubble { max-width:85%; } }
+.applicant .bubble { background:var(--applicant); color:var(--applicant-text); }
+.examiner .bubble { background:var(--examiner); color:var(--examiner-text); }
+.uspto .bubble { background:var(--uspto); color:var(--uspto-text); }
+.other .bubble { background:var(--other); color:var(--other-text); }
+.breakdown { max-width:70%; margin:4px 0 0; font-size:13px; }
+@media (max-width:480px) { .breakdown { max-width:100%; } }
+.breakdown summary { cursor:pointer; color:var(--muted); font-weight:600; padding:2px 12px;
+                     list-style-position:inside; }
+.breakdown[open] summary { margin-bottom:6px; }
+.breakdown .panel { background:var(--examiner); color:var(--examiner-text); border-radius:14px;
+                    padding:10px 12px; overflow-x:auto; }
+.breakdown table { border-collapse:collapse; width:100%; }
+.breakdown th, .breakdown td { text-align:left; vertical-align:top; padding:4px 8px 4px 0;
+                               border-bottom:1px solid var(--line); }
+.breakdown th { font-size:11px; text-transform:uppercase; letter-spacing:.03em; color:var(--muted); }
+.breakdown td.statute { white-space:nowrap; }
+.breakdown h4 { margin:12px 0 4px; font-size:11px; text-transform:uppercase; color:var(--muted); }
+.breakdown ul { margin:0; padding-left:18px; }
+.breakdown li { margin:2px 0; }
+.breakdown a { color:inherit; }
+.claim { max-width:70%; margin:4px 0 0; font-size:13px; }
+@media (max-width:480px) { .claim { max-width:100%; } }
+.claim summary { cursor:pointer; color:var(--muted); font-weight:600; padding:2px 12px;
+                 list-style-position:inside; }
+.claim[open] summary { margin-bottom:6px; }
+.claim .panel { background:var(--examiner); color:var(--examiner-text); border-radius:14px;
+                padding:10px 12px; text-align:left; }
+.claim p { margin:0 0 6px; overflow-wrap:anywhere; }
+.claim p.limit { padding-left:14px; }
+.claim ins { color:var(--ins); background:var(--ins-bg); text-decoration:underline; }
+.claim del { color:var(--del); background:var(--del-bg); text-decoration:line-through; }
+.claim .legend { font-size:11px; color:var(--muted); margin:0 0 8px; }
+.summary { background:var(--bar); border:1px solid var(--line); border-radius:14px;
+           padding:10px 14px; margin:12px 0 4px; text-align:center; font-size:13px; color:var(--muted); }
+.summary p { margin:2px 0; }
+.summary strong { color:var(--text); }
+.summary span { white-space:nowrap; }
+footer { max-width:720px; margin:0 auto; padding:16px 16px 32px; border-top:1px solid var(--line);
+         text-align:center; font-size:12px; color:var(--muted); }
+</style></head><body><header><h1>Event-Based Machine Learning for a Time-Series Metric</h1><p>Application 17704313 · U.S. Patent No. 12101343 · Applicant Anodot Ltd.</p></header><main>
+<section class="summary"><p><span><strong>1</strong> rejection</span> · <span><strong>1</strong> response</span> · <span><strong>1</strong> allowance</span></p><p>Filed <strong>Mar 25, 2022</strong> → Granted <strong>Sep 24, 2024</strong> (29 months)</p></section>
+<div class="day">Mar 25, 2022</div>
+<div class="row right applicant first"><div class="who">Applicant</div><div class="bubble">I&#x27;ve filed a patent application for Event-Based Machine Learning for a Time-Series Metric.</div></div>
+<div class="row right applicant"><div class="bubble">The invention involves a computerized method and system for generating training samples for an anomaly detection system by analyzing time-series events that impact a target metric. It operates by grouping these events based on shared attributes, determining their influence patterns on the target metric, and clustering the groups with similar influence patterns. Additionally, the process incorporates impact scoring and filtering thresholds to selectively remove irrelevant event groups before or during the clustering phase.</div><details class="claim"><summary>Claim 1 · Original</summary><div class="panel"><p>A computerized method comprising:</p><p class="limit">receiving a plurality of events that occurred during a time series of a target metric, wherein each event of the events includes an event attribute characterizing the event;</p><p class="limit">generating a set of event groups for the plurality of events, wherein each event of a respective event group shares a respective event attribute with one or more other events of the respective event group;</p><p class="limit">for each respective event group of the set of event groups, determining an influence pattern that identifies an influence of the respective event group on the target metric;</p><p class="limit">clustering the set of event groups into event clusters based on a respective influence pattern of each respective event group, wherein each event cluster includes one or more event groups that share a similar influence pattern; and</p><p class="limit">generating a plurality of training samples for an anomaly detection system based on a respective event cluster.</p></div></details><details class="claim"><summary>Claim 11 · Original</summary><div class="panel"><p>A system comprising:</p><p class="limit">processor hardware; and</p><p class="limit">memory hardware in communication with the processor hardware, wherein the memory hardware stores instructions that, when executed by the processor hardware, perform operations, and wherein the operations include:</p><p class="limit">receiving a plurality of events that occurred during a time series of a target metric, wherein each respective event includes an event attribute characterizing the respective event;</p><p class="limit">generating a set of event groups for the plurality of events, wherein each event of a respective event group shares a respective event attribute with one or more other events of the respective event group;</p><p class="limit">for each respective event group of the set of event groups, determining an influence pattern that identifies an influence of the respective event group on the target metric;</p><p class="limit">clustering the set of event groups into event clusters based on a respective influence pattern of each respective event group, wherein each event cluster includes one or more event groups that share a similar influence pattern; and</p><p class="limit">generating a plurality of training samples for an anomaly detection system based on a respective event cluster.</p></div></details><details class="claim"><summary>Claim 18 · Original</summary><div class="panel"><p>The system of claim I I wherein the anomaly detection system is a machine learning-based anomaly detection system.</p></div></details><details class="claim"><summary>Claim 19 · Original</summary><div class="panel"><p>The system of claim I I wherein determining the influence pattern that identifies the influence of the respective event group on the target metric includes determining a mean expected influence for all events of the respective event group.</p></div></details></div>
+<div class="day">Mar 30, 2022</div>
+<div class="row left uspto first"><div class="who">USPTO</div><div class="bubble">The application is complete and has been accepted for examination.</div></div>
+<div class="row left uspto"><div class="bubble">The application is complete and has been accepted for examination.</div></div>
+<div class="day">Sep 29, 2023</div>
+<div class="row left uspto first"><div class="who">USPTO</div><div class="bubble">The application has been published.</div></div>
+<div class="day">May 9, 2024</div>
+<div class="row left examiner first"><div class="who">Examiner</div><div class="bubble">This Non-Final Office Action examines pending claims 1-20 of your application, rejecting claims 1-2, 7-8, 11-12, and 17-18 under 35 U.S.C. § 103 as unpatentable over the combined teachings of Settle and Dodson. Please note that claims 3-6, 9-10, 13-16, and 19-20 disclose allowable subject matter and would be patentable if incorporated into the independent claims.</div></div>
+<div class="day">May 29, 2024</div>
+<div class="row right applicant first"><div class="who">Applicant</div><div class="bubble">I&#x27;ve filed an amendment in response to the non-final rejection.</div></div>
+<div class="row right applicant"><div class="bubble">The invention is a computerized method and system for generating training samples for an anomaly detection system by analyzing a time series of a target metric. Recent amendments clarify that determining the influence of each event group on the target metric specifically involves calculating a mean expected influence for all events within that group. Additionally, the clustering process has been refined to evaluate and group event groups based on the similarity of their influence patterns relative to a second event group.</div><details class="claim"><summary>Claim 1 · Currently amended</summary><div class="panel"><p class="legend"><ins>inserted</ins> · <del>deleted</del></p><p>A computerized method comprising:</p><p class="limit">receiving a plurality of events that occurred during a time series of a target metric, wherein each event of the <ins>plurality of</ins> events includes an event attribute characterizing the <ins>respective</ins> event;</p><p class="limit">generating a set of event groups for the plurality of events, wherein each event of a respective event group shares a respective event attribute with one or more other events of the respective event group;</p><p class="limit">for each respective event group of the set of event groups, determining an influence pattern that identifies an influence of the respective event group on the target <ins>metric, wherein determining the influence pattern includes determining a mean expected influence for all events of the respective event group;</ins></p><p class="limit">clustering the set of event groups into event clusters based on a respective influence pattern of each respective event group, wherein each event cluster includes one or more event groups that share a similar influence pattern; and</p><p class="limit">generating a plurality of training samples for an anomaly detection system based on a respective event cluster.</p></div></details><details class="claim"><summary>Claim 11 · Currently amended</summary><div class="panel"><p class="legend"><ins>inserted</ins> · <del>deleted</del></p><p>A system comprising:</p><p class="limit">processor hardware; and</p><p class="limit">memory hardware in communication with the processor hardware,</p><p class="limit">wherein the memory hardware stores instructions that, when executed by the processor hardware, perform operations, and wherein the operations include:</p><p class="limit">receiving a plurality of events that occurred during a time series of a target metric, wherein each respective event <ins>of the plurality of events</ins> includes an event attribute characterizing the respective event;</p><p class="limit">generating a set of event groups for the plurality of events, wherein each event of a respective event group shares a respective event attribute with one or more other events of the respective event group;</p><p class="limit">for each respective event group of the set of event groups,</p><p class="limit">determining an influence pattern that identifies an influence of the respective event group on the target <ins>metric, wherein determining the influence pattern includes determining a mean expected influence for all events of the respective event group;</ins></p><p class="limit">clustering the set of event groups into event clusters based on a respective influence pattern of each respective event group, wherein each event cluster includes one or more event groups that share a similar influence pattern;</p><p class="limit">and generating a plurality of training samples for an anomaly detection system based on a respective event cluster.</p></div></details></div>
+<div class="row right applicant"><div class="bubble">In response to the office action, we have amended independent claims 1 and 11 to incorporate the allowable limitations of former dependent claims 9 and 19. We respectfully request that the Examiner withdraw the rejections over Settle and Dodson, as the prior art fails to teach these combined features, and pass the application to allowance.</div></div>
+<div class="day">Jun 28, 2024</div>
+<div class="row left examiner first"><div class="who">Examiner</div><div class="bubble">The application has been allowed. Once the issue fee is paid, the patent will be granted.</div></div>
+<div class="day">Sep 4, 2024</div>
+<div class="row left uspto first"><div class="who">USPTO</div><div class="bubble">The patent will issue as U.S. Patent No. 12101343.</div></div>
+<div class="day">Sep 24, 2024</div>
+<div class="row left uspto first"><div class="who">USPTO</div><div class="bubble">U.S. Patent No. 12101343 has been granted for Event-Based Machine Learning for a Time-Series Metric.</div></div>
+</main><footer>Educational project. Summaries are AI-generated from public USPTO records and may contain errors.</footer></body></html>

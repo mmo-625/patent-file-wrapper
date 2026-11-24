@@ -26,7 +26,8 @@
           "a seventh training dataset including images of specific-domain web pages; and/or",
           "an eighth training dataset including images of agentic trajectories of the agent performing interface automation task workflows."
         ],
-        "amended": false
+        "amended": false,
+        "reconstructed": false
       },
       {
         "number": 19,
@@ -38,7 +39,8 @@
           "wherein respective training datasets in the sequence of training datasets correspond to respective steps in the sequence of steps, and",
           "wherein a particular training dataset in the sequence of training dataset corresponding to a particular step in the sequence of steps includes a multitude of interface images of the particular step being performed over multitude of iterations."
         ],
-        "amended": false
+        "amended": false,
+        "reconstructed": false
       },
       {
         "number": 20,
@@ -49,7 +51,8 @@
           "interface images labelled with data identifying interface elements; and",
           "interface images labelled with data identifying interface operations applied on the interface elements."
         ],
-        "amended": false
+        "amended": false,
+        "reconstructed": false
       }
     ]
   },
@@ -97,7 +100,8 @@
           "a sixth training dataset including images of open-domain web pages;",
           "a seventh training dataset including images of specific-domain web pages; and/or an eighth training dataset including images of agentic trajectories of the agent performing interface automation task workflows."
         ],
-        "amended": false
+        "amended": false,
+        "reconstructed": false
       }
     ]
   },
@@ -235,7 +239,8 @@
           "[+iteratively generating, by the Transformer based vision language model, next machine-actuated commands based on a screenshot of a changed software user interface; and+]",
           "[+iteratively executing, by the artificial intelligence agent, the next machine- actuated commands thereby causing a task described by the natural language input to be completed by interacting with the software user interface.+]"
         ],
-        "amended": true
+        "amended": true,
+        "reconstructed": false
       }
     ]
   },
@@ -314,7 +319,8 @@
           "iteratively generating, by the Transformer based vision language model, next machine-actuated commands based on a screenshot of a changed software user interface; and",
           "iteratively executing, by the artificial intelligence agent, the next machine- actuated commands thereby causing a task described by the natural language input to be completed by interacting with the software user interface."
         ],
-        "amended": true
+        "amended": true,
+        "reconstructed": false
       }
     ]
   },

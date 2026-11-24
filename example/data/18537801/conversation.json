@@ -1,0 +1,186 @@
+[
+  {
+    "date": "2023-12-13",
+    "sender": "Applicant",
+    "message": "I've filed a patent application for Autonomous snow removal machine.",
+    "code": "FILED"
+  },
+  {
+    "date": "2023-12-13",
+    "sender": "Applicant",
+    "message": "Based on the current claims, my invention is an autonomous snow removal machine created by converting a standard manual snowblower with battery-powered electric motors and an onboard edge computer module that navigates using pre-stored maps and sensor data. The design incorporates various customizable features such as a smartphone app interface, swivel wheels, single-battery power, protective enclosures, and safety lights or sounds, along with the capability to manually override the system or spray salt. Furthermore, the underlying conversion and drive technology is adaptable for broader applications including farming machines, industrial equipment, lawn mowers, and large-scale clearing of paved areas.",
+    "code": "CLM",
+    "claims": [
+      {
+        "number": 1,
+        "status": "Original",
+        "lines": [
+          "An autonomous snow removal machine that is self-operating, using sensors and an edge computer module to navigate and clear snow. Elements that comprise this machine include:",
+          "a manually controlled snowblower conversion; whereby the machine is created from a regular snowblower by replacing its manual controls with electric motors powered by batteries;",
+          "electrically driven functions, whereby key functions like wheel movement, chute control, deflector control, and auger engagement are now powered by electric motors;",
+          "edge computer control, whereby an onboard edge computer module receives data from sensors and sends instructions to the electric motors to control the machine's movements;",
+          "pre-stored map for localization, whereby the machine utilizes a map of the area, created during snowless conditions, to identify its location and boundaries;",
+          "manual mode capability, whereby the machine can be operated manually when required by disengaging the clutch mechanism at the wheels and other electric motors."
+        ],
+        "amended": false,
+        "reconstructed": false
+      }
+    ]
+  },
+  {
+    "date": "2023-12-22",
+    "sender": "USPTO",
+    "message": "The application is complete and has been accepted for examination.",
+    "code": "COMP"
+  },
+  {
+    "date": "2024-06-27",
+    "sender": "USPTO",
+    "message": "The application has been published.",
+    "code": "PG-ISSUE"
+  },
+  {
+    "date": "2024-07-12",
+    "sender": "USPTO",
+    "message": "The application has been published.",
+    "code": "PG-ISSUE"
+  },
+  {
+    "date": "2026-01-12",
+    "sender": "Examiner",
+    "message": "In this non-final action, claims 1-16 of your application have been examined and rejected under 35 U.S.C. 103 as being obvious over combinations of prior art references including Ramanand and Eavenson, among others. Please review the detailed rejections provided in the office action and respond accordingly within the statutory period.",
+    "code": "CTNF"
+  },
+  {
+    "date": "2026-02-20",
+    "sender": "Examiner",
+    "message": "During our telephonic interview on February 19, 2026, we discussed your proposed amendments concerning the retrofit implementation to clarify the claims. However, no agreement was reached as the claims require further search and consideration. I now await your next action in the application.",
+    "code": "EXIN"
+  },
+  {
+    "date": "2026-03-21",
+    "sender": "Applicant",
+    "message": "The invention is an autonomous snow removal machine created by converting a conventional, manually operated gasoline snowblower using a specialized drive conversion assembly, an onboard sensor suite, and an edge computer module. This system allows the machine to operate in both a training mode to map boundaries when no snow is present and an autonomous mode to clear snow while relying primarily on its onboard sensors and stored map. Furthermore, the design supports hybrid operation where a gasoline engine powers the snow auger while electric motors drive the rear wheels, and it can also be adapted for use on industrial, farming, or lawn mowing machines.",
+    "code": "CLM"
+  },
+  {
+    "date": "2026-03-21",
+    "sender": "Applicant",
+    "message": "My invention is an autonomous snow removal machine created by converting a traditional, manually operated gasoline snowblower using a specialized drive conversion assembly, rechargeable battery power subsystem, and an onboard edge computer module. The system relies on an integrated sensor suite to map boundaries during clear conditions and execute autonomous snow clearing when snow obscures the surroundings, while the gasoline engine exclusively drives the auger and electric motors handle propulsion and steering. Additionally, the machine retains a manual operating mode with a disengageable clutch, and the core conversion technology can also be adapted for use with lawn mowing, agricultural, or industrial machinery.",
+    "code": "CLM",
+    "claims": [
+      {
+        "number": 1,
+        "status": "Original",
+        "lines": [
+          "An autonomous snow removal machine formed by converting a manually operated snowblower, the machine comprising:",
+          "a snowblower frame supporting:",
+          "a gasoline engine configured to drive rotation of a snow auger that ingests snow and discharges snow through a chute; and rear wheels that, in the manually operated snowblower, are free-spinning and pushed by a human operator;",
+          "a drive conversion assembly mounted to the snowblower frame and comprising: at least one electric motor mechanically coupled to at least one of the rear wheels through a clutch mechanism manually engageable and disengageable to selectively allow free-rolling manual movement of the machine; an electrically powered actuator configured to engage and disengage a belt drive between the gasoline engine and the snow auger; and an electrically powered actuator configured to rotate the chute, and optionally an electrically powered actuator configured to move a chute deflector;",
+          "a power subsystem including at least one rechargeable battery supplying electrical power to the at least one electric motor, the electrically powered actuator or actuators, and an onboard edge computer module;",
+          "an onboard sensor suite mounted on the snowblower frame and comprising at least one lidar, one camera and at least one of a GPS receiver, an inertial measurement unit, and a wheel speed sensor, the onboard sensor suite being configured to generate localization and environment data;",
+          "the onboard edge computer module configured to: in a training mode executed when there is no snow or when snow depth is low enough that driveway, sidewalk, road, and other boundary edges are visible, receive the localization and environment data from the onboard sensor suite and construct and store in memory a map defining boundaries of one or more snow-clearing zones; and in an autonomous snow-removal mode executed when snow partially or fully obscures the boundary edges, control the at least one electric motor and the electrically powered actuator or actuators based at least on the stored map and current sensor data to: start the gasoline engine, engage the belt drive to rotate the snow auger, drive and steer the rear wheels, and move the chute and deflector, to clear snow from within the one or more snow-clearing zones while avoiding areas outside the boundaries;",
+          "wherein, during autonomous snow removal, the gasoline engine provides power for rotating the snow auger and does not provide motive power to the rear wheels, the rear wheels being driven by the at least one electric motor; and",
+          "wherein the machine is further operable in a manual mode in which the clutch mechanism is disengaged so that the rear wheels free-roll and the machine can be manually positioned by a user, and localization is performed primarily using the onboard sensor suite and the stored map, with any static sensors or signposts on the property, if present, providing only supplemental safety and localization information."
+        ],
+        "amended": false,
+        "reconstructed": false
+      }
+    ]
+  },
+  {
+    "date": "2026-03-21",
+    "sender": "Applicant",
+    "message": "Applicant has submitted amended claims 1-16 to overcome the rejections, highlighting features such as the retrofit architecture, the specific power split between the gas auger and electric drive, and the snow-obscured mapping workflow. These amendments clarify that the claimed machine retains manual free-rolling movement via a disengageable clutch and uses external static sensors only as supplemental localization aids. Reconsideration and allowance of the amended claims are respectfully requested.",
+    "code": "REM"
+  },
+  {
+    "date": "2026-04-18",
+    "sender": "Applicant",
+    "message": "I've filed an amendment in response to the non-final rejection.",
+    "code": "A..."
+  },
+  {
+    "date": "2026-04-18",
+    "sender": "Applicant",
+    "message": "My invention is an autonomous snow removal machine created by converting a traditional manual, gasoline-powered snowblower with a specialized drive conversion assembly, electric actuators, and an onboard sensor and computer system. The machine operates by using its gasoline engine exclusively to power the snow auger while electric motors drive and steer the rear wheels, allowing it to autonomously map boundaries in a training mode and clear snow within those zones during an autonomous mode. Additionally, the conversion technology and control systems are adaptable for use on other equipment such as lawn mowers, industrial machines, and farming vehicles.",
+    "code": "CLM",
+    "claims": [
+      {
+        "number": 1,
+        "status": "Currently amended",
+        "lines": [
+          "An autonomous snow removal machine formed by converting a manually operated snowblower, the machine comprising:",
+          "a snowblower frame supporting:",
+          "a gasoline engine configured to drive rotation of a snow auger that ingests snow and discharges snow through a chute; and",
+          "rear wheels that, in the manually operated snowblower, are free-spinning and pushed by a human operator;",
+          "a drive conversion assembly mounted to the snowblower frame and comprising:",
+          "at least one electric motor mechanically coupled to at least one of the rear wheels through a clutch mechanism manually engageable and disengageable to selectively allow free-rolling manual movement of the machine;",
+          "an electrically powered actuator configured to engage and disengage a belt drive between the gasoline engine and the snow auger; and",
+          "an electrically powered actuator configured to rotate the chute, and optionally an electrically powered actuator configured to move a chute deflector;",
+          "a power subsystem including at least one rechargeable battery supplying electrical power to the at least one electric motor, the electrically powered actuator or actuators, and an onboard edge computer module;",
+          "an onboard sensor suite mounted on the snowblower frame and comprising at least one lidar, one camera and at least one of a GPS receiver, an inertial measurement unit, and a wheel speed sensor, the onboard sensor suite being configured to generate localization and environment data;",
+          "the onboard edge computer module configured to:",
+          "in a training mode executed when there is no snow or when snow depth is low enough that driveway, sidewalk, road, and other boundary edges are visible, receive the localization and environment data from the onboard sensor suite and construct and store in memory a map defining boundaries of one or more snow-clearing zones; and",
+          "in an autonomous snow-removal mode executed when snow partially or fully obscures the boundary edges, control the at least one electric motor and the electrically powered actuator or actuators based at least on the stored map and current sensor data to:",
+          "start the gasoline engine,",
+          "engage the belt drive to rotate the snow auger,",
+          "drive and steer the rear wheels, and",
+          "move the chute and deflector,",
+          "to clear snow from within the one or more snow-clearing zones while avoiding areas outside the boundaries;",
+          "wherein, during autonomous snow removal, the gasoline engine provides power for rotating the snow auger and does not provide motive power to the rear wheels, the rear wheels being driven by the at least one electric motor; and",
+          "wherein the machine is further operable in a manual mode in which the clutch mechanism is disengaged so that the rear wheels free-roll and the machine can be manually positioned by a user, and localization is performed primarily using the onboard sensor suite and the stored map, with any static sensors or signposts on the property, if present, providing only supplemental safety and localization information."
+        ],
+        "amended": true,
+        "reconstructed": true
+      }
+    ]
+  },
+  {
+    "date": "2026-05-09",
+    "sender": "Applicant",
+    "message": "The invention has been refined to specifically detail an autonomous snow removal machine created by converting a conventional, manually operated gasoline snowblower using a specialized drive conversion assembly, electric actuators, and an onboard edge computer module. The updated claims clearly delineate that the gasoline engine powers the snow auger while electric motors drive the rear wheels, and they introduce a two-mode operational capability featuring a training mode for mapping boundaries during snowless conditions and an autonomous snow-removal mode utilizing sensors and the pre-stored map. Additionally, various dependent claims now specify optional physical additions like front swivel wheels, protective enclosures, warning lights or sounds, a salt-dispensing subsystem, and smartphone app integration for remote control and boundary-teaching.",
+    "code": "CLM",
+    "claims": [
+      {
+        "number": 1,
+        "status": "Currently amended",
+        "lines": [
+          "An autonomous snow removal machine [+formed by converting a manually operated snowblower, the machine comprising:+][-that is self-operating, using sensors and an edge computer module to navigate and clear snow. Elements that comprise this machine include:-]",
+          "[+a snowblower frame supporting:+]",
+          "[+a gasoline engine configured to drive rotation of a snow auger that ingests snow and discharges snow through a chute; and+]",
+          "[+rear wheels that, in the manually operated snowblower, are free-spinning and pushed by a human operator;+]",
+          "[+a drive conversion assembly mounted to the snowblower frame and comprising:+]",
+          "[+at least one electric motor mechanically coupled to at least one of the rear wheels through a clutch mechanism manually engageable and disengageable to selectively allow free-rolling manual movement of the machine;+]",
+          "[+an electrically powered actuator configured to engage and disengage a belt drive between the gasoline engine and the snow auger; and+]",
+          "[+an electrically powered actuator configured to rotate the chute, and optionally an electrically powered actuator configured to move a chute deflector;+]",
+          "[-a manually controlled snowblower conversion; whereby the machine is created from a regular snowblower by replacing its manual controls with electric motors powered by batteries;-]",
+          "[-electrically driven functions, whereby key functions like wheel movement, chute control, deflector control, and auger engagement are now powered by electric motors;-]",
+          "[+a power subsystem including at least one rechargeable battery supplying electrical power to the at least one electric motor, the electrically powered actuator or actuators, and an onboard edge computer module;+]",
+          "[+an onboard sensor suite mounted on the snowblower frame and comprising at least one lidar, one camera and at least one of a GPS receiver, an inertial measurement unit, and a wheel speed sensor, the onboard sensor suite being configured to generate localization and environment data;+]",
+          "[+the onboard edge computer module configured to:+]",
+          "[+in a training mode executed when there is no snow or when snow depth is low enough that driveway, sidewalk, road, and other boundary edges are visible, receive the localization and environment data from the onboard sensor suite and construct and store in memory a map defining boundaries of one or more snow-clearing zones; and+]",
+          "[+in an autonomous snow-removal mode executed when snow partially or fully obscures the boundary edges, control the at least one electric motor and the electrically powered actuator or actuators based at least on the stored map and current sensor data to:+]",
+          "[+start the gasoline engine,+]",
+          "[+engage the belt drive to rotate the snow auger,+]",
+          "[+drive and steer the rear wheels, and+]",
+          "[+move the chute and deflector,+]",
+          "[+to clear snow from within the one or more snow-clearing zones while avoiding areas outside the boundaries;+]",
+          "[-edge computer control, whereby an onboard edge computer module receives data from sensors and sends instructions to the electric motors to control the machine's movements;-]",
+          "[-pre-stored map for localization, whereby the machine utilizes a map of the area, created during snowless conditions, to identify its location and boundaries;-]",
+          "[-manual mode capability, whereby the machine can be operated manually when required by disengaging the clutch mechanism at the wheels and other electric motors.-]",
+          "[+wherein, during autonomous snow removal, the gasoline engine provides power for rotating the snow auger and does not provide motive power to the rear wheels, the rear wheels being driven by the at least one electric motor; and+]",
+          "[+wherein the machine is further operable in a manual mode in which the clutch mechanism is disengaged so that the rear wheels free-roll and the machine can be manually positioned by a user, and localization is performed primarily using the onboard sensor suite and the stored map, with any static sensors or signposts on the property, if present, providing only supplemental safety and localization information.+]"
+        ],
+        "amended": true,
+        "reconstructed": false
+      }
+    ]
+  },
+  {
+    "date": "2026-05-09",
+    "sender": "Applicant",
+    "message": "I've filed an amendment in response to the non-final rejection.",
+    "code": "A..."
+  }
+]

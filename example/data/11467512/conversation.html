@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>CAPTURING AND PROCESSING FACIAL MOTION DATA</title><style>
+:root { --ins:#0a7d32; --ins-bg:#dcfce7; --del:#b42318; --del-bg:#fee4e2; --bg:#ffffff; --text:#111; --muted:#6b7280; --bar:#f3f4f6; --line:#e5e7eb;
+        --applicant:#0a84ff; --applicant-text:#fff; --examiner:#e9e9eb; --examiner-text:#111;
+        --uspto:#fdecc8; --uspto-text:#4a3500; --other:#e5e7eb; --other-text:#111; }
+@media (prefers-color-scheme: dark) {
+  :root { --bg:#000; --text:#f5f5f7; --muted:#9ca3af; --bar:#1c1c1e; --line:#2c2c2e;
+          --examiner:#2c2c2e; --examiner-text:#f5f5f7; --uspto:#4a3a12; --uspto-text:#fde9b8;
+          --other:#3a3a3c; --other-text:#f5f5f7;
+          --ins:#6ee7a0; --ins-bg:#0f3d23; --del:#fca5a5; --del-bg:#4a1717; } }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--text);
+       font:16px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+header { position:sticky; top:0; background:var(--bar); border-bottom:1px solid var(--line);
+         padding:12px 16px; text-align:center; }
+header h1 { margin:0; font-size:16px; font-weight:600; }
+header p { margin:4px 0 0; font-size:12px; color:var(--muted); }
+main { max-width:720px; margin:0 auto; padding:8px 16px 32px; }
+.day { text-align:center; color:var(--muted); font-size:12px; font-weight:600; margin:20px 0 8px; }
+.row { display:flex; flex-direction:column; margin-top:2px; }
+.row.right { align-items:flex-end; } .row.left { align-items:flex-start; }
+.row.first { margin-top:10px; }
+.who { font-size:11px; color:var(--muted); margin:0 12px 2px; }
+.bubble { max-width:70%; padding:8px 12px; border-radius:18px; white-space:pre-wrap;
+          overflow-wrap:anywhere; }
+@media (max-width:480px) { .bubble { max-width:85%; } }
+.applicant .bubble { background:var(--applicant); color:var(--applicant-text); }
+.examiner .bubble { background:var(--examiner); color:var(--examiner-text); }
+.uspto .bubble { background:var(--uspto); color:var(--uspto-text); }
+.other .bubble { background:var(--other); color:var(--other-text); }
+.breakdown { max-width:70%; margin:4px 0 0; font-size:13px; }
+@media (max-width:480px) { .breakdown { max-width:100%; } }
+.breakdown summary { cursor:pointer; color:var(--muted); font-weight:600; padding:2px 12px;
+                     list-style-position:inside; }
+.breakdown[open] summary { margin-bottom:6px; }
+.breakdown .panel { background:var(--examiner); color:var(--examiner-text); border-radius:14px;
+                    padding:10px 12px; overflow-x:auto; }
+.breakdown table { border-collapse:collapse; width:100%; }
+.breakdown th, .breakdown td { text-align:left; vertical-align:top; padding:4px 8px 4px 0;
+                               border-bottom:1px solid var(--line); }
+.breakdown th { font-size:11px; text-transform:uppercase; letter-spacing:.03em; color:var(--muted); }
+.breakdown td.statute { white-space:nowrap; }
+.breakdown h4 { margin:12px 0 4px; font-size:11px; text-transform:uppercase; color:var(--muted); }
+.breakdown ul { margin:0; padding-left:18px; }
+.breakdown li { margin:2px 0; }
+.breakdown a { color:inherit; }
+.claim { max-width:70%; margin:4px 0 0; font-size:13px; }
+@media (max-width:480px) { .claim { max-width:100%; } }
+.claim summary { cursor:pointer; color:var(--muted); font-weight:600; padding:2px 12px;
+                 list-style-position:inside; }
+.claim[open] summary { margin-bottom:6px; }
+.claim .panel { background:var(--examiner); color:var(--examiner-text); border-radius:14px;
+                padding:10px 12px; text-align:left; }
+.claim p { margin:0 0 6px; overflow-wrap:anywhere; }
+.claim p.limit { padding-left:14px; }
+.claim ins { color:var(--ins); background:var(--ins-bg); text-decoration:underline; }
+.claim del { color:var(--del); background:var(--del-bg); text-decoration:line-through; }
+.claim .legend { font-size:11px; color:var(--muted); margin:0 0 8px; }
+.summary { background:var(--bar); border:1px solid var(--line); border-radius:14px;
+           padding:10px 14px; margin:12px 0 4px; text-align:center; font-size:13px; color:var(--muted); }
+.summary p { margin:2px 0; }
+.summary strong { color:var(--text); }
+.summary span { white-space:nowrap; }
+footer { max-width:720px; margin:0 auto; padding:16px 16px 32px; border-top:1px solid var(--line);
+         text-align:center; font-size:12px; color:var(--muted); }
+</style></head><body><header><h1>CAPTURING AND PROCESSING FACIAL MOTION DATA</h1><p>Application 11467512 · U.S. Patent No. 7606392</p></header><main>
+<section class="summary"><p><span><strong>1</strong> rejection</span> · <span><strong>1</strong> response</span> · <span><strong>1</strong> allowance</span></p><p>Filed <strong>Aug 25, 2006</strong> → Granted <strong>Oct 20, 2009</strong> (37 months)</p></section>
+<div class="day">Aug 25, 2006</div>
+<div class="row right applicant first"><div class="who">Applicant</div><div class="bubble">I&#x27;ve filed a patent application for CAPTURING AND PROCESSING FACIAL MOTION DATA.</div></div>
+<div class="row right applicant"><div class="bubble">Although no specific claim insertions or deletions are marked in the provided text, the invention defines a comprehensive system, method, and apparatus for capturing and processing facial motion data using head-mounted camera and processing systems. It features specialized hardware configurations—such as specialized lenses, mirrors, and displays for mixed-reality synchronization—as well as advanced algorithmic techniques like infrared illumination, speckle pattern projection, and 3-D mesh generation.</div></div>
+<div class="day">Sep 11, 2006</div>
+<div class="row left uspto first"><div class="who">USPTO</div><div class="bubble">The application is complete and has been accepted for examination.</div></div>
+<div class="day">Nov 14, 2006</div>
+<div class="row left uspto first"><div class="who">USPTO</div><div class="bubble">The application is complete and has been accepted for examination.</div></div>
+<div class="day">Mar 5, 2007</div>
+<div class="row left uspto first"><div class="who">USPTO</div><div class="bubble">The application has been published.</div></div>
+<div class="day">Nov 19, 2008</div>
+<div class="row left examiner first"><div class="who">Examiner</div><div class="bubble">In this Non-Final Rejection, claims 1-3, 7, 12, 13, 16, 26, and 29 have been rejected under 35 U.S.C. 102 as anticipated by Dillon, while various other claims have been rejected under 35 U.S.C. 103 based on combinations of Dillon with other prior art references. However, claims 5, 22-25, and 28 have been indicated as containing allowable subject matter if rewritten in independent form.</div><details class="breakdown"><summary>Rejection breakdown (7)</summary><div class="panel"><table><thead><tr><th>Statute</th><th>Ground</th><th>Claims</th><th>References</th></tr></thead><tbody><tr><td class="statute">§ 102(b)</td><td>anticipated</td><td>1-3, 7, 12, 13, 16, 26 and 29</td><td>U.S. Patent 6,020,892 to Dillon</td></tr><tr><td class="statute">§ 103(a)</td><td>unpatentable</td><td>4, 6, 8, 14 and 15</td><td>the combination of U.S. Patents 6,020,892 to Dillon + 6,653,990 to Lestruhaut</td></tr><tr><td class="statute">§ 103(a)</td><td>unpatentable</td><td>9</td><td>the combination of U.S. Patents 6,020,892 to Dillon + 6,324,296 to McSheery et al.</td></tr><tr><td class="statute">§ 103(a)</td><td>unpatentable</td><td>10</td><td>the combination of U.S. Patents 6,020,892 to Dillon + 6,211,903 to Bullister</td></tr><tr><td class="statute">§ 103(a)</td><td>unpatentable</td><td>11</td><td>the combination of U.S. Patents 6,020,892 to Dillon + 6,916,096 to Eberl et al.</td></tr><tr><td class="statute">§ 103(a)</td><td>unpatentable</td><td>17-20</td><td>the combination of U.S. Patents 6,020,892 to Dillon + 7,324,110 to Edwards et al.</td></tr><tr><td class="statute">§ 103(a)</td><td>unpatentable</td><td>21 and 27</td><td>the combination of U.S. Patents 6,020,892 to Dillon + 5,926,388 to Kimbrough et al.</td></tr></tbody></table></div></details></div>
+<div class="day">Apr 20, 2009</div>
+<div class="row right applicant first"><div class="who">Applicant</div><div class="bubble">I&#x27;ve filed an amendment in response to the non-final rejection.</div></div>
+<div class="row right applicant"><div class="bubble">Our invention focuses on systems and methods for capturing and processing facial motion data using a head-mounted setup. Specifically, we have streamlined our claim language by removing trailing conjunctions to better emphasize the integrated operations of capturing frame-by-frame images, tracking sensors, and generating a digital modeled surface of an actor&#x27;s face.</div></div>
+<div class="row right applicant"><div class="bubble">In response to the recent Office Action, we have canceled claim 22 and amended our independent claims to incorporate its allowable subject matter. Consequently, all pending rejections under 35 U.S.C. §§ 102 and 103 over Dillon and the various secondary references have been fully overcome. We respectfully request the withdrawal of these rejections and the prompt allowance of our application.</div></div>
+<div class="day">Jun 10, 2009</div>
+<div class="row left examiner first"><div class="who">Examiner</div><div class="bubble">The application has been allowed. Once the issue fee is paid, the patent will be granted.</div></div>
+<div class="day">Sep 30, 2009</div>
+<div class="row left uspto first"><div class="who">USPTO</div><div class="bubble">The patent will issue as U.S. Patent No. 7606392.</div></div>
+</main><footer>Educational project. Summaries are AI-generated from public USPTO records and may contain errors.</footer></body></html>

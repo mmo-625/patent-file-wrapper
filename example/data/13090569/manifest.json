@@ -1,0 +1,842 @@
+[
+  {
+    "date": "2011-04-20",
+    "code": "SPEC",
+    "description": "Specification",
+    "direction": "INCOMING",
+    "document_id": "GMQS5XNOPPOPPY2",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2011-04-20",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "GMXDI9JRPPOPPY3",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2011-04-20_CLM_GMXDI9JRPPOPPY3.xml"
+  },
+  {
+    "date": "2011-04-20",
+    "code": "ABST",
+    "description": "Abstract",
+    "direction": "INCOMING",
+    "document_id": "GMXDI9LLPPOPPY3",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2011-04-20",
+    "code": "DRW",
+    "description": "Drawings-only black and white line drawings",
+    "direction": "INCOMING",
+    "document_id": "GMQS5XO2PPOPPY2",
+    "pages": 4,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-04-20",
+    "code": "OATH",
+    "description": "Oath or Declaration filed",
+    "direction": "INCOMING",
+    "document_id": "GMQS5XOQPPOPPY2",
+    "pages": 5,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-04-20",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "GMQS5XPDPPOPPY2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-04-20",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "GMQS5XQ0PPOPPY2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-05-04",
+    "code": "APP.FILE.REC",
+    "description": "Filing Receipt",
+    "direction": "OUTGOING",
+    "document_id": "GNAJD5RLPPOPPY5",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-05-04",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "GNAJDD4NPPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-05-04",
+    "code": "NTC.MISS.PRT",
+    "description": "Notice to File Missing Parts",
+    "direction": "OUTGOING",
+    "document_id": "GNAJDGZ3PPOPPY5",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-06-27",
+    "code": "OATH",
+    "description": "Oath or Declaration filed",
+    "direction": "INCOMING",
+    "document_id": "GPFF6MKIPPOPPY2",
+    "pages": 5,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-06-27",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "GPFF6ML5PPOPPY2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-06-27",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "GPFF6MLJPPOPPY2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-07-07",
+    "code": "APP.FILE.REC",
+    "description": "Filing Receipt",
+    "direction": "OUTGOING",
+    "document_id": "GPSZ7J8FPPOPPY5",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-07-07",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "GPSZ7ZH6PPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-08-10",
+    "code": "IDS",
+    "description": "Information Disclosure Statement (IDS) Form (SB08)",
+    "direction": "INCOMING",
+    "document_id": "GR6NM7T5PPOPPY2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-08-10",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "GR6NM7UJPPOPPY2",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-10-27",
+    "code": "NTC.PUB",
+    "description": "Notice of Publication",
+    "direction": "OUTGOING",
+    "document_id": "GU9RSKRYPPOPPY5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-11-22",
+    "code": "A.PE",
+    "description": "Preliminary Amendment",
+    "direction": "INCOMING",
+    "document_id": "GVBCLVZTPXXIFW3",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-11-22",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "GVJQC7QGPXXIFW2",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2011-11-22_CLM_GVJQC7QGPXXIFW2.xml"
+  },
+  {
+    "date": "2011-11-22",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "GVJQC7S9PXXIFW2",
+    "pages": 1,
+    "format": "PDF",
+    "path": "files/2011-11-22_REM_GVJQC7S9PXXIFW2.pdf"
+  },
+  {
+    "date": "2011-11-22",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "GVBCLW0MPXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2011-11-22",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "GVJUDFSYPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2012-10-18",
+    "code": "CTRS",
+    "description": "Requirement for Restriction/Election",
+    "direction": "OUTGOING",
+    "document_id": "H8FX9692PXXIFW4",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2012-10-18_CTRS_H8FX9692PXXIFW4.xml"
+  },
+  {
+    "date": "2012-10-29",
+    "code": "ELC.",
+    "description": "Response to Election / Restriction Filed",
+    "direction": "INCOMING",
+    "document_id": "H8VY4YSDPXXIFW3",
+    "pages": 1,
+    "format": "PDF",
+    "path": "files/2012-10-29_ELC_H8VY4YSDPXXIFW3.pdf"
+  },
+  {
+    "date": "2012-10-29",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "H90C11RMPXXIFW1",
+    "pages": 1,
+    "format": "PDF",
+    "path": "files/2012-10-29_REM_H90C11RMPXXIFW1.pdf"
+  },
+  {
+    "date": "2012-10-29",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "H8VY4YTCPXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2012-10-29",
+    "code": "TRAN.LET",
+    "description": "Transmittal Letter",
+    "direction": "INCOMING",
+    "document_id": "H8VY4YTKPXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-01-31",
+    "code": "CTNF",
+    "description": "Non-Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "HCLX3PAEPXXIFW4",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2013-01-31_CTNF_HCLX3PAEPXXIFW4.xml"
+  },
+  {
+    "date": "2013-01-31",
+    "code": "892",
+    "description": "List of references cited by examiner",
+    "direction": "OUTGOING",
+    "document_id": "HCLX3PBHPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-01-31",
+    "code": "1449",
+    "description": "List of References cited by applicant and considered by examiner",
+    "direction": "OUTGOING",
+    "document_id": "HCLX3PBWPXXIFW4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-01-31",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "HCLX3PC3PXXIFW4",
+    "pages": 5,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-01-31",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "HCLX3PCGPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-03-25",
+    "code": "A...",
+    "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+    "direction": "INCOMING",
+    "document_id": "HEPZ0RODPXXIFW3",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-03-25",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "HEPZ0RPDPXXIFW3",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2013-03-25_CLM_HEPZ0RPDPXXIFW3.xml"
+  },
+  {
+    "date": "2013-03-25",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "HEPZ0RPPPXXIFW3",
+    "pages": 3,
+    "format": "PDF",
+    "path": "files/2013-03-25_REM_HEPZ0RPPPXXIFW3.pdf"
+  },
+  {
+    "date": "2013-03-25",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "HEPZ0RPXPXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-03-25",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "HESUCQ5RPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-04-02",
+    "code": "PA..",
+    "description": "Power of Attorney",
+    "direction": "INCOMING",
+    "document_id": "HF19ZRRLPXXIFW3",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-04-02",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "HF19ZRS3PXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-04-09",
+    "code": "PEFN",
+    "description": "Pre-Exam Formalities Notice",
+    "direction": "OUTGOING",
+    "document_id": "HFA7XBVZPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-04-09",
+    "code": "N572",
+    "description": "Response - Re:  Informal Power of Attorney (PTOL-308)",
+    "direction": "OUTGOING",
+    "document_id": "HFJOPXT5PXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-04-13",
+    "code": "PA..",
+    "description": "Power of Attorney",
+    "direction": "INCOMING",
+    "document_id": "HFH7FGQZPXXIFW3",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-04-13",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "HFH7FGRIPXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-04-13",
+    "code": "R3.73",
+    "description": "Assignee showing of ownership per 37 CFR 3.73",
+    "direction": "INCOMING",
+    "document_id": "HFH7FGRSPXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-04-25",
+    "code": "N570",
+    "description": "Communication - Re:  Power of Attorney (PTOL-308)",
+    "direction": "OUTGOING",
+    "document_id": "HFWKQ93LPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-04-25",
+    "code": "N570",
+    "description": "Communication - Re:  Power of Attorney (PTOL-308)",
+    "direction": "OUTGOING",
+    "document_id": "HFWKQWOCPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-07-02",
+    "code": "CTFR",
+    "description": "Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "HIHJ99D0PXXIFW4",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2013-07-02_CTFR_HIHJ99D0PXXIFW4.xml"
+  },
+  {
+    "date": "2013-07-02",
+    "code": "892",
+    "description": "List of references cited by examiner",
+    "direction": "OUTGOING",
+    "document_id": "HIHJ99EHPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-07-02",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "HIHJ99ERPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-08-08",
+    "code": "A.NE",
+    "description": "Response After Final Action",
+    "direction": "INCOMING",
+    "document_id": "HK47M5Y5PXXIFW3",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-08-08",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "HK5K3WVHPXXIFW2",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2013-08-08_CLM_HK5K3WVHPXXIFW2.xml"
+  },
+  {
+    "date": "2013-08-08",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "HK5K3WW4PXXIFW2",
+    "pages": 4,
+    "format": "PDF",
+    "path": "files/2013-08-08_REM_HK5K3WW4PXXIFW2.pdf"
+  },
+  {
+    "date": "2013-08-08",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "HK47M5YVPXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-08-08",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "HK9URLLIPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-08-21",
+    "code": "CTAV",
+    "description": "Advisory Action (PTOL-303)",
+    "direction": "OUTGOING",
+    "document_id": "HKJOGJANPXXIFW4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-08-26",
+    "code": "RCEX",
+    "description": "Request for Continued Examination (RCE)",
+    "direction": "INCOMING",
+    "document_id": "HKU6I88XPXXIFW3",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-08-26",
+    "code": "AMSB",
+    "description": "Amendment Submitted/Entered with Filing of Continued Prosecution Application (CPA)/Request for Continued Examination(RCE)",
+    "direction": "INCOMING",
+    "document_id": "HKU6I89PPXXIFW3",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-08-26",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "HKWKPKV9PXXIFW2",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2013-08-26_CLM_HKWKPKV9PXXIFW2.xml"
+  },
+  {
+    "date": "2013-08-26",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "HKWKPKW2PXXIFW2",
+    "pages": 1,
+    "format": "PDF",
+    "path": "files/2013-08-26_REM_HKWKPKW2PXXIFW2.pdf"
+  },
+  {
+    "date": "2013-08-26",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "HKU6I89WPXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-08-26",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "HKU6I8A4PXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-08-26",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "HL3GWDEVPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-09-06",
+    "code": "CTNF",
+    "description": "Non-Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "HL6P8O72PXXIFW4",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2013-09-06_CTNF_HL6P8O72PXXIFW4.xml"
+  },
+  {
+    "date": "2013-09-06",
+    "code": "892",
+    "description": "List of references cited by examiner",
+    "direction": "OUTGOING",
+    "document_id": "HL6P8O7SPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-09-06",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "HL6P8O80PXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-09-19",
+    "code": "A...",
+    "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+    "direction": "INCOMING",
+    "document_id": "HLS4ZP62PXXIFW3",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-09-19",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "HLXL36GHPXXIFW2",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2013-09-19_CLM_HLXL36GHPXXIFW2.xml"
+  },
+  {
+    "date": "2013-09-19",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "HLXL36HIPXXIFW2",
+    "pages": 2,
+    "format": "PDF",
+    "path": "files/2013-09-19_REM_HLXL36HIPXXIFW2.pdf"
+  },
+  {
+    "date": "2013-09-19",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "HLS4ZP6MPXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-09-19",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "HLUX7OTJPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-10-09",
+    "code": "NOA",
+    "description": "Notice of Allowance and Fees Due (PTOL-85)",
+    "direction": "OUTGOING",
+    "document_id": "HMHRW5FWPXXIFW4",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2013-10-09_NOA_HMHRW5FWPXXIFW4.xml"
+  },
+  {
+    "date": "2013-10-09",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "HMHRW5I1PXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-10-09",
+    "code": "IIFW",
+    "description": "Issue Information including classification, examiner, name, claim, renumbering, etc.",
+    "direction": "INTERNAL",
+    "document_id": "HMHRW5I9PXXIFW4",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-10-09",
+    "code": "BIB",
+    "description": "Bibliographic Data Sheet",
+    "direction": "INTERNAL",
+    "document_id": "HMHRW5IHPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-10-09",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "HMHRW5J3PXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-10-11",
+    "code": "IFEE",
+    "description": "Issue Fee Payment (PTO-85B)",
+    "direction": "INCOMING",
+    "document_id": "HMNX3GUEPXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-10-11",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "HMNX3GV3PXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-10-11",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "HMNX3GVEPXXIFW3",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-10-26",
+    "code": "1449",
+    "description": "List of References cited by applicant and considered by examiner",
+    "direction": "OUTGOING",
+    "document_id": "HN9GVBRGPXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2013-10-30",
+    "code": "ISSUE.NTF",
+    "description": "Issue Notification",
+    "direction": "OUTGOING",
+    "document_id": "HNF982I2PXXIFW4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2023-09-15",
+    "code": "C.AD.PC",
+    "description": "Change of Address via Patent Center\u200b",
+    "direction": "INCOMING",
+    "document_id": "LMKTKLSIXBLUEX0",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2023-09-15",
+    "code": "MFEE.C.AD.PC",
+    "description": "Change of Address via\u00a0\u200bPatent Center",
+    "direction": "INCOMING",
+    "document_id": "LMKTKN31XBLUEX5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2023-09-15",
+    "code": "C.AD.PC",
+    "description": "Change of Address via Patent Center\u200b",
+    "direction": "INCOMING",
+    "document_id": "LMKTTGTMXBLUEX4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  }
+]

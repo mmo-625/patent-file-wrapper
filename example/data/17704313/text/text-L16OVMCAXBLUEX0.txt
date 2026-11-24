@@ -1,0 +1,95 @@
+Source: example/data/17704313/files/2022-03-25_CLM_L16OVMCAXBLUEX0.xml:17704313/L16OVMCAXBLUEX0/17704313.03-25-2022.L16OVMCAXBLUEX0.CLM.xml
+Type: ClaimsDocument
+Markup: [+inserted+]  [-deleted-]
+
+Claim 1 (unknown)
+1. A computerized method comprising:
+receiving a plurality of events that occurred during a time series of a target metric, wherein each event of the events includes an event attribute characterizing the event;
+generating a set of event groups for the plurality of events, wherein each event of a respective event group shares a respective event attribute with one or more other events of the respective event group;
+for each respective event group of the set of event groups, determining an influence pattern that identifies an influence of the respective event group on the target metric;
+clustering the set of event groups into event clusters based on a respective influence pattern of each respective event group, wherein each event cluster includes one or more event groups that share a similar influence pattern; and
+generating a plurality of training samples for an anomaly detection system based on a respective event cluster.
+
+Claim 2 (unknown)
+2. The computerized method of claim 1 wherein each respective training sample represents the respective influence pattern of the respective event cluster and corresponds to an event from the respective event cluster.
+
+Claim 3 (unknown)
+3. The computerized method of claim 1 further comprising, for each respective event group:
+generating an impact score for the respective event group, wherein the impact score indicates an amount of influence that the events of the respective group have on the target metric; and
+determining that the impact score satisfies a filtering threshold, wherein the filtering threshold indicates an acceptable amount of influence on the target metric for a group event.
+
+Claim 4 (unknown)
+4. The computerized method of claim 1 further comprising for each respective event group:
+generating an impact score for the respective event group, wherein the impact score indicates an amount of influence that the events of the respective group have on the target metric;
+determining that the impact score fails to satisfy a filtering threshold, wherein the filtering threshold indicates an acceptable amount of influence on the target metric for a group event; and
+removing the respective event group from the set of event groups after determining the influence pattern for the respective event group, but prior to clustering the set of event groups into event clusters.
+
+Claim 5 (unknown)
+5. The computerized method of claim 1 further comprising for each respective event group:
+generating an impact score for the respective event group, wherein the impact score indicates an amount of influence that the events of the respective group have on the target metric;
+determining that the impact score fails to satisfy a filtering threshold, wherein the filtering threshold indicates an acceptable amount of influence on the target metric for a group event; and
+removing the respective event group from the set of event groups prior to determining the influence pattern for the respective event group.
+
+Claim 6 (unknown)
+6. The computerized method of claim 1 wherein clustering the set of event groups into the event clusters based on the respective influence pattern includes, for each respective event group:
+determining whether the respective influence pattern of the respective event group satisfies a minimum similarity threshold with another influence pattern of another event group in the set of event groups; and
+in response to the respective influence pattern of the respective event group satisfying the minimum similarity threshold with the other influence pattern of the other event group, clustering the respective event group with the other event group in a respective event cluster.
+
+Claim 7 (unknown)
+7. The computerized method of claim 1 wherein the event attribute characterizing the respective event is a textual description of the respective event.
+
+Claim 8 (unknown)
+8. The computerized method of claim 1 wherein the anomaly detection system is a machine-learning-based anomaly detection system.
+
+Claim 9 (unknown)
+9. The computerized method of claim 1 wherein determining the influence pattern that identifies the influence of the respective event group on the target metric includes determining a mean expected influence for all events of the respective event group.
+
+Claim 10 (unknown)
+10. The computerized method of claim 1 wherein determining the influence pattern that identifies the influence of the respective event group on the target metric includes performing a weighted L2 minimization across a time series representing all events of the respective event group.
+
+Claim 11 (unknown)
+11. A system comprising:
+processor hardware; and
+memory hardware in communication with the processor hardware, wherein the memory hardware stores instructions that, when executed by the processor hardware, perform operations, and wherein the operations include:
+receiving a plurality of events that occurred during a time series of a target metric, wherein each respective event includes an event attribute characterizing the respective event;
+generating a set of event groups for the plurality of events, wherein each event of a respective event group shares a respective event attribute with one or more other events of the respective event group;
+for each respective event group of the set of event groups, determining an influence pattern that identifies an influence of the respective event group on the target metric;
+clustering the set of event groups into event clusters based on a respective influence pattern of each respective event group, wherein each event cluster includes one or more event groups that share a similar influence pattern; and
+generating a plurality of training samples for an anomaly detection system based on a respective event cluster.
+
+Claim 12 (unknown)
+12. The system of claim 11 wherein each respective training sample represents the respective influence pattern of the respective event cluster and corresponds to an event from the respective event cluster.
+
+Claim 13 (unknown)
+13. The system of claim 11 wherein the operations further comprise, for each respective event group:
+generating an impact score for the respective event group, wherein the impact score indicates an amount of influence that the events of the respective group have on the target metric; and
+determining that the impact score satisfies a filtering threshold, wherein the filtering threshold indicates an acceptable amount of influence on the target metric for a group event.
+
+Claim 14 (unknown)
+14. The system of claim 11 wherein the operations further comprise, for each respective event group:
+generating an impact score for the respective event group, wherein the impact score indicates an amount of influence that the events of the respective group have on the target metric;
+determining that the impact score fails to satisfy a filtering threshold, wherein the filtering threshold indicates an acceptable amount of influence on the target metric for a group event; and
+removing the respective event group from the set of event groups after determining the influence pattern for the respective event group, but prior to clustering the set of event groups into event clusters.
+
+Claim 15 (unknown)
+15. The system of claim 11 wherein the operations further comprise for each respective event group:
+generating an impact score for the respective event group, wherein the impact score indicates an amount of influence that the events of the respective group have on the target metric;
+determining that the impact score fails to satisfy a filtering threshold, wherein the filtering threshold indicates an acceptable amount of influence on the target metric for a group event; and
+removing the respective event group from the set of event groups prior to determining the influence pattern for the respective event group.
+
+Claim 16 (unknown)
+16. The system of claim 11 wherein clustering the set of event groups into the event clusters based on the respective influence pattern includes for each respective event group:
+determining whether the respective influence pattern of the respective event group satisfies a minimum similarity threshold with another influence pattern of another event group in the set of event groups; and
+in response to the respective influence pattern of the respective event group satisfying the minimum similarity threshold with the other influence pattern of the other event group, clustering the respective event group with the other event group in a respective event cluster.
+
+Claim 17 (unknown)
+17. The system of claim 11 wherein the event attribute characterizing the respective event is a textual description of the respective event.
+
+Claim 18 (unknown)
+18. The system of claim I I wherein the anomaly detection system is a machine learning-based anomaly detection system.
+
+Claim 19 (unknown)
+19. The system of claim I I wherein determining the influence pattern that identifies the influence of the respective event group on the target metric includes determining a mean expected influence for all events of the respective event group.
+
+Claim 20 (unknown)
+20. The system of claim 1 I wherein determining the influence pattern that identifies the influence of the respective event group on the target metric includes performing a weighted L2 minimization across a time series representing all events of the respective event group.

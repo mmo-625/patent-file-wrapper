@@ -1,0 +1,352 @@
+[
+  {
+    "date": "2005-03-07",
+    "sender": "Applicant",
+    "message": "I've filed a patent application for Extruded cookie units having interior designs.",
+    "code": "FILED"
+  },
+  {
+    "date": "2005-03-07",
+    "sender": "Applicant",
+    "message": "*(Note: The provided text contains no [+...+] or [-...-] markup indicating claim modifications, so the summary reflects the complete scope of the current claims.)*\n\nThe invention is directed to a ready-to-bake coextruded cookie unit and its manufacturing method, featuring first and second doughs of different colors that cooperatively form a continuous design element extending from the top to the bottom surface. Both doughs incorporate a specific shortening with a defined Solid Fat Index at 70°F and utilize a targeted sugar particle size distribution to ensure structural integrity and appearance. The process involves coextruding the doughs into a continuous rope, cutting it into individual units using specialized slicing mechanisms, and packaging them for consumer use.",
+    "code": "CLM"
+  },
+  {
+    "date": "2005-04-27",
+    "sender": "Applicant",
+    "message": "Based on the review of the claims, there are no insertions (`[+...+]`) or deletions (`[-...-]`) marked in the provided text, meaning all claims remain in their original or newly added state without internal modifications. The invention generally covers ready-to-bake coextruded cookie units made from multiple differently colored doughs containing specific shortening and sugar formulations that define a continuous design element from top to bottom. Additionally, the claims encompass methods for manufacturing these multi-colored, coextruded dough ropes and packaging the resulting units for distribution.",
+    "code": "CLM"
+  },
+  {
+    "date": "2005-04-27",
+    "sender": "Applicant",
+    "message": "Dear Examiner, in response to the recent office action, we have added new claims 21 and 22 along with corresponding Figures 5, 5A, and 6, which are fully supported by our previously incorporated parent application without introducing new matter. As the application is now in condition for allowance, we respectfully request favorable consideration and prompt issuance of a notice of allowance.",
+    "code": "REM"
+  },
+  {
+    "date": "2005-06-02",
+    "sender": "USPTO",
+    "message": "The application is complete and has been accepted for examination.",
+    "code": "COMP"
+  },
+  {
+    "date": "2005-06-02",
+    "sender": "USPTO",
+    "message": "The application is complete and has been accepted for examination.",
+    "code": "COMP"
+  },
+  {
+    "date": "2005-09-29",
+    "sender": "Examiner",
+    "message": "This non-final Office action rejects pending claims 1-22 under 35 U.S.C. § 103(a) as unpatentable over the combination of Rasmussen and Dartey et al., and further rejects claim 22 under 35 U.S.C. § 112 for lacking an antecedent basis. Please review the attached rejections and ensure a timely response is filed within the statutory period to avoid abandonment.",
+    "code": "CTNF",
+    "rejections": {
+      "rejections": [
+        {
+          "statute": "112",
+          "ground": "",
+          "claims": "22",
+          "references": []
+        },
+        {
+          "statute": "103(a)",
+          "ground": "unpatentable",
+          "claims": "1-22",
+          "references": []
+        }
+      ],
+      "references": []
+    }
+  },
+  {
+    "date": "2006-01-31",
+    "sender": "Applicant",
+    "message": "I've filed an amendment in response to the non-final rejection.",
+    "code": "A..."
+  },
+  {
+    "date": "2006-01-31",
+    "sender": "Applicant",
+    "message": "Our invention is directed to ready-to-bake coextruded cookie units and packaged products featuring multiple colored doughs with specific moisture contents and a defined shortening Solid Fat Index. The claims now more precisely detail how these dough portions cooperate to form continuous internal design elements and distinctive perimeter shapes extending between the top and bottom surfaces. Additionally, the corresponding methods specify the steps of combining these ingredients, simultaneously extruding the doughs into a continuous rope, and cutting the units to preserve the desired multi-colored designs.",
+    "code": "CLM"
+  },
+  {
+    "date": "2006-01-31",
+    "sender": "Applicant",
+    "message": "In response to the recent Office action, we have amended independent claims 1, 14, and 20–22 to clarify our invention and overcome the § 112 rejection. We also traversed the § 103 obviousness rejections over Rasmussen and Dartey et al., noting that the cited references fail to teach the specific moisture contents required for our simultaneous extrusion process and improperly rely on hindsight. Accordingly, we respectfully request the withdrawal of all rejections and the prompt allowance of our pending claims.",
+    "code": "REM"
+  },
+  {
+    "date": "2006-04-11",
+    "sender": "Examiner",
+    "message": "This communication is a final office action regarding application 11/074,189. Claims 1-22 are rejected under 35 U.S.C. § 112 for lack of written description and under 35 U.S.C. § 103(a) as unpatentable over the prior art. You have a shortened statutory period of three months to reply to avoid abandonment.",
+    "code": "CTFR",
+    "rejections": {
+      "rejections": [
+        {
+          "statute": "112",
+          "ground": "",
+          "claims": "1-22",
+          "references": []
+        },
+        {
+          "statute": "103(a)",
+          "ground": "unpatentable",
+          "claims": "1-22",
+          "references": []
+        }
+      ],
+      "references": []
+    }
+  },
+  {
+    "date": "2006-06-09",
+    "sender": "Applicant",
+    "message": "I've submitted claim amendments with the Request for Continued Examination.",
+    "code": "AMSB"
+  },
+  {
+    "date": "2006-06-09",
+    "sender": "Applicant",
+    "message": "The inventor has clarified the specifications of the ready-to-bake coextruded cookie units, specifically refining the terminology surrounding the moisture content to specify a water constituent present in precise weight ranges between 4% and 15%. Additionally, typographical errors and internal claim dependencies were corrected, while maintaining the core features of multi-colored, coextruded doughs possessing matching shortening profiles, sugar particle distributions, and similar baked expansion properties to preserve continuous design elements.",
+    "code": "CLM"
+  },
+  {
+    "date": "2006-06-09",
+    "sender": "Applicant",
+    "message": "In response to the recent Office action, we have amended our independent claims to clarify the coextruded cookie dough compositions and overcome the § 112 rejections. Furthermore, we maintain that the § 103 rejections are improper because the cited prior art neither teaches nor suggests formulating doughs with similar baked expansion properties to maintain a continuous design element during baking. We respectfully request reconsideration and allowance of the pending claims.",
+    "code": "REM"
+  },
+  {
+    "date": "2006-07-11",
+    "sender": "Applicant",
+    "message": "I've submitted claim amendments with the Request for Continued Examination.",
+    "code": "AMSB"
+  },
+  {
+    "date": "2006-07-11",
+    "sender": "Applicant",
+    "message": "The invention relates to ready-to-bake coextruded cookie units featuring multiple colored dough portions that cooperatively define a continuous design element from the top surface to the bottom surface. The amendments clarify that both dough portions share specific compositional parameters, including a defined water moisture content, a shortening with a specific Solid Fat Index, and a precise sugar particle size distribution. These specific formulations ensure that the different dough portions possess similar baked expansion properties, allowing the continuous design element to remain intact and well-defined after baking.",
+    "code": "CLM"
+  },
+  {
+    "date": "2006-07-11",
+    "sender": "Applicant",
+    "message": "In response to the office action, we have amended the claims and cancelled claims 10 and 17 to overcome the written description rejections under 35 U.S.C. § 112. We also traversed the 35 U.S.C. § 103 rejections by emphasizing that our coextruded cookie doughs feature specific water, sugar, and shortening properties to achieve similar baked expansion, providing unexpected results that are neither taught nor suggested by the cited prior art.",
+    "code": "REM"
+  },
+  {
+    "date": "2006-07-11",
+    "sender": "Applicant",
+    "message": "I've filed a Request for Continued Examination.",
+    "code": "RCEX"
+  },
+  {
+    "date": "2006-09-18",
+    "sender": "Examiner",
+    "message": "This non-final office action rejects pending claims 1-9, 11-16, and 18-22 under 35 U.S.C. § 103(a) as unpatentable over the combination of Rasmussen, Dartey et al., and Lengerich et al. Please review the detailed rejections and submit a response within the statutory period to avoid abandonment of your application.",
+    "code": "CTNF",
+    "rejections": {
+      "rejections": [
+        {
+          "statute": "103(a)",
+          "ground": "",
+          "claims": "1-9, 11-16, 18-22",
+          "references": []
+        }
+      ],
+      "references": []
+    }
+  },
+  {
+    "date": "2006-10-13",
+    "sender": "Examiner",
+    "message": "During our telephonic interview on October 17, 2006, we discussed the pending claims and prior art regarding your cookie dough composition, but no agreement was reached. I noted that while the dough composition purportedly retains an image after baking, the current claims lack compositional elements for this function, and the claimed ingredients are considered obvious variants lacking unexpected results. Please ensure the formal written reply to the last Office action includes the substance of this interview within the required timeframe.",
+    "code": "EXIN"
+  },
+  {
+    "date": "2006-12-26",
+    "sender": "Applicant",
+    "message": "I've filed an amendment in response to the non-final rejection.",
+    "code": "A..."
+  },
+  {
+    "date": "2006-12-26",
+    "sender": "Applicant",
+    "message": "Based on the provided claims, there are no textual insertions or deletions (`[+...+]` or `[-...-]`), indicating the application maintains its established claims regarding ready-to-bake coextruded cookie units. The invention generally covers multicolored, coextruded cookie dough units and methods for making them, utilizing specific formulations of shortening, sugar particle size distribution, and water content to ensure similar baked expansion properties that preserve a continuous design element through the cookie upon baking.",
+    "code": "CLM"
+  },
+  {
+    "date": "2006-12-26",
+    "sender": "Applicant",
+    "message": "In response to the Office Action and our recent phone interview, I am submitting the attached affidavit of Susan M. Hayes-Jacobsen to overcome the Section 103 rejections. The affidavit demonstrates that our specific sugar particle size is a critical, non-obvious element necessary to maintain a visible image upon baking, rather than an arbitrary variation. Therefore, we respectfully request the withdrawal of the rejections and the prompt allowance of the pending claims.",
+    "code": "REM"
+  },
+  {
+    "date": "2007-03-16",
+    "sender": "Examiner",
+    "message": "Claims 1-9, 11-16, and 18-22 are rejected under 35 U.S.C. 103(a) as unpatentable over the combination of Rasmussen, Dartey et al., Lengerich et al., Gage et al., and the baking reference. The submitted affidavit has been reviewed but is currently insufficient to overcome these rejections due to a lack of proper comparative data.",
+    "code": "CTNF",
+    "rejections": {
+      "rejections": [
+        {
+          "statute": "103(a)",
+          "ground": "",
+          "claims": "1-9, 11-16, 18-22",
+          "references": []
+        }
+      ],
+      "references": []
+    }
+  },
+  {
+    "date": "2007-07-16",
+    "sender": "Applicant",
+    "message": "I've filed an amendment in response to the non-final rejection.",
+    "code": "A..."
+  },
+  {
+    "date": "2007-07-16",
+    "sender": "Applicant",
+    "message": "Based on the provided text, there are no insertions (`[+...+]`) or deletions (`[-...-]`) marked within the claims, indicating that the claims stand as originally reviewed or previously presented without recent amendments. The invention as defined across these claims is directed to ready-to-bake coextruded cookie units and methods for making them, utilizing multiple differently colored cookie doughs formulated with specific ranges of water, shortening (having a defined Solid Fat Index), and sugar particle size. These precise dough parameters ensure that the coextruded doughs share similar baked expansion properties, allowing a continuous, multi-colored design element (such as an ornamental shape, symbol, or message) to remain intact and visible from the top to the bottom surface after baking.",
+    "code": "CLM"
+  },
+  {
+    "date": "2007-07-16",
+    "sender": "Applicant",
+    "message": "In response to the March 16, 2007 Office Action, we respectfully traverse the Examiner's rejections under 35 U.S.C. § 103 based on Gage et al. and \"Professional Baking.\" Neither reference teaches or suggests our uniquely claimed sugar particle size distribution (18% to 45% retained on a 100 mesh screen), which provides surprisingly beneficial extrusion and expansion properties for our multi-dough cookies. Accordingly, we request the withdrawal of these rejections and the prompt allowance of our pending claims.",
+    "code": "REM"
+  },
+  {
+    "date": "2007-10-04",
+    "sender": "Examiner",
+    "message": "This communication is a final Office action regarding patent application 11/074,189. Claims 1-9, 11-16, and 18-22 are rejected under 35 U.S.C. § 103(a) as unpatentable over the cited prior art combinations. Applicant must respond within the set statutory period to avoid abandonment.",
+    "code": "CTFR",
+    "rejections": {
+      "rejections": [
+        {
+          "statute": "103(a)",
+          "ground": "",
+          "claims": "1-9, 11-16, 18-22",
+          "references": []
+        }
+      ],
+      "references": []
+    }
+  },
+  {
+    "date": "2007-10-31",
+    "sender": "Applicant",
+    "message": "I've filed a Request for Continued Examination.",
+    "code": "RCEX"
+  },
+  {
+    "date": "2007-10-31",
+    "sender": "Applicant",
+    "message": "I've submitted claim amendments with the Request for Continued Examination.",
+    "code": "AMSB"
+  },
+  {
+    "date": "2007-10-31",
+    "sender": "Applicant",
+    "message": "The invention concerns a ready-to-bake extruded cookie unit and associated manufacturing methods featuring multiple differently colored cookie dough portions that cooperatively define a continuous internal design element extending between the top and bottom surfaces. The dough portions are formulated with specific amounts of water, shortening with a defined Solid Fat Index, and a targeted sugar particle size distribution to ensure the doughs share similar baked expansion properties, allowing the design to remain intact during baking. Minor claim edits throughout clarify language regarding sugar retention on mesh screens and water content without altering the core functional features of the coextruded cookie units.",
+    "code": "CLM"
+  },
+  {
+    "date": "2007-10-31",
+    "sender": "Applicant",
+    "message": "In response to the Final Office Action, I have amended independent claims 1, 14, and 20–22 to further clarify our novel sugar grind particle size distribution. We respectfully traverse the 35 U.S.C. § 103 rejections, as the cited prior art references neither teach our specific claimed ranges nor render them an obvious optimization for extrudable cookie dough.",
+    "code": "REM"
+  },
+  {
+    "date": "2007-12-07",
+    "sender": "Examiner",
+    "message": "In this non-final action, claims 1-9, 11-16, and 18-22 are rejected under 35 U.S.C. 103(a) as being unpatentable over Rasmussen in view of Dartey et al, Lengerich et al, Gage et al, and the book \"Professional Baking.\" Please review the detailed rejections and file a timely response within the statutory period to avoid abandonment of the application.",
+    "code": "CTNF",
+    "rejections": {
+      "rejections": [
+        {
+          "statute": "103(a)",
+          "ground": "",
+          "claims": "1-9, 11-16, 18-22",
+          "references": []
+        }
+      ],
+      "references": []
+    }
+  },
+  {
+    "date": "2008-05-01",
+    "sender": "Applicant",
+    "message": "I've filed an amendment in response to the non-final rejection.",
+    "code": "A..."
+  },
+  {
+    "date": "2008-05-01",
+    "sender": "Applicant",
+    "message": "The recent amendments to the claims involved a minor punctuation change, specifically removing a semicolon from the end of the text. Because there were no other insertions or deletions, the core technical scope and definition of the ready-to-bake co-extruded multi-colored cookie units and their manufacturing methods remain entirely unchanged.",
+    "code": "CLM"
+  },
+  {
+    "date": "2008-05-01",
+    "sender": "Applicant",
+    "message": "In response to the office action, we traverse the Section 103 rejections over the cited prior art because none of the references disclose or suggest our uniquely beneficial sugar particle size distribution, where 18% to 45% by weight of the sugar is capable of retention on a 100 mesh screen. References like Gage et al. and *Practical Baking* fail to teach this specific grind or address the unique processing and expansion requirements needed for extrudable multi-dough cookie units. Therefore, we respectfully request the prompt allowance of the pending claims.",
+    "code": "REM"
+  },
+  {
+    "date": "2008-08-07",
+    "sender": "Examiner",
+    "message": "Claims 1-9, 11-16, and 18-22 are rejected under 35 U.S.C. 103(a) as unpatentable over Rasmussen in view of Dartey et al., Lengerich et al., \"Professional Baking,\" and Gage et al. Applicant's arguments regarding sugar particle size and optimization have been fully considered but are unpersuasive, rendering this action final.",
+    "code": "CTFR",
+    "rejections": {
+      "rejections": [
+        {
+          "statute": "103(a)",
+          "ground": "unpatentable",
+          "claims": "1-9, 11-16, 18-22",
+          "references": [
+            "Rasmussen",
+            "Dartey",
+            "Gage et al."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "short": "Dartey",
+          "citation": "Dartey et al, Lengerich et al, the book “ Professional Baking”"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2008-10-03",
+    "sender": "Applicant",
+    "message": "I've filed a response to the final rejection.",
+    "code": "A.NE"
+  },
+  {
+    "date": "2008-10-03",
+    "sender": "Applicant",
+    "message": "Based on the review of the current claims, there are no added (`[+...+]`) or deleted (`[-...-]`) text markings present in the provided document, meaning the claims stand as originally submitted for examination. The invention is directed to ready-to-bake co-extruded cookie units, methods for their production, and packaged products featuring multiple dough portions of different colors. These dough portions are specifically formulated with precise ranges of water, shortening (solid fat index), and sugar particle size distribution to ensure similar baked expansion properties, allowing a continuous design element to remain well-defined from the top surface to the bottom surface after baking.",
+    "code": "CLM"
+  },
+  {
+    "date": "2008-10-03",
+    "sender": "Applicant",
+    "message": "In response to the office action, we respectfully traverse the 35 U.S.C. § 103 rejections by demonstrating the critical and unexpected results of our claimed shortening solid fat index and sugar particle size ranges. Furthermore, we clarify that the cited prior art fails to properly teach or even teaches away from our specific water content ranges and mesh retention distributions. Accordingly, we submit that all pending claims are patentable and request prompt allowance of the application.",
+    "code": "REM"
+  },
+  {
+    "date": "2008-11-03",
+    "sender": "Applicant",
+    "message": "I've filed a notice of appeal.",
+    "code": "N/AP"
+  },
+  {
+    "date": "2009-01-05",
+    "sender": "Applicant",
+    "message": "I've filed an appeal brief.",
+    "code": "AP.B"
+  }
+]

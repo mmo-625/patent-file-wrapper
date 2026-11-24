@@ -1,0 +1,359 @@
+[
+  {
+    "date": "2015-11-25",
+    "sender": "Applicant",
+    "message": "I've filed a patent application for Wireless Strand Speakers With Additional Lighting Feature.",
+    "code": "FILED"
+  },
+  {
+    "date": "2015-11-25",
+    "sender": "Applicant",
+    "message": "The invention comprises a strand-based system that integrates a wireless master speaker with a series of hardwired secondary speakers, allowing for audio connectivity across multiple interconnected strings. The design further incorporates decorative lighting elements and auxiliary power/audio capabilities, all housed within weather-proof, multi-length cabling featuring flexible control options for both light and sound.",
+    "code": "CLM",
+    "claims": [
+      {
+        "number": 1,
+        "status": "Original",
+        "lines": [
+          "A strand speaker device comprising: a plurality of speakers strung together in combination, a wireless speaker and a plurality of additional speakers hardwired to each other. the first speaker on the string is wireless, using wireless technology to obtain input; the first speaker on the string is wired to a plurality of additional speakers hardwired to",
+          "each other; the wireless speaker on the string is paired to a device providing the audio; and the rest of the speakers on the string are hardwired / connected to each other."
+        ],
+        "amended": false,
+        "reconstructed": false
+      },
+      {
+        "number": 10,
+        "status": "Original",
+        "lines": [
+          "A strand lighting device comprising: a plurality of lights strung together in combination with a plurality of speakers for decorative lighting; wherein the string of lights is combined with a wireless speaker and a plurality of",
+          "additional speakers hardwired to each other; and the wireless speaker is wired to a plurality of additional speakers hardwired to each other."
+        ],
+        "amended": false,
+        "reconstructed": false
+      }
+    ]
+  },
+  {
+    "date": "2015-11-25",
+    "sender": "Applicant",
+    "message": "I've requested Track One prioritized examination for this application.",
+    "code": "TRACK1.REQ"
+  },
+  {
+    "date": "2015-12-10",
+    "sender": "USPTO",
+    "message": "The application is complete and has been accepted for examination.",
+    "code": "COMP"
+  },
+  {
+    "date": "2016-02-10",
+    "sender": "Examiner",
+    "message": "Your application has been reviewed and is subject to a non-final rejection. Please address the claim objections regarding informality and the rejections under 35 U.S.C. §§ 102, 103, and 112 as detailed in the attached office action.",
+    "code": "CTNF",
+    "rejections": {
+      "rejections": [
+        {
+          "statute": "112",
+          "ground": "indefinite",
+          "claims": "1-10, 12, 17 and 18",
+          "references": []
+        },
+        {
+          "statute": "102(a)(2)",
+          "ground": "anticipated",
+          "claims": "1-3, 5 and 6",
+          "references": [
+            "Lin (U.S. Pub. No. 2014/0219481)"
+          ]
+        },
+        {
+          "statute": "102(a)(1)",
+          "ground": "anticipated",
+          "claims": "10-13 and 15",
+          "references": [
+            "Maker"
+          ]
+        },
+        {
+          "statute": "103(a)",
+          "ground": "unpatentable",
+          "claims": "4 and 7-9",
+          "references": [
+            "Lin (U.S. Pub. No. 2014/0219481)"
+          ]
+        },
+        {
+          "statute": "103(a)",
+          "ground": "unpatentable",
+          "claims": "14 and 16-19",
+          "references": [
+            "Maker"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "short": "Maker",
+          "citation": "Maker et al. (U.S. Patent No. 6,564,108)"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2016-03-17",
+    "sender": "USPTO",
+    "message": "The application has been published.",
+    "code": "PG-ISSUE"
+  },
+  {
+    "date": "2016-08-09",
+    "sender": "Applicant",
+    "message": "I've filed an amendment in response to the non-final rejection.",
+    "code": "A..."
+  },
+  {
+    "date": "2016-08-09",
+    "sender": "Applicant",
+    "message": "The invention has been refined to explicitly define a speaker strand where a lead wireless unit receives audio input and is hardwired to a series of additional speakers. The scope has been expanded to include a lighting version of the device, incorporating specific structural details like weather-proof cabling, varied length options, and control features such as remote operation and pulse-to-music lighting modes.",
+    "code": "CLM",
+    "claims": [
+      {
+        "number": 1,
+        "status": "currently amended",
+        "lines": [
+          "A strand speaker device comprising: a plurality of speakers strung together in combination, a wireless speaker and a plurality of additional speakers hardwired to each other.",
+          "the first speaker on the string is wireless, using wireless technology to obtain input; the first speaker on the string is wired to a plurality of additional speakers hardwired to each other; the wireless speaker on the string is paired to a device providing the audio; and the rest of the speakers on the string are hardwired [-/ connected-] to each other."
+        ],
+        "amended": true,
+        "reconstructed": false
+      },
+      {
+        "number": 10,
+        "status": "original",
+        "lines": [
+          "A strand lighting device comprising:",
+          "a plurality of lights strung together in combination with a plurality of speakers for decorative lighting; wherein the string of lights is combined with a wireless speaker and a plurality of additional speakers hardwired to each other; and",
+          "the wireless speaker is wired to a plurality of additional speakers hardwired to each other."
+        ],
+        "amended": false,
+        "reconstructed": false
+      }
+    ]
+  },
+  {
+    "date": "2016-08-09",
+    "sender": "Applicant",
+    "message": "I have amended the claims to correct typos and clarify language to address the Examiner's objections regarding indefiniteness under 35 U.S.C. 112. Furthermore, I respectfully traverse the rejections under 35 U.S.C. 102 and 103, as the cited prior art fails to teach the specific structural limitations of my invention, and the Examiner has not provided sufficient evidence or rationale to support these rejections.",
+    "code": "REM"
+  },
+  {
+    "date": "2016-09-07",
+    "sender": "Examiner",
+    "message": "Your request for reconsideration has been reviewed, but the arguments provided were found to be unpersuasive and did not comply with 37 CFR 1.111(b). Consequently, the rejections of claims 1-19 under 35 U.S.C. §§ 102 and 103 are maintained, and this Office action is made final.",
+    "code": "CTFR",
+    "rejections": {
+      "rejections": [
+        {
+          "statute": "102(a)(2)",
+          "ground": "anticipated",
+          "claims": "1-3, 5 and 6",
+          "references": [
+            "Lin (U.S. Pub. No. 2014/0219481)"
+          ]
+        },
+        {
+          "statute": "102(a)(1)",
+          "ground": "anticipated",
+          "claims": "10-13 and 15",
+          "references": [
+            "Maker"
+          ]
+        },
+        {
+          "statute": "103(a)",
+          "ground": "unpatentable",
+          "claims": "4 and 7-9",
+          "references": [
+            "Lin (U.S. Pub. No. 2014/0219481)"
+          ]
+        },
+        {
+          "statute": "103(a)",
+          "ground": "unpatentable",
+          "claims": "14 and 16-19",
+          "references": [
+            "Maker"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "short": "Maker",
+          "citation": "Maker et al. (U.S. Patent No. 6,564,108)"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2017-01-21",
+    "sender": "Applicant",
+    "message": "I've filed a Request for Continued Examination.",
+    "code": "RCEX"
+  },
+  {
+    "date": "2017-01-21",
+    "sender": "Applicant",
+    "message": "I've filed a response to the final rejection.",
+    "code": "A.NE"
+  },
+  {
+    "date": "2017-01-21",
+    "sender": "Applicant",
+    "message": "The invention now describes a unified system featuring a wireless-enabled speaker at the start of a strand, which is connected to a series of hardwired speakers and integrated with a string of lights. By sharing a single power cable, these lights and speakers are designed to function as independent, separate systems while occupying the same physical apparatus.",
+    "code": "CLM",
+    "claims": [
+      {
+        "number": 1,
+        "status": "currently amended",
+        "lines": [
+          "A [-strand speaker-] [+plurality of wireless strand speakers with+]",
+          "[+additional lighting features+] [-device-] comprising:",
+          "a plurality of speakers strung together in combination [+forming a string of speakers,+]",
+          "a wireless speaker and a plurality of additional speakers [+are+] hardwired to each",
+          "other [+forming the spring of speakers-i+]",
+          "the first speaker on the string is wireless, using wireless technology to obtain input;",
+          "the [+wireless+] first speaker on the string is wired to a plurality of additional speakers",
+          "hardwired to each other;",
+          "the wireless speaker on the string is paired to a device providing the audio; [-and-] the rest of the speakers on the string are hardwired to each other; [+a plurality of lights strung together in combination forming a string of lights;+]",
+          "[+the string of lights is combined with the string of speakers;+]",
+          "[+the string of lights and the string of speakers share a power cable; and+]",
+          "[+the string of lights and the string of speakers work separately and independently and are+]",
+          "[+not otherwise connected.+]"
+        ],
+        "amended": true,
+        "reconstructed": false
+      },
+      {
+        "number": 18,
+        "status": "Original",
+        "lines": [
+          "The strand lighting device of claim -9 1, further comprising",
+          "a rechargeable battery pack;",
+          "a wired or wireless remote control option for controlling the speakers and lights; the remote providing one or more lighting mode options; and lighting options include three different types of light modes: on;",
+          "blink; and",
+          "pulse to music."
+        ],
+        "amended": false,
+        "reconstructed": false
+      }
+    ]
+  },
+  {
+    "date": "2017-01-21",
+    "sender": "Applicant",
+    "message": "We have amended the claims to clarify the structural differences between our invention and the cited prior art, specifically highlighting that our lights and speakers function independently on a shared power cable without the use of a serial bus or sensing switches. We are concurrently filing a Request for Continued Examination (RCE) and respectfully request that the Examiner withdraw the rejections in light of these amendments and the evidence provided.",
+    "code": "REM"
+  },
+  {
+    "date": "2017-03-22",
+    "sender": "Examiner",
+    "message": "Your application has been reviewed, and claims 1–9 and 11–19 are rejected under 35 U.S.C. § 101 for being directed to ineligible subject matter and under 35 U.S.C. § 103 as being obvious in view of the cited prior art. Please refer to the detailed action section above for the specific grounds of these rejections and the examiner's analysis.",
+    "code": "CTNF",
+    "rejections": {
+      "rejections": [
+        {
+          "statute": "101",
+          "ground": "",
+          "claims": "1-9 and 11-19",
+          "references": []
+        },
+        {
+          "statute": "103(a)",
+          "ground": "unpatentable",
+          "claims": "1-9 and 11-19",
+          "references": [
+            "Lin (U.S. Pub. No. 2014/0219481)",
+            "Maker"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "short": "Maker",
+          "citation": "Maker et al. (U.S. Patent No. 6,564,108)"
+        }
+      ]
+    }
+  },
+  {
+    "date": "2017-09-21",
+    "sender": "Applicant",
+    "message": "I've filed an amendment in response to the non-final rejection.",
+    "code": "A..."
+  },
+  {
+    "date": "2017-09-21",
+    "sender": "Applicant",
+    "message": "The invention consists of a system of wireless-enabled speakers and lights integrated onto a single shared power cord, designed to function independently or in combination. The system is expandable via auxiliary connections and standard power outlets, allowing multiple strands to be linked while offering various control options including remote operation, physical switches, and versatile lighting modes.",
+    "code": "CLM",
+    "claims": [
+      {
+        "number": 1,
+        "status": "Previously presented",
+        "lines": [
+          "A plurality of wireless strand speakers with additional lighting features comprising:",
+          "a plurality of speakers strung together in combination forming a string of speakers,",
+          "a wireless speaker and a plurality of additional speakers are hardwired to each other forming the spring of speakers;",
+          "the first speaker on the string is wireless, using wireless technology to obtain input;",
+          "the wireless first speaker on the string is wired to a plurality of additional speakers",
+          "hardwired to each other;",
+          "the wireless speaker on the string is paired to a device providing the audio;",
+          "the rest of the speakers on the string are hardwired to each other;",
+          "a plurality of lights strung together in combination forming a string of lights;",
+          "the string of lights is combined with the string of speakers;",
+          "the string of lights and the string of speakers share a power cable; and",
+          "the string of lights and the string of speakers work separately and independently and are not otherwise connected."
+        ],
+        "amended": false,
+        "reconstructed": false
+      }
+    ]
+  },
+  {
+    "date": "2017-09-21",
+    "sender": "Applicant",
+    "message": "I am writing to formally traverse the rejections under 35 U.S.C. §§ 101 and 103, as the claims are directed to a specific, patent-eligible physical invention rather than an abstract idea. Furthermore, the cited prior art fails to teach or suggest the novel combination of light strings with specifically spaced and powered speakers, and I request that these rejections be withdrawn accordingly.",
+    "code": "REM"
+  },
+  {
+    "date": "2017-11-27",
+    "sender": "Examiner",
+    "message": "This action is made final as your arguments regarding the rejections under 35 U.S.C. §§ 101 and 103 remain unpersuasive. The pending claims continue to be rejected over the cited prior art and for lacking patent-eligible subject matter. Please refer to the attached document for further details regarding this final determination.",
+    "code": "CTFR",
+    "rejections": {
+      "rejections": [
+        {
+          "statute": "101",
+          "ground": "",
+          "claims": "1-9 and 11-19",
+          "references": []
+        },
+        {
+          "statute": "103(a)",
+          "ground": "unpatentable",
+          "claims": "1-9 and 11-19",
+          "references": [
+            "Lin (U.S. Pub. No. 2014/0219481)",
+            "Maker"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "short": "Maker",
+          "citation": "Maker et al. (U.S. Patent No. 6,564,108)"
+        }
+      ]
+    }
+  }
+]

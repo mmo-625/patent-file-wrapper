@@ -1,0 +1,422 @@
+[
+  {
+    "date": "2022-03-25",
+    "code": "PA..",
+    "description": "Power of Attorney",
+    "direction": "INCOMING",
+    "document_id": "L16OVMC4XBLUEX0",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2022-03-25",
+    "code": "DRW",
+    "description": "Drawings-only black and white line drawings",
+    "direction": "INCOMING",
+    "document_id": "L16OVMC5XBLUEX0",
+    "pages": 11,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2022-03-25",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "L16OVMC6XBLUEX0",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2022-03-25",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "L16OVMC7XBLUEX0",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2022-03-25",
+    "code": "ADS",
+    "description": "Application Data Sheet",
+    "direction": "INCOMING",
+    "document_id": "L16OVMC8XBLUEX0",
+    "pages": 9,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2022-03-25",
+    "code": "SPEC",
+    "description": "Specification",
+    "direction": "INCOMING",
+    "document_id": "L16OVMC9XBLUEX0",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2022-03-25",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "L16OVMCAXBLUEX0",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2022-03-25_CLM_L16OVMCAXBLUEX0.xml"
+  },
+  {
+    "date": "2022-03-25",
+    "code": "ABST",
+    "description": "Abstract",
+    "direction": "INCOMING",
+    "document_id": "L16OVMCBXBLUEX0",
+    "pages": null,
+    "format": "XML",
+    "path": null
+  },
+  {
+    "date": "2022-03-30",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "L1CFKTZKGREENX5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2022-03-30",
+    "code": "M327",
+    "description": "Miscellaneous Communication to Applicant - No Action Count",
+    "direction": "OUTGOING",
+    "document_id": "L1CFKU6WGREENX5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2022-03-30",
+    "code": "APP.FILE.REC",
+    "description": "Filing Receipt",
+    "direction": "OUTGOING",
+    "document_id": "L1CFK75TXBLUEX3",
+    "pages": 4,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2022-04-20",
+    "code": "OATH",
+    "description": "Oath or Declaration filed",
+    "direction": "INCOMING",
+    "document_id": "L27SJ829GREENX4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2022-04-20",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "L27SJ82AGREENX4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2023-09-29",
+    "code": "NTC.PUB",
+    "description": "Notice of Publication",
+    "direction": "OUTGOING",
+    "document_id": "LN2QKEU1XBLUEX4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-05-09",
+    "code": "CTNF",
+    "description": "Non-Final Rejection",
+    "direction": "OUTGOING",
+    "document_id": "LVWQJICMXBLUEX8",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2024-05-09_CTNF_LVWQJICMXBLUEX8.xml"
+  },
+  {
+    "date": "2024-05-09",
+    "code": "892",
+    "description": "List of references cited by examiner",
+    "direction": "OUTGOING",
+    "document_id": "LVWQJICNXBLUEX8",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-05-09",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "LVWQJICPXBLUEX8",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-05-09",
+    "code": "FWCLM",
+    "description": "Index of Claims",
+    "direction": "INTERNAL",
+    "document_id": "LVWQJICRXBLUEX8",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-05-09",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "LVWQJICSXBLUEX8",
+    "pages": 17,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-05-09",
+    "code": "BIB",
+    "description": "Bibliographic Data Sheet",
+    "direction": "INTERNAL",
+    "document_id": "LVWQJICTXBLUEX8",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-05-09",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "LVWQJICUXBLUEX8",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-05-09",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "LVWQJICWXBLUEX8",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-05-29",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "LWSGTRTBBLUEX11",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-05-29",
+    "code": "A...",
+    "description": "Amendment/Request for Reconsideration-After Non-Final Rejection",
+    "direction": "INCOMING",
+    "document_id": "LWZ9EF3NMBLUEM2",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-05-29",
+    "code": "CLM",
+    "description": "Claims",
+    "direction": "INCOMING",
+    "document_id": "LWZ9EF3PMBLUEM2",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2024-05-29_CLM_LWZ9EF3PMBLUEM2.xml"
+  },
+  {
+    "date": "2024-05-29",
+    "code": "REM",
+    "description": "Applicant Arguments/Remarks Made in an Amendment",
+    "direction": "INCOMING",
+    "document_id": "LWZ9EF3VMBLUEM2",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2024-05-29_REM_LWZ9EF3VMBLUEM2.xml"
+  },
+  {
+    "date": "2024-05-29",
+    "code": "WFEE",
+    "description": "Fee Worksheet (SB06)",
+    "direction": "INTERNAL",
+    "document_id": "LX4JWBO0XBLUEX5",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-06-28",
+    "code": "NOA",
+    "description": "Notice of Allowance and Fees Due (PTOL-85)",
+    "direction": "OUTGOING",
+    "document_id": "LXVPNTLSXBLUEX4",
+    "pages": null,
+    "format": "XML",
+    "path": "files/2024-06-28_NOA_LXVPNTLSXBLUEX4.xml"
+  },
+  {
+    "date": "2024-06-28",
+    "code": "892",
+    "description": "List of references cited by examiner",
+    "direction": "OUTGOING",
+    "document_id": "LXVPNTLTXBLUEX4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-06-28",
+    "code": "SRFW",
+    "description": "Search information including classification, databases and other search related notes",
+    "direction": "INTERNAL",
+    "document_id": "LXVPNTLVXBLUEX4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-06-28",
+    "code": "FWCLM",
+    "description": "Index of Claims",
+    "direction": "INTERNAL",
+    "document_id": "LXVPNTLWXBLUEX4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-06-28",
+    "code": "IIFW",
+    "description": "Issue Information including classification, examiner, name, claim, renumbering, etc.",
+    "direction": "INTERNAL",
+    "document_id": "LXVPNTLXXBLUEX4",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-06-28",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "LXVPNTLZXBLUEX4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-06-28",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "LXVPNTM0XBLUEX4",
+    "pages": 35,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-06-28",
+    "code": "SRNT",
+    "description": "Examiner's search strategy and results",
+    "direction": "INTERNAL",
+    "document_id": "LXVPNTM2XBLUEX4",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-06-28",
+    "code": "BIB",
+    "description": "Bibliographic Data Sheet",
+    "direction": "INTERNAL",
+    "document_id": "LXVPNTM3XBLUEX4",
+    "pages": 1,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-08-06",
+    "code": "N417.PYMT",
+    "description": "Electronic Fee Payment",
+    "direction": "INCOMING",
+    "document_id": "LZIJNO7VWFYGX59",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-08-06",
+    "code": "N417",
+    "description": "Electronic Filing System Acknowledgment Receipt",
+    "direction": "OUTGOING",
+    "document_id": "LZIJNO7WWFYGX59",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-08-06",
+    "code": "IFEE",
+    "description": "Issue Fee Payment (PTO-85B)",
+    "direction": "INCOMING",
+    "document_id": "LZIJNO7YWFYGX59",
+    "pages": 3,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-09-04",
+    "code": "ISSUE.NTF",
+    "description": "Issue Notification",
+    "direction": "OUTGOING",
+    "document_id": "M0O7LE0PWFYBX98",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-09-24",
+    "code": "EGRANT.PDF",
+    "description": "Digitally signed official patent eGrant document",
+    "direction": "OUTGOING",
+    "document_id": "28750fdb-8f79-43b4-8850-a40fb2bba80b",
+    "pages": null,
+    "format": "PDF",
+    "path": null
+  },
+  {
+    "date": "2024-09-24",
+    "code": "EGRANT.NTF",
+    "description": "eGrant day-of Notification",
+    "direction": "OUTGOING",
+    "document_id": "M1FY3XQQWFYBX98",
+    "pages": 2,
+    "format": "PDF",
+    "path": null
+  }
+]
